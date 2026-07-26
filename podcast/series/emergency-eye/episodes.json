@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:45:56.277Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-07-26T15:24:11.329Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,10 +17,11 @@
       "description": "The immediate versus urgent versus semi-urgent framework and the red-flag symptoms that demand same-day care.",
       "tags": "triage,emergency,red-flags,urgent",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_1_1785058346372.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 2,
@@ -28,10 +29,11 @@
       "description": "The copious, continuous, immediate irrigation, the Morgan lens, the pH target, and the limbal ischemia grading.",
       "tags": "chemical,burn,irrigation,morgan-lens",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_2_1785058353657.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 3,
@@ -39,10 +41,11 @@
       "description": "The peaked pupil, the shallow chamber, the oculocardiac reflex, and the shield-and-no-manipulation protocol.",
       "tags": "open-globe,peaked-pupil,shield,trauma",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_3_1785058361030.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 4,
@@ -50,10 +53,11 @@
       "description": "The tight orbit, the afferent pupillary defect, and the lateral canthotomy that decompresses.",
       "tags": "retrobulbar,hemorrhage,canthotomy,rapd",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_4_1785058368358.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 5,
@@ -61,10 +65,11 @@
       "description": "The jaw claudication, the ESR/CRP, and the immediate high-dose steroid before the biopsy.",
       "tags": "gca,steroid,biopsy,blindness",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_5_1785058375760.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 6,
@@ -94,10 +99,11 @@
       "description": "The hypopyon, the pain, the vitreous tap, and the intravitreal antibiotics that race the clock.",
       "tags": "endophthalmitis,hypopyon,tap,antibiotics",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_8_1785058383390.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 9,
@@ -127,10 +133,11 @@
       "description": "The grading, the rebleed risk, the sickle cell screen, and the activity restriction and elevation.",
       "tags": "hyphema,rebleed,sickle,restrict",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_11_1785058391249.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 12,
@@ -204,10 +211,11 @@
       "description": "The CT for abscess, the microbiology, and the surgical drainage threshold.",
       "tags": "orbital,abscess,iv,surgical",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_18_1785058398619.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 19,
@@ -259,10 +267,11 @@
       "description": "The welder’s flash, the thermal lid burn, and the treatment and follow-up for each.",
       "tags": "burn,thermal,radiation,welder",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_23_1785058405907.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 24,
@@ -270,10 +279,11 @@
       "description": "CRAO, CRVO, AION, vitreous hemorrhage — the differential and the time-sensitive triage.",
       "tags": "sudden,vision-loss,vascular,triage",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_24_1785058413163.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 25,
@@ -281,10 +291,11 @@
       "description": "Iritis, keratitis, angle closure, scleritis — the features that separate urgent from emergent.",
       "tags": "red-eye,pain,decision-tree,triage",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_25_1785058420621.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 26,
@@ -292,10 +303,11 @@
       "description": "The retinal hemorrhage pattern, the inconsistent history, and the mandatory reporting duty.",
       "tags": "pediatric,trauma,nat,reporting",
       "category": "Pediatric",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_26_1785058428128.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 27,
@@ -303,10 +315,11 @@
       "description": "The combined thermal and blunt trauma, the open globe protocol, and the prevention counseling.",
       "tags": "fireworks,thermal,blunt,prevention",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_27_1785058435582.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 28,
@@ -314,10 +327,11 @@
       "description": "The high-speed projectile, the chemical splash, and the safety eyewear that prevents them.",
       "tags": "workplace,projectile,chemical,ppe",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_emergency-eye_28_1785058442917.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:11.328Z"
     },
     {
       "episodeOrder": 29,

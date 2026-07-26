@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:45:40.935Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-07-26T15:23:54.646Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,10 +39,11 @@
       "description": "Object distance, image distance, and focal length — the math behind every spectacle lens.",
       "tags": "thin-lens,focal-length,optics,math",
       "category": "Refraction",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_3_1785047750039.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 4,
@@ -50,10 +51,11 @@
       "description": "How convex lenses converge and concave lenses diverge — the foundation of refractive correction.",
       "tags": "spherical,plus,minus,focal-point",
       "category": "Refraction",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_4_1785047755360.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 5,
@@ -94,10 +96,11 @@
       "description": "The ciliary muscle, zonules, and the amplitude of accommodation that declines with age.",
       "tags": "accommodation,ciliary,zonules,amplitude",
       "category": "Refraction",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_8_1785047760988.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 9,
@@ -116,10 +119,11 @@
       "description": "The developmental process that shapes the axial length and the visual feedback that guides it.",
       "tags": "emmetropization,axial-length,development,myopia",
       "category": "Pediatric",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_10_1785047766069.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 11,
@@ -171,10 +175,11 @@
       "description": "How two retinal images become one percept and the cortical machinery that makes it possible.",
       "tags": "binocular,fusion,stereopsis,cortical",
       "category": "Strabismus",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_15_1785047771761.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 16,
@@ -193,10 +198,11 @@
       "description": "The AC/A ratio, convergence insufficiency, and the vision therapy that restores comfort.",
       "tags": "vergence,convergence,ac-a,vision-therapy",
       "category": "Strabismus",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_17_1785047778105.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 18,
@@ -204,10 +210,11 @@
       "description": "Higher-order aberrations, Zernike polynomials, and the customized ablation they enable.",
       "tags": "wavefront,aberrations,zernike,custom",
       "category": "Refractive Surgery",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_18_1785047783319.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 19,
@@ -215,10 +222,11 @@
       "description": "Why dilated pupils degrade image quality and how aspheric lenses compensate.",
       "tags": "spherical-aberration,pupil,aspheric,quality",
       "category": "Refraction",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_19_1785047788569.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 20,
@@ -325,10 +333,11 @@
       "description": "The rod and cone adaptation curves, the bleaching recovery, and the night vision complaints.",
       "tags": "adaptation,dark,rods,cones",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_29_1785047795912.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:54.646Z"
     },
     {
       "episodeOrder": 30,

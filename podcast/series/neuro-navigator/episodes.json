@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:45:49.319Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-07-26T15:24:03.279Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -83,10 +83,11 @@
       "description": "When to image urgently, the aneurysm versus microvascular distinction, and the aberrant regeneration signs.",
       "tags": "third-nerve,pupil-sparing,aneurysm,aberrant",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_7_1785049748968.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:03.279Z"
     },
     {
       "episodeOrder": 8,
@@ -149,10 +150,11 @@
       "description": "The Frisén grading, the headache and pulsatile tinnitus, and the urgent neuroimaging that follows.",
       "tags": "papilledema,icp,frisen,imaging",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_13_1785049754221.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:03.279Z"
     },
     {
       "episodeOrder": 14,
@@ -160,10 +162,11 @@
       "description": "The young obese woman, the empty sella, and the weight loss and acetazolamide that manage it.",
       "tags": "iih,pseudotumor,acetazolamide,weight",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_14_1785049762239.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:03.279Z"
     },
     {
       "episodeOrder": 15,
@@ -237,10 +240,11 @@
       "description": "The first question that directs the workup and the refractive and surface causes of monocular diplopia.",
       "tags": "diplopia,monocular,binocular,refractive",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_21_1785049767388.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:03.279Z"
     },
     {
       "episodeOrder": 22,
@@ -248,10 +252,11 @@
       "description": "The variable ptosis, the ice pack test, and the acetylcholine receptor antibody workup.",
       "tags": "myasthenia,fatigable,ice-pack,achr",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_22_1785049772590.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:03.279Z"
     },
     {
       "episodeOrder": 23,
@@ -314,10 +319,11 @@
       "description": "Choosing CT versus MRI, the contrast decision, and the specific sequences that answer each question.",
       "tags": "imaging,ct,mri,contrast",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_28_1785049779354.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:03.279Z"
     },
     {
       "episodeOrder": 29,

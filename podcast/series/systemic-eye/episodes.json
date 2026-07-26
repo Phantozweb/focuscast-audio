@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:46:14.857Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-07-26T15:24:33.005Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -28,10 +28,11 @@
       "description": "The pathophysiology, the staging, and the glycemic and blood pressure control that changes the trajectory.",
       "tags": "diabetes,retinopathy,edema,glycemic",
       "category": "Retina",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_2_1785060773995.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 3,
@@ -39,10 +40,11 @@
       "description": "The screening schedule, the telehealth role, and the pregnancy and renal escalation.",
       "tags": "diabetes,screening,telehealth,pregnancy",
       "category": "Retina",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_3_1785060777629.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 4,
@@ -50,10 +52,11 @@
       "description": "The arteriolar narrowing, the AV nicking, the cotton-wool and flame hemorrhage, and the crisis.",
       "tags": "hypertension,kwb,av-nicking,cotton-wool",
       "category": "Retina",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_4_1785060781898.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 5,
@@ -83,10 +86,11 @@
       "description": "The midperipheral hemorrhage, the neovascularization, and the carotid stenosis workup.",
       "tags": "ois,ischemia,hypoperfusion,stenosis",
       "category": "Retina",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_7_1785060785468.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 8,
@@ -138,10 +142,11 @@
       "description": "The polymyalgia, the jaw claudication, the steroid, and the temporal artery biopsy and rheumatology.",
       "tags": "gca,polymyalgia,biopsy,rheumatology",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_12_1785060789119.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 13,
@@ -149,10 +154,11 @@
       "description": "The ONTT, the MRI decision, the disease-modifying therapy era, and the optometric surveillance.",
       "tags": "ms,ontt,mri,dmt",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_13_1785060792701.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 14,
@@ -215,10 +221,11 @@
       "description": "The cat and the undercooked meat, the necrotizing retinitis, and the treatment and recurrence.",
       "tags": "toxo,cat,necrotizing,recurrence",
       "category": "Uveitis",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_19_1785060796289.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 20,
@@ -226,10 +233,11 @@
       "description": "The larva migrans, the granuloma, the ELISA, and the differential from retinoblastoma.",
       "tags": "toxocara,larva,granuloma,retinoblastoma",
       "category": "Pediatric",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_20_1785060800293.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 21,
@@ -281,10 +289,11 @@
       "description": "The plucked-chicken skin, the retinal streaks, and the cardiovascular and GI surveillance.",
       "tags": "pxe,angioid-streaks,skin,cardiovascular",
       "category": "Retina",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_25_1785060807667.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 26,
@@ -303,10 +312,11 @@
       "description": "Hydroxychloroquine, ethambutol, amiodarone, tamoxifen — the surveillance schedule and the cessation.",
       "tags": "medication,toxicity,surveillance,cessation",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_27_1785060811631.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 28,
@@ -325,10 +335,11 @@
       "description": "The copper accumulation, the Descemet ring, and the hepatic and neurologic management.",
       "tags": "wilson,kayser-fleischer,copper,hepatic",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_29_1785060815656.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     },
     {
       "episodeOrder": 30,
@@ -336,10 +347,11 @@
       "description": "The written communication to the primary care and specialist, the urgency, and the shared care plan.",
       "tags": "report,referral,communication,shared-care",
       "category": "General",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_systemic-eye_30_1785060819148.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:33.005Z"
     }
   ]
 }

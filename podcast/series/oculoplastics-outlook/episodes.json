@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:46:07.490Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-07-26T15:24:25.099Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,10 +17,11 @@
       "description": "From skin to tarsus to conjunctiva — the layers that guide every lid surgery and injection.",
       "tags": "anatomy,lid,layers,tarsus",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_1_1785060910999.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 2,
@@ -28,10 +29,11 @@
       "description": "The margin-reflex distance, the levator excursion, and the congenital versus aponeurotic distinction.",
       "tags": "ptosis,mrd,levator,aponeurotic",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_2_1785060918287.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 3,
@@ -39,10 +41,11 @@
       "description": "The disinsertion, the thinning, the surgical repair, and the bilateral even if unilateral presentation.",
       "tags": "involutional,disinsertion,repair,bilateral",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_3_1785060925381.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 4,
@@ -50,10 +53,11 @@
       "description": "The poor levator function, the lid lag, and the amblyopia risk and surgical timing in infants.",
       "tags": "congenital,dysgenesis,lid-lag,amblyopia",
       "category": "Pediatric",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_4_1785060932723.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 5,
@@ -61,10 +65,11 @@
       "description": "The miosis, the anhidrosis, and the localization and imaging that the combination demands.",
       "tags": "horner,ptosis,miosis,localization",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_5_1785060940998.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 6,
@@ -72,10 +77,11 @@
       "description": "The fatigability, the ice test, and the systemic workup that the lid sign triggers.",
       "tags": "myasthenia,fatigability,ice-test,workup",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_6_1785060948533.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 7,
@@ -83,10 +89,11 @@
       "description": "The involutional and cicatricial forms, the lashes that abrade, and the surgical repair.",
       "tags": "entropion,trichiasis,involutional,cicatricial",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_7_1785060955846.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 8,
@@ -94,10 +101,11 @@
       "description": "The punctal eversion, the tearing, and the horizontal and medial canthal tightening.",
       "tags": "ectropion,epiphora,punctal,tightening",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_8_1785060964411.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 9,
@@ -116,10 +124,11 @@
       "description": "The obstructed meibomian gland, the warm compress and intralesional steroid, and the surgery threshold.",
       "tags": "chalazion,lipogranuloma,compress,steroid",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_10_1785060971878.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 11,
@@ -138,10 +147,11 @@
       "description": "The staphylococcal, seborrheic, and MGD forms and the lid hygiene that is the foundation of care.",
       "tags": "blepharitis,staph,seborrheic,mgd",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_12_1785060976066.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 13,
@@ -171,10 +181,11 @@
       "description": "The recurrent chalazion, the pagetoid spread, and the map biopsy and aggressive surgery.",
       "tags": "sebaceous,masquerade,pagetoid,map-biopsy",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_15_1785060980095.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 16,
@@ -193,10 +204,11 @@
       "description": "The canaliculus, the sac, the nasolacrimal duct, and the obstruction sites that cause tearing.",
       "tags": "lacrimal,anatomy,obstruction,tearing",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_17_1785060987203.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 18,
@@ -215,10 +227,11 @@
       "description": "The painful swelling, the discharge, the antibiotics, and the DCR after the infection clears.",
       "tags": "dacryocystitis,sac,antibiotics,dcr",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_19_1785060990804.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 20,
@@ -226,10 +239,11 @@
       "description": "The orbital inflammation, the restrictive myopathy, and the urgent optic neuropathy risk.",
       "tags": "ted,graves,proptosis,optic-neuropathy",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_20_1785060994373.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 21,
@@ -281,10 +295,11 @@
       "description": "The margin involvement, the canalicular injury, and the layered closure that prevents notching.",
       "tags": "laceration,margin,canalicular,closure",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_25_1785060998433.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 26,
@@ -292,10 +307,11 @@
       "description": "The exposure keratopathy, the lubrication and taping, and the recovery timeline and gold weight.",
       "tags": "bells-palsy,exposure,lubrication,gold-weight",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_26_1785061002012.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 27,
@@ -314,10 +330,11 @@
       "description": "The glabellar lines, the periocular filler, and the complications — migration and blindness — to avoid.",
       "tags": "botox,filler,complications,blindness",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_28_1785061009722.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 29,
@@ -325,10 +342,11 @@
       "description": "Coloboma, epiblepharon, and ptosis — the infant lid findings and the surgical timing.",
       "tags": "pediatric,coloboma,epiblepharon,timing",
       "category": "Pediatric",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_29_1785061018208.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     },
     {
       "episodeOrder": 30,
@@ -336,10 +354,11 @@
       "description": "The triage of lid, lacrimal, and orbit — the urgent, the elective, and the shared care plan.",
       "tags": "referral,triage,urgent,shared-care",
       "category": "Oculoplastics",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_oculoplastics-outlook_30_1785061026067.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:25.099Z"
     }
   ]
 }

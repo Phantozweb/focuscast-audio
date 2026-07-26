@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:45:36.297Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-07-26T15:23:49.149Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -50,10 +50,11 @@
       "description": "How stromal lamellae maintain transparency and the osmotic forces that cause corneal swelling.",
       "tags": "stroma,collagen,edema,transparency",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_cornea-confidential_4_1785045962356.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:49.149Z"
     },
     {
       "episodeOrder": 5,
@@ -72,10 +73,11 @@
       "description": "Differentiating bacterial from fungal and Acanthamoeba — the morphological clues that guide empiric therapy.",
       "tags": "bacterial,ulcer,keratitis,infection",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_cornea-confidential_6_1785045967612.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:49.149Z"
     },
     {
       "episodeOrder": 7,
@@ -83,10 +85,11 @@
       "description": "Recognizing fungal morphology, the risk factors of trauma and contact lens wear, and the referral threshold.",
       "tags": "fungal,satellite,feathery,keratitis",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_cornea-confidential_7_1785045972831.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:49.149Z"
     },
     {
       "episodeOrder": 8,
@@ -105,10 +108,11 @@
       "description": "Epithelial versus stromal HSV — the fluorescein staining pattern and the topical steroid decision.",
       "tags": "hsv,dendrite,disciform,steroid",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_cornea-confidential_9_1785045978195.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:49.149Z"
     },
     {
       "episodeOrder": 10,
@@ -226,10 +230,11 @@
       "description": "Distinguishing epithelial from stromal edema and tracing the cause to endothelium or IOP.",
       "tags": "edema,striae,folds,iop",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_cornea-confidential_20_1785045983357.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:49.149Z"
     },
     {
       "episodeOrder": 21,
@@ -292,10 +297,11 @@
       "description": "Axial, tangential, and elevation maps — turning the color wheel into a clinical decision.",
       "tags": "topography,axial,map,ectasia",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_cornea-confidential_26_1785045988929.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:49.149Z"
     },
     {
       "episodeOrder": 27,
@@ -336,10 +342,11 @@
       "description": "Recognizing the endothelial rejection line and the same-day steroid protocol that saves the graft.",
       "tags": "rejection,khodadoust,steroid,graft",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_cornea-confidential_30_1785045996021.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:49.149Z"
     }
   ]
 }

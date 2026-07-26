@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:46:12.555Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-07-26T15:24:30.546Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -28,10 +28,11 @@
       "description": "A reproducible read sequence — ILM to RPE — and the fluid, drusen, atrophy patterns.",
       "tags": "macular-oct,layers,fluid,drusen",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_2_1785060701575.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 3,
@@ -39,10 +40,11 @@
       "description": "The quadrant and clock-hour thickness, the normative comparison, and the asymmetry that flags early loss.",
       "tags": "rnfl,map,normative,asymmetry",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_3_1785060705232.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 4,
@@ -50,10 +52,11 @@
       "description": "The GCL+IPL layer, the hemifield asymmetry, and the early detection role before RNFL loss.",
       "tags": "gca,gcl,ipl,hemifield",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_4_1785060712435.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 5,
@@ -83,10 +86,11 @@
       "description": "The seven standard fields, the stereo pair, and the widefield montage that captures the periphery.",
       "tags": "fundus-photo,fields,stereo,montage",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_7_1785060716089.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 8,
@@ -94,10 +98,11 @@
       "description": "The optos and the color and FAF, the periphery in one shot, and the lesions it reveals.",
       "tags": "uwf,optos,periphery,faf",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_8_1785060723913.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 9,
@@ -105,10 +110,11 @@
       "description": "The hyper- and hypo-patterns in AMD, Stargardt, hydroxychloroquine, and the retinal toxicity.",
       "tags": "faf,lipofuscin,hyper,hypo",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_9_1785060731345.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 10,
@@ -138,10 +144,11 @@
       "description": "Reading the color map, the bowtie of astigmatism, and the inferior steepening of keratoconus.",
       "tags": "topography,axial,tangential,elevation",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_12_1785060735060.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 13,
@@ -160,10 +167,11 @@
       "description": "The Hartmann-Shack sensor, the higher-order map, and the customized ablation it enables.",
       "tags": "wavefront,aberrometry,higher-order,ablation",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_14_1785060738653.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 15,
@@ -171,10 +179,11 @@
       "description": "The immersion and optical, the SRK/T and Hoffer Q, and the post-refractive challenge.",
       "tags": "biometry,axial-length,iol,calculation",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_15_1785060742234.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 16,
@@ -215,10 +224,11 @@
       "description": "The cell density, the pleomorphism and polymegathism, and the IOL and glaucoma drop decisions.",
       "tags": "specular,endothelium,density,polymegathism",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_19_1785060745850.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 20,
@@ -226,10 +236,11 @@
       "description": "The ultrasonic and optical, the OHTS correction, and the refractive surgery floor.",
       "tags": "pachymetry,cct,ohts,refractive",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_20_1785060749449.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 21,
@@ -292,10 +303,11 @@
       "description": "The lipid layer thickness, the non-invasive TBUT, and the objective dry eye measurement.",
       "tags": "tear-film,interferometry,tbut,osmolarity",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_26_1785060753565.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 27,
@@ -303,10 +315,11 @@
       "description": "The morphological grading, the dropout, and the tortuosity that the infrared reveals.",
       "tags": "meibography,infrared,dropout,tortuosity",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_27_1785060757290.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 28,
@@ -314,10 +327,11 @@
       "description": "The diabetic retinopathy screening approvals, the AMD and glaucoma AI, and the clinical integration.",
       "tags": "ai,screening,amd,glaucoma",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_28_1785060761076.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 29,
@@ -325,10 +339,11 @@
       "description": "The 92133 and 92134, the medical necessity, and the documentation that supports the claim.",
       "tags": "reimbursement,cpt,92134,necessity",
       "category": "Practice Management",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_imaging-insights_29_1785060764685.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:30.546Z"
     },
     {
       "episodeOrder": 30,

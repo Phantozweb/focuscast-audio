@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:46:00.794Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-07-26T15:24:16.390Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,10 +17,11 @@
       "description": "Corneal and conjunctival absorption, the tear washout, and why drop frequency matters.",
       "tags": "pharmacokinetics,absorption,barriers,washout",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_1_1785058509571.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 2,
@@ -28,10 +29,11 @@
       "description": "From erythromycin to fluoroquinolones — matching the drug to the organism and the severity.",
       "tags": "antibiotics,spectrum,fluoroquinolone,stewardship",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_2_1785058517412.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 3,
@@ -39,10 +41,11 @@
       "description": "Compounding vancomycin and tobramycin, the dosing schedule, and the inpatient-versus-outpatient line.",
       "tags": "fortified,vancomycin,tobramycin,compounding",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_3_1785058525109.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 4,
@@ -50,10 +53,11 @@
       "description": "Topical trifluridine, oral acyclovir and valacyclovir, and the dose and duration for each.",
       "tags": "antiviral,trifluridine,acyclovir,valacyclovir",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_4_1785058537867.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 5,
@@ -61,10 +65,11 @@
       "description": "Natamycin, amphotericin, and voriconazole — when fungi threaten the cornea and the options are few.",
       "tags": "antifungal,natamycin,amphotericin,voriconazole",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_5_1785058545452.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 6,
@@ -83,10 +88,11 @@
       "description": "Prednisolone, loteprednol, fluorometholone — the potency ladder and the IOP and infection risks.",
       "tags": "steroids,prednisolone,loteprednol,iop",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_7_1785058552861.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 8,
@@ -171,10 +177,11 @@
       "description": "Dorzolamide and acetazolamide — the sulfonamide cross-reactivity and the oral side effects.",
       "tags": "cai,dorzolamide,acetazolamide,sulfa",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_15_1785058560048.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 16,
@@ -193,10 +200,11 @@
       "description": "The immunomodulatory mechanism, the onset of weeks, and the stinging and adherence conversation.",
       "tags": "cyclosporine,lifitegrast,ded,onset",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_17_1785058567151.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 18,
@@ -215,10 +223,11 @@
       "description": "Bevacizumab, ranibizumab, aflibercept — the indications, the injection burden, and the optometric co-management.",
       "tags": "anti-vegf,bevacizumab,ranibizumab,aflibercept",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_19_1785058574510.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 20,
@@ -237,10 +246,11 @@
       "description": "Dapiprazole and the reversal agents, the partial reversal option, and the clinical use.",
       "tags": "reversal,dapiprazole,alpha-1,mydriasis",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_21_1785058579233.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 22,
@@ -270,10 +280,11 @@
       "description": "The TB drug toxicity, the dose-dependent risk, and the baseline and follow-up vision and field testing.",
       "tags": "ethambutol,tb,toxicity,screening",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_24_1785058582824.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 25,
@@ -281,10 +292,11 @@
       "description": "The whirl-like deposits, the vision impact, and the monitoring of the cardiac patient.",
       "tags": "amiodarone,verticillata,deposits,cardiac",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_25_1785058586484.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 26,
@@ -314,10 +326,11 @@
       "description": "Which drops are safe, which are not, and the trimester-by-trimester approach to the pregnant patient.",
       "tags": "pregnancy,lactation,safety,trimester",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_28_1785058589973.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 29,
@@ -325,10 +338,11 @@
       "description": "How systemic medications change topical effects and the chart review that catches the risk.",
       "tags": "interactions,topical,systemic,chart-review",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_29_1785058598180.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     },
     {
       "episodeOrder": 30,
@@ -336,10 +350,11 @@
       "description": "When to compound, the pharmacy selection, and the safety and sterility that cannot be compromised.",
       "tags": "compounding,pharmacy,sterility,safety",
       "category": "Pharmacology",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pharmacology-focus_30_1785058601760.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:16.390Z"
     }
   ]
 }

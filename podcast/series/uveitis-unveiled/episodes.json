@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:46:05.280Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-07-26T15:24:22.422Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -116,10 +116,11 @@
       "description": "The pizza-pie fundus, the HAART immune recovery, and the ganciclovir implant legacy.",
       "tags": "cmv,aids,pizza-pie,ganciclovir",
       "category": "Uveitis",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_uveitis-unveiled_10_1785058481273.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:22.422Z"
     },
     {
       "episodeOrder": 11,

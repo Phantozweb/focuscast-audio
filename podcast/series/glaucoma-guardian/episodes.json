@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:45:38.652Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-07-26T15:23:51.913Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,10 +17,11 @@
       "description": "Why IOP is a risk factor and not the diagnosis — reframing glaucoma for patients and practice.",
       "tags": "glaucoma,definition,neuropathy,iop",
       "category": "Glaucoma",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_1_1785047711619.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:51.913Z"
     },
     {
       "episodeOrder": 2,
@@ -50,10 +51,11 @@
       "description": "How CCT changes the interpretation of IOP and the OHTS threshold that guides treatment.",
       "tags": "cct,pachymetry,ohts,iop",
       "category": "Glaucoma",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_4_1785047717760.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:51.913Z"
     },
     {
       "episodeOrder": 5,
@@ -61,10 +63,11 @@
       "description": "Why every glaucoma suspect needs gonioscopy and the landmarks that classify the angle.",
       "tags": "gonioscopy,angle,open-angle,closure",
       "category": "Glaucoma",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_5_1785047723353.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:51.913Z"
     },
     {
       "episodeOrder": 6,
@@ -72,10 +75,11 @@
       "description": "The natural history, the asymptomatic progression, and the optometric role in early detection.",
       "tags": "poag,silent,progression,detection",
       "category": "Glaucoma",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_6_1785047728746.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:51.913Z"
     },
     {
       "episodeOrder": 7,
@@ -94,10 +98,11 @@
       "description": "The OHTS risk calculator, the 5-year probability, and the shared decision-making conversation.",
       "tags": "oht,ohts,risk-calculator,decision",
       "category": "Glaucoma",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_8_1785047734047.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:51.913Z"
     },
     {
       "episodeOrder": 9,
@@ -149,10 +154,11 @@
       "description": "Midperipheral transillumination, the concave iris, and exercise-induced pigment release.",
       "tags": "pigment-dispersion,krukenberg,iris,exercise",
       "category": "Glaucoma",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_13_1785047739275.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:51.913Z"
     },
     {
       "episodeOrder": 14,
@@ -182,10 +188,11 @@
       "description": "A reproducible disc evaluation method and the focal notching that signals progression.",
       "tags": "optic-nerve,cupping,notch,rim",
       "category": "Optic Nerve",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_16_1785047744470.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:23:51.913Z"
     },
     {
       "episodeOrder": 17,

@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-26T14:45:51.658Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-07-26T15:24:05.916Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -28,10 +28,11 @@
       "description": "The multifactorial disease of tears and ocular surface — loss of homeostasis as the unifying concept.",
       "tags": "dews,definition,homeostasis,multifactorial",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_2_1785049784439.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:05.916Z"
     },
     {
       "episodeOrder": 3,
@@ -39,10 +40,11 @@
       "description": "Sjögren’s, age, and radiation — when the gland cannot make enough aqueous.",
       "tags": "aqueous-deficient,sjogren,age,radiation",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_3_1785049789995.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:05.916Z"
     },
     {
       "episodeOrder": 4,
@@ -50,10 +52,11 @@
       "description": "MGD as the dominant cause of DED — the obstruction, the atrophy, and the lipid deficiency.",
       "tags": "evaporative,mgd,obstruction,lipid",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_4_1785049795941.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:05.916Z"
     },
     {
       "episodeOrder": 5,
@@ -61,10 +64,11 @@
       "description": "Why most patients have both components and why treating only one fails.",
       "tags": "mixed,mechanism,both,treatment",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_5_1785049806108.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:05.916Z"
     },
     {
       "episodeOrder": 6,
@@ -149,10 +153,11 @@
       "description": "Staphylococcal, seborrheic, and MGD — the three forms and the tailored management of each.",
       "tags": "blepharitis,staph,seborrheic,mgd",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_13_1785049813804.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:05.916Z"
     },
     {
       "episodeOrder": 14,
@@ -259,10 +264,11 @@
       "description": "The vascular and inflammatory mechanism, the treatment protocol, and the ocular rosacea overlap.",
       "tags": "ipl,light,rosacea,protocol",
       "category": "Dry Eye",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_23_1785049837362.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:05.916Z"
     },
     {
       "episodeOrder": 24,
@@ -303,10 +309,11 @@
       "description": "How CL wear worsens DED, the modality selection, and the rewetting and replacement strategy.",
       "tags": "contact-lens,worsens,modality,rewetting",
       "category": "Contact Lens",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_27_1785049840979.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:05.916Z"
     },
     {
       "episodeOrder": 28,
@@ -325,10 +332,11 @@
       "description": "The screen-time link, the atopic and allergic overlap, and the pediatric-specific management.",
       "tags": "pediatric,screens,atopic,management",
       "category": "Pediatric",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_29_1785049849544.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "generatedAt": "2026-07-26T15:24:05.916Z"
     },
     {
       "episodeOrder": 30,

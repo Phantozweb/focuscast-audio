@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-07-27T19:13:25.330Z",
+  "lastUpdated": "2026-07-27T19:18:41.867Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -31,13 +31,13 @@
       "description": "Structuring the history of present illness so it drives differential diagnosis rather than padding the chart.",
       "tags": "history,HPI,chief-complaint,documentation",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-02.mp3",
-      "duration": "12:22",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-02.wav",
+      "duration": "9:26",
       "imageUrl": "",
       "status": "generated",
-      "durationSec": 742,
+      "durationSec": 566,
       "wordCount": 1510,
-      "generatedAt": "2026-07-27T19:13:25.330Z"
+      "generatedAt": "2026-07-27T19:18:41.867Z"
     },
     {
       "episodeOrder": 3,

@@ -2,14 +2,14 @@
   "slug": "chairside-atlas",
   "name": "Chairside Atlas",
   "tagline": "The Complete Optometry Journey",
-  "description": "A 30-episode grand tour of everything an optometrist encounters from the moment a patient sits down to the final prescription \u2014 exam workflow, history, acuity, pupils, motility, slit lamp, fundus, refraction, and prescribing.",
+  "description": "A 30-episode grand tour of everything an optometrist encounters from the moment a patient sits down to the final prescription — exam workflow, history, acuity, pupils, motility, slit lamp, fundus, refraction, and prescribing.",
   "icon": "Compass",
   "accent": "#2563eb",
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-27T18:03:25.455056Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-07-27T18:38:57.394Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,10 +17,13 @@
       "description": "How the opening moments of an eye exam shape cooperation, trust, and the quality of history you can extract.",
       "tags": "communication,history-taking,rapport,chairside",
       "category": "General",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-01.mp3",
+      "duration": "24:01",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "durationSec": 1441,
+      "wordCount": 3485,
+      "generatedAt": "2026-07-27T18:38:57.394Z"
     },
     {
       "episodeOrder": 2,
@@ -36,7 +39,7 @@
     {
       "episodeOrder": 3,
       "title": "Past Ocular History: What Old Records Reveal",
-      "description": "Mining prior exams, surgeries, and medications for clues that change today\u2019s plan.",
+      "description": "Mining prior exams, surgeries, and medications for clues that change today’s plan.",
       "tags": "history,records,review,charting",
       "category": "General",
       "audioUrl": "",
@@ -47,7 +50,7 @@
     {
       "episodeOrder": 4,
       "title": "Medical and Family History Through the Ocular Lens",
-      "description": "Translating systemic disease into ocular risk \u2014 diabetes, hypertension, autoimmune, and hereditary patterns.",
+      "description": "Translating systemic disease into ocular risk — diabetes, hypertension, autoimmune, and hereditary patterns.",
       "tags": "systemic,medical-history,family-history,risk",
       "category": "General",
       "audioUrl": "",
@@ -69,7 +72,7 @@
     {
       "episodeOrder": 6,
       "title": "Visual Acuity: More Than a Snellen Letter",
-      "description": "Distance, near, contrast, and low-vision acuity \u2014 choosing the right chart and interpreting the number.",
+      "description": "Distance, near, contrast, and low-vision acuity — choosing the right chart and interpreting the number.",
       "tags": "acuity,snellen,logmar,contrast",
       "category": "Refraction",
       "audioUrl": "",
@@ -102,7 +105,7 @@
     {
       "episodeOrder": 9,
       "title": "Color Vision Testing: Detecting Acquired Deficits",
-      "description": "Ishihara, D-15, and Hardy-Rand-Rittler \u2014 congenital versus acquired color loss and what it signals.",
+      "description": "Ishihara, D-15, and Hardy-Rand-Rittler — congenital versus acquired color loss and what it signals.",
       "tags": "color-vision,ishihara,optic-nerve,acquired",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
@@ -113,7 +116,7 @@
     {
       "episodeOrder": 10,
       "title": "Contrast Sensitivity: The Hidden Dimension of Sight",
-      "description": "Pelli-Robson and beyond \u2014 why 20/20 patients still struggle to see at dusk or in glare.",
+      "description": "Pelli-Robson and beyond — why 20/20 patients still struggle to see at dusk or in glare.",
       "tags": "contrast-sensitivity,pelli-robson,functional-vision,glare",
       "category": "Refraction",
       "audioUrl": "",
@@ -135,7 +138,7 @@
     {
       "episodeOrder": 12,
       "title": "The Swinging Flashlight Test: Catching a Relative Afferent Defect",
-      "description": "Mastering the technique and interpretation of the RAPD \u2014 the single most useful bedside neuro-ophthalmic sign.",
+      "description": "Mastering the technique and interpretation of the RAPD — the single most useful bedside neuro-ophthalmic sign.",
       "tags": "rapd,swinging-flashlight,optic-nerve,afferent",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
@@ -157,7 +160,7 @@
     {
       "episodeOrder": 14,
       "title": "Extraocular Motility: The Six Muscles and Their Nerves",
-      "description": "Ductions, versions, cover-uncover in cardinal positions \u2014 and localizing a palsy in seconds.",
+      "description": "Ductions, versions, cover-uncover in cardinal positions — and localizing a palsy in seconds.",
       "tags": "motility,cranial-nerves,strabismus,versions",
       "category": "Strabismus",
       "audioUrl": "",
@@ -179,7 +182,7 @@
     {
       "episodeOrder": 16,
       "title": "Slit Lamp Illumination: The Six Techniques and When Each Shines",
-      "description": "Diffuse, direct focal, slit, retro, specular, and sclerotic scatter \u2014 matching technique to pathology.",
+      "description": "Diffuse, direct focal, slit, retro, specular, and sclerotic scatter — matching technique to pathology.",
       "tags": "slit-lamp,illumination,anterior-segment,technique",
       "category": "Cornea",
       "audioUrl": "",
@@ -201,7 +204,7 @@
     {
       "episodeOrder": 18,
       "title": "Tear Film and Ocular Surface Assessment",
-      "description": "TBUT, Schirmer, staining patterns, and meibography \u2014 a surface workup in under five minutes.",
+      "description": "TBUT, Schirmer, staining patterns, and meibography — a surface workup in under five minutes.",
       "tags": "tear-film,tbut,schirmer,dry-eye",
       "category": "Dry Eye",
       "audioUrl": "",
@@ -223,7 +226,7 @@
     {
       "episodeOrder": 20,
       "title": "Cornea: Epithelium, Stroma, and Endothelium Layer by Layer",
-      "description": "A repeatable corneal scan and the lesions that hide in each layer \u2014 abrasions, infiltrates, guttae.",
+      "description": "A repeatable corneal scan and the lesions that hide in each layer — abrasions, infiltrates, guttae.",
       "tags": "cornea,epithelium,stroma,endothelium",
       "category": "Cornea",
       "audioUrl": "",
@@ -245,7 +248,7 @@
     {
       "episodeOrder": 22,
       "title": "Iris and Lens: Pupillary Margin to Nucleus",
-      "description": "Iris transillumination, pseudoexfoliation, nuclear opalescence, and cortical spokes \u2014 a systematic lens exam.",
+      "description": "Iris transillumination, pseudoexfoliation, nuclear opalescence, and cortical spokes — a systematic lens exam.",
       "tags": "iris,lens,pex,cataract",
       "category": "Cataract",
       "audioUrl": "",
@@ -256,7 +259,7 @@
     {
       "episodeOrder": 23,
       "title": "Tonometry: Goldmann, iCare, and the Rebound Revolution",
-      "description": "Technique, calibration, and when to trust \u2014 or doubt \u2014 a single IOP reading.",
+      "description": "Technique, calibration, and when to trust — or doubt — a single IOP reading.",
       "tags": "tonometry,iop,goldmann,icare",
       "category": "Glaucoma",
       "audioUrl": "",
@@ -289,7 +292,7 @@
     {
       "episodeOrder": 26,
       "title": "Dilated Fundus Examination: Disc, Macula, Vessels, Periphery",
-      "description": "A four-zone retinal sweep that no pathology escapes \u2014 the 90D and 20D together.",
+      "description": "A four-zone retinal sweep that no pathology escapes — the 90D and 20D together.",
       "tags": "fundus,dilation,disc,macula",
       "category": "Retina",
       "audioUrl": "",

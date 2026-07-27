@@ -340,6 +340,17 @@
       "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
+    },
+    {
+      "episode": 99,
+      "title": "[TEST] Understanding Intraocular Pressure: The Goldmann Applanation Tonometer",
+      "status": "generated",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-99.wav",
+      "durationSec": 639,
+      "generatedAt": "2026-07-27T17:40:10.876Z",
+      "isTest": true
     }
-  ]
+  ],
+  "generatedCount": 1,
+  "totalCount": 31
 }

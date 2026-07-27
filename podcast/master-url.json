@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-07-27T17:40:12.781Z",
-  "totalEpisodes": 31,
-  "generatedEpisodes": 204,
+  "lastUpdated": "2026-07-27T17:41:21.824Z",
+  "totalEpisodes": 601,
+  "generatedEpisodes": 205,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -13,14 +13,11 @@
       "accent": "#2563eb",
       "category": "General",
       "order": 1,
-      "totalEpisodes": 30,
-      "generatedEpisodes": 0,
+      "totalEpisodes": 31,
+      "generatedEpisodes": 1,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/episodes.json",
       "audioDir": "podcast/series/chairside-atlas/audio",
-      "lastUpdated": "2026-07-26T15:23:44.272Z",
-      "generatedCount": 1,
-      "totalCount": 31,
-      "progress": 3
+      "lastUpdated": "2026-07-27T17:41:21.824Z"
     },
     {
       "slug": "retina-revealed",
@@ -307,6 +304,5 @@
       "audioDir": "podcast/series/clinical-calculus/audio",
       "lastUpdated": "2026-07-26T15:24:35.348Z"
     }
-  ],
-  "totalGenerated": 1
+  ]
 }

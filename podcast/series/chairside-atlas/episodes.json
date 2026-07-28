@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-07-28T18:06:27.332Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-07-28T18:10:35.628Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,10 +52,12 @@
       "description": "Translating systemic disease into ocular risk — diabetes, hypertension, autoimmune, and hereditary patterns.",
       "tags": "systemic,medical-history,family-history,risk",
       "category": "General",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-04.mp3",
+      "duration": "16:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "zai-tts-1785262235021",
+      "generatedAt": "2026-07-28T18:10:35.021Z"
     },
     {
       "episodeOrder": 5,

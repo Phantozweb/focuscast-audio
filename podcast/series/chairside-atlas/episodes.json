@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-07-28T19:14:39.237Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-07-28T19:23:41.283Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -80,10 +80,12 @@
       "description": "Distance, near, contrast, and low-vision acuity — choosing the right chart and interpreting the number.",
       "tags": "acuity,snellen,logmar,contrast",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-06.mp3",
+      "duration": "23:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "zai-tts-1785266620683",
+      "generatedAt": "2026-07-28T19:23:40.683Z"
     },
     {
       "episodeOrder": 7,

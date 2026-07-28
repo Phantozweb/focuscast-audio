@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-07-28T18:22:58.318Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-07-28T18:34:34.576Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -43,10 +43,12 @@
       "description": "Mining prior exams, surgeries, and medications for clues that change today’s plan.",
       "tags": "history,records,review,charting",
       "category": "General",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-03.mp3",
+      "duration": "21:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "zai-tts-1785263673997",
+      "generatedAt": "2026-07-28T18:34:33.997Z"
     },
     {
       "episodeOrder": 4,

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-07-28T18:34:34.576Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-07-28T19:14:39.237Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,10 +91,12 @@
       "description": "Using the pinhole to separate refractive from pathological vision loss in under a minute.",
       "tags": "acuity,pinhole,refraction,screening",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-07.mp3",
+      "duration": "20:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "zai-tts-1785266078644",
+      "generatedAt": "2026-07-28T19:14:38.644Z"
     },
     {
       "episodeOrder": 8,

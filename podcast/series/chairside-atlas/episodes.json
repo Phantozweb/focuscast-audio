@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-07-27T19:28:26.855Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-28T16:30:36.388Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,13 +17,10 @@
       "description": "How the opening moments of an eye exam shape cooperation, trust, and the quality of history you can extract.",
       "tags": "communication,history-taking,rapport,chairside",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-01.mp3",
-      "duration": "24:01",
+      "audioUrl": "",
+      "duration": "0:00",
       "imageUrl": "",
-      "status": "generated",
-      "durationSec": 1441,
-      "wordCount": 3485,
-      "generatedAt": "2026-07-27T18:38:57.394Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 2,
@@ -31,13 +28,10 @@
       "description": "Structuring the history of present illness so it drives differential diagnosis rather than padding the chart.",
       "tags": "history,HPI,chief-complaint,documentation",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-02.wav",
-      "duration": "9:26",
+      "audioUrl": "",
+      "duration": "0:00",
       "imageUrl": "",
-      "status": "generated",
-      "durationSec": 566,
-      "wordCount": 1510,
-      "generatedAt": "2026-07-27T19:18:41.867Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 3,
@@ -45,13 +39,10 @@
       "description": "Mining prior exams, surgeries, and medications for clues that change today’s plan.",
       "tags": "history,records,review,charting",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-03.mp3",
-      "duration": "16:27",
+      "audioUrl": "",
+      "duration": "0:00",
       "imageUrl": "",
-      "status": "generated",
-      "durationSec": 987,
-      "wordCount": 1357,
-      "generatedAt": "2026-07-27T19:28:26.855Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 4,

@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-07-26T15:24:03.279Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:32.626Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "afferent,pupil,pathway,midbrain",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -29,7 +29,7 @@
       "tags": "edinger-westphal,efferent,third-nerve,ganglion",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -40,7 +40,7 @@
       "tags": "anisocoria,light,adies,third-nerve",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,7 +51,7 @@
       "tags": "anisocoria,dark,horner,aprclonidine",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -62,7 +62,7 @@
       "tags": "horner,ptosis,miosis,anhidrosis",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -73,7 +73,7 @@
       "tags": "adie,tonic,light-near,ross",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -83,11 +83,10 @@
       "description": "When to image urgently, the aneurysm versus microvascular distinction, and the aberrant regeneration signs.",
       "tags": "third-nerve,pupil-sparing,aneurysm,aberrant",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_7_1785049748968.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:03.279Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 8,
@@ -96,7 +95,7 @@
       "tags": "fourth-nerve,head-tilt,parks,oblique",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -107,7 +106,7 @@
       "tags": "sixth-nerve,abducens,icp,microvascular",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -118,7 +117,7 @@
       "tags": "optic-neuritis,ontt,mri,ms",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -129,7 +128,7 @@
       "tags": "aion,naion,gca,esr",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -140,7 +139,7 @@
       "tags": "gca,steroids,biopsy,blindness",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -150,11 +149,10 @@
       "description": "The Frisén grading, the headache and pulsatile tinnitus, and the urgent neuroimaging that follows.",
       "tags": "papilledema,icp,frisen,imaging",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_13_1785049754221.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:03.279Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 14,
@@ -162,11 +160,10 @@
       "description": "The young obese woman, the empty sella, and the weight loss and acetazolamide that manage it.",
       "tags": "iih,pseudotumor,acetazolamide,weight",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_14_1785049762239.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:03.279Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 15,
@@ -175,7 +172,7 @@
       "tags": "drusen,pseudopapilledema,bscan,svp",
       "category": "Optic Nerve",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -186,7 +183,7 @@
       "tags": "chiasm,bitemporal,pituitary,junctional",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -197,7 +194,7 @@
       "tags": "retrochiasmal,homonymous,congruity,macular-sparing",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -208,7 +205,7 @@
       "tags": "cortical-blindness,anton,blindsight,occipital",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -219,7 +216,7 @@
       "tags": "tvl,amaurosis,carotid,embolus",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -230,7 +227,7 @@
       "tags": "migraine,aura,scintillating,tia",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -240,11 +237,10 @@
       "description": "The first question that directs the workup and the refractive and surface causes of monocular diplopia.",
       "tags": "diplopia,monocular,binocular,refractive",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_21_1785049767388.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:03.279Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 22,
@@ -252,11 +248,10 @@
       "description": "The variable ptosis, the ice pack test, and the acetylcholine receptor antibody workup.",
       "tags": "myasthenia,fatigable,ice-pack,achr",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_22_1785049772590.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:03.279Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 23,
@@ -265,7 +260,7 @@
       "tags": "ted,graves,restrictive,myopathy",
       "category": "Oculoplastics",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -276,7 +271,7 @@
       "tags": "nystagmus,jerk,pendular,null",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -287,7 +282,7 @@
       "tags": "tvl,young,vasospasm,hypercoagulable",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -298,7 +293,7 @@
       "tags": "functional,non-organic,fogging,tubular",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -309,7 +304,7 @@
       "tags": "emergency,triage,aneurysm,apoplexy",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -319,11 +314,10 @@
       "description": "Choosing CT versus MRI, the contrast decision, and the specific sequences that answer each question.",
       "tags": "imaging,ct,mri,contrast",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_neuro-navigator_28_1785049779354.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:03.279Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 29,
@@ -332,7 +326,7 @@
       "tags": "swollen-disc,framework,bilateral,unilateral",
       "category": "Optic Nerve",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -343,7 +337,7 @@
       "tags": "cranial-nerve,recovery,prism,surgical",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

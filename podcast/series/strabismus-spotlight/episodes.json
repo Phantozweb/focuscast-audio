@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-07-26T15:24:27.611Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:55.420Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "muscles,cardinal,actions,gaze",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -28,11 +28,10 @@
       "description": "The cover-uncover and the alternate cover, the manifest versus latent, and the control that distinguishes.",
       "tags": "tropia,phoria,cover-test,control",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_2_1785060610732.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 3,
@@ -40,11 +39,10 @@
       "description": "The same deviation in all gazes versus the direction-dependent — and the palsy and restriction causes.",
       "tags": "comitant,incomitant,palsy,restriction",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_3_1785060614911.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 4,
@@ -52,11 +50,10 @@
       "description": "Infantile, accommodative, acquired — the age of onset and the refractive error that guide the workup.",
       "tags": "esotropia,infantile,accommodative,acquired",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_4_1785060622907.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,
@@ -65,7 +62,7 @@
       "tags": "accommodative,ac-a,plus,bifocal",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -76,7 +73,7 @@
       "tags": "infantile,surgery,angle,cross-fixation",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -86,11 +83,10 @@
       "description": "The intermittent XT that decompensates in fatigue and distance and the surgical threshold.",
       "tags": "exotropia,intermittent,distance,surgical",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_7_1785060627066.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 8,
@@ -98,11 +94,10 @@
       "description": "The near point of convergence, the exophoria at near, and the office-based vision therapy evidence.",
       "tags": "ci,convergence,near,vt",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_8_1785060634741.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 9,
@@ -110,11 +105,10 @@
       "description": "The dissociated vertical deviation, the superior oblique overaction, and the thyroid and restriction.",
       "tags": "vertical,hyper,hypotropia,dvd",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_9_1785060641944.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 10,
@@ -123,7 +117,7 @@
       "tags": "so-palsy,head-tilt,parks,three-step",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -134,7 +128,7 @@
       "tags": "io-overaction,v-pattern,weakening,alignment",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -144,11 +138,10 @@
       "description": "The limited abduction, the narrowing of the palpebral fissure, and the head turn compensation.",
       "tags": "duane,miswiring,abduction,fissure",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_12_1785060649273.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 13,
@@ -156,11 +149,10 @@
       "description": "The inability to elevate in adduction, the click, and the congenital versus acquired causes.",
       "tags": "brown,so-tightness,click,acquired",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_13_1785060652936.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 14,
@@ -168,11 +160,10 @@
       "description": "The mask-like face, the absent abduction, and the multidisciplinary care.",
       "tags": "mobius,facial,abducens,multidisciplinary",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_14_1785060657025.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 15,
@@ -181,7 +172,7 @@
       "tags": "restrictive,thyroid,forced-duction,mechanism",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -192,7 +183,7 @@
       "tags": "amblyopia,suppression,patching,atropine",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -203,7 +194,7 @@
       "tags": "prism,fresnel,adaptation,surgical",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -213,11 +204,10 @@
       "description": "The convergence insufficiency treatment trial, the office-based protocol, and the patient selection.",
       "tags": "vision-therapy,citt,protocol,selection",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_18_1785060660618.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 19,
@@ -226,7 +216,7 @@
       "tags": "surgery,recession,resection,adjustable",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -237,7 +227,7 @@
       "tags": "adjustable,suture,cooperation,timing",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -247,11 +237,10 @@
       "description": "The injection alternative to surgery, the transient effect, and the selective use.",
       "tags": "botox,injection,transient,alternative",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_21_1785060664207.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 22,
@@ -260,7 +249,7 @@
       "tags": "adult,diplopia,psychosocial,surgery",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -270,11 +259,10 @@
       "description": "The monocular versus binocular, the imaging, and the myasthenia and thyroid screens.",
       "tags": "diplopia,workup,imaging,screen",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_23_1785060672248.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 24,
@@ -283,7 +271,7 @@
       "tags": "convergence-excess,ac-a,esotropia,bifocal",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -294,7 +282,7 @@
       "tags": "divergence-excess,distance,exotropia,measurement",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -304,11 +292,10 @@
       "description": "The horizontal deviation that changes with upgaze and downgaze and the oblique muscle role.",
       "tags": "a-pattern,v-pattern,oblique,incomitance",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_26_1785060676301.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 27,
@@ -316,11 +303,10 @@
       "description": "The infantile nystagmus, the null point, and the abnormal head posture and surgery.",
       "tags": "nystagmus,null-point,head-posture,surgery",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_27_1785060683429.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 28,
@@ -328,11 +314,10 @@
       "description": "The CN palsy after stroke, the prism and patching bridge, and the recovery timeline.",
       "tags": "stroke,palsy,prism,recovery",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_strabismus-spotlight_28_1785060690710.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:27.611Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 29,
@@ -341,7 +326,7 @@
       "tags": "pediatric,communication,adherence,binocular",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -352,7 +337,7 @@
       "tags": "follow-up,drift,surveillance,refractive",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

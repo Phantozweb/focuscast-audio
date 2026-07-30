@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-07-26T15:24:13.844Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:43.232Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,11 +17,10 @@
       "description": "Designing the optometric visit to minimize wait, maximize chair time, and keep staff productive.",
       "tags": "flow,wait-time,chair-time,efficiency",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_1_1785058450360.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 2,
@@ -30,7 +29,7 @@
       "tags": "front-desk,phone,insurance,verification",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -41,7 +40,7 @@
       "tags": "pre-testing,technician,delegate,handoff",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -52,7 +51,7 @@
       "tags": "optical,dispensing,frames,lenses",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -62,11 +61,10 @@
       "description": "Matching the material to the prescription, the lifestyle, and the safety demands of the patient.",
       "tags": "materials,index,poly,trivex",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_5_1785058457854.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 6,
@@ -74,11 +72,10 @@
       "description": "The progressive corridor, the computer lens, and the occupational design that earns the premium.",
       "tags": "progressive,office,design,corridor",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_6_1785058461427.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 7,
@@ -87,7 +84,7 @@
       "tags": "ar-coating,premium,benefit,bundle",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -98,7 +95,7 @@
       "tags": "coding,92004,92014,medical-vision",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -108,11 +105,10 @@
       "description": "Common eye codes, the specificity requirement, and the linking that makes the claim payable.",
       "tags": "icd-10,diagnosis,specificity,linking",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_9_1785058468490.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 10,
@@ -121,7 +117,7 @@
       "tags": "co-management,referral,contracts,communication",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -132,7 +128,7 @@
       "tags": "insurance,verification,benefits,estimate",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -142,11 +138,10 @@
       "description": "The job description, the onboarding, and the culture and compensation that retain good staff.",
       "tags": "staff,hiring,training,retention",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_12_1785058472537.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 13,
@@ -154,11 +149,10 @@
       "description": "The agenda, the metrics review, and the patient story that keeps the team patient-centered.",
       "tags": "meetings,agenda,metrics,culture",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_13_1785058480075.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 14,
@@ -167,7 +161,7 @@
       "tags": "kpi,capture-rate,revenue,recall",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -177,11 +171,10 @@
       "description": "The recall system, the multi-channel approach, and the reactivation campaign that fills the schedule.",
       "tags": "recall,reactivation,schedule,campaign",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_15_1785058483675.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 16,
@@ -190,7 +183,7 @@
       "tags": "technology,roi,oct,investment",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -201,7 +194,7 @@
       "tags": "ehr,workflow,clicks,optimization",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -212,7 +205,7 @@
       "tags": "telehealth,virtual,reimbursement,follow-up",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -222,11 +215,10 @@
       "description": "The content calendar, the platform choice, and the patient engagement that fills the chair.",
       "tags": "social-media,content,engagement,platform",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_19_1785058487274.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 20,
@@ -234,11 +226,10 @@
       "description": "The review request, the response strategy, and the recovery that turns a critic into a fan.",
       "tags": "reviews,reputation,response,recovery",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_20_1785058494499.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 21,
@@ -246,11 +237,10 @@
       "description": "The annual exam, the recall touchpoint, and the experience that keeps families for decades.",
       "tags": "retention,lifetime-value,recall,experience",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_practice-pulse_21_1785058502248.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:13.844Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 22,
@@ -259,7 +249,7 @@
       "tags": "compliance,hipaa,osha,qapi",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -270,7 +260,7 @@
       "tags": "inventory,frames,turns,vendors",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -281,7 +271,7 @@
       "tags": "contact-lens,fitting,reorder,annual",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -292,7 +282,7 @@
       "tags": "medical-plan,vision-plan,triage,billing",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -303,7 +293,7 @@
       "tags": "schedule,template,slots,buffer",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -314,7 +304,7 @@
       "tags": "marketing,local,referral,community",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -325,7 +315,7 @@
       "tags": "financials,pl,overhead,compensation",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -336,7 +326,7 @@
       "tags": "valuation,succession,partner,sale",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -347,7 +337,7 @@
       "tags": "burnout,wellness,boundaries,self-care",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

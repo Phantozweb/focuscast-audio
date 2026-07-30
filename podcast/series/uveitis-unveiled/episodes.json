@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-07-26T15:24:22.422Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:50.546Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "sun,classification,anatomy,nomenclature",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -29,7 +29,7 @@
       "tags": "anterior,cells,flare,kp",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -40,7 +40,7 @@
       "tags": "hla-b27,acute,as,cycloplegia",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,7 +51,7 @@
       "tags": "granulomatous,mutton-fat,sarcoid,tb",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -62,7 +62,7 @@
       "tags": "intermediate,snowball,snowbank,ms",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -73,7 +73,7 @@
       "tags": "posterior,retinitis,choroiditis,toxo",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -84,7 +84,7 @@
       "tags": "panuveitis,systemic,treatment,aggressive",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -95,7 +95,7 @@
       "tags": "toxo,headlight,necrotizing,pyrimethamine",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -106,7 +106,7 @@
       "tags": "arn,herpes,acyclovir,laser",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -116,11 +116,10 @@
       "description": "The pizza-pie fundus, the HAART immune recovery, and the ganciclovir implant legacy.",
       "tags": "cmv,aids,pizza-pie,ganciclovir",
       "category": "Uveitis",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_uveitis-unveiled_10_1785058481273.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:22.422Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 11,
@@ -129,7 +128,7 @@
       "tags": "sarcoid,candle-wax,ace,ct",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -140,7 +139,7 @@
       "tags": "jia,ana,screening,oligoarthritis",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -151,7 +150,7 @@
       "tags": "behcet,hypopyon,ulcer,silk-road",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -162,7 +161,7 @@
       "tags": "vkh,poliosis,vitiligo,sunset-glow",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -173,7 +172,7 @@
       "tags": "sympathetic,ophthalmia,bilateral,immunosuppression",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -184,7 +183,7 @@
       "tags": "birdshot,hla-a29,oval,immunomodulatory",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -195,7 +194,7 @@
       "tags": "masquerade,lymphoma,leukemia,retinoblastoma",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -206,7 +205,7 @@
       "tags": "piol,lymphoma,biopsy,il-10",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -217,7 +216,7 @@
       "tags": "steroids,route,iop,severity",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -228,7 +227,7 @@
       "tags": "imt,methotrexate,biologic,monitoring",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -239,7 +238,7 @@
       "tags": "biologic,tnf,adalimumab,infliximab",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -250,7 +249,7 @@
       "tags": "cme,petaloid,nsaid,implant",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -261,7 +260,7 @@
       "tags": "uveitic-glaucoma,trabeculitis,synechiae,pressure",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -272,7 +271,7 @@
       "tags": "cataract,quiescence,synechiae,iol",
       "category": "Cataract",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -283,7 +282,7 @@
       "tags": "workup,laboratory,targeted,shotgun",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -294,7 +293,7 @@
       "tags": "tb,igra,ct,latent",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -305,7 +304,7 @@
       "tags": "syphilis,rpr,fta-abs,penicillin",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -316,7 +315,7 @@
       "tags": "lyme,tick,elisa,blot",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -327,7 +326,7 @@
       "tags": "pregnancy,immunosuppressant,biologic,postpartum",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -338,7 +337,7 @@
       "tags": "chronic,adherence,side-effects,quality-of-life",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

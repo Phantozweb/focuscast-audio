@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-07-26T15:24:35.348Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:57:02.224Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,11 +17,10 @@
       "description": "How pretest probability, the history, and the exam shift the odds and guide the workup.",
       "tags": "reasoning,bayesian,probability,workup",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_1_1785060832396.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 2,
@@ -30,7 +29,7 @@
       "tags": "heuristics,bias,anchoring,errors",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -41,7 +40,7 @@
       "tags": "differential,vindicate,anatomy,syndrome",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,11 +50,10 @@
       "description": "The symptoms and signs that demand same-day referral and the documentation that protects.",
       "tags": "red-flags,referral,documentation,never-miss",
       "category": "Emergency Eye Care",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_4_1785060836031.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,
@@ -63,11 +61,10 @@
       "description": "The asymmetric and the suspicious — the OCT, the field, the family history, and the threshold to treat.",
       "tags": "equivocal-disc,borderline,oct,threshold",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_5_1785060839649.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 6,
@@ -75,11 +72,10 @@
       "description": "Distinguishing true progression from noise, the GPA, and the decision to escalate.",
       "tags": "borderline-field,reliability,artifact,progression",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_6_1785060843270.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 7,
@@ -87,11 +83,10 @@
       "description": "The OHTS risk calculator, the shared decision, and the lifelong follow-up commitment.",
       "tags": "oht,ohts,risk,decision",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_7_1785060847224.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 8,
@@ -99,11 +94,10 @@
       "description": "The child with high plus, the adult with a change, and the systemic and surface causes to consider.",
       "tags": "prescribing,dilemma,child,change",
       "category": "Refraction",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_8_1785060850766.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 9,
@@ -111,11 +105,10 @@
       "description": "The adult and the child, the control options, and the risk-benefit conversation.",
       "tags": "progressive-myopia,control,adult,child",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_9_1785060854318.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 10,
@@ -124,7 +117,7 @@
       "tags": "unexplained,vision-loss,algorithm,oct",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -134,11 +127,10 @@
       "description": "The non-organic signs, the fogging and optokinetic tests, and the documentation and referral.",
       "tags": "malingering,functional,fogging,optokinetic",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_11_1785060857990.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 12,
@@ -147,7 +139,7 @@
       "tags": "second-opinion,chart-review,repeat,trust",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -157,11 +149,10 @@
       "description": "How to convey risk so the patient decides — the absolute and relative, the framing, the numbers.",
       "tags": "risk-communication,probability,framing,plain-language",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_13_1785060861632.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 14,
@@ -169,11 +160,10 @@
       "description": "The evidence, the options, the values, and the conversation that places the patient at the center.",
       "tags": "shared-decision,evidence,values,patient-centered",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_14_1785060865209.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 15,
@@ -181,11 +171,10 @@
       "description": "The informed consent, the documentation, the referral, and the follow-up that define defensible care.",
       "tags": "medico-legal,consent,documentation,defensible",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_15_1785060869127.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 16,
@@ -194,7 +183,7 @@
       "tags": "evidence,hierarchy,pedig,search",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -205,7 +194,7 @@
       "tags": "diagnostic-test,sensitivity,specificity,likelihood",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -215,11 +204,10 @@
       "description": "The disc drusen, the choroidal nevus, the optic pit — the approach to the unexpected.",
       "tags": "incidentaloma,drusen,nevus,unexpected",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_18_1785060872677.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 19,
@@ -228,7 +216,7 @@
       "tags": "refer,threshold,timing,letter",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -238,11 +226,10 @@
       "description": "The question, the findings, the imaging, the urgency, and the continuity that the letter achieves.",
       "tags": "referral-letter,structure,urgency,continuity",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_20_1785060876766.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 21,
@@ -250,11 +237,10 @@
       "description": "The post-op, the chronic disease, the comorbidities, and the role definition that prevents gaps.",
       "tags": "co-management,shared-care,communication,gaps",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_21_1785060880290.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 22,
@@ -263,7 +249,7 @@
       "tags": "difficult,angry,non-adherent,motivational",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -274,7 +260,7 @@
       "tags": "bad-news,spikes,empathy,strategy",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -284,11 +270,10 @@
       "description": "The vision that matters, the environment, the family, and the dignity that defines the care.",
       "tags": "end-of-life,comfort,dignity,family",
       "category": "Low Vision",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_24_1785060883834.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 25,
@@ -296,11 +281,10 @@
       "description": "The system, the outreach, the documentation, and the liability that follows the no-show.",
       "tags": "missed,recall,outreach,liability",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_25_1785060887326.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 26,
@@ -308,11 +292,10 @@
       "description": "The language, the beliefs, the health literacy, and the adaptation that builds trust.",
       "tags": "cultural,competence,literacy,trust",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_26_1785060891451.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 27,
@@ -321,7 +304,7 @@
       "tags": "longitudinal,records,rapport,decades",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -331,11 +314,10 @@
       "description": "The journals, the courses, the colleagues, and the curiosity that keeps the practice current.",
       "tags": "ce,lifelong,journals,curiosity",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_28_1785060895050.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 29,
@@ -344,7 +326,7 @@
       "tags": "burnout,moral-distress,system,individual",
       "category": "Practice Management",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -354,11 +336,10 @@
       "description": "The evidence, the experience, the empathy, and the integration that defines the excellent clinician.",
       "tags": "art,evidence,empathy,excellence",
       "category": "General",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_clinical-calculus_30_1785060898624.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:35.348Z"
+      "status": "draft"
     }
   ]
 }

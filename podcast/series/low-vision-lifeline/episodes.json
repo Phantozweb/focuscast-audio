@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-07-26T15:24:19.296Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:47.960Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "low-vision,definition,who,rehabilitation",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -29,7 +29,7 @@
       "tags": "assessment,contrast,glare,functional",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -39,11 +39,10 @@
       "description": "The three leading causes in adults and the very different visual profiles each produces.",
       "tags": "causes,amd,glaucoma,diabetes",
       "category": "Low Vision",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_low-vision-lifeline_3_1785058485026.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:19.296Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 4,
@@ -52,7 +51,7 @@
       "tags": "central,amd,scotoma,eccentric",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -63,7 +62,7 @@
       "tags": "peripheral,glaucoma,rp,field-expansion",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -74,7 +73,7 @@
       "tags": "magnification,add,telescope,power",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -85,7 +84,7 @@
       "tags": "magnifier,handheld,stand,illumination",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -96,7 +95,7 @@
       "tags": "high-add,spectacles,microscope,reading",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -107,7 +106,7 @@
       "tags": "telescope,galilean,keplerian,bioptic",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -118,7 +117,7 @@
       "tags": "bioptic,driving,law,independence",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -128,11 +127,10 @@
       "description": "The peripheral prism, the field-expanding lens, and the hemianopia rehabilitation role.",
       "tags": "prism,field-expansion,hemianopia,reverse",
       "category": "Low Vision",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_low-vision-lifeline_11_1785058488670.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:19.296Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 12,
@@ -141,7 +139,7 @@
       "tags": "prl,eccentric,training,habit",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -152,7 +150,7 @@
       "tags": "lighting,lux,temperature,glare",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -163,7 +161,7 @@
       "tags": "glare,filter,tint,shield",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -174,7 +172,7 @@
       "tags": "assistive,screen-reader,zoomtext,jaws",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -185,7 +183,7 @@
       "tags": "ocr,reading,app,standalone",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -195,11 +193,10 @@
       "description": "The assessment, the magnifier and CCTV, the large-print and braille, and the advocacy role.",
       "tags": "pediatric,classroom,iep,advocacy",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_low-vision-lifeline_17_1785058504909.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:19.296Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 18,
@@ -208,7 +205,7 @@
       "tags": "driving,cessation,empathy,transport",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -219,7 +216,7 @@
       "tags": "depression,screen,mental-health,referral",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -230,7 +227,7 @@
       "tags": "mobility,cane,guide-dog,om",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -240,11 +237,10 @@
       "description": "The formed hallucinations, the reassurance, and the patient relief when the syndrome is named.",
       "tags": "charles-bonnet,hallucination,reassurance,syndrome",
       "category": "Low Vision",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_low-vision-lifeline_21_1785058512060.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:19.296Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 22,
@@ -252,11 +248,10 @@
       "description": "The state services, the Library of Congress, the tax deductions, and the network that supports.",
       "tags": "resources,agency,library,deduction",
       "category": "Low Vision",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_low-vision-lifeline_22_1785058515617.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:19.296Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 23,
@@ -265,7 +260,7 @@
       "tags": "cataract,surgery,low-vision,risk",
       "category": "Cataract",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -276,7 +271,7 @@
       "tags": "glaucoma,field,contrast,magnification",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -287,7 +282,7 @@
       "tags": "diabetes,fluctuation,glucose,adapt",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -298,7 +293,7 @@
       "tags": "cctv,video,desktop,portable",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -309,7 +304,7 @@
       "tags": "smartphone,accessibility,voiceover,camera",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -320,7 +315,7 @@
       "tags": "follow-up,annual,progression,trust",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -331,7 +326,7 @@
       "tags": "family,education,home,support",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -342,7 +337,7 @@
       "tags": "end-of-life,comfort,compassion,dignity",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-07-26T15:23:51.913Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:21.895Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,11 +17,10 @@
       "description": "Why IOP is a risk factor and not the diagnosis — reframing glaucoma for patients and practice.",
       "tags": "glaucoma,definition,neuropathy,iop",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_1_1785047711619.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:51.913Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 2,
@@ -30,7 +29,7 @@
       "tags": "aqueous,outflow,trabecular,physiology",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -41,7 +40,7 @@
       "tags": "iop,diurnal,fluctuation,tonometry",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,11 +50,10 @@
       "description": "How CCT changes the interpretation of IOP and the OHTS threshold that guides treatment.",
       "tags": "cct,pachymetry,ohts,iop",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_4_1785047717760.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:51.913Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,
@@ -63,11 +61,10 @@
       "description": "Why every glaucoma suspect needs gonioscopy and the landmarks that classify the angle.",
       "tags": "gonioscopy,angle,open-angle,closure",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_5_1785047723353.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:51.913Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 6,
@@ -75,11 +72,10 @@
       "description": "The natural history, the asymptomatic progression, and the optometric role in early detection.",
       "tags": "poag,silent,progression,detection",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_6_1785047728746.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:51.913Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 7,
@@ -88,7 +84,7 @@
       "tags": "ntg,low-tension,vascular,risk",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -98,11 +94,10 @@
       "description": "The OHTS risk calculator, the 5-year probability, and the shared decision-making conversation.",
       "tags": "oht,ohts,risk-calculator,decision",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_8_1785047734047.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:51.913Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 9,
@@ -111,7 +106,7 @@
       "tags": "pacg,suspect,iridotomy,anatomy",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -122,7 +117,7 @@
       "tags": "aac,emergency,iridotomy,pressure",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -133,7 +128,7 @@
       "tags": "secondary,pex,pigmentary,nvg",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -144,7 +139,7 @@
       "tags": "pex,pseudoexfoliation,zonules,cataract",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -154,11 +149,10 @@
       "description": "Midperipheral transillumination, the concave iris, and exercise-induced pigment release.",
       "tags": "pigment-dispersion,krukenberg,iris,exercise",
       "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_13_1785047739275.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:51.913Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 14,
@@ -167,7 +161,7 @@
       "tags": "nvg,nvi,ischemia,anti-vegf",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -178,7 +172,7 @@
       "tags": "steroid-induced,topical,response,iop",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -188,11 +182,10 @@
       "description": "A reproducible disc evaluation method and the focal notching that signals progression.",
       "tags": "optic-nerve,cupping,notch,rim",
       "category": "Optic Nerve",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_glaucoma-guardian_16_1785047744470.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:51.913Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 17,
@@ -201,7 +194,7 @@
       "tags": "oct,rnfl,tsnit,gpa",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -212,7 +205,7 @@
       "tags": "visual-field,24-2,10-2,scotoma",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -223,7 +216,7 @@
       "tags": "progression,gpa,trend,escalation",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -234,7 +227,7 @@
       "tags": "pga,prostaglandin,latanoprost,first-line",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -245,7 +238,7 @@
       "tags": "beta-blocker,alpha-2,timolol,brimonidine",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -256,7 +249,7 @@
       "tags": "cai,rho-kinase,dorzolamide,netarsudil",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -267,7 +260,7 @@
       "tags": "combination,adherence,cost,regimen",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -278,7 +271,7 @@
       "tags": "slt,alt,laser,trabeculoplasty",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -289,7 +282,7 @@
       "tags": "lpi,iridotomy,closure,iridoplasty",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -300,7 +293,7 @@
       "tags": "migs,istent,minimally-invasive,surgery",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -311,7 +304,7 @@
       "tags": "trabeculectomy,tube,bleb,filter",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -322,7 +315,7 @@
       "tags": "target-iop,goal,life-expectancy,reassess",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -333,7 +326,7 @@
       "tags": "pregnancy,medication-safety,trimester,postpartum",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -344,7 +337,7 @@
       "tags": "adherence,compliance,counseling,technique",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-07-26T15:23:46.831Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:16.693Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "anatomy,retina,layers,bruchs",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -28,11 +28,10 @@
       "description": "Reading neuroretinal rim symmetry and recognizing the earliest glaucomatous and pathological changes.",
       "tags": "optic-disc,isnt,cup,glaucoma",
       "category": "Optic Nerve",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_2_1785044894830.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 3,
@@ -41,7 +40,7 @@
       "tags": "macula,fovea,reflex,early-disease",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -52,7 +51,7 @@
       "tags": "vasculature,av-crossing,hypertension,vessels",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -63,7 +62,7 @@
       "tags": "oct,macula,layers,fluid",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -74,7 +73,7 @@
       "tags": "oct,rnfl,glaucoma,progression",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -85,7 +84,7 @@
       "tags": "fundus-photo,montage,fields,stereo",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -95,11 +94,10 @@
       "description": "Reading hypo- and hyper-autofluorescent patterns in Stargardt, AMD, and hydroxychloroquine toxicity.",
       "tags": "faf,lipofuscin,stargardt,toxicity",
       "category": "Ocular Imaging",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_8_1785044900843.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 9,
@@ -108,7 +106,7 @@
       "tags": "fa,angiography,leakage,phases",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -119,7 +117,7 @@
       "tags": "icg,cnv,pcv,choroid",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -130,7 +128,7 @@
       "tags": "diabetes,npdr,pdr,staging",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -140,11 +138,10 @@
       "description": "Recognizing clinically significant macular edema and the OCT features that trigger treatment.",
       "tags": "dme,csme,anti-vegf,oct",
       "category": "Macula",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_12_1785044906357.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 13,
@@ -152,11 +149,10 @@
       "description": "Understanding PRP indications, post-laser appearance, and the visual side effects your patient will describe.",
       "tags": "prp,laser,pdr,treatment",
       "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_13_1785044911959.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 14,
@@ -164,11 +160,10 @@
       "description": "Classifying drusen, stratifying risk, and counseling on supplements, diet, and Amsler monitoring.",
       "tags": "amd,drusen,areds2,dry-amd",
       "category": "Macula",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_14_1785044915849.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 15,
@@ -177,7 +172,7 @@
       "tags": "wet-amd,cnv,anti-vegf,conversion",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -187,11 +182,10 @@
       "description": "Reading en-face atrophy, counseling on progression, and the new complement-inhibitor treatments.",
       "tags": "ga,atrophy,complement,late-amd",
       "category": "Macula",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_16_1785044920956.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 17,
@@ -200,7 +194,7 @@
       "tags": "csr,csr,serous-detachment,stress",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -211,7 +205,7 @@
       "tags": "erm,membrane,metamorphopsia,vitrectomy",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -222,7 +216,7 @@
       "tags": "macular-hole,staging,vitrectomy,gas",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -232,11 +226,10 @@
       "description": "Ischemic versus non-ischemic BRVO, macular edema management, and neovascular surveillance.",
       "tags": "brvo,vein-occlusion,ischemia,anti-vegf",
       "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_20_1785044926825.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 21,
@@ -244,11 +237,10 @@
       "description": "CRVO severity, the dreaded neovascular glaucoma risk, and the follow-up schedule that prevents it.",
       "tags": "crvo,nvi,nvg,anti-vegf",
       "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_21_1785044932429.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 22,
@@ -257,7 +249,7 @@
       "tags": "crao,cherry-red,emergency,carotid",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -267,11 +259,10 @@
       "description": "Distinguishing OAO from CRAO when the cherry-red spot is absent and the choroid is also ischemic.",
       "tags": "oao,ischemia,choroid,emergency",
       "category": "Emergency Eye Care",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_23_1785044938326.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 24,
@@ -279,11 +270,10 @@
       "description": "Which lesions to watch, which to laser, and the symptoms that change the calculus.",
       "tags": "tears,lattice,hole,laser",
       "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_retina-revealed_24_1785044943493.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:46.831Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 25,
@@ -292,7 +282,7 @@
       "tags": "rds,photopsia,floaters,curtain",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -303,7 +293,7 @@
       "tags": "serous,tractional,detachment,exudative",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -314,7 +304,7 @@
       "tags": "periphery,fundus,sweep,lesions",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -325,7 +315,7 @@
       "tags": "nevus,melanoma,suspicion,surveillance",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -336,7 +326,7 @@
       "tags": "melanoma,collar-button,bscan,oncology",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -347,7 +337,7 @@
       "tags": "rp,dystrophy,genetics,scotoma",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

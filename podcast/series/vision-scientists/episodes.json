@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-07-26T15:23:54.646Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:25.084Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "light,waves,photons,spectrum",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -29,7 +29,7 @@
       "tags": "snells-law,refraction,optics,geometric",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -39,11 +39,10 @@
       "description": "Object distance, image distance, and focal length — the math behind every spectacle lens.",
       "tags": "thin-lens,focal-length,optics,math",
       "category": "Refraction",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_3_1785047750039.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 4,
@@ -51,11 +50,10 @@
       "description": "How convex lenses converge and concave lenses diverge — the foundation of refractive correction.",
       "tags": "spherical,plus,minus,focal-point",
       "category": "Refraction",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_4_1785047755360.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,
@@ -64,7 +62,7 @@
       "tags": "cylinder,astigmatism,axis,toric",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -75,7 +73,7 @@
       "tags": "prism,diopter,base,diplopia",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -86,7 +84,7 @@
       "tags": "vertex,conversion,contact-lens,spectacle",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -96,11 +94,10 @@
       "description": "The ciliary muscle, zonules, and the amplitude of accommodation that declines with age.",
       "tags": "accommodation,ciliary,zonules,amplitude",
       "category": "Refraction",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_8_1785047760988.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 9,
@@ -109,7 +106,7 @@
       "tags": "presbyopia,aging,add,near",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -119,11 +116,10 @@
       "description": "The developmental process that shapes the axial length and the visual feedback that guides it.",
       "tags": "emmetropization,axial-length,development,myopia",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_10_1785047766069.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 11,
@@ -132,7 +128,7 @@
       "tags": "myopia,elongation,retinal-risk,control",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -143,7 +139,7 @@
       "tags": "hyperopia,accommodation,latency,headache",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -154,7 +150,7 @@
       "tags": "astigmatism,corneal,lenticular,irregular",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -165,7 +161,7 @@
       "tags": "anisometropia,aniseikonia,amblyopia,contact-lens",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -175,11 +171,10 @@
       "description": "How two retinal images become one percept and the cortical machinery that makes it possible.",
       "tags": "binocular,fusion,stereopsis,cortical",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_15_1785047771761.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 16,
@@ -188,7 +183,7 @@
       "tags": "panum,fusion,disparity,vergence",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -198,11 +193,10 @@
       "description": "The AC/A ratio, convergence insufficiency, and the vision therapy that restores comfort.",
       "tags": "vergence,convergence,ac-a,vision-therapy",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_17_1785047778105.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 18,
@@ -210,11 +204,10 @@
       "description": "Higher-order aberrations, Zernike polynomials, and the customized ablation they enable.",
       "tags": "wavefront,aberrations,zernike,custom",
       "category": "Refractive Surgery",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_18_1785047783319.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 19,
@@ -222,11 +215,10 @@
       "description": "Why dilated pupils degrade image quality and how aspheric lenses compensate.",
       "tags": "spherical-aberration,pupil,aspheric,quality",
       "category": "Refraction",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_19_1785047788569.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 20,
@@ -235,7 +227,7 @@
       "tags": "chromatic-aberration,lca,accommodation,cue",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -246,7 +238,7 @@
       "tags": "contrast,sensitivity,csf,frequency",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -257,7 +249,7 @@
       "tags": "glare,scatter,straylight,tint",
       "category": "Cataract",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -268,7 +260,7 @@
       "tags": "color-vision,trichromacy,cones,genetics",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -279,7 +271,7 @@
       "tags": "visual-pathway,chiasm,tract,field-defect",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -290,7 +282,7 @@
       "tags": "mtf,image-quality,neural,blur",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -301,7 +293,7 @@
       "tags": "pupil,diffraction,aberration,optimal",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -312,7 +304,7 @@
       "tags": "depth-of-focus,accommodation,pupil,range",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -323,7 +315,7 @@
       "tags": "dominance,monovision,cataract,refractive",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -333,11 +325,10 @@
       "description": "The rod and cone adaptation curves, the bleaching recovery, and the night vision complaints.",
       "tags": "adaptation,dark,rods,cones",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_vision-scientists_29_1785047795912.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:54.646Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 30,
@@ -346,7 +337,7 @@
       "tags": "limits,resolution,threshold,perception",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

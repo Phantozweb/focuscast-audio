@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-07-26T15:24:00.311Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:29.895Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,11 +17,10 @@
       "description": "Red reflex, fixation, and the acuity cards — what to check and when to refer in the baby eye exam.",
       "tags": "infant,red-reflex,fixation,teller",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_1_1785049651728.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 2,
@@ -29,11 +28,10 @@
       "description": "The normal timeline of acuity, stereopsis, and color development — and the red flags that demand attention.",
       "tags": "development,milestones,acuity,stereopsis",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_2_1785049657499.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 3,
@@ -41,11 +39,10 @@
       "description": "Matching acuity tests to age, the fix-and-follow technique, and the cycloplegic refraction that reveals truth.",
       "tags": "preschool,acuity-tests,cycloplegic,cooperation",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_3_1785049662823.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 4,
@@ -53,11 +50,10 @@
       "description": "Choosing cyclopentolate versus atropine, the timing of the drop, and the refraction technique that follows.",
       "tags": "cycloplegia,cyclopentolate,atropine,refraction",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_4_1785049669125.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,
@@ -65,11 +61,10 @@
       "description": "The sensitive period, anisometropic versus strabismic amblyopia, and why early intervention is everything.",
       "tags": "amblyopia,critical-period,anisometropic,strabismic",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_5_1785049674830.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 6,
@@ -78,7 +73,7 @@
       "tags": "patching,atropine,pedig,dosing",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -88,11 +83,10 @@
       "description": "When hyperopia and astigmatism trigger amblyopia and the prescribing thresholds that guide intervention.",
       "tags": "refractive-amblyopia,hyperopia,astigmatism,threshold",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_7_1785049680007.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 8,
@@ -100,11 +94,10 @@
       "description": "Detecting tropias and phorias in a wiggly child and the prism measurement that quantifies the deviation.",
       "tags": "strabismus,cover-test,prism,deviation",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_8_1785049685881.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 9,
@@ -113,7 +106,7 @@
       "tags": "esotropia,accommodative,infantile,acquired",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -123,11 +116,10 @@
       "description": "The intermittent XT that decompensates, the convergence insufficiency overlap, and the surgical threshold.",
       "tags": "exotropia,intermittent,convergence,surgical",
       "category": "Strabismus",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_10_1785049692703.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 11,
@@ -136,7 +128,7 @@
       "tags": "congenital-cataract,leukocoria,surgery,amblyopia",
       "category": "Cataract",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -147,7 +139,7 @@
       "tags": "rop,prematurity,staging,screening",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -158,7 +150,7 @@
       "tags": "pediatric-glaucoma,buphthalmos,haab,congenital",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -169,7 +161,7 @@
       "tags": "nldo,tearing,massage,probing",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -179,11 +171,10 @@
       "description": "Distinguishing the three, the school exclusion rules, and the antibiotic stewardship conversation.",
       "tags": "conjunctivitis,viral,bacterial,allergic",
       "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_15_1785049698084.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 16,
@@ -192,7 +183,7 @@
       "tags": "pediatric-uveitis,jia,screening,sparing",
       "category": "Uveitis",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -202,11 +193,10 @@
       "description": "Retinoblastoma, Coats disease, persistent fetal vasculature — the sight- and life-threatening causes.",
       "tags": "leukocoria,retinoblastoma,coats,pfv",
       "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_17_1785049703468.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 18,
@@ -215,7 +205,7 @@
       "tags": "retinoblastoma,white-pupil,urgent,oncology",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -225,11 +215,10 @@
       "description": "The distance acuity screen, the near and color gaps, and the hyperopia that hides until the classroom demands.",
       "tags": "school-screening,acuity,hyperopia,classroom",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_19_1785049709383.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 20,
@@ -237,11 +226,10 @@
       "description": "The reading difficulty referral, the vision therapy debate, and the multidisciplinary approach.",
       "tags": "learning,reading,vision-therapy,evidence",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_20_1785049715604.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 21,
@@ -250,7 +238,7 @@
       "tags": "ci,convergence,near,vt",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -260,11 +248,10 @@
       "description": "The X-linked inheritance, the Ishihara screen, and the career counseling that follows the diagnosis.",
       "tags": "color-vision,genetics,counseling,ishihara",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_22_1785049721663.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 23,
@@ -273,7 +260,7 @@
       "tags": "pediatric-myopia,onset,outdoor,near-work",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -283,11 +270,10 @@
       "description": "The low-dose atropine trials, the optical interventions, and the combined approach evidence.",
       "tags": "myopia-control,atropine,ortho-k,dual-focus",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_24_1785049726889.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 25,
@@ -295,11 +281,10 @@
       "description": "The daily disposable first philosophy, the parent-child counseling, and the safety profile.",
       "tags": "pediatric-cl,daily-disposable,counseling,safety",
       "category": "Contact Lens",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_25_1785049732107.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 26,
@@ -308,7 +293,7 @@
       "tags": "plasticity,critical-period,late-treatment,adult",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -319,7 +304,7 @@
       "tags": "trauma,hyphema,open-globe,nat",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -329,11 +314,10 @@
       "description": "The pisciform flecks, the dark choroid on FA, and the genetic counseling and low vision support.",
       "tags": "stargardt,pisciform,flecks,genetics",
       "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_28_1785049738026.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 29,
@@ -342,7 +326,7 @@
       "tags": "low-vision,classroom,iep,magnification",
       "category": "Low Vision",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -352,11 +336,10 @@
       "description": "The transition planning for chronic pediatric eye disease — the records, the adherence, the continuity.",
       "tags": "transition,adult-care,chronic,continuity",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_pediatric-perspectives_30_1785049743633.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:00.311Z"
+      "status": "draft"
     }
   ]
 }

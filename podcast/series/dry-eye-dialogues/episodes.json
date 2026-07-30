@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-07-26T15:24:05.916Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:34.835Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "tear-film,lipid,aqueous,mucin",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -28,11 +28,10 @@
       "description": "The multifactorial disease of tears and ocular surface — loss of homeostasis as the unifying concept.",
       "tags": "dews,definition,homeostasis,multifactorial",
       "category": "Dry Eye",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_2_1785049784439.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:05.916Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 3,
@@ -40,11 +39,10 @@
       "description": "Sjögren’s, age, and radiation — when the gland cannot make enough aqueous.",
       "tags": "aqueous-deficient,sjogren,age,radiation",
       "category": "Dry Eye",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_3_1785049789995.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:05.916Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 4,
@@ -52,11 +50,10 @@
       "description": "MGD as the dominant cause of DED — the obstruction, the atrophy, and the lipid deficiency.",
       "tags": "evaporative,mgd,obstruction,lipid",
       "category": "Dry Eye",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_4_1785049795941.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:05.916Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,
@@ -64,11 +61,10 @@
       "description": "Why most patients have both components and why treating only one fails.",
       "tags": "mixed,mechanism,both,treatment",
       "category": "Dry Eye",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_5_1785049806108.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:05.916Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 6,
@@ -77,7 +73,7 @@
       "tags": "tbut,fluorescein,timing,threshold",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -88,7 +84,7 @@
       "tags": "schirmer,anesthesia,threshold,production",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -99,7 +95,7 @@
       "tags": "osmolarity,biomarker,staging,variability",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -110,7 +106,7 @@
       "tags": "staining,nei-grid,cornea,conjunctiva",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -121,7 +117,7 @@
       "tags": "meibography,infrared,dropout,grading",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -132,7 +128,7 @@
       "tags": "lid-margin,telangiectasia,plugging,expressibility",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -143,7 +139,7 @@
       "tags": "demodex,mite,cylindrical,tea-tree",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -153,11 +149,10 @@
       "description": "Staphylococcal, seborrheic, and MGD — the three forms and the tailored management of each.",
       "tags": "blepharitis,staph,seborrheic,mgd",
       "category": "Dry Eye",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_13_1785049813804.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:05.916Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 14,
@@ -166,7 +161,7 @@
       "tags": "artificial-tears,viscosity,preservative,dosing",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -177,7 +172,7 @@
       "tags": "lipid,emulsion,mgd,drops",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -188,7 +183,7 @@
       "tags": "preservative-free,bak,toxicity,multidose",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -199,7 +194,7 @@
       "tags": "lid-hygiene,compress,scrubs,routine",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -210,7 +205,7 @@
       "tags": "omega-3,dream,epa,dha",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -221,7 +216,7 @@
       "tags": "cyclosporine,lifitegrast,anti-inflammatory,t-cell",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -232,7 +227,7 @@
       "tags": "steroids,inflammation,iop,pulse",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -243,7 +238,7 @@
       "tags": "punctal-plugs,silicone,dissolvable,extrusion",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -254,7 +249,7 @@
       "tags": "lipiflow,thermal-pulsation,in-office,clearance",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -264,11 +259,10 @@
       "description": "The vascular and inflammatory mechanism, the treatment protocol, and the ocular rosacea overlap.",
       "tags": "ipl,light,rosacea,protocol",
       "category": "Dry Eye",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_23_1785049837362.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:05.916Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 24,
@@ -277,7 +271,7 @@
       "tags": "scleral,severe,reservoir,restoration",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -288,7 +282,7 @@
       "tags": "sjogren,sicca,ssa,rheumatology",
       "category": "General",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -299,7 +293,7 @@
       "tags": "refractive,lasik,screen,high-risk",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -309,11 +303,10 @@
       "description": "How CL wear worsens DED, the modality selection, and the rewetting and replacement strategy.",
       "tags": "contact-lens,worsens,modality,rewetting",
       "category": "Contact Lens",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_27_1785049840979.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:05.916Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 28,
@@ -322,7 +315,7 @@
       "tags": "cvs,digital,blink,20-20-20",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -332,11 +325,10 @@
       "description": "The screen-time link, the atopic and allergic overlap, and the pediatric-specific management.",
       "tags": "pediatric,screens,atopic,management",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_dry-eye-dialogues_29_1785049849544.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:05.916Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 30,
@@ -345,7 +337,7 @@
       "tags": "chronic,expectations,stepwise,quality-of-life",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

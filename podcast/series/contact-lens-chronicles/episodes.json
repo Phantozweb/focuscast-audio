@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-07-26T15:23:57.403Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:27.388Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,11 +17,10 @@
       "description": "How Dk, water content, and modulus shape oxygen transmission, comfort, and corneal health.",
       "tags": "materials,silicone-hydrogel,dk,oxygen",
       "category": "Contact Lens",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_contact-lens-chronicles_1_1785047801153.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:57.402Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 2,
@@ -30,7 +29,7 @@
       "tags": "soft,spherical,toric,multifocal",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -41,7 +40,7 @@
       "tags": "topography,fitting,axial,bowtie",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,11 +50,10 @@
       "description": "Why sagittal fitting beats base curve for soft lenses and how SAG guides scleral lens selection.",
       "tags": "sagittal,sag,fitting,base-curve",
       "category": "Contact Lens",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_contact-lens-chronicles_4_1785047806413.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:57.403Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,
@@ -64,7 +62,7 @@
       "tags": "toric,rotation,lars,stability",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -75,7 +73,7 @@
       "tags": "multifocal,simultaneous,translating,presbyopia",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -86,7 +84,7 @@
       "tags": "monovision,multifocal,dominance,adaptation",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -97,7 +95,7 @@
       "tags": "rgp,rigid,clarity,irregular",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -107,11 +105,10 @@
       "description": "Reading the fluorescein pooling and bearing, the tear lens power, and the alignment goal.",
       "tags": "rgp,fluorescein,tear-lens,fitting",
       "category": "Contact Lens",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_contact-lens-chronicles_9_1785047812999.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:57.403Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 10,
@@ -119,11 +116,10 @@
       "description": "The scleral fitting revolution — sagittal depth, limbal clearance, and landing zone alignment.",
       "tags": "scleral,vault,sagittal,landing-zone",
       "category": "Contact Lens",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_contact-lens-chronicles_10_1785047814754.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:57.403Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 11,
@@ -131,11 +127,10 @@
       "description": "Choosing initial sag, assessing vault after settling, and managing midday fogging.",
       "tags": "scleral,trial,vault,fogging",
       "category": "Contact Lens",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_contact-lens-chronicles_11_1785047816258.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:57.403Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 12,
@@ -144,7 +139,7 @@
       "tags": "hybrid,rgp,soft-skirt,fitting",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -155,7 +150,7 @@
       "tags": "ortho-k,orthokeratology,reverse-geometry,myopia",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -166,7 +161,7 @@
       "tags": "ortho-k,topography,treatment-zone,centration",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -177,7 +172,7 @@
       "tags": "myopia-control,defocus,dual-focus,evidence",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -188,7 +183,7 @@
       "tags": "keratoconus,specialty,fitting-ladder,rgp",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -198,11 +193,10 @@
       "description": "Fitting the PKP cornea with piggyback, hybrid, or scleral lenses and managing the graft interface.",
       "tags": "post-graft,pkp,piggyback,irregular",
       "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_contact-lens-chronicles_17_1785047817812.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:57.403Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 18,
@@ -211,7 +205,7 @@
       "tags": "post-lasik,reverse-geometry,flat-cornea,rgp",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -222,7 +216,7 @@
       "tags": "scleral,osd,reservoir,therapeutic",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -233,7 +227,7 @@
       "tags": "prosthetic,cosmetic,aniridia,photophobia",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -244,7 +238,7 @@
       "tags": "solutions,mpds,peroxide,preservatives",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -255,7 +249,7 @@
       "tags": "dry-eye,dehydration,tear-film,inflammation",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -266,7 +260,7 @@
       "tags": "complications,infiltrates,clare,mk",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -277,7 +271,7 @@
       "tags": "gpc,papillae,mechanical,immunologic",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -288,7 +282,7 @@
       "tags": "infection,extended-wear,hygiene,ulcer",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -299,7 +293,7 @@
       "tags": "daily-disposable,safety,compliance,modality",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -309,11 +303,10 @@
       "description": "The sphero-cyl over-refraction, the lens power adjustment, and the rotation compensation.",
       "tags": "over-refraction,troubleshooting,power,rotation",
       "category": "Contact Lens",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_contact-lens-chronicles_27_1785047823096.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:23:57.403Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 28,
@@ -322,7 +315,7 @@
       "tags": "centration,movement,lag,fit-quality",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -333,7 +326,7 @@
       "tags": "meibomian,lid-hygiene,morphology,cl-wear",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -344,7 +337,7 @@
       "tags": "unhappy,discomfort,framework,retention",
       "category": "Contact Lens",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-07-26T15:24:09.095Z",
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-07-30T16:56:37.636Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -17,11 +17,10 @@
       "description": "The microkeratome and femtosecond flap, the excimer ablation, and the patient experience from start to finish.",
       "tags": "lasik,flap,excimer,femtosecond",
       "category": "Refractive Surgery",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_refractive-rundown_1_1785049817810.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:09.095Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 2,
@@ -30,7 +29,7 @@
       "tags": "prk,surface,ablation,bandage",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -41,7 +40,7 @@
       "tags": "smile,lenticule,flapless,incision",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -52,7 +51,7 @@
       "tags": "candidacy,stability,pachymetry,topography",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -62,11 +61,10 @@
       "description": "Detecting the forme fruste keratoconus that disqualifies and the elevation data that catches what axial misses.",
       "tags": "topography,tomography,forme-fruste,screening",
       "category": "Ocular Imaging",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_refractive-rundown_5_1785049819492.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:09.095Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 6,
@@ -75,7 +73,7 @@
       "tags": "wavefront,topography-guided,customized,aberrations",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -86,7 +84,7 @@
       "tags": "presbylasik,monovision,multifocal,presbyopia",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -97,7 +95,7 @@
       "tags": "icl,phakic,vault,high-myopia",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -108,7 +106,7 @@
       "tags": "rle,exchange,iol,high-myopia",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -119,7 +117,7 @@
       "tags": "iol,multifocal,edof,presbyopia",
       "category": "Cataract",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -130,7 +128,7 @@
       "tags": "toric,iol,axis,rotation",
       "category": "Cataract",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -141,7 +139,7 @@
       "tags": "lri,relaxing,incisions,astigmatism",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -152,7 +150,7 @@
       "tags": "post-lasik,protocol,flap-check,taper",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -162,11 +160,10 @@
       "description": "The flap striae detection, the diffuse lamellar keratitis stages, and the urgent flap lift and irrigation.",
       "tags": "flap,striae,dlk,lift",
       "category": "Refractive Surgery",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_refractive-rundown_14_1785049821073.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:09.095Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 15,
@@ -175,7 +172,7 @@
       "tags": "prk,healing,haze,mitomycin",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -186,7 +183,7 @@
       "tags": "regression,enhancement,re-treatment,timing",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -197,7 +194,7 @@
       "tags": "lasik,dry-eye,neurotrophic,recovery",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -207,11 +204,10 @@
       "description": "The risk factors, the early detection with OCT, and the cross-linking that halts the progression.",
       "tags": "ectasia,complication,cxl,detection",
       "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_refractive-rundown_18_1785049826480.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:09.095Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 19,
@@ -219,11 +215,10 @@
       "description": "The white-to-white, the OCT vault, and the sizing decision that prevents angle closure and cataract.",
       "tags": "icl,sizing,vault,oct",
       "category": "Refractive Surgery",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_refractive-rundown_19_1785049828033.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:09.095Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 20,
@@ -232,7 +227,7 @@
       "tags": "presbyopia,monovision,trial,dominance",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -243,7 +238,7 @@
       "tags": "cxl-plus,prk,ectasia,combined",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -254,7 +249,7 @@
       "tags": "smile,complications,lenticule,cap",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -265,7 +260,7 @@
       "tags": "topography-guided,irregular,post-graft,rk",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -275,11 +270,10 @@
       "description": "The historical RK patient, the diurnal fluctuation, and the flat-cornea CL fitting strategy.",
       "tags": "rk,radial,legacy,fitting",
       "category": "Refractive Surgery",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_refractive-rundown_24_1785049853217.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:09.095Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 25,
@@ -288,7 +282,7 @@
       "tags": "inlays,kamra,small-aperture,withdrawal",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -298,11 +292,10 @@
       "description": "The 1.25% pilocarpine, the pinhole effect, and the side effects and patient selection.",
       "tags": "presbyopia-drops,pilocarpine,pinhole,vuity",
       "category": "Pharmacology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_refractive-rundown_26_1785049839186.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:09.095Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 27,
@@ -311,7 +304,7 @@
       "tags": "glaucoma,lasik,iop,correction",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -321,11 +314,10 @@
       "description": "Why CL-intolerant patients seek surgery, the DED treatment-first philosophy, and the expectation setting.",
       "tags": "cl-dropout,intolerance,ded-first,expectation",
       "category": "Refractive Surgery",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/audio/ep_refractive-rundown_28_1785049840696.mp3",
-      "duration": "0:00",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "generatedAt": "2026-07-26T15:24:09.095Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 29,
@@ -334,7 +326,7 @@
       "tags": "enhancement,timing,relift,stability",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     },
@@ -345,7 +337,7 @@
       "tags": "consent,risk-benefit,alternatives,documentation",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "0:00",
+      "duration": "",
       "imageUrl": "",
       "status": "draft"
     }

@@ -9,20 +9,20 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T20:22:28.422Z",
+  "lastUpdated": "2026-08-05T20:22:37.783Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "The Afferent Pupillary Pathway: Retina to Midbrain Explained",
-      "description": "What actually happens when a doctor shines a light in your eye? That split-second pupil response is one of medicine's most powerful diagnostic tools — and the neuroscience behind it is nothing short of remarkable. In this episode of Focus Cast by Focuslinks.in, we trace the complete afferent pupillary pathway, following the light signal from the moment it strikes your retina all the way to the midbrain's pretectal nucleus.\n\nWe break down the role of intrinsically photosensitive retinal ganglion cells (ipRGCs) and their unique melanopsin photopigment, explain how signals travel through the optic nerve, what happens at the optic chiasm, and why the pupillary reflex diverges from the conscious visual pathway before reaching the thalamus. You will also learn why this anatomy matters clinically — from detecting a relative afferent pupillary defect (RAPD) using the swinging flashlight test, to understanding why an absent pupil response in an unconscious patient signals a neurological emergency.\n\nWhether you are a medical student trying to master neuroanatomy, an eye care professional refreshing your clinical foundations, or simply a curious mind fascinated by how the human body works, this episode delivers clear, accurate, and genuinely engaging content on the pupillary light reflex and afferent visual pathway.\n\nBy the end, you will understand why ophthalmologists say the eye is a window to the brain — and you will mean it literally. Visit Focuslinks.in to explore more eye care education resources and never miss an episode of Focus Cast.\n\n---",
+      "title": "Afferent Pupillary Pathway: From Retina to Midbrain Explained",
+      "description": "Every time you walk into a bright room, your pupils shrink in an instant — and you never have to think about it. But what is actually happening inside your nervous system? In this episode of Focus Cast by Focuslinks.in, we trace the complete afferent pupillary pathway, following the light signal from the moment it strikes your retina all the way to the midbrain structures that control your pupil response.\n\nWe break down the science in plain language, covering how photoreceptors and intrinsically photosensitive retinal ganglion cells (ipRGCs) detect light, how signals travel through the optic nerve and optic chiasm, and why the pupillary pathway branches away from the visual cortex at the optic tract to reach the olivary pretectal nucleus. You will learn why both pupils constrict even when only one eye is exposed to light, and what that tells us about the brain's bilateral wiring.\n\nWe also explore the real clinical power of this pathway — from understanding relative afferent pupillary defects (RAPD) and the swinging flashlight test, to how pupillometry is emerging as a diagnostic tool for glaucoma, Alzheimer's disease, concussion, and more.\n\nWhether you are a student, a healthcare professional, or simply someone who loves understanding how the human body works, this episode gives you a clear, memorable picture of one of neuroscience's most elegant circuits.\n\nListen now and discover why something as simple as a flashlight can reveal so much about the health of your nervous system. For more episodes on vision science and neuroscience, visit Focuslinks.in.\n\n---",
       "tags": "afferent,pupil,pathway,midbrain",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-01.mp3",
-      "duration": "12:35",
+      "duration": "12:19",
       "imageUrl": "",
       "status": "generated",
-      "runId": "0002f264-ace7-46af-a39c-b44e609a28bd",
-      "generatedAt": "2026-08-05T20:21:07.341Z"
+      "runId": "2f46daf3-fc8c-48e0-b6a2-777c04af0862",
+      "generatedAt": "2026-08-05T20:22:37.783Z"
     },
     {
       "episodeOrder": 2,

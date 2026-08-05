@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T19:59:47.639Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-05T19:59:59.551Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Corneal Topography for CL Fitting: Reading the Map",
-      "description": "Axial and sagittal maps, the bowtie pattern, and what the topography tells you before the trial lens.",
+      "title": "Corneal Topography for Contact Lens Fitting: Read the Map",
+      "description": "Ever wondered why your contact lenses feel uncomfortable even with the right prescription? The answer often lies in the shape of your cornea — and corneal topography is the tool that reveals everything. In this episode of Focus Cast by Focuslinks.in, we break down how corneal topography works, how to read those colorful maps, and why this technology is a game-changer for contact lens fitting.\n\nWe explore the difference between axial, tangential, and elevation maps, and what warm versus cool colors actually tell you about corneal curvature. You will learn how Sim K values and eccentricity data guide base curve selection, and how topography helps identify conditions like regular astigmatism and keratoconus before they become fitting nightmares.\n\nFrom soft toric lenses to rigid gas permeable lenses, orthokeratology, and scleral lenses, we walk through real-world fitting scenarios where topography transforms guesswork into precision. We also cover how topography serves as a long-term monitoring tool, helping practitioners detect corneal warpage or early disease progression over time.\n\nWhether you are an optometry student, a seasoned contact lens practitioner, or a patient who has struggled with lens comfort for years, this episode gives you a clear, practical understanding of one of the most powerful tools in modern eye care.\n\nIf you have ever had persistent contact lens issues, this episode might hold the answer you have been looking for. Listen now, and visit Focuslinks.in for more episodes, resources, and insights from the world of vision science.\n\n---",
       "tags": "topography,fitting,axial,bowtie",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-03.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "43649077-9c43-4ad2-abcd-3be128c1f641",
+      "generatedAt": "2026-08-05T19:59:59.551Z"
     },
     {
       "episodeOrder": 4,

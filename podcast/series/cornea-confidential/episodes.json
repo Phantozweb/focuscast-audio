@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T18:21:03.858Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-05T18:24:24.065Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Pterygium: The Wedge of Fibrovascular Tissue",
-      "description": "Indications for excision, conjunctival autograft, and the recurrence risk that shapes the surgical decision.",
+      "title": "Pterygium Explained: The Eye Growth You Shouldn't Ignore",
+      "description": "Ever noticed a fleshy, triangular growth creeping across the white of your eye? It might be pterygium — and in this episode of Focus Cast, we break down everything you need to know about this surprisingly common eye condition. Known as \"surfer's eye,\" pterygium is a wedge-shaped fibrovascular tissue growth that forms on the conjunctiva and can slowly invade the cornea, affecting your vision and appearance over time.\n\nWe explore what pterygium actually is, why it almost always grows from the nasal side of the eye, and the fascinating science behind the \"pterygium belt\" — the geographic zone around the equator where this condition is most prevalent. You'll learn who is most at risk, from surfers and farmers to anyone with years of UV and wind exposure, and why people over 40 need to pay close attention.\n\nWe also cover what pterygium feels like in its early and advanced stages, how it can cause astigmatism and vision impairment, and why eye drops alone can never make it disappear. Most importantly, we dive deep into pterygium surgery — including why the old bare sclera technique had an 80% recurrence rate and how the modern conjunctival autografting technique has transformed patient outcomes dramatically.\n\nFinally, we share simple, practical prevention tips that can protect your eyes before pterygium ever gets a chance to develop.\n\nWhether you've been diagnosed with pterygium, noticed something unusual in your eye, or simply want to protect your long-term vision, this episode is packed with clear, science-backed information you can act on. Tune in, share with someone who loves the outdoors, and visit Focuslinks.in for more eye health resources.",
       "tags": "pterygium,excision,autograft,recurrence",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-17.mp3",
+      "duration": "9:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954263265",
+      "generatedAt": "2026-08-05T18:24:23.265Z"
     },
     {
       "episodeOrder": 18,

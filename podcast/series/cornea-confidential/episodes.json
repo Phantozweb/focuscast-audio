@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T19:36:50.371Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-05T19:37:24.198Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -273,14 +273,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Corneal Foreign Body: Removal Techniques and Rust Ring",
-      "description": "Burr versus needle, the rust ring that follows, and the antibiotic and cycloplegia that complete the visit.",
+      "title": "Corneal Foreign Body Removal & Rust Ring Treatment Guide",
+      "description": "Ever felt something sharp lodge in your eye and wondered what happens next? In this episode of Focus Cast, we dive deep into one of the most common eye emergencies encountered in clinics worldwide — corneal foreign bodies. Whether you're a medical student, an optometrist, an emergency care provider, or simply someone curious about eye health, this episode breaks down everything you need to know in clear, practical terms.\n\nWe walk you through how corneal foreign bodies occur, who's most at risk, and why metallic particles are particularly problematic. You'll learn exactly how clinicians examine and assess these injuries using a slit lamp, and why determining the depth of the foreign body is critical before attempting removal.\n\nFrom simple saline irrigation for superficial particles to precise needle extraction and the Alger brush for stubborn or deeply embedded fragments, we cover the full spectrum of removal techniques with step-by-step clarity. We also tackle the rust ring — what it is, why it forms so rapidly after a metallic injury, why it must be removed, and how experienced clinicians approach debridement safely and effectively.\n\nBeyond the procedure itself, we discuss post-removal care including antibiotic drops, cycloplegic agents, and bandage contact lenses, as well as why eye patching is no longer recommended. We also highlight the red flag signs that signal a true ocular emergency requiring urgent specialist referral.\n\nThis episode is packed with clinical pearls that are immediately applicable in practice. If you found this episode valuable, share it with a colleague and visit Focuslinks.in for more eye care education and resources.\n\n---",
       "tags": "foreign-body,rust-ring,removal,antibiotic",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-21.mp3",
+      "duration": "12:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "52d80e87-0ca7-40d2-aad5-54e250c0244f",
+      "generatedAt": "2026-08-05T19:37:24.198Z"
     },
     {
       "episodeOrder": 22,

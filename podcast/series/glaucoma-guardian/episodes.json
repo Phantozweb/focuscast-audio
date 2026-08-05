@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T19:48:43.624Z",
+  "lastUpdated": "2026-08-05T19:48:51.511Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -300,15 +300,15 @@
     {
       "episodeOrder": 23,
       "title": "Combination Eye Drops: Simplify Your Glaucoma Regimen",
-      "description": "Are you juggling multiple eye drops, timing intervals, and refill schedules just to manage your eye pressure? There is a smarter way. In this episode of Focus Cast, we break down everything you need to know about combination drops, the single-bottle solution that is transforming glaucoma treatment and making daily eye care genuinely manageable.\n\nWe explore why so many glaucoma patients end up on multiple medications in the first place, how different drug classes like beta-blockers, prostaglandin analogues, and carbonic anhydrase inhibitors work together to lower eye pressure from multiple angles, and why combining them into one drop is more than just convenient. It is clinically powerful.\n\nYou will also learn about the hidden toll that preservatives like benzalkonium chloride take on your ocular surface over time, and how combination drops can significantly reduce that exposure. We share a relatable real-world story that illustrates how simplifying a regimen can directly improve pressure control and protect long-term vision. Plus, we cover the financial considerations, who makes the best candidate for combination therapy, and the one conversation you should be having with your eye doctor right now.\n\nWhether you are newly diagnosed or have been managing glaucoma for years, this episode gives you practical, evidence-backed information to help you take control of your treatment with confidence.\n\nListen now and discover how one small change to your routine could make a big difference for your vision. Visit Focuslinks dot in for more eye health episodes and resources.\n\n---",
+      "description": "Are you juggling two or three different eye drop bottles every day, trying to remember which one comes first and whether you already took the second one? You are not alone — and there is a smarter way to manage it. In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about combination drops for glaucoma and elevated eye pressure.\n\nWe explore how combination eye drops work by delivering two full-strength medications in a single bottle, targeting intraocular pressure from multiple angles at once. From beta-blockers paired with prostaglandin analogues to carbonic anhydrase inhibitors and alpha-agonists, we walk you through the most common formulations and explain exactly why they are often more effective than managing separate drops.\n\nBut the benefits go beyond convenience. We discuss how simplifying your glaucoma medication regimen dramatically improves adherence — and why consistent adherence is the single most important factor in preventing irreversible vision loss. We also cover a surprising advantage that most patients never hear about: combination drops reduce your exposure to benzalkonium chloride, the preservative linked to long-term ocular surface damage. Plus, we touch on the real-world cost and pharmacy benefits that make a genuine difference for patients managing chronic conditions.\n\nWhether you are newly diagnosed, currently on multiple drops, or a caregiver helping someone else stay on track, this episode gives you the clarity and confidence to have a more informed conversation with your eye care provider.\n\nIf your current regimen feels overwhelming, this episode is your starting point. Listen now, then ask your doctor whether a combination drop could work for you. Visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "combination,adherence,cost,regimen",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-23.mp3",
-      "duration": "12:24",
+      "duration": "12:17",
       "imageUrl": "",
       "status": "generated",
-      "runId": "00e2a333-bac8-4c08-b6a8-3cd85c2f90e8",
-      "generatedAt": "2026-08-05T19:48:43.202Z"
+      "runId": "741d1404-2cb3-4bdb-b0ae-c8b226baefab",
+      "generatedAt": "2026-08-05T19:48:50.874Z"
     },
     {
       "episodeOrder": 24,

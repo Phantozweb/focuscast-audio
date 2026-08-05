@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-05T19:24:07.118Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-05T19:26:11.202Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,14 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Closing the Visit: Prescribing, Counseling, and Follow-Up",
-      "description": "Translating the entire exam into a prescription, a plain-language plan, and the right recall interval.",
+      "title": "Closing the Visit: Prescribing, Counseling & Follow-Up Done Right",
+      "description": "What happens at the end of a medical visit can determine whether a patient gets better — or ends up back in the emergency room. In this episode of Focus Cast, we break down the three critical pillars of closing a clinical visit the right way: prescribing with clarity, counseling with purpose, and planning follow-up that actually works.\n\nDid you know patients forget up to 80% of what their doctor tells them during a visit? That staggering statistic is exactly why the close of a visit is not a formality — it is a clinical skill. We explore how clear medication counseling prevents treatment failure, why the teach-back method dramatically improves patient understanding and adherence, and how vague follow-up instructions like \"come back if things get worse\" leave patients confused and vulnerable.\n\nWhether you are a clinician, medical student, nurse, or simply someone who wants to navigate your own healthcare more confidently, this episode gives you a practical, evidence-informed look at what good end-of-visit communication really looks like. From managing polypharmacy in older adults to safety netting for unexpected symptoms, every insight in this episode connects directly to better patient outcomes and safer care.\n\nIf you have ever left a doctor's office unsure of what to do next, or if you are a provider looking to sharpen your patient communication skills, this episode is for you.\n\nListen now and share it with a colleague, student, or anyone who deserves better healthcare conversations. Visit Focus Cast at focuslinks.in for more episodes that bring clarity to the moments that matter most in medicine.\n\n---",
       "tags": "prescribing,counseling,follow-up,chairside",
       "category": "General",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-30.mp3",
+      "duration": "12:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d0b56237-be36-4feb-909d-dd8ed377b8fc",
+      "generatedAt": "2026-08-05T19:26:11.202Z"
     }
   ]
 }

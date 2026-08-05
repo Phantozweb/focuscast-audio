@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T19:33:16.404Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-05T19:33:44.698Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -375,14 +375,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Choroidal Melanoma: The Life-Threatening Pigmented Lesion",
-      "description": "Collar-button morphology, B-scan echogenicity, and the urgent referral pathway.",
+      "title": "Choroidal Melanoma: The Silent Eye Cancer You Need to Know",
+      "description": "What if a cancer was quietly growing inside your eye right now — and you had absolutely no idea? In this eye-opening episode of Focus Cast, we dive deep into choroidal melanoma, the most common primary intraocular cancer in adults and one of the most dangerous conditions your eye doctor could discover during a routine exam. Unlike the melanoma most people associate with skin, this tumor develops silently within the choroid, the richly pigmented layer beneath your retina, often causing no pain or vision changes until it has already grown to a significant size. We break down exactly what choroidal melanoma looks like, how it behaves, and why its tendency to spread to the liver makes early detection so critically important. You'll learn how doctors diagnose it using tools like B-scan ultrasonography, OCT imaging, and genetic tumor profiling, and how modern treatments like plaque brachytherapy have transformed patient outcomes, allowing many people to keep their eyes and their vision without sacrificing survival. We also explore the landmark COMS trial that changed the standard of care forever, and what ongoing research into immunotherapy could mean for the future of treatment. Most importantly, this episode is a powerful reminder that a simple, painless dilated eye exam could catch something life-changing before it's too late. If you've been putting off your annual eye checkup, consider this your sign to book it today. Share this episode with someone you love — it could be the nudge that saves their sight, or even their life. Visit Focuslinks dot in for more episodes and eye health resources.\n\n---",
       "tags": "melanoma,collar-button,bscan,oncology",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-29.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "38bc3767-3dee-436d-b432-8a4b66874640",
+      "generatedAt": "2026-08-05T19:33:44.698Z"
     },
     {
       "episodeOrder": 30,

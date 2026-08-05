@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T20:15:43.584Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-05T20:15:51.081Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -271,14 +271,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Convergence Insufficiency: The Near Vision Struggle",
-      "description": "The near point of convergence, the exophoria at near, and the pencil push-up versus office-based VT.",
+      "title": "Convergence Insufficiency: Why Your Eyes Struggle Up Close",
+      "description": "Do your eyes tire quickly when reading? Do you get headaches after screen time, or find it hard to focus on close work — even with \"perfect\" 20/20 vision? The problem might not be your eyesight at all. It could be convergence insufficiency, one of the most common yet overlooked vision conditions affecting millions of people worldwide.\n\nIn this episode of Focus Cast, we break down exactly what convergence insufficiency is — and why it almost never gets caught in a standard eye exam. We explore how this binocular vision disorder causes the eyes to struggle when turning inward for near tasks, leading to eye strain, blurred or double vision, headaches, and difficulty concentrating. We also uncover why so many children with convergence insufficiency are misdiagnosed with learning disabilities or ADHD, and what the landmark CITT study revealed about the dramatic improvements possible with proper treatment.\n\nYou'll learn about the most effective treatment options, including office-based vision therapy, home exercises like pencil push-ups, and when prism lenses might help. We also cover how concussions can trigger convergence insufficiency in adults, and how our screen-heavy lifestyles are making this condition harder to ignore than ever.\n\nWhether you're a parent concerned about a child's reading struggles, an adult dealing with unexplained digital eye strain, or simply someone who wants to understand how their visual system really works — this episode is for you.\n\nIf this sounds familiar, don't ignore the signs. Visit Focuslinks.in to explore more episodes and resources on eye health and vision care, and take the first step toward clearer, more comfortable vision today.\n\n---",
       "tags": "ci,convergence,near,vt",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-21.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d9564cda-cdf5-43f7-9dd5-aa1e810be69c",
+      "generatedAt": "2026-08-05T20:15:51.081Z"
     },
     {
       "episodeOrder": 22,

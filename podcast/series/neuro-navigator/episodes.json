@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T20:23:36.620Z",
+  "lastUpdated": "2026-08-05T20:23:38.137Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Optic Neuritis: The ONTT and the MRI Decision",
-      "description": "The acute vision loss, the pain on eye movement, and the high-dose steroid and MS workup protocol.",
+      "title": "Optic Neuritis, the ONTT & Why Your MRI Changes Everything",
+      "description": "What starts as washed-out colors or a dull ache behind your eye could be the first sign of something much bigger. In this episode of Focus Cast, we break down optic neuritis — what it is, why it matters beyond your eye, and how one landmark clinical trial permanently changed the way doctors treat and manage it.\n\nWe dive deep into the Optic Neuritis Treatment Trial (ONTT), the multicenter randomized controlled study that reshaped treatment guidelines. You will learn why high-dose IV steroids speed up visual recovery but do not change long-term outcomes, and why standard oral prednisone alone is actually contraindicated after what the ONTT revealed. These are not just academic details — they are the kind of evidence-based insights that directly affect patient care.\n\nThen we get to the part that changes everything: the MRI. Patients with no brain lesions at the time of their first optic neuritis episode carry roughly a 25 percent risk of developing multiple sclerosis over 15 years. Those with one or more lesions? That risk climbs to nearly 72 percent. Understanding this distinction is why an MRI is no longer optional — it is essential for risk stratification, prognosis, and informed treatment decisions.\n\nWhether you are a clinician, a neurology or ophthalmology student, or someone navigating a personal diagnosis, this episode gives you the clinical context and the human story behind the numbers.\n\nDo not ignore sudden vision changes or eye pain. Get evaluated, ask about the MRI, and ask the right questions. Visit Focuslinks.in for more episodes that make complex medical topics clear, accessible, and worth your time.\n\n---",
       "tags": "optic-neuritis,ontt,mri,ms",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-10.mp3",
+      "duration": "11:56",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e4ad56d9-97ff-4aaf-b13e-7e8b9fa65aea",
+      "generatedAt": "2026-08-05T20:23:38.137Z"
     },
     {
       "episodeOrder": 11,
@@ -215,16 +217,14 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Homonymous Hemianopia: Retrochiasmal Lesions Explained",
-      "description": "What does it feel like to lose half your visual world overnight? In this episode of Focus Cast, we dive deep into homonymous hemianopia, one of the most clinically significant visual field defects in neurology and ophthalmology. If you have ever wondered why a stroke or brain tumor can cause such a precise and predictable pattern of vision loss, this episode gives you the complete picture.\n\nWe walk through the entire retrochiasmal visual pathway, from the optic tract and lateral geniculate nucleus to Meyer's loop in the temporal lobe, the optic radiations, and the primary visual cortex in the occipital lobe. You will learn why lesions at different points along this pathway produce distinct field defects, including the classic pie in the sky and pie on the floor patterns, and why occipital lobe strokes often produce congruous hemianopia with macular sparing.\n\nWe also cover the real-world causes behind retrochiasmal lesions, including posterior cerebral artery strokes, brain tumors, and traumatic brain injury, and explain why patients often fail to notice their own field loss until it is formally tested. Finally, we discuss what management actually looks like, from urgent neuroimaging to vision rehabilitation, prism glasses, scanning strategies, and the critical conversation around driving restrictions.\n\nWhether you are a medical student, an ophthalmology resident, a neurologist, or simply someone passionate about vision science, this episode will sharpen your understanding of one of the most elegant localizing signs in clinical medicine.\n\nListen now and visit Focuslinks.in for more episodes, clinical resources, and everything you need to stay at the top of your game in eye care.\n\n---",
+      "title": "Retrochiasmal Lesions: The Homonymous Hemianopia",
+      "description": "Tract, radiation, and occipital lesions — the congruity and the macular sparing that localize the stroke.",
       "tags": "retrochiasmal,homonymous,congruity,macular-sparing",
-      "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-17.mp3",
-      "duration": "12:48",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "ef620146-c233-4dc2-886b-d36450de5d99",
-      "generatedAt": "2026-08-05T20:23:36.620Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 18,

@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:28:25.178Z",
+  "lastUpdated": "2026-08-05T20:28:26.975Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -284,14 +284,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Myasthenia Gravis: The Fatigable Diplopia",
-      "description": "The variable ptosis, the ice pack test, and the acetylcholine receptor antibody workup.",
+      "title": "Myasthenia Gravis: Understanding Fatigable Diplopia & Eye Symptoms",
+      "description": "Why does your vision double by evening but seem almost normal in the morning? The answer might be Myasthenia Gravis — a fascinating autoimmune condition that silently attacks the neuromuscular junction, leaving muscles weaker with every use and recovering only with rest.\n\nIn this episode of Focus Cast, we break down everything you need to know about Myasthenia Gravis, from the microscopic biology of the neuromuscular junction to the classic clinical presentation of fatigable diplopia and ptosis. We explore why the eyes are almost always the first to show symptoms, how the hallmark pattern of worsening double vision in the evening serves as a critical diagnostic clue, and why this condition is so frequently misunderstood or missed entirely.\n\nWe walk through the diagnostic workup, including the surprisingly elegant ice pack test, acetylcholine receptor antibody testing, single fiber electromyography, and the important connection between Myasthenia Gravis and the thymus gland. We also cover the full treatment landscape, from pyridostigmine and immunosuppressants to plasma exchange, thymectomy, and the exciting newer complement inhibitors and FcRn inhibitors that are transforming patient outcomes.\n\nWhether you are a clinician looking to sharpen your differential diagnosis skills, a medical student building your neurology foundation, or simply someone curious about how the immune system can turn against itself, this episode delivers clear, clinically relevant insights you can actually use.\n\nListen now and never miss fatigable diplopia again. Visit Focuslinks.in for more episodes and medical learning resources.\n\n---",
       "tags": "myasthenia,fatigable,ice-pack,achr",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-22.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "dc871798-54c1-46e7-9bf3-1691d0590616",
+      "generatedAt": "2026-08-05T20:28:26.974Z"
     },
     {
       "episodeOrder": 23,
@@ -380,16 +382,14 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Cranial Nerve Palsy Recovery: What to Expect & How Long",
-      "description": "Waking up with a drooping eyelid, double vision, or a face that won't move the way it should is terrifying — but what happens *after* the diagnosis is the part nobody talks about. In this episode of Focus Cast, we break down everything you need to know about cranial nerve palsy recovery and follow-up care, in plain language that actually makes sense.\n\nWe cover the most commonly affected cranial nerves — the third, fourth, sixth, and seventh — and explain what realistic recovery looks like for each one. You'll learn why most isolated microvascular palsies resolve within six to twelve weeks, what aberrant regeneration means and why it happens, and how tools like prism glasses, eye patching, and lubricating drops help manage symptoms while your nerve heals.\n\nWe also get into what happens when recovery doesn't go as planned — from strabismus surgery for persistent eye misalignment to Botox for synkinesis after facial nerve palsy. And because recovery isn't just physical, we give real attention to the emotional toll of living with a cranial nerve palsy and why that part of the journey deserves support too.\n\nWhether you've been diagnosed with Bell's palsy, a sixth nerve palsy, or a third nerve palsy, or you're supporting someone who has, this episode gives you the clarity, reassurance, and practical knowledge to navigate the road ahead with confidence.\n\nListen now and share this episode with anyone who needs it. For more episodes and resources, visit **Focuslinks.in**.\n\n---",
+      "title": "Cranial Nerve Palsies: The Follow-Up and Recovery",
+      "description": "The expected recovery timeline, the prism and patch management, and the surgical referral threshold.",
       "tags": "cranial-nerve,recovery,prism,surgical",
-      "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-30.mp3",
-      "duration": "12:14",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "ef802146-71c4-4fa9-8a87-fe0f3b58d282",
-      "generatedAt": "2026-08-05T20:28:25.178Z"
+      "status": "draft"
     }
   ]
 }

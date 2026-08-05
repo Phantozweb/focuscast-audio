@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T19:46:09.965Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-05T19:46:32.704Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Field Progression: GPA, Trend Analysis, and Clinical Judgment",
-      "description": "Distinguishing true progression from variability and the threshold that triggers escalation.",
+      "title": "Glaucoma Field Progression: GPA, Trend Analysis & Clinical Judgment",
+      "description": "How do you know when a glaucoma patient's visual field is truly getting worse — and how fast? In this episode of Focus Cast by Focuslinks.in, we break down the three essential tools every clinician needs to master field progression: Glaucoma Progression Analysis (GPA), trend analysis, and clinical judgment.\n\nWe start with GPA — how it works, what it's really telling you, and the critical baseline pitfalls that can mislead even experienced clinicians. Then we dive into trend analysis using Mean Deviation slope, where we explain what a rate of minus one decibel per year actually means for a patient's long-term vision and independence. Real-world examples make the numbers come alive in a way that's immediately applicable to your practice.\n\nBut the most powerful part of this episode is the conversation around clinical judgment — the questions no software can ask. Patient age, life expectancy, baseline damage, risk factors, structure-function correlation — these are the layers that separate good glaucoma management from great glaucoma management. We also explore how to know when to trust your data and when to question it, and how OCT and visual fields work together to tell a more complete story.\n\nWhether you're a seasoned ophthalmologist, an optometrist managing glaucoma patients, or a trainee building your clinical foundation, this episode will change how you read a visual field printout.\n\nListen now and carry something useful into your very next clinic session. Visit Focuslinks.in for more episodes and clinical resources designed to help you grow as a clinician.\n\n---",
       "tags": "progression,gpa,trend,escalation",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-19.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5c23617a-77c2-4f13-bcf8-c68243c53077",
+      "generatedAt": "2026-08-05T19:46:32.704Z"
     },
     {
       "episodeOrder": 20,

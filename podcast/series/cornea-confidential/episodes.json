@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-05T17:38:59.399Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-05T17:42:44.310Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Descemet’s Membrane and Endothelium: The Pump That Keeps the Cornea Clear",
-      "description": "Endothelial pump function, guttae, and why counting cells changes the management plan.",
+      "title": "Descemet's Membrane: The Pump Keeping Your Cornea Clear",
+      "description": "What if a single layer of cells — thinner than a strand of hair — was all that stood between you and permanent vision loss? In this episode of Focus Cast by Focuslinks.in, we dive deep into one of the most extraordinary structures in the human body: Descemet's membrane and the corneal endothelium.\n\nYour cornea is like a sponge that constantly wants to absorb water. Left unchecked, that swelling would scatter light and destroy your vision. The corneal endothelium — a honeycomb mosaic of roughly 3,000 cells per square millimeter — runs a tireless, around-the-clock pump to keep that from happening. We break down exactly how this sodium-potassium ATPase-driven system works, why it matters, and what happens when it starts to fail.\n\nWe also explore Fuchs' endothelial corneal dystrophy, one of the leading causes of corneal transplantation worldwide, and explain why losing endothelial cells is permanent — your body simply cannot replace them. From traditional full-thickness corneal grafts to the revolutionary DMEK procedure, where surgeons implant a donor layer just fifteen micrometers thick, we cover how modern ophthalmology is transforming outcomes for patients with corneal edema and endothelial failure.\n\nPlus, we look at the cutting-edge science of lab-grown endothelial cell therapy and what it could mean for the millions of people worldwide waiting for donor corneas.\n\nWhether you are a curious learner, an eye care professional, or someone living with a corneal condition, this episode will change the way you see your own eyes.\n\nListen now and visit Focuslinks.in for more episodes that bring the science of sight to life.",
       "tags": "endothelium,descemets,pump,guttae",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-05.mp3",
+      "duration": "11:05",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951763687",
+      "generatedAt": "2026-08-05T17:42:43.687Z"
     },
     {
       "episodeOrder": 6,

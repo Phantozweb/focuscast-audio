@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-05T20:15:23.928Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-05T20:15:43.584Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -326,14 +326,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Amblyogenic Periods: When the Window Closes",
-      "description": "The plasticity curve, the late treatment question, and the adult amblyopia research horizon.",
+      "title": "Amblyogenic Period: Why the Window Closes on Lazy Eye Treatment",
+      "description": "Did you know your child's brain has a limited window to learn how to see properly — and once it closes, the effects can be permanent? In this eye-opening episode of Focus Cast, we break down the science of the amblyogenic period: what it is, why it matters, and why catching vision problems early could make all the difference for a child's lifelong sight.\n\nWe explore how the developing visual system builds its neural pathways in the first years of life, and what happens when one eye fails to send clear signals to the brain during this critical phase. You'll learn how conditions like amblyopia (lazy eye), strabismus, and refractive errors can silently rob a child of functional vision — often without any obvious symptoms — and why so many cases go undetected until it's too late for optimal treatment.\n\nWe also dive into the landmark Nobel Prize-winning research by Hubel and Wiesel that first revealed how experience shapes the visual brain, the proven treatments that work best when started early, and the exciting emerging science exploring whether the amblyogenic window can be reopened in older patients through technology and brain stimulation.\n\nWhether you're a parent, caregiver, educator, or healthcare professional, this episode gives you the knowledge to act before the window closes. Because when it comes to a child's vision, timing isn't everything — it's the only thing.\n\nListen now, and visit Focuslinks.in for more expert content on vision health and the science of sight.\n\n---",
       "tags": "plasticity,critical-period,late-treatment,adult",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-26.mp3",
+      "duration": "12:13",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a0138ac0-bffa-4283-91c3-211f470b6b80",
+      "generatedAt": "2026-08-05T20:15:43.584Z"
     },
     {
       "episodeOrder": 27,

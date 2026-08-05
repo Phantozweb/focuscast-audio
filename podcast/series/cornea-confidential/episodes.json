@@ -9,7 +9,7 @@
   "order": 3,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:19.053Z",
+  "lastUpdated": "2026-08-05T17:11:04.711Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "anatomy,cornea,layers,clarity",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -29,7 +29,7 @@
       "tags": "epithelium,abrasion,erosion,recurrent",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -40,7 +40,7 @@
       "tags": "bowmans,scar,trauma,keratectomy",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,7 +51,7 @@
       "tags": "stroma,collagen,edema,transparency",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -62,7 +62,7 @@
       "tags": "endothelium,descemets,pump,guttae",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -73,7 +73,7 @@
       "tags": "bacterial,ulcer,keratitis,infection",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -84,7 +84,7 @@
       "tags": "fungal,satellite,feathery,keratitis",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -95,7 +95,7 @@
       "tags": "acanthamoeba,ring,contact-lens,pain",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -106,7 +106,7 @@
       "tags": "hsv,dendrite,disciform,steroid",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -117,7 +117,7 @@
       "tags": "hzv,shingles,hutchinson,zoster",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -128,7 +128,7 @@
       "tags": "dystrophy,granular,map-dot,inheritance",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -139,7 +139,7 @@
       "tags": "fuchs,guttae,edema,dsaek",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -150,7 +150,7 @@
       "tags": "keratoconus,ectasia,topography,cxl",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -161,7 +161,7 @@
       "tags": "cxl,cross-linking,ectasia,protocol",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -172,7 +172,7 @@
       "tags": "pmd,marginal,crab-claw,ectasia",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -183,7 +183,7 @@
       "tags": "dry-eye,erosions,spk,refraction",
       "category": "Dry Eye",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -194,7 +194,7 @@
       "tags": "pterygium,excision,autograft,recurrence",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -205,7 +205,7 @@
       "tags": "pinguecula,uv,lubrication,benign",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -216,7 +216,7 @@
       "tags": "salzmann,nodules,keratectomy,surface",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -227,7 +227,7 @@
       "tags": "edema,striae,folds,iop",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -238,7 +238,7 @@
       "tags": "foreign-body,rust-ring,removal,antibiotic",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -249,7 +249,7 @@
       "tags": "abrasion,antibiotic,cycloplegia,contact-lens",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -260,7 +260,7 @@
       "tags": "rce,erosion,hypertonic,bandage-lens",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -271,7 +271,7 @@
       "tags": "chemical,burn,irrigation,morgan-lens",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -282,7 +282,7 @@
       "tags": "conjunctiva,nevus,papilloma,biopsy",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -293,7 +293,7 @@
       "tags": "topography,axial,map,ectasia",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -304,7 +304,7 @@
       "tags": "specular,endothelium,cell-count,iol",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -315,7 +315,7 @@
       "tags": "as-oct,angle,scleral,imaging",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -326,7 +326,7 @@
       "tags": "transplant,pkp,dsaek,dmek",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -337,7 +337,7 @@
       "tags": "rejection,khodadoust,steroid,graft",
       "category": "Cornea",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     }

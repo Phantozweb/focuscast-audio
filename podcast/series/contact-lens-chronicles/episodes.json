@@ -8,19 +8,21 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-05T19:55:29.794Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-05T19:55:38.853Z",
   "episodes": [
     {
       "episodeOrder": 1,
       "title": "Contact Lens Materials: From HEMA to Silicone Hydrogel",
-      "description": "How Dk, water content, and modulus shape oxygen transmission, comfort, and corneal health.",
+      "description": "What's actually sitting on your eye every day? That tiny, almost weightless contact lens has a surprisingly fascinating origin story — and understanding what it's made of could change the way you think about your eye health forever.\n\nIn this episode of Focus Cast by Focuslinks.in, we trace the remarkable evolution of contact lens materials, from the groundbreaking discovery of HEMA (poly hydroxyethyl methacrylate) by Czech chemists Otto Wichterle and Drahoslav Lim in the 1960s, to the revolutionary silicone hydrogel lenses that dominate the market today. We break down why oxygen transmission to the cornea matters so much, why high water content alone couldn't solve the problem, and how the clever marriage of silicone and hydrogel technology finally shattered the oxygen ceiling that had constrained the industry for three decades.\n\nYou'll learn why early soft lenses caused dryness and discomfort, how manufacturers spent decades blending polymers to chase better performance, and what names like senofilcon, lotrafilcon, and comfilcon actually mean for your eyes. We also touch on the exciting frontier of smart contact lenses and drug-delivery materials that are building on this same scientific legacy.\n\nWhether you're a contact lens wearer curious about what goes on your eyes, an eye care professional, or simply someone who loves a deep dive into materials science and medical innovation, this episode delivers the full story in a way that's clear, engaging, and genuinely eye-opening.\n\nListen now and share this episode with anyone who wears contact lenses. For more episodes, articles, and expert eye care content, visit us at Focuslinks.in.\n\n---",
       "tags": "materials,silicone-hydrogel,dk,oxygen",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-01.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "88b95d8d-67cb-4fc8-a1cd-92298256f203",
+      "generatedAt": "2026-08-05T19:55:38.852Z"
     },
     {
       "episodeOrder": 2,

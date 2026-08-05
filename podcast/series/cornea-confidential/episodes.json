@@ -9,7 +9,7 @@
   "order": 3,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T19:43:14.352Z",
+  "lastUpdated": "2026-08-05T19:43:15.097Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,29 +338,29 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Corneal Topography: How Color Maps Reveal Your Eye Health",
-      "description": "Ever wondered what those swirling color maps at your eye doctor's office actually mean? In this episode of Focus Cast, we break down corneal topography — the remarkable technology that maps the surface of your cornea using reflected light and color-coded data — into clear, engaging language anyone can understand.\n\nWe start with the basics: what the cornea does, why its shape matters so much for your vision, and how a corneal topographer uses Placido rings to capture a detailed portrait of your eye's front surface. From there, we decode the color map itself — what warm reds and oranges reveal about steep corneal curves, and what cool blues and greens tell us about flatter zones.\n\nYou will learn how to recognize key topographic patterns, including the classic bowtie shape of regular astigmatism and the telltale hot spot that signals keratoconus — a progressive corneal condition where early detection can be truly vision-saving. We also explore how corneal topography guides specialty contact lens fitting, helping patients with irregular corneas achieve comfortable, functional vision that glasses alone cannot deliver. And if you have ever considered LASIK, you will discover why topography is the critical safety screening step that protects candidates from serious surgical complications.\n\nWhether you are a patient curious about your own eye health, a student exploring optometry or ophthalmology, or simply someone who loves understanding how the human body works, this episode gives you a genuinely useful window into one of the most powerful diagnostic tools in modern eye care.\n\nListen now and see your eyes in a whole new way. For more episodes and eye care insights, visit Focuslinks dot in.\n\n---",
+      "title": "Corneal Topography Explained: How to Read Your Eye's Color Map",
+      "description": "Ever wondered what those swirling colors on your eye scan actually mean? In this episode of Focus Cast by Focuslinks.in, we break down corneal topography in a way that finally makes sense — no medical degree required.\n\nYour cornea is responsible for roughly two-thirds of your eye's focusing power, and corneal topography creates a detailed, color-coded map of its surface using thousands of data points captured in seconds. We walk you through exactly how the technology works, what the warm reds and oranges versus cool blues and greens reveal about your corneal shape, and why this information is so clinically powerful.\n\nFrom detecting keratoconus early enough to stop it in its tracks with corneal cross-linking, to designing custom contact lenses for irregular corneas, to screening patients before LASIK surgery — corneal topography sits at the center of modern eye care. We also explore how clinicians use serial topography maps to monitor corneal changes over time, including for orthokeratology lens fitting and post-surgical follow-up.\n\nWhether you are a patient preparing for your first topography scan, a student studying optometry, or simply someone curious about how eye care professionals read the unique geography of your eye, this episode gives you the foundation to understand and engage with your own eye health more confidently.\n\nListen now and discover why corneal topography is one of the most remarkable diagnostic tools in vision care today. For more episodes, resources, and eye health insights, visit Focuslinks.in.\n\n---",
       "tags": "topography,axial,map,ectasia",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-26.mp3",
-      "duration": "12:24",
+      "duration": "12:28",
       "imageUrl": "",
       "status": "generated",
-      "runId": "154afbb1-b3b6-4bc3-8e7a-d882185ffede",
-      "generatedAt": "2026-08-05T19:41:18.910Z"
+      "runId": "4b070297-a922-4428-9bfd-d4497c1974b9",
+      "generatedAt": "2026-08-05T19:43:15.097Z"
     },
     {
       "episodeOrder": 27,
-      "title": "Specular Microscopy: How Doctors Count Your Corneal Cells",
-      "description": "What if the key to your vision lay in thousands of microscopic cells you never knew existed? In this episode of Focus Cast, we dive deep into the fascinating world of specular microscopy and corneal endothelial cell counting — the technology that gives eye care professionals an extraordinary window into one of the most critical, and irreplaceable, structures in the human eye.\n\nYour corneal endothelium is a single layer of honeycomb-shaped cells lining the back of your cornea, working around the clock to pump fluid out and keep your vision crystal clear. The catch? These cells never regenerate. Once lost, they are gone forever — and when counts drop too low, the consequences for your vision can be severe and permanent.\n\nWe break down exactly how specular microscopy works, what cell density, polymegethism, and pleomorphism actually mean, and why these three measurements together paint a complete picture of corneal health. We also explore the real-world clinical applications — from pre-operative screening before cataract surgery and monitoring Fuchs endothelial dystrophy, to evaluating donor corneas at eye banks and tracking the long-term effects of contact lens wear.\n\nWhether you are an eye care professional, a student, or simply someone curious about the science behind your sight, this episode will change the way you think about your cornea. The technology is remarkable, the biology is humbling, and the clinical implications are genuinely life-changing.\n\nListen now and discover the living mosaic that has been quietly protecting your vision since the day you were born. For more eye health content like this, visit us at focuslinks.in.\n\n---",
+      "title": "Specular Microscopy: How We Count Corneal Endothelial Cells",
+      "description": "What if the key to your vision depended on a single layer of cells you were born with — cells that never grow back? In this episode of Focus Cast, we dive deep into the world of specular microscopy and the corneal endothelium, exploring why counting endothelial cells is one of the most critical tasks in modern eye care.\n\nWe break down exactly what the corneal endothelium is, why its cell density matters, and what happens when those irreplaceable cells are lost to aging, disease, or surgery. You will learn how specular microscopy works, what parameters like endothelial cell density, coefficient of variation, and hexagonality actually tell us about corneal health, and why clinicians rely on this technology every single day.\n\nFrom pre-operative cataract surgery screening and contact lens monitoring to Fuchs endothelial dystrophy management and eye bank quality control, this episode covers the full clinical picture of why specular microscopy is indispensable in ophthalmology and optometry practice.\n\nWhether you are an eye care student trying to understand corneal imaging, a clinician looking to refresh your knowledge, or simply someone curious about the science behind clear vision, this episode delivers clear, practical insights in a way that is easy to follow and genuinely fascinating.\n\nTune in, and discover the invisible workforce keeping your vision sharp — and the remarkable technology we use to protect it.\n\nFor more eye care content, articles, and resources, visit us at focuslinks.in.\n\n---",
       "tags": "specular,endothelium,cell-count,iol",
       "category": "Cataract",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-27.mp3",
-      "duration": "12:21",
+      "duration": "12:18",
       "imageUrl": "",
       "status": "generated",
-      "runId": "6d624f8c-ff1d-4449-a615-6345356ad44d",
-      "generatedAt": "2026-08-05T19:43:14.352Z"
+      "runId": "4dd2c3e8-0880-4051-b1ef-afd54bd3b6e4",
+      "generatedAt": "2026-08-05T19:42:25.974Z"
     },
     {
       "episodeOrder": 28,

@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T19:49:23.545Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T19:49:31.995Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -371,14 +371,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Glaucoma and Pregnancy: The Drop Dilemma",
-      "description": "Which medications are safe, the pregnancy trimester approach, and the postpartum resumption.",
+      "title": "Glaucoma and Pregnancy: Are Your Eye Drops Safe for Baby?",
+      "description": "If you have glaucoma and just found out you are pregnant, that daily eye drop routine suddenly raises serious questions. Are your glaucoma medications safe during pregnancy? What happens if you stop them? In this episode of Focus Cast by Focuslinks.in, we unpack the drop dilemma that thousands of women face when managing glaucoma through pregnancy and beyond.\n\nWe break down how eye drops actually enter your bloodstream through a process called systemic absorption and why that matters for your developing baby. You will learn what the research says about common glaucoma medications including prostaglandin analogues, beta-blockers, and alpha agonists, and the real risks associated with each during pregnancy and breastfeeding. We also cover a simple but powerful technique called nasolacrimal occlusion that can reduce systemic absorption by up to fifty percent, something every pregnant woman using eye drops should know.\n\nBeyond the risks, this episode explores practical options including laser treatment as a medication-free alternative, how monitoring strategies can be adjusted trimester by trimester, and why having a proactive conversation with your ophthalmologist before pregnancy can make all the difference. We also address the significant gap in pregnancy-related drug safety research and why individualized, collaborative care is essential.\n\nWhether you are living with glaucoma, planning a pregnancy, or supporting someone who is, this episode gives you the information you need to ask the right questions and make informed decisions. Your vision and your baby both deserve thoughtful care.\n\nListen now and visit Focuslinks.in for more eye health resources, articles, and episodes of Focus Cast.\n\n---",
       "tags": "pregnancy,medication-safety,trimester,postpartum",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-29.mp3",
+      "duration": "12:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3819b37a-5eb5-4017-82e1-b75f5ca88272",
+      "generatedAt": "2026-08-05T19:49:31.995Z"
     },
     {
       "episodeOrder": 30,

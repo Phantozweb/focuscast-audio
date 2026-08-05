@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-05T20:11:25.984Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-05T20:11:34.647Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -159,14 +159,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Pediatric Glaucoma: The Buphthalmos and the Haab Striae",
-      "description": "The cloudy cornea, the enlarged eye, and the urgent surgical pathway for congenital glaucoma.",
+      "title": "Pediatric Glaucoma: Buphthalmos & Haab Striae Explained",
+      "description": "What happens when a baby's eye grows too big? In this eye-opening episode of Focus Cast, we dive deep into pediatric glaucoma, one of the most urgent and underrecognized conditions in ophthalmology. We explore two of its most striking clinical signs: buphthalmos, the dramatic enlargement of the infant eye caused by elevated intraocular pressure, and Haab striae, the permanent breaks in Descemet's membrane that serve as a lifelong fingerprint of early-onset glaucoma.\n\nYou will learn why congenital glaucoma behaves so differently from adult glaucoma, how the elastic infant eye responds to rising pressure by literally stretching and changing shape, and why the classic triad of epiphora, photophobia, and blepharospasm should never be dismissed as normal newborn behavior. We also break down how Haab striae form, how to distinguish them from forceps-related birth trauma, and why they matter even after intraocular pressure is successfully controlled.\n\nFrom the genetics of CYP1B1 mutations to the surgical principles behind goniotomy and trabeculotomy, this episode gives medical students, residents, and clinicians a thorough yet accessible understanding of how to recognize, diagnose, and manage primary congenital glaucoma. We also touch on secondary pediatric glaucoma associated with conditions like aniridia and Sturge-Weber syndrome.\n\nWhether you are preparing for exams or sharpening your clinical instincts, this episode will change how you look at a baby with watery, light-sensitive eyes. Listen now and visit Focuslinks dot in for more ophthalmology episodes and resources.\n\n---",
       "tags": "pediatric-glaucoma,buphthalmos,haab,congenital",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-13.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7fb4af56-8f8f-45ce-a265-8c59261066dd",
+      "generatedAt": "2026-08-05T20:11:34.647Z"
     },
     {
       "episodeOrder": 14,

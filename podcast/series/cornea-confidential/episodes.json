@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-05T17:58:06.753Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-05T18:01:26.652Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Herpes Zoster Ophthalmicus: Hutchinson’s Sign and Beyond",
-      "description": "Forehead vesicles, the nasociliary branch, and the ocular complications that demand slit lamp follow-up.",
+      "title": "Herpes Zoster Ophthalmicus: Hutchinson's Sign Explained",
+      "description": "What does a rash on the tip of the nose have to do with losing your vision? More than you might think. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into Herpes Zoster Ophthalmicus (HZO), one of the most clinically complex conditions at the intersection of ophthalmology, neurology, and dermatology.\n\nWe unpack the legendary Hutchinson's sign, the 19th-century clinical observation that still guides eye care decisions today, and explain exactly why vesicles on the nasal tip signal danger for the eye. You'll learn the anatomy behind the nasociliary nerve, why a positive sign raises ocular risk by two to four times, and critically, why a negative sign should never give you false reassurance.\n\nFrom conjunctivitis and pseudodendrites to neurotrophic keratopathy, anterior uveitis, secondary glaucoma, and the devastating acute retinal necrosis, this episode walks through every level of ocular involvement HZO can cause. We also cover the full management approach, including antiviral timing, the role of topical steroids, intraocular pressure monitoring, and strategies for protecting a numb, vulnerable cornea.\n\nWe close with a discussion on postherpetic neuralgia and the powerful case for vaccination with Shingrix, a tool that can prevent vision loss before it ever begins.\n\nWhether you're a clinician, a student, or simply someone passionate about eye health, this episode delivers practical knowledge you can act on. Listen now, and the next time you see a unilateral forehead rash, you'll know exactly where to look and what to do.\n\nVisit Focuslinks.in for more episodes and eye care resources.",
       "tags": "hzv,shingles,hutchinson,zoster",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-10.mp3",
+      "duration": "10:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952885832",
+      "generatedAt": "2026-08-05T18:01:25.832Z"
     },
     {
       "episodeOrder": 11,

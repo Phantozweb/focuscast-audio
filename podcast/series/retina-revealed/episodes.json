@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-05T19:26:18.190Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-05T19:26:25.846Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Branch Retinal Vein Occlusion: The Quadrant Infarct",
-      "description": "Ischemic versus non-ischemic BRVO, macular edema management, and neovascular surveillance.",
+      "title": "Branch Retinal Vein Occlusion: What a Quadrant Infarct Means for Your Vision",
+      "description": "What happens when a vein in your eye gets blocked — and an entire quadrant of your retina is starved of oxygen? In this episode of Focus Cast, we break down Branch Retinal Vein Occlusion (BRVO) and the serious event known as a quadrant infarct, explaining exactly what it means for your vision and your overall eye health.\n\nWe start with the basics — how blood flows through the retina, why blockages happen, and what makes BRVO the second most common retinal vascular disease in the world. From there, we explore the key risk factors, including high blood pressure, diabetes, and high cholesterol, and explain the surprising structural reason why the eye is especially vulnerable to this condition.\n\nYou'll learn how a quadrant infarct develops, why macular swelling is the central concern, and why so many people don't notice symptoms until significant damage has already occurred. We also walk through how eye doctors diagnose BRVO using tools like OCT, Fluorescein Angiography, and OCT Angiography, and cover the latest treatment options — including anti-VEGF injections, steroid implants, and laser photocoagulation — that have transformed outcomes for patients in recent years.\n\nWhether you're a patient, a caregiver, or simply someone who wants to understand their eye health better, this episode gives you the knowledge to recognize warning signs early and take action before vision loss becomes permanent.\n\nDon't wait for symptoms to appear. Visit Focuslinks.in for more episodes, eye health resources, and expert insights. If this episode helped you, share it — because awareness is the first step toward prevention.\n\n---",
       "tags": "brvo,vein-occlusion,ischemia,anti-vegf",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-20.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b25f8355-b565-4f41-b4e0-6426f156d1cf",
+      "generatedAt": "2026-08-05T19:26:25.846Z"
     },
     {
       "episodeOrder": 21,

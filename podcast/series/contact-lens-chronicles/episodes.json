@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:06:38.420Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T20:07:31.546Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -371,14 +371,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "CL Wear and the Meibomian Glands",
-      "description": "How long-term CL wear alters gland morphology and the lid hygiene that protects the investment.",
+      "title": "Contact Lenses & Meibomian Glands: Why Your Eyes Feel Dry",
+      "description": "Do your eyes feel gritty, tired, or uncomfortable by the end of the day? You might be blaming your contact lenses — but the real culprit could be something far smaller and far less talked about: your meibomian glands.\n\nIn this episode of Focus Cast, we take a deep dive into the fascinating and often overlooked connection between contact lens wear and meibomian gland dysfunction (MGD). You'll learn exactly what the meibomian glands are, why they're essential to a stable tear film, and how long-term contact lens wear can cause structural damage to these tiny but critical glands — damage that can lead to chronic dry eye disease even when you're not wearing lenses.\n\nWe cover the science behind how contact lenses disrupt the tear film, why incomplete blinking makes things worse, and what early warning signs to watch for. More importantly, we walk you through practical, evidence-based steps you can take right now — from warm compress therapy and omega-3 supplementation to smarter lens choices and advanced clinical treatments like LipiFlow and intense pulsed light therapy.\n\nWhether you've been wearing contacts for two years or twenty, this episode gives you the knowledge to protect your meibomian gland health and keep your eyes comfortable for the long haul.\n\nIf you wear contact lenses — or know someone who does — this is essential listening. Tune in, share it with a fellow lens wearer, and visit us at focuslinks.in for more eye health content.\n\n---",
       "tags": "meibomian,lid-hygiene,morphology,cl-wear",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-29.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f3b4035c-af3f-4a6f-aae2-eed332380023",
+      "generatedAt": "2026-08-05T20:07:31.546Z"
     },
     {
       "episodeOrder": 30,

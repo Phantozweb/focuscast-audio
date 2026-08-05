@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T18:34:43.468Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-05T18:50:58.235Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Tonometry: Goldmann, iCare, and the Rebound Revolution",
-      "description": "Technique, calibration, and when to trust — or doubt — a single IOP reading.",
+      "title": "Tonometry Explained: Goldmann vs iCare Rebound Revolution",
+      "description": "What if a silent disease could steal your vision before you ever felt a symptom? Glaucoma affects over 70 million people worldwide, and the key to catching it early comes down to one critical measurement: intraocular pressure. In this episode of Focus Cast, we break down the science and technology behind tonometry, the method eye doctors use to measure pressure inside your eye.\n\nWe start with the Goldmann applanation tonometer, the gold standard that has defined eye pressure measurement since 1954. You'll learn exactly how it works, why it became the benchmark for every major glaucoma study and treatment guideline, and where its real-world limitations lie, from corneal thickness variability to accessibility challenges for children, wheelchair users, and anxious patients.\n\nThen we dive into iCare rebound tonometry, a genuinely revolutionary approach that fires a tiny probe at the cornea and measures how fast it bounces back. No anesthetic drops, no fluorescent dye, no slit lamp required. We explore how this handheld technology is transforming glaucoma monitoring, including home-use devices that let patients track their own eye pressure throughout the day and night, capturing fluctuations that a single clinic visit would completely miss.\n\nWe also look honestly at the limitations of both methods, discuss emerging technologies like dynamic contour tonometry and continuous contact lens sensors, and explain why the future of tonometry is less about competition and more about using the right tool for the right patient at the right moment.\n\nWhether you have glaucoma, a family history of it, or simply want to understand what happens during your eye exam, this episode gives you the knowledge to ask better questions and take a more active role in protecting your vision.\n\nListen now, and visit Focuslinks.in for more eye care insights.\n\n---",
       "tags": "tonometry,iop,goldmann,icare",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-23.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9aebeb2c-6a7e-4a86-b344-790893f76951",
+      "generatedAt": "2026-08-05T18:50:57.359Z"
     },
     {
       "episodeOrder": 24,

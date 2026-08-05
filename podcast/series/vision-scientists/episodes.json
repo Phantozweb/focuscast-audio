@@ -9,7 +9,7 @@
   "order": 5,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T19:51:40.757Z",
+  "lastUpdated": "2026-08-05T19:52:05.293Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,16 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Spherical Aberration: Why Your Pupil Size Affects Vision",
-      "description": "Ever wonder why your vision feels sharp during the day but soft and hazy at night? The answer lies in a fascinating optical phenomenon called spherical aberration — and your pupil is at the center of it all. In this episode of Focus Cast by Focuslinks.in, we break down exactly why the edges of your pupil matter more than you ever realized, and how this invisible force shapes the quality of your everyday vision.\n\nWe start with the basics — how your eye works like a biological camera — and then dive into why a spherical lens, including your own cornea, cannot focus all incoming light rays at a single perfect point. You will discover why your pupils dilating in low light reveals optical imperfections that stay hidden in bright conditions, and why that explains the halos and starbursts you see around streetlights at night.\n\nFrom there, we explore the real-world solutions eye care professionals use to address spherical aberration, including aspheric eyeglass and contact lens designs, wavefront-guided LASIK surgery, and advanced aberrometry technology that maps your eye's unique optical fingerprint. We also cover how aging changes your eye's natural ability to compensate for spherical aberration, and what that means for night vision as you get older.\n\nWhether you struggle with night driving, are considering laser eye surgery, or simply want to understand your eyes better, this episode gives you practical, science-backed insights you can actually use. Try the pinhole trick we describe — you might be surprised by what you notice.\n\nVisit Focuslinks.in for more episodes and vision science resources, and share this episode with anyone who has ever complained about blurry night vision.\n\n---",
+      "title": "Spherical Aberration: Why Your Pupil's Edge Blurs Vision",
+      "description": "Ever wonder why your vision turns soft and hazy at night, even with a perfect glasses prescription? The answer lies at the very edge of your pupil — and it has everything to do with a fascinating optical phenomenon called spherical aberration. In this episode of Focus Cast by Focuslinks.in, we break down exactly what spherical aberration is, why it affects your eyes more in low light, and why your pupil size plays a bigger role in your visual clarity than most people ever realize.\n\nWe explore how the cornea and crystalline lens each contribute to spherical aberration, why night vision tends to decline with age, and how the eye actually has a built-in compensation system that gradually weakens over time. You will also learn how modern vision care is tackling this issue head-on — from wavefront-guided LASIK surgery that customizes laser treatment to your eye's unique aberration profile, to aspheric contact lenses engineered to deliver sharper, cleaner vision especially in dim conditions.\n\nWhether you notice halos around streetlights, struggle with night driving, or simply want to understand what is really happening inside your eyes, this episode gives you the science in plain, engaging language. Spherical aberration is not just a technical footnote — it is a key reason your visual experience shifts so dramatically between bright and dark environments.\n\nIf you are curious about how your eyes truly work and what modern optics can do to improve your vision, this is the episode for you. Visit Focuslinks.in to explore more episodes, expert insights, and everything you need to see the world more clearly.\n\n---",
       "tags": "spherical-aberration,pupil,aspheric,quality",
-      "category": "Retina",
+      "category": "Cataract",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-19.mp3",
-      "duration": "12:00",
+      "duration": "12:12",
       "imageUrl": "",
       "status": "generated",
-      "runId": "59a9d141-2b36-440b-b00a-9d28a770e024",
-      "generatedAt": "2026-08-05T19:50:37.129Z"
+      "runId": "efc26072-5bd0-42a3-a2f5-3e225ff4497b",
+      "generatedAt": "2026-08-05T19:52:05.293Z"
     },
     {
       "episodeOrder": 20,

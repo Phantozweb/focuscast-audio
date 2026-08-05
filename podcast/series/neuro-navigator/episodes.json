@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T20:28:12.548Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-05T20:28:20.395Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -321,14 +321,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Transient Vision Loss in the Young: The Mimics",
-      "description": "Papilledema, vasospasm, hypercoagulable states — the differential that shifts from the elderly stroke model.",
+      "title": "Transient Vision Loss in the Young: Know the Mimics",
+      "description": "That sudden moment when your vision goes completely dark and then snaps back to normal — should you be worried? If you're young and healthy, you might be tempted to brush it off. But transient vision loss in young people is never something to ignore, and in this episode of Focus Cast, we break down exactly why.\n\nWe explore the most important causes of temporary vision loss in teenagers, twentysomethings, and adults in their thirties — a group where the usual suspects simply don't apply. From the reassuring to the genuinely dangerous, we walk through the key conditions that every patient and clinician needs to know.\n\nWe cover visual migraines and scintillating scotomas, explaining why migraine aura should always be a diagnosis of exclusion rather than a default assumption. We dive into amaurosis fugax in young adults, including hidden causes like antiphospholipid syndrome and patent foramen ovale that can silently set the stage for a stroke. We unpack idiopathic intracranial hypertension and its telltale transient visual obscurations, a condition that masquerades as something harmless but can steal your sight permanently. And we round out the discussion with ocular causes including angle-closure glaucoma, central serous chorioretinopathy, and the critical warning signs of a retinal detachment in progress.\n\nWhether you are a patient who has experienced unexplained vision changes, a medical student building your differential, or a clinician looking for a sharp clinical refresher, this episode delivers clear, practical insights you can actually use.\n\nYour vision is precious. Don't miss the warning signs. Listen now, and visit Focuslinks dot in for more ophthalmology content that keeps your clinical thinking sharp.\n\n---",
       "tags": "tvl,young,vasospasm,hypercoagulable",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-25.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2dde6e52-fab0-49b0-935a-de72a3735b12",
+      "generatedAt": "2026-08-05T20:28:20.394Z"
     },
     {
       "episodeOrder": 26,

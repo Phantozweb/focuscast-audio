@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-05T18:04:53.002Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-05T18:12:31.138Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Acute Angle Closure: The Emergency at Your Slit Lamp",
-      "description": "The painful red eye, mid-dilated pupil, and the immediate pressure-lowering sequence that saves vision.",
+      "title": "Acute Angle Closure Glaucoma: Spot It Before It Steals Sight",
+      "description": "Could that \"migraine\" patient in your waiting room actually be losing their vision right now? In this urgent, clinically rich episode of Focus Cast, we break down everything eye care professionals need to know about acute angle closure glaucoma — one of the most time-sensitive emergencies in all of ophthalmology.\n\nWe open with a real-world scenario that will sharpen your clinical instincts immediately: a 62-year-old woman with a headache, a red eye, and a foggy cornea. From there, we walk you through the complete picture — the aqueous humor dynamics, the mechanics of pupillary block, and exactly how intraocular pressure can skyrocket to 60 or 70 mmHg before anyone realizes what is happening.\n\nYou will learn who is most at risk, including hyperopic older women, East Asian populations, and anyone with anatomically narrow angles. We cover the classic triggers like dim lighting, emotional stress, and dilating drops, and explain why a mid-dilated pupil is the most dangerous position in a susceptible eye.\n\nOn the clinical side, we detail what to look for at the slit lamp — the steamy cornea, the fixed mid-dilated pupil, the shallow anterior chamber — and how to interpret what your tonometer is telling you. Then we move into management, covering topical and systemic medications, the role of pilocarpine, and why laser peripheral iridotomy remains the definitive solution for breaking the attack and protecting the fellow eye.\n\nWhether you are a practicing ophthalmologist, an optometrist, or a resident building your clinical foundation, this episode gives you the knowledge to act fast when it matters most.\n\nListen now and visit Focuslinks.in for more episodes designed to keep your clinical skills sharp.",
       "tags": "aac,emergency,iridotomy,pressure",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-10.mp3",
+      "duration": "10:47",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953550693",
+      "generatedAt": "2026-08-05T18:12:30.693Z"
     },
     {
       "episodeOrder": 11,

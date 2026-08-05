@@ -9,7 +9,7 @@
   "order": 6,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T20:01:41.574Z",
+  "lastUpdated": "2026-08-05T20:01:41.829Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,16 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "RGP Fitting: Base Curve, Tear Lens & Fluorescein Patterns",
-      "description": "Ever watched a clinician stare at a glowing green pattern under a slit lamp and wondered what they're actually seeing? In this episode of Focus Cast, we decode one of the most rewarding skills in clinical eye care — fitting rigid gas permeable (RGP) contact lenses.\n\nWe break down exactly how the base curve of an RGP lens relates to corneal curvature, and why getting that relationship right is the foundation of every successful fit. From there, we explore the fascinating optics of the tear lens — the thin fluid layer trapped between the lens and the cornea that carries real optical power and directly influences the final prescription. You'll learn the SAM FAP rule and understand why changing a base curve always means adjusting the lens power.\n\nThen we get into the part that makes RGP fitting truly come alive: fluorescein patterns. We walk through what alignment, steep, and flat fits actually look like under blue light, what each pattern tells you about lens-cornea interaction, and why edge clearance matters more than most beginners expect. We also touch on toric fluorescein patterns for astigmatic corneas and the unique challenges of fitting irregular corneas like keratoconus.\n\nWhether you're an optometry student building your clinical foundation, a new practitioner sharpening your fitting skills, or simply someone curious about the science behind contact lens care, this episode gives you a clear, practical framework for understanding RGP fitting from the ground up.\n\nVisit Focuslinks.in for more episodes and eye care resources. Subscribe so you never miss an episode of Focus Cast.\n\n---",
+      "title": "RGP Lens Fitting: Base Curve, Tear Lens & Fluorescein Patterns",
+      "description": "Ever watched an experienced clinician peer through a slit lamp at a glowing green eye and wondered exactly what they were seeing? This episode of Focus Cast breaks down the science and art of rigid gas permeable contact lens fitting in a way that finally makes it all click.\n\nWe start with the base curve, exploring how the curvature of the lens back surface relates to the cornea and why that relationship defines everything about the fit. From there, we dive into the tear lens, the often-overlooked optical layer that forms between the RGP lens and the cornea, and how it adds or subtracts power depending on your fitting choice. You will learn the SAM FAP rule and understand why adjusting the base curve always means adjusting the prescription.\n\nThen comes the most visually striking part of RGP fitting: fluorescein patterns. We walk through what alignment, steep, and flat fits actually look like under cobalt blue light, what each pattern tells you about lens-cornea interaction, and how to use that information to make better fitting decisions. We also cover edge lift, corneal astigmatism patterns, and how modern corneal topography is changing the way complex cases are approached.\n\nWhether you are an optometry student encountering RGP fitting for the first time or a clinician looking to sharpen your contact lens skills, this episode gives you a clear, practical foundation rooted in real clinical understanding.\n\nListen now and start reading fluorescein patterns with confidence. Visit Focuslinks.in for more episodes and eye care learning resources.\n\n---",
       "tags": "rgp,fluorescein,tear-lens,fitting",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-09.mp3",
-      "duration": "12:50",
+      "duration": "13:18",
       "imageUrl": "",
       "status": "generated",
-      "runId": "e2ca5ca2-8d7e-479f-986c-034539221d66",
-      "generatedAt": "2026-08-05T20:01:41.574Z"
+      "runId": "c3bf946e-d269-45b3-972c-780ea3238bb5",
+      "generatedAt": "2026-08-05T19:58:58.045Z"
     },
     {
       "episodeOrder": 10,
@@ -169,16 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Orthokeratology: See Clearly All Day Without Surgery",
-      "description": "What if you could wake up every morning with perfect vision — no glasses, no daytime contacts, no laser surgery? It sounds like a dream, but orthokeratology makes it a reality. In this episode of Focus Cast, we break down exactly how ortho-k lenses work, why millions of people worldwide are making the switch, and why eye care professionals are calling it a game-changer for myopia management in children.\n\nWe explore the science behind corneal reshaping — how specially designed overnight contact lenses gently and temporarily reshape your cornea while you sleep, correcting your vision for the entire day. We also dive deep into the growing myopia epidemic, with rates skyrocketing across the globe, and explain how orthokeratology may do more than just correct vision — it may actually slow down how fast nearsightedness progresses in kids, potentially protecting their long-term eye health.\n\nYou will learn who makes the best candidate for ortho-k, what the fitting process looks like, what to expect during the adjustment period, and how to think about the cost versus the long-term benefits. We also cover safety, hygiene best practices, and what the research really says about myopia control.\n\nWhether you are a parent watching your child's prescription climb every year, an adult tired of glasses and contacts, or simply someone curious about the latest in vision science, this episode is packed with clear, practical information you can act on.\n\nListen now and discover whether orthokeratology could be the right solution for you or your child. For more eye care insights, visit Focuslinks dot in.\n\n---",
+      "title": "Orthokeratology: Reshape Your Cornea Overnight for Clear Vision",
+      "description": "What if you could fall asleep and wake up with perfect vision — no glasses, no daytime contacts, just clear sight from the moment you open your eyes? In this episode of Focus Cast, we explore orthokeratology (ortho-k), the science-backed, non-surgical method that gently reshapes your cornea overnight using custom-designed rigid contact lenses.\n\nWe break down exactly how ortho-k works, why the cornea is central to how your eye focuses light, and how this reversible process compares to permanent options like laser eye surgery. You will also discover why orthokeratology is becoming one of the most powerful tools in myopia control for children and teenagers — a critical issue as global nearsightedness rates continue to climb at alarming rates.\n\nFrom the practical day-to-day experience of wearing ortho-k lenses, to safety considerations, costs, and who makes the best candidate, we cover everything you need to know before exploring this option for yourself or your child. We also share why athletes, swimmers, and people with active lifestyles are turning to ortho-k for the freedom it offers throughout their day.\n\nWhether you are a parent concerned about your child's worsening prescription or an adult tired of depending on corrective eyewear, this episode gives you a clear, honest, and thorough look at one of modern optometry's most fascinating innovations.\n\nListen now and discover whether orthokeratology could be the vision solution you have been looking for. For more eye health resources, visit Focuslinks dot in.\n\n---",
       "tags": "ortho-k,orthokeratology,reverse-geometry,myopia",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-13.mp3",
-      "duration": "12:19",
+      "duration": "12:18",
       "imageUrl": "",
       "status": "generated",
-      "runId": "1fd7dcf1-c43e-4861-8cbc-d9e1f7535f19",
-      "generatedAt": "2026-08-05T20:01:12.491Z"
+      "runId": "6864ffc4-f678-44a8-8013-90fb3fc4971b",
+      "generatedAt": "2026-08-05T20:01:41.829Z"
     },
     {
       "episodeOrder": 14,

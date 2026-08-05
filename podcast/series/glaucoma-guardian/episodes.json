@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T19:47:40.985Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-05T19:47:50.004Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -310,14 +310,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Laser Trabeculoplasty: SLT and ALT Indications",
-      "description": "Who benefits, the tonal shift from drops to laser, and the post-SLT IOP spike to watch for.",
+      "title": "SLT vs ALT: Laser Trabeculoplasty Indications Explained",
+      "description": "What if a ten-minute laser procedure could free your glaucoma patient from a lifetime of daily eye drops? In this episode of Focus Cast, we take a deep dive into laser trabeculoplasty, breaking down the science, clinical indications, and real-world decision-making behind two of ophthalmology's most important IOP-lowering tools: Selective Laser Trabeculoplasty (SLT) and Argon Laser Trabeculoplasty (ALT).\n\nWe explore how both procedures target the trabecular meshwork to improve aqueous outflow, and why the differences in their mechanisms matter enormously in clinical practice. You will learn how ALT works through thermal coagulation, why its permanent scarring limits repeatability, and where it still holds value today. We then unpack SLT's selective photothermolysis, its tissue-sparing advantage, and why the landmark LiGHT trial published in The Lancet has repositioned SLT as a compelling first-line treatment for primary open-angle glaucoma and ocular hypertension.\n\nWhether you are managing a newly diagnosed glaucoma patient anxious about lifelong drops, or looking to add IOP-lowering options for someone already on medications, this episode gives you a clear, evidence-based framework for choosing the right laser at the right time. We also cover key contraindications, the role of laser trabeculoplasty in pseudoexfoliative and pigmentary glaucoma, and practical tips for pre- and post-procedure management.\n\nPerfect for ophthalmology residents, optometrists, and practicing clinicians looking for a focused, practical refresher. Listen now and visit Focuslinks.in for more episodes, clinical resources, and updates from Focus Cast.\n\n---",
       "tags": "slt,alt,laser,trabeculoplasty",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-24.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "510dafef-e393-4637-b4e6-458c78bd3bad",
+      "generatedAt": "2026-08-05T19:47:50.004Z"
     },
     {
       "episodeOrder": 25,

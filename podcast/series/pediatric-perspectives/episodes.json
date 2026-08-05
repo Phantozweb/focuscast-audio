@@ -9,7 +9,7 @@
   "order": 7,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T20:16:06.032Z",
+  "lastUpdated": "2026-08-05T20:16:26.389Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,16 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Nasolacrimal Duct Obstruction: Why Is My Baby's Eye Always Watery?",
-      "description": "Is your newborn's eye constantly tearing up, even when they're perfectly happy? You're not alone — and there's a very good chance it's nasolacrimal duct obstruction, one of the most common conditions affecting newborns worldwide. In this episode of Focus Cast, we break down everything you need to know about blocked tear ducts in infants, in plain language that actually makes sense.\n\nWe start with a quick, fascinating look at how the tear drainage system works — from the tiny puncta in your eyelids all the way down to the nasolacrimal duct — and explain exactly why that system sometimes fails to open properly at birth. You'll learn what nasolacrimal duct obstruction looks like in a real baby, how to tell it apart from more serious conditions like dacryocystitis and congenital glaucoma, and why the vast majority of cases resolve completely on their own within the first year of life.\n\nWe also walk through practical management strategies, including how to perform Crigler massage at home, when topical antibiotics are appropriate, and what happens if conservative treatment isn't enough. From probing to silicone tube intubation to dacryocystorhinostomy, we cover the full treatment pathway in a way that's easy to follow whether you're a worried parent, a medical student, or a clinician looking for a quick refresher.\n\nIf a baby in your life has a persistently watery or crusty eye, this episode will give you the clarity and confidence to understand what's happening and what to do next. Listen now, and visit Focuslinks.in for more episodes designed for curious minds in medicine.\n\n---",
+      "title": "Nasolacrimal Duct Obstruction: Why Is My Baby's Eye Watery?",
+      "description": "Is your baby's eye constantly watery, crusty, or goopy — even when they're perfectly happy? You're not alone, and it's probably not an infection. In this episode of Focus Cast, we break down nasolacrimal duct obstruction, one of the most common eye conditions in newborns, affecting up to 20% of all infants.\n\nWe start with the basics — how the tear drainage system actually works, from the lacrimal gland all the way down to the nasal cavity — and explain exactly why a tiny membrane called the valve of Hasner can cause so much parental worry when it fails to open after birth. You'll learn how to tell the difference between a blocked tear duct and conjunctivitis, what warning signs of infection like dacryocystitis to watch for, and why the two conditions require very different responses.\n\nWe also walk through everything you need to know about management — from Crigler massage techniques you can do at home, to when probing becomes necessary, to advanced options like silicone intubation, balloon dacryocystoplasty, and dacryocystorhinostomy for the rare, resistant cases. Most importantly, we talk about what parents actually need to hear: that in roughly 90% of cases, this condition resolves completely on its own within the first year of life.\n\nWhether you're a medical student, a pediatric healthcare provider, or a worried parent searching for answers at 2 AM, this episode gives you clear, confident, and compassionate guidance on tearing infants.\n\nListen now and share this episode with anyone who needs it. Visit Focuslinks.in for more episodes and medical learning resources.\n\n---",
       "tags": "nldo,tearing,massage,probing",
-      "category": "Glaucoma",
+      "category": "Pediatric",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-14.mp3",
-      "duration": "12:54",
+      "duration": "12:32",
       "imageUrl": "",
       "status": "generated",
-      "runId": "9e589a01-b107-4820-af7b-dfba4f668310",
-      "generatedAt": "2026-08-05T20:15:17.860Z"
+      "runId": "b73190b2-f0e1-423c-a002-f17e1496e434",
+      "generatedAt": "2026-08-05T20:16:25.772Z"
     },
     {
       "episodeOrder": 15,

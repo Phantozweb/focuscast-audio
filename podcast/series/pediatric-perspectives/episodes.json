@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T20:18:28.727Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-05T20:18:32.627Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -261,15 +261,15 @@
     {
       "episodeOrder": 20,
       "title": "Learning-Related Vision Problems: What the Evidence Says",
-      "description": "Could your child's reading struggles actually be a vision problem that standard eye tests completely miss? In this eye-opening episode of Focus Cast, we dig deep into the science behind learning-related vision problems — and why millions of kids and adults are falling through the cracks of conventional screening.\n\nWe break down the research on convergence insufficiency, a condition where the eyes struggle to work together at close range, and explore the landmark CITT clinical trial that proved targeted vision therapy delivers real, measurable results. You'll learn how accommodative dysfunction silently exhausts students in the classroom, why erratic eye tracking can derail even the brightest readers, and what the science actually says about controversial interventions like tinted lenses and colored overlays.\n\nThis episode also tackles the critical distinction between vision problems and learning disabilities like dyslexia — and why a child can have both at the same time. We cut through the noise to tell you which treatments have solid evidence behind them and which ones don't, so you can make informed decisions for yourself or your child.\n\nWhether you're a parent watching a smart kid struggle, an educator trying to understand why some students can't seem to focus, or an adult who never quite figured out why reading always felt so hard — this episode is for you.\n\nDon't rely on a school screening to tell the whole story. Visit [Focuslinks.in](https://focuslinks.in) to explore more resources on vision and learning, and share this episode with anyone who needs to hear it.\n\n---",
+      "description": "Could your child's reading struggles, attention issues, or classroom difficulties actually be a vision problem in disguise? In this eye-opening episode of Focus Cast, we explore the science behind learning-related vision problems — and why millions of children are slipping through the cracks every year.\n\nWe go beyond nearsightedness and farsightedness to uncover the world of functional vision problems: conditions like convergence insufficiency, oculomotor dysfunction, and visual processing difficulties that standard school eye chart screenings almost always miss. You'll learn how these issues can mimic ADHD, cause reading exhaustion, and quietly erode a child's confidence — often for years before anyone connects the dots.\n\nWe break down what the research actually says, including findings from the landmark Convergence Insufficiency Treatment Trial, and we're honest about where the evidence is strong and where questions remain. We also clarify the important distinction between vision problems and dyslexia, and explain how the two can co-exist in ways that make learning even harder.\n\nWhether you're a parent watching your child struggle, a teacher trying to understand a student, or someone working in child development or education, this episode gives you practical, evidence-based guidance on what signs to look for, what kind of evaluation to seek, and how vision care fits into a broader, collaborative approach to supporting children who learn differently.\n\nDon't let an undetected vision problem stand between a child and their potential. Listen now, and visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "learning,reading,vision-therapy,evidence",
       "category": "Pediatric",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-20.mp3",
-      "duration": "11:55",
+      "duration": "11:42",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a84efd32-e594-4179-8bb3-43a5428fada2",
-      "generatedAt": "2026-08-05T20:17:22.328Z"
+      "runId": "30ce5bad-552d-40e2-bfbb-a6d803baf7a1",
+      "generatedAt": "2026-08-05T20:18:32.627Z"
     },
     {
       "episodeOrder": 21,
@@ -365,15 +365,13 @@
     {
       "episodeOrder": 28,
       "title": "Stargardt Disease: The Inherited Macular Dystrophy of Youth",
-      "description": "What does it feel like to lose your central vision as a teenager — not from an accident, not from a screen, but from a gene you were born with? In this episode of Focus Cast, we take a deep dive into Stargardt disease, the most common inherited macular dystrophy affecting young people worldwide. Caused by a faulty ABCA4 gene, this autosomal recessive condition silently damages the cone cells at the center of the retina, stealing sharp, detailed vision from children and young adults — often during the most formative years of their lives.\n\nWe break down the science in plain language: how the retina works, why lipofuscin buildup destroys photoreceptor cells, and how two parents with perfect vision can pass this condition to their child. We also explore what living with Stargardt disease actually feels like — the central blind spot, the photophobia, the emotional weight of an invisible disability, and the unique challenges faced by teenagers navigating school, identity, and independence with progressive vision loss.\n\nBut this episode is not just about loss. We cover the most promising advances in Stargardt disease research, including ABCA4 gene therapy clinical trials, stem cell therapy, deuterated vitamin A compounds like ALK-001, and the rapidly evolving world of AI-powered assistive technology that is transforming daily life for people with low vision right now.\n\nWhether you are newly diagnosed, supporting someone who is, or simply curious about inherited eye conditions, this episode will leave you informed, hopeful, and better equipped to understand a condition that affects hundreds of thousands of people worldwide. Listen now and visit Focuslinks.in for more episodes on eye health and vision science.\n\n---",
+      "description": "The pisciform flecks, the dark choroid on FA, and the genetic counseling and low vision support.",
       "tags": "stargardt,pisciform,flecks,genetics",
       "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-28.mp3",
-      "duration": "12:26",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "82fa0ee4-1467-444c-8317-a9b3f99abc34",
-      "generatedAt": "2026-08-05T20:18:28.727Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 29,

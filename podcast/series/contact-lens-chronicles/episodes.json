@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T20:01:05.184Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-05T20:01:12.491Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Orthokeratology: Reshaping the Cornea Overnight",
-      "description": "The reverse geometry lens, the myopia control evidence, and the candidacy criteria that define success.",
+      "title": "Orthokeratology: See Clearly All Day Without Surgery",
+      "description": "What if you could wake up every morning with perfect vision — no glasses, no daytime contacts, no laser surgery? It sounds like a dream, but orthokeratology makes it a reality. In this episode of Focus Cast, we break down exactly how ortho-k lenses work, why millions of people worldwide are making the switch, and why eye care professionals are calling it a game-changer for myopia management in children.\n\nWe explore the science behind corneal reshaping — how specially designed overnight contact lenses gently and temporarily reshape your cornea while you sleep, correcting your vision for the entire day. We also dive deep into the growing myopia epidemic, with rates skyrocketing across the globe, and explain how orthokeratology may do more than just correct vision — it may actually slow down how fast nearsightedness progresses in kids, potentially protecting their long-term eye health.\n\nYou will learn who makes the best candidate for ortho-k, what the fitting process looks like, what to expect during the adjustment period, and how to think about the cost versus the long-term benefits. We also cover safety, hygiene best practices, and what the research really says about myopia control.\n\nWhether you are a parent watching your child's prescription climb every year, an adult tired of glasses and contacts, or simply someone curious about the latest in vision science, this episode is packed with clear, practical information you can act on.\n\nListen now and discover whether orthokeratology could be the right solution for you or your child. For more eye care insights, visit Focuslinks dot in.\n\n---",
       "tags": "ortho-k,orthokeratology,reverse-geometry,myopia",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-13.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1fd7dcf1-c43e-4861-8cbc-d9e1f7535f19",
+      "generatedAt": "2026-08-05T20:01:12.491Z"
     },
     {
       "episodeOrder": 14,

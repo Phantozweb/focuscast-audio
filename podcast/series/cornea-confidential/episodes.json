@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-05T18:27:43.448Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-05T19:35:42.430Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Salzmann’s Nodular Degeneration: The Smooth Elevations",
-      "description": "Recognizing the whitish nodules, the link to chronic surface disease, and the superficial keratectomy option.",
+      "title": "Salzmann's Nodular Degeneration: What Are Those Corneal Bumps?",
+      "description": "Have you ever heard of smooth, pearly bumps quietly forming on the surface of your eye? In this episode of Focus Cast, we take a deep dive into Salzmann's Nodular Degeneration (SND), a fascinating and often underdiagnosed corneal condition that affects more people than you might think.\n\nWe break down exactly what Salzmann's Nodular Degeneration is, how these bluish-white nodules form beneath the corneal epithelium, and why chronic inflammation, long-term contact lens wear, and conditions like blepharitis and vernal keratoconjunctivitis are key contributing factors. You will learn what happens at a cellular level when the cornea's Bowman's layer is disrupted and how the eye attempts to protect itself, sometimes creating new problems in the process.\n\nWe also walk through the real-world symptoms patients experience, from blurred and distorted vision to persistent foreign body sensation and contact lens intolerance, and why so many people spend years without a proper diagnosis. From slit lamp examination and corneal topography to superficial keratectomy and phototherapeutic keratectomy using an excimer laser, we cover everything you need to know about how SND is diagnosed and treated.\n\nWhether you are a patient dealing with unexplained corneal symptoms, a contact lens wearer concerned about long-term eye health, or an eye care professional looking to sharpen your clinical awareness, this episode offers clear, accessible, and genuinely eye-opening insights.\n\nYour vision is worth understanding and worth protecting. Visit Focuslinks dot in to explore more episodes and eye health resources from Focus Cast.\n\n---",
       "tags": "salzmann,nodules,keratectomy,surface",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-19.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6622e01e-b661-4a01-a1a3-4fcc66e25623",
+      "generatedAt": "2026-08-05T19:35:42.430Z"
     },
     {
       "episodeOrder": 20,

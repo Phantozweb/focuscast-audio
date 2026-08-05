@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T20:16:47.750Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-05T20:16:53.019Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -297,14 +297,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Pediatric Myopia: The Onset and the Risk Factors",
-      "description": "The axial elongation, the near-work and outdoor time evidence, and the lifestyle counseling.",
+      "title": "Pediatric Myopia: Onset, Risk Factors & What Parents Must Know",
+      "description": "Is your child squinting at the board or sitting too close to the screen? It might be more than a bad habit. In this eye-opening episode of Focus Cast, we dive deep into pediatric myopia, one of the fastest-growing public health concerns affecting children worldwide. With nearly half the global population projected to be nearsighted by 2050, understanding why myopia develops in children and what drives it has never been more urgent.\n\nWe break down exactly when childhood myopia typically begins, why early onset is more serious than most parents realize, and what the critical window of myopia progression means for your child's long-term eye health. From the powerful role of genetics to the surprising impact of outdoor time, near work, screen exposure, and urbanization, we explore the key risk factors shaping children's vision in today's world.\n\nYou'll also learn about the remarkable research linking natural light and dopamine to eye growth regulation, why something as simple as 90 minutes outdoors each day can make a measurable difference, and what clinical options exist for children already showing signs of myopia progression.\n\nWhether you're a parent, teacher, or caregiver, this episode gives you practical, evidence-based steps you can take right now to protect the children in your life from worsening nearsightedness.\n\nListen to the full episode and explore more expert eye health resources at Focuslinks.in. If this episode helped you, share it with a parent or educator who needs to hear it.\n\n---",
       "tags": "pediatric-myopia,onset,outdoor,near-work",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-23.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c9702c51-131f-4337-ba6b-737388b7805b",
+      "generatedAt": "2026-08-05T20:16:53.019Z"
     },
     {
       "episodeOrder": 24,

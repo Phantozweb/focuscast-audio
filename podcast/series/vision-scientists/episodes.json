@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-05T18:22:59.325Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-05T18:26:36.603Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Wavefront Optics: Beyond the Sphero-Cylinder",
-      "description": "Higher-order aberrations, Zernike polynomials, and the customized ablation they enable.",
+      "title": "Wavefront Optics: See Beyond Your Eye Prescription",
+      "description": "Your glasses prescription tells only part of the story. If you've ever had perfect 20/20 vision on the chart but still struggled with halos, starbursts, or blurry night driving, you've already encountered the limits of conventional vision correction — and that's exactly where wavefront optics changes everything.\n\nIn this episode of Focus Cast, we dive deep into the science of wavefront aberrations and what they reveal about your eye's true optical fingerprint. We break down the difference between lower-order aberrations (the myopia, hyperopia, and astigmatism your prescription already corrects) and the complex higher-order aberrations — like coma, trefoil, and spherical aberration — that standard lenses simply can't touch. You'll learn how the Hartmann-Shack wavefront aberrometer maps your eye's unique distortions with stunning precision, how Zernike polynomials mathematically describe those imperfections, and how this technology — originally developed for astronomical telescopes — is now powering wavefront-guided LASIK, advanced contact lenses, premium intraocular lenses, and even customized spectacle designs.\n\nWhether you're curious about laser eye surgery, exploring options after cataract surgery, or simply fascinated by the science of human vision, this episode gives you a clear, jargon-free look at one of the most exciting frontiers in modern optometry. We also get honest about the limitations of wavefront correction and who benefits most from it.\n\nReady to see your vision in a whole new way? Listen now, and visit Focuslinks.in for more episodes and resources to help you stay sharp.",
       "tags": "wavefront,aberrations,zernike,custom",
       "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-18.mp3",
+      "duration": "11:07",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954396145",
+      "generatedAt": "2026-08-05T18:26:36.145Z"
     },
     {
       "episodeOrder": 19,

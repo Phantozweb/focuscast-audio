@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T19:52:05.293Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-05T19:52:22.764Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Chromatic Aberration: The Eye’s Built-In Focusing Cue",
-      "description": "Longitudinal chromatic aberration and the accommodative microfluctuations it drives.",
+      "title": "Chromatic Aberration: Your Eye's Secret Focusing Cue",
+      "description": "Did you know your eyes are constantly using a hidden optical \"flaw\" to help you see clearly? In this episode of Focus Cast, we dive deep into chromatic aberration — the phenomenon where different colors of light focus at slightly different points inside your eye — and reveal how your brain secretly uses this imperfection as a built-in focusing and depth cue. It's happening right now, thousands of times a day, completely below your conscious awareness.\n\nWe break down the physics of how light bends through your eye's lens, why blue and red light can't focus at the same point simultaneously, and how your visual system has evolved to read those tiny color shifts as precise distance information. We also explore the fascinating research where scientists reversed chromatic aberration using special lenses — and watched the eye's focusing system get completely fooled.\n\nBut this episode goes beyond cool science. We connect chromatic aberration to real-world concerns like digital eye strain, screen fatigue, and the global myopia epidemic, where up to 90% of young adults in some urban populations are now nearsighted. Could the unnatural color signals from screens be disrupting the very cues your eyes rely on to develop properly? And could more time outdoors in natural light actually help protect children's vision?\n\nWhether you're curious about human vision, concerned about eye health, or just love discovering how the body works in surprising ways, this episode will change how you see the world — literally.\n\nVisit Focuslinks.in for more episodes, articles, and resources on vision science and eye health. Don't forget to share this episode with someone who loves learning something new about the human body.\n\n---",
       "tags": "chromatic-aberration,lca,accommodation,cue",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-20.mp3",
+      "duration": "12:45",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "975f2794-53f7-4c60-b905-84be92706da7",
+      "generatedAt": "2026-08-05T19:52:22.764Z"
     },
     {
       "episodeOrder": 21,

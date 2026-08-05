@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-05T17:24:43.018Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-05T17:28:20.485Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Geometric Optics: Snell’s Law and the Refracting Surface",
-      "description": "How light bends at interfaces — the principle behind every lens, tear film, and cornea.",
+      "title": "Snell's Law Explained: Light, Lenses & Refracting Surfaces",
+      "description": "Why does a straw look bent in a glass of water? Why does a swimming pool always appear shallower than it really is? The answer lies in one of the most elegant principles in all of physics — Snell's Law. In this episode of Focus Cast by Focuslinks.in, we break down exactly how light behaves when it crosses from one material into another, and why that behavior shapes nearly everything you see and use every day.\n\nWe start with the refractive index and what it actually means for the speed of light inside different materials. Then we walk through Snell's Law step by step, with a clear numerical example that makes the math click. From there, we move into the fascinating world of refracting surfaces — curved boundaries between transparent media that can bend light rays to a precise focal point. This is the core principle behind every camera lens, microscope, telescope, and pair of eyeglasses ever made.\n\nWe also explore how the human eye works as a living optical system, what goes wrong in nearsightedness and farsightedness, and how corrective lenses apply Snell's Law to fix the problem. And we close with total internal reflection — the dramatic phenomenon that makes fiber optic communication possible and keeps the modern internet running at the speed of light.\n\nNo heavy jargon, no dry textbook explanations. Just clear, engaging science that connects the formula to the real world. Whether you are a student, a curious professional, or simply someone who loves understanding how things work, this episode will change the way you look at light.\n\nListen now and visit Focuslinks.in for more episodes and learning resources.",
       "tags": "snells-law,refraction,optics,geometric",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-02.mp3",
+      "duration": "10:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785950899845",
+      "generatedAt": "2026-08-05T17:28:19.845Z"
     },
     {
       "episodeOrder": 3,

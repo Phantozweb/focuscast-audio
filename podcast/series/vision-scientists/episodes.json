@@ -9,7 +9,7 @@
   "order": 5,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-05T19:56:26.279Z",
+  "lastUpdated": "2026-08-05T19:56:34.494Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,16 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Retinal Image Quality: How Your Eye Sees the World",
-      "description": "Your eye forms a real, physical image every second of every waking moment — but how good is that image, really? In this episode of Focus Cast, we explore the fascinating science of retinal image quality and what it truly means for the eye to function as an optical instrument.\n\nWe break down how light travels through the cornea, pupil, and lens before landing on the retina, and why the eye — despite being a marvel of biology — is far from a perfect optical system. You'll learn the difference between lower-order aberrations like myopia and astigmatism (the ones your glasses correct) and the lesser-known higher-order aberrations like coma, trefoil, and spherical aberration that affect your vision even with a perfect prescription. We also unpack why night driving causes halos and starbursts, how LASIK surgery can alter your aberration profile, and why pupil size is a constant optical trade-off.\n\nBut the story doesn't stop at imperfection. We explore the remarkable ways your visual system fights back — from the directional sensitivity of foveal photoreceptors in the Stiles-Crawford effect, to how the brain performs real-time image enhancement, to how chromatic aberration is quietly managed through retinal sensitivity. We also look at cutting-edge technologies like wavefront aberrometry and adaptive optics that are transforming how clinicians measure and correct retinal image quality.\n\nWhether you're a vision science enthusiast, an eye care professional, or someone who just picked up a new glasses prescription, this episode will change the way you think about sight. Listen now, and visit Focuslinks.in to explore more content on the science of vision.\n\n---",
+      "title": "Retinal Image Quality: How the Eye Works as an Optical Instrument",
+      "description": "Have you ever wondered why your vision is razor-sharp when you look straight ahead but blurry at the edges? Or why streetlights seem to glow with halos at night? The answer lies in retinal image quality — and it reveals something surprising: the human eye is a beautifully imperfect optical instrument.\n\nIn this episode of Focus Cast, we break down exactly how the eye forms images, from the moment light hits your cornea to the final picture assembled on your retina. We explore the science of optical aberrations, including lower order aberrations like myopia, hyperopia, and astigmatism, as well as the more complex higher order aberrations like coma, trefoil, and spherical aberration that standard glasses simply cannot fix.\n\nWe also unpack the fascinating role of the fovea — that tiny, pinhead-sized region responsible for all your sharp, detailed vision — and explain why your peripheral vision is far less clear than your brain leads you to believe. You will learn how pupil size directly affects image quality, why many people see better in bright daylight than at night, and why this matters so much for laser eye surgery.\n\nFinally, we dive into one of the most exciting frontiers in vision science: adaptive optics. Originally developed for astronomy, this technology can now correct every aberration in the human eye and even photograph individual photoreceptor cells in a living retina.\n\nWhether you wear glasses, have had laser eye surgery, or are simply curious about how vision works, this episode will change the way you see — literally.\n\nListen now and visit focuslinks.in for more episodes and articles on vision science.\n\n---",
       "tags": "mtf,image-quality,neural,blur",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-25.mp3",
-      "duration": "12:29",
+      "duration": "12:58",
       "imageUrl": "",
       "status": "generated",
-      "runId": "eda9c186-f46b-4fa5-9214-f2b8aac15fde",
-      "generatedAt": "2026-08-05T19:54:03.206Z"
+      "runId": "8a4b6ada-76c0-4383-98c9-564f2cbdaee7",
+      "generatedAt": "2026-08-05T19:56:34.494Z"
     },
     {
       "episodeOrder": 26,

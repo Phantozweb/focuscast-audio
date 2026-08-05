@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T19:26:34.725Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-05T19:29:26.950Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Central Retinal Artery Occlusion: The 90-Minute Emergency",
-      "description": "The cherry-red spot, immediate interventions, and the carotid and cardiac workup that follows.",
+      "title": "Central Retinal Artery Occlusion: The 90-Minute Eye Emergency",
+      "description": "What if you woke up one morning and the vision in one eye was simply gone — no pain, no warning, just darkness? That's the terrifying reality of Central Retinal Artery Occlusion (CRAO), a condition often called a \"stroke of the eye,\" and most people have never heard of it until it's too late.\n\nIn this episode of Focus Cast, we break down everything you need to know about CRAO — what it is, why it happens, who's at risk, and why the 90-minute window after symptoms begin can mean the difference between saving your sight and losing it permanently. We cover the silent warning signs like sudden painless vision loss and Amaurosis Fugax, the strong connection between CRAO and heart disease or stroke, and the treatment options doctors use when you arrive at the emergency room in time.\n\nThis isn't just a medical deep-dive — it's a potentially life-changing listen. Whether you have high blood pressure, diabetes, high cholesterol, or a history of cardiovascular disease, this episode gives you the knowledge to recognize a vision emergency and act fast when every minute counts.\n\nBecause with Central Retinal Artery Occlusion, time is sight.\n\nListen now, share this episode with someone you care about, and visit FocusLinks.in for more eye health resources and episodes from Focus Cast. Your vision is worth protecting — don't wait until it's at risk to start paying attention.\n\n---",
       "tags": "crao,cherry-red,emergency,carotid",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-22.mp3",
+      "duration": "11:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "497a0070-858b-4879-8fa3-eaab8b3abb0a",
+      "generatedAt": "2026-08-05T19:29:26.950Z"
     },
     {
       "episodeOrder": 23,

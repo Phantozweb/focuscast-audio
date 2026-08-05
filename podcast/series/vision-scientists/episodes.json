@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-05T18:02:42.173Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-05T18:06:03.178Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Hyperopia: The Short Eye and the Accommodative Burden",
-      "description": "Latent hyperopia, the accommodative spasm, and why children with high plus present with headaches.",
+      "title": "Hyperopia Explained: Why Farsighted Eyes Work Overtime",
+      "description": "Did you know your eyes could be working overtime every single day without you even realizing it? In this episode of Focus Cast, we take a deep dive into hyperopia, also known as farsightedness, one of the most common yet most misunderstood refractive errors in eye care.\n\nWe break down exactly what hyperopia is, why a slightly short eyeball causes so much trouble, and how your eye's built-in focusing system called accommodation quietly compensates for the problem, often for years or even decades. You'll learn why hyperopia is called the silent refractive error, how it can go completely undetected in children and lead to eye strain, headaches, and even learning difficulties in the classroom, and why so many adults in their forties suddenly feel like their vision has fallen off a cliff.\n\nWe also cover the full spectrum of hyperopia severity, the critical difference between a basic vision screening and a proper cycloplegic refraction, and why nearly all babies are born farsighted. Plus, we walk through all the correction options available today, from spectacle lenses and contact lenses to LASIK, LASEK, and implantable collamer lenses.\n\nWhether you're a parent wondering why your child struggles to concentrate at school, an adult who has never needed glasses but is suddenly squinting at your phone, or simply someone curious about how vision works, this episode is for you.\n\nListen now and discover what your eyes might be quietly carrying. Then visit Focuslinks.in for more eye health resources, expert insights, and future episodes of Focus Cast.",
       "tags": "hyperopia,accommodation,latency,headache",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-12.mp3",
+      "duration": "9:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953162579",
+      "generatedAt": "2026-08-05T18:06:02.579Z"
     },
     {
       "episodeOrder": 13,

@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T17:42:44.310Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-05T17:47:40.794Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Bacterial Keratitis: The Ulcer at the Slit Lamp",
-      "description": "Differentiating bacterial from fungal and Acanthamoeba — the morphological clues that guide empiric therapy.",
+      "title": "Bacterial Keratitis: Corneal Ulcer Diagnosis & Treatment Guide",
+      "description": "What does a corneal ulcer actually look like at the slit lamp — and how fast can it steal your vision? In this episode of Focus Cast by Focuslinks.in, we take a deep dive into bacterial keratitis, one of the most urgent and vision-threatening conditions in ophthalmology. Whether you are a medical student, optometry resident, or seasoned eye care professional, this episode delivers the clinical clarity you need.\n\nWe start with the basics — why the cornea's avascular nature makes it uniquely vulnerable to infection — and move into the real-world risk factors that matter most, from contact lens wear and corneal trauma to chronic steroid use and systemic immunosuppression. You will learn which organisms to suspect based on patient history and geography, including why Pseudomonas aeruginosa is every corneal specialist's least favourite phone call.\n\nThen we walk through the slit lamp findings step by step: epithelial defects, stromal infiltrates, hypopyon, and the subtle edge characteristics that help you identify the causative organism before your culture results return. We cover the full management approach, including intensive topical fluoroquinolone therapy, fortified antibiotic combinations, the critical role of corneal scraping, and the nuanced, high-stakes debate around steroid use in active infection.\n\nWe also discuss when to escalate — tissue adhesive, therapeutic keratoplasty — and how simple contact lens hygiene habits can prevent most of these cases from ever reaching your clinic.\n\nIf bacterial keratitis has ever made you second-guess your next move, this episode is for you. Listen now, and visit Focuslinks.in for more eye care education built for clinicians who want to stay sharp.",
       "tags": "bacterial,ulcer,keratitis,infection",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-06.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952060116",
+      "generatedAt": "2026-08-05T17:47:40.116Z"
     },
     {
       "episodeOrder": 7,

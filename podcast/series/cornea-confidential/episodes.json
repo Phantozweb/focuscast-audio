@@ -9,7 +9,7 @@
   "order": 3,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T19:46:59.747Z",
+  "lastUpdated": "2026-08-05T19:47:02.242Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -365,15 +365,15 @@
     {
       "episodeOrder": 28,
       "title": "Anterior Segment OCT: Imaging What the Slit Lamp Misses",
-      "description": "What if your slit lamp has been leaving critical diagnoses on the table? In this episode of Focus Cast, we explore the transformative power of Anterior Segment OCT (AS-OCT) and why it has become an indispensable tool for modern eye care clinicians.\n\nWe start with the cornea, where AS-OCT moves you from estimation to measurement. From precise pachymetry maps for keratoconus screening to determining the exact depth of corneal scars for surgical planning, the difference between seeing and understanding has never been clearer. We then dive into Fuchs endothelial dystrophy, where objective corneal thickness monitoring can sharpen your decision-making for DMEK and DSAEK procedures.\n\nNext, we tackle the anterior chamber angle, a structure the slit lamp simply cannot show you directly. Discover how AS-OCT detects appositional angle closure without contact or pressure artifact, and how it can reveal the subtle but critical findings of plateau iris syndrome that even gonioscopy can miss.\n\nWe also cover post-surgical assessment, including LASIK flap evaluation, DMEK graft apposition monitoring, and bleb architecture analysis after trabeculectomy. Finally, we explore the growing role of AS-OCT in epithelial thickness mapping for early ectasia detection, scleral lens fitting, and ocular surface disease management.\n\nThe slit lamp remains the cornerstone of anterior segment care, but AS-OCT completes it by answering the questions it raises but cannot resolve alone. If you want to see beneath the surface and make more confident clinical decisions, this episode is for you.\n\nListen now and visit Focuslinks.in for more eye care content designed for clinicians who never stop looking closer.\n\n---",
+      "description": "What if your slit lamp has been leaving critical clinical information on the table? In this episode of Focus Cast by Focuslinks.in, we explore the transformative power of anterior segment OCT and why it has become one of the most important diagnostic tools in modern eye care.\n\nWe break down how anterior segment OCT goes far beyond what the slit lamp can offer, delivering micron-level, cross-sectional imaging of the cornea, anterior chamber angle, iris, and crystalline lens without ever touching the eye. From detecting subclinical keratoconus through epithelial thickness mapping to non-contact angle imaging for glaucoma and narrow-angle risk assessment, this episode covers the clinical applications that are genuinely changing patient outcomes.\n\nWe also dive into how anterior segment OCT is reshaping contact lens practice, including scleral lens vault assessment and tear meniscus measurement for dry eye diagnosis, as well as its growing role in cataract surgery planning and intraoperative imaging during corneal transplant procedures like DMEK and DSAEK.\n\nWhether you are a comprehensive ophthalmologist, a glaucoma specialist, a corneal surgeon, or an optometrist building out your diagnostic capabilities, this episode gives you a clear, practical framework for understanding where anterior segment OCT fits into your workflow and where to start if you are just getting started.\n\nIf you want to see more, diagnose earlier, and document with confidence, this is the episode for you. Listen now, share it with a colleague who would find it valuable, and visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "as-oct,angle,scleral,imaging",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-28.mp3",
-      "duration": "12:33",
+      "duration": "12:17",
       "imageUrl": "",
       "status": "generated",
-      "runId": "136bd889-e07b-4e6b-8910-c358efca519a",
-      "generatedAt": "2026-08-05T19:46:59.147Z"
+      "runId": "3575ad71-982d-4b43-8879-165ae62cb010",
+      "generatedAt": "2026-08-05T19:47:02.242Z"
     },
     {
       "episodeOrder": 29,

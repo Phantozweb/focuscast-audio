@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T17:38:36.375Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-05T17:41:56.193Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Prisms: Bending Light Without Changing Focus",
-      "description": "Prism diopters, base direction, and how prisms relieve diplopia and measure deviations.",
+      "title": "How Prisms Bend Light Without Changing Focus",
+      "description": "What if a tiny piece of glass could fold light, flip an image, and redirect an entire beam — all without blurring a single detail? In this episode of Focus Cast by Focuslinks.in, we explore the fascinating science of prisms and uncover why bending light without changing focus is one of the most powerful and underappreciated ideas in optics.\n\nMost people know prisms as the things that split white light into rainbows. But reflective prisms do something far more remarkable. Using a principle called total internal reflection, they redirect and fold light paths with virtually zero loss of brightness or image sharpness. No blur. No distortion. Just perfectly preserved focus.\n\nWe break down exactly how this works and why it matters — from the Porro and roof prisms packed inside your binoculars that make compact magnification possible, to the pentaprism inside SLR cameras that delivers a sharp, correctly oriented image through your viewfinder. We also cover how periscopes on submarines rely on prisms for clearer, more durable optics than traditional mirrors, and how the Dove prism can rotate an entire field of view just by spinning a small piece of glass.\n\nBeyond the gadgets, we explore how this same principle powers medical endoscopes, laser systems, spectrometers, and precision surveying equipment — technologies that quietly shape modern science and medicine.\n\nWhether you're a photography enthusiast, a science curious listener, or someone who simply wants to understand how the world works, this episode will change the way you see optical instruments forever.\n\nTune in, and the next time you pick up a pair of binoculars, you'll know exactly what's happening inside. Visit Focuslinks.in for more episodes and articles on everything optics.",
       "tags": "prism,diopter,base,diplopia",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-06.mp3",
+      "duration": "9:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951715602",
+      "generatedAt": "2026-08-05T17:41:55.602Z"
     },
     {
       "episodeOrder": 7,

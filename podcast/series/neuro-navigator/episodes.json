@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T20:26:38.047Z",
+  "lastUpdated": "2026-08-05T20:26:44.836Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,16 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Optic Neuritis, the ONTT & the MRI That Predicts MS Risk",
-      "description": "What if a single eye symptom was your nervous system's first warning sign? In this episode of Focus Cast, we dive deep into optic neuritis — the sudden, painful vision loss that is often the earliest clue to multiple sclerosis — and explore the landmark clinical trial that changed how we treat and understand it.\n\nWe break down the Optic Neuritis Treatment Trial (ONTT), a pivotal study that revealed why intravenous steroids speed recovery, why standard oral prednisone can actually increase recurrence risk, and why long-term visual outcomes may surprise you. But the real game-changer from the ONTT was not about treatment at all — it was about prediction.\n\nDiscover how a single brain MRI taken at the time of an optic neuritis episode can dramatically shift a patient's risk profile for developing MS. With a clean MRI carrying roughly a 22% ten-year MS risk versus over 70% with three or more white matter lesions, this one scan can shape years of clinical decision-making, from watchful waiting to early disease-modifying therapy.\n\nWe also cover clinically isolated syndrome (CIS), the McDonald Criteria, Uhthoff's phenomenon, and what shared decision-making really looks like when patients face uncertain but serious risk.\n\nWhether you are a patient navigating a frightening new diagnosis, a medical student building your neurology foundation, or a clinician looking for a clear evidence-based refresher, this episode delivers the clarity you need.\n\nIf you found this episode valuable, share it with someone who needs to hear it. Visit Focuslinks dot in for more episodes and resources from the Focus Cast community.\n\n---",
+      "title": "Optic Neuritis, the ONTT & Why Your MRI Changes Everything",
+      "description": "What starts as washed-out colors and a dull ache behind your eye could be the first warning sign of multiple sclerosis. In this episode of Focus Cast, we break down optic neuritis — inflammation of the optic nerve — and explore why this seemingly isolated eye condition carries life-changing neurological implications.\n\nWe dive deep into the landmark Optic Neuritis Treatment Trial (ONTT), the clinical study that reshaped how doctors treat this condition. You'll learn why high-dose IV steroids speed visual recovery, why standard oral prednisone was found to increase recurrence risk, and why — despite all the treatment debate — most patients recover meaningful vision on their own.\n\nBut the real turning point in this episode is the MRI. We explain how a single brain scan at the time of a first optic neuritis episode can predict your ten-year risk of developing MS, with risk jumping from roughly 25% to over 70% depending on what the imaging reveals. We also cover the McDonald Criteria, how early MS diagnosis is now possible after just one clinical episode, and why distinguishing optic neuritis from conditions like NMOSD and MOG antibody-associated disease is critical for choosing the right treatment.\n\nWhether you're a patient, a caregiver, or simply someone curious about the intersection of eye health and neurology, this episode gives you the knowledge to understand what's at stake and why early evaluation matters.\n\nIf you've ever experienced sudden vision changes or eye pain, don't wait — listen to this episode and then speak to your doctor. Visit Focus Cast at focuslinks.in for more episodes that make complex medical topics clear and accessible.\n\n---",
       "tags": "optic-neuritis,ontt,mri,ms",
-      "category": "Optic Nerve",
+      "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-10.mp3",
-      "duration": "11:00",
+      "duration": "12:52",
       "imageUrl": "",
       "status": "generated",
-      "runId": "43380972-66a5-4e6e-988d-066a4eef88dd",
-      "generatedAt": "2026-08-05T20:24:53.384Z"
+      "runId": "e8620d39-c341-4f55-b851-831c5fc2d78a",
+      "generatedAt": "2026-08-05T20:26:44.836Z"
     },
     {
       "episodeOrder": 11,

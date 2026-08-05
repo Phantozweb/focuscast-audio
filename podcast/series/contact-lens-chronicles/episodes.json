@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T20:04:43.633Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-05T20:05:45.690Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -321,14 +321,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "CL-Related Infection: Prevention and the Risk Lens",
-      "description": "The extended-wear risk, the water exposure rule, and the hygiene counseling that prevents ulcers.",
+      "title": "Contact Lens Infections: Prevention & the Risk Lens Explained",
+      "description": "Are you putting your vision at risk without even knowing it? In this eye-opening episode of Focus Cast by Focuslinks.in, we dive deep into contact lens related infections, one of the most common yet preventable threats to eye health affecting millions of wearers worldwide.\n\nWe break down exactly how contact lens infections develop, why the cornea is uniquely vulnerable, and what makes certain everyday habits so dangerous. From microbial keratitis to the terrifying Acanthamoeba organism found in ordinary tap water, you will learn what is actually happening when hygiene goes wrong and why the consequences can be permanent.\n\nThis episode introduces the risk lens framework, a smarter, more practical way to think about contact lens safety. Rather than a list of rules, it is a mindset shift that helps you understand how small daily choices compound into serious outcomes over time. We also explore the psychology behind why so many wearers underestimate familiar risks, including the optimism bias that keeps people repeating dangerous habits even after years of wearing lenses.\n\nYou will walk away knowing the six most critical hygiene practices every contact lens wearer must follow, the truth about sleeping in lenses, topping off solution, and wearing lenses in water, and how newer lens technologies are changing the safety landscape.\n\nWhether you wear lenses daily or know someone who does, this episode delivers practical, potentially sight-saving information you will want to share.\n\nListen now and start seeing your contact lens routine through a clearer, safer lens. Visit Focuslinks.in for more episodes and resources on topics that truly matter.\n\n---",
       "tags": "infection,extended-wear,hygiene,ulcer",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-25.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9ce13af2-9742-413e-b032-d9b5c2c78c7d",
+      "generatedAt": "2026-08-05T20:05:45.690Z"
     },
     {
       "episodeOrder": 26,

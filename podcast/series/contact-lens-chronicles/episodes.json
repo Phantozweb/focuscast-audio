@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:06:07.994Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T20:06:41.063Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -347,14 +347,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "CL Over-Refraction: Troubleshooting Vision at the Chair",
-      "description": "The sphero-cyl over-refraction, the lens power adjustment, and the rotation compensation.",
+      "title": "Contact Lens Over-Refraction: Troubleshoot Vision at the Chair",
+      "description": "Struggling to figure out why your contact lens patient's vision just isn't right? In this episode of Focus Cast by Focuslinks.in, we break down the clinical art of contact lens over-refraction and give you a practical, step-by-step framework for troubleshooting vision problems right at the chair.\n\nWe cover everything you need to know to move from confusion to clarity — starting with what an over-refraction actually tells you and why it's your diagnostic starting point, not your endpoint. You'll learn how to interpret significant spherical findings, when residual astigmatism means it's time to switch to a toric lens, and how to identify and correct toric lens rotation using the LARS rule. We also tackle the trickier scenarios — when the numbers look fine but the patient still isn't happy — and walk through how dry eye, corneal warpage, multifocal optics, and corneal molding from long-term RGP wear can all affect vision in ways a standard refraction won't fully capture.\n\nWhether you're an experienced optometrist, an optician expanding into contact lens fitting, or a student building your clinical foundation, this episode delivers real, chair-side tools you can apply immediately. We also touch on why proper documentation of your over-refraction findings protects you and streamlines every follow-up visit.\n\nIf you want to sharpen your contact lens troubleshooting skills and give your patients a better experience, this episode is essential listening.\n\nSubscribe to Focus Cast and visit Focuslinks.in for more clinical episodes, practice-building resources, and tools designed specifically for eye care professionals.\n\n---",
       "tags": "over-refraction,troubleshooting,power,rotation",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-27.mp3",
+      "duration": "12:47",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "603faebf-987b-434e-8d8c-3ec2448452d1",
+      "generatedAt": "2026-08-05T20:06:41.063Z"
     },
     {
       "episodeOrder": 28,

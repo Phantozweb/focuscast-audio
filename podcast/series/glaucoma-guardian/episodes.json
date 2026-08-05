@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T19:50:36.406Z",
+  "lastUpdated": "2026-08-05T19:50:42.003Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -339,15 +339,15 @@
     {
       "episodeOrder": 26,
       "title": "MIGS Explained: Minimally Invasive Glaucoma Surgery Guide",
-      "description": "What if treating one of the world's leading causes of irreversible blindness required nothing more than a two-millimeter incision and a same-day recovery? Welcome to the world of Minimally Invasive Glaucoma Surgery — and this episode is your complete guide to understanding it.\n\nGlaucoma silently affects over 80 million people worldwide, stealing vision before most patients even realize something is wrong. For decades, treatment meant lifelong eye drops, laser therapy, or high-risk traditional surgery like trabeculectomy. But MIGS has changed the equation entirely — offering ophthalmologists and patients a safer, faster, and less disruptive path to controlling intraocular pressure.\n\nIn this episode of Focus Cast, we break down the entire MIGS landscape — from trabecular meshwork procedures like the iStent and Hydrus Microstent, to subconjunctival approaches like the XEN Gel Stent, suprachoroidal devices, and laser-based options like endocyclophotocoagulation (ECP). We explore how each procedure works, what the clinical evidence says, and why the combination of MIGS with cataract surgery is proving to be a game-changer for millions of patients.\n\nWe also dig into patient selection — who benefits most from MIGS, why medication adherence makes surgical intervention more compelling than ever, and how the philosophy of glaucoma management is shifting from reactive treatment to proactive, quality-of-life-focused care.\n\nWhether you're a patient navigating a new glaucoma diagnosis, a caregiver seeking clarity, or an eye care professional looking to stay current, this episode delivers the foundational knowledge you need.\n\nListen now and visit **focuslinks.in** to explore more episodes on the latest in ophthalmology and eye care innovation.\n\n---",
+      "description": "What if glaucoma surgery required an incision smaller than a millimeter and let you return to normal life within days? Welcome to the world of Minimally Invasive Glaucoma Surgery — and this episode breaks it all down in a way that actually makes sense.\n\nGlaucoma silently affects over 80 million people worldwide, making it the leading cause of irreversible blindness globally. For decades, managing intraocular pressure meant a lifetime of eye drops or high-risk traditional surgeries. MIGS has changed that conversation entirely — and in this episode of Focus Cast, we explore exactly how.\n\nWe cover the four major categories of MIGS procedures, including trabecular-based devices like the iStent and Hydrus Microstent, subconjunctival options like the Xen Gel Stent and PreserFlo MicroShunt, suprachoroidal approaches, and incisional techniques using tools like the Kahook Dual Blade and OMNI Surgical System. You will learn how each targets the eye's natural drainage system, who makes the ideal candidate, and why combining MIGS with cataract surgery is proving to be a game-changer for patients with mild to moderate glaucoma.\n\nWe also discuss the real-world impact on medication adherence, the economic burden of glaucoma eye drops, and what the future holds — from drug-eluting implants to AI-assisted patient selection.\n\nWhether you are a patient navigating a glaucoma diagnosis, a caregiver seeking answers, or an eye care professional staying current with evolving surgical options, this episode delivers clear, evidence-informed insights you can act on.\n\nListen now and discover why MIGS is reshaping glaucoma care globally. For more ophthalmology insights and eye health resources, visit us at focuslinks.in.\n\n---",
       "tags": "migs,istent,minimally-invasive,surgery",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-26.mp3",
-      "duration": "12:31",
+      "duration": "12:22",
       "imageUrl": "",
       "status": "generated",
-      "runId": "51af3efc-6b79-42b1-9ed6-89fcc4d4c8bd",
-      "generatedAt": "2026-08-05T19:50:25.950Z"
+      "runId": "4b7d396b-ab5f-4cd9-891a-d795f0e5aebb",
+      "generatedAt": "2026-08-05T19:50:42.003Z"
     },
     {
       "episodeOrder": 27,

@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T20:23:09.527Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T20:23:14.920Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -154,14 +154,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Giant Cell Arteritis: The Steroids Before the Biopsy",
-      "description": "The jaw claudication, the scalp tenderness, and the immediate high-dose steroid that prevents bilateral blindness.",
+      "title": "Giant Cell Arteritis: Start Steroids Before the Biopsy?",
+      "description": "Can starting steroids before a biopsy cost your patient their diagnosis — or could waiting cost them their sight? In this episode of Focus Cast, we tackle one of the most clinically urgent debates in medicine: whether to treat Giant Cell Arteritis before confirming it with a temporal artery biopsy.\n\nGiant Cell Arteritis, or GCA, is a large vessel vasculitis that predominantly affects adults over fifty and carries a devastating risk of permanent vision loss. The window to act is narrow, and the consequences of hesitation are irreversible. Yet many clinicians still pause, worried that starting high-dose steroids will invalidate the biopsy result.\n\nWe break down exactly why that concern, while understandable, should not delay treatment. You will learn how long histological changes actually persist after steroid initiation, what the recommended steroid dosing looks like for both uncomplicated GCA and cases with visual involvement, and why a negative biopsy does not close the diagnostic case. We also cover the role of skip lesions, the importance of biopsy length, and how emerging tools like temporal artery ultrasound and PET CT are reshaping the diagnostic pathway.\n\nWhether you are a medical student building your clinical reasoning skills, a junior doctor navigating a real-time emergency, or a seasoned clinician looking for a sharp refresher, this episode gives you the framework to act decisively when it matters most.\n\nListen now and share this episode with a colleague who manages patients at risk for GCA. For more evidence-based medical podcast episodes, visit Focuslinks dot in.\n\n---",
       "tags": "gca,steroids,biopsy,blindness",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-12.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "00c031e0-19d2-459a-9868-40d3b1a8b736",
+      "generatedAt": "2026-08-05T20:23:14.920Z"
     },
     {
       "episodeOrder": 13,

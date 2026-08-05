@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T17:43:02.645Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-05T17:46:23.979Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Pupil Examination: The Direct and Consensual Pathway",
-      "description": "A reproducible six-step pupil exam and what anisocoria at different light levels means.",
+      "title": "Pupil Examination: Direct & Consensual Light Reflex Explained",
+      "description": "Ever wondered what your eye doctor is actually looking for when they shine that little torch in your eye? In this episode of Focus Cast, we break down one of the most powerful — and most underappreciated — tests in all of clinical medicine: the pupil examination.\n\nWe walk you through the complete neurological pathway behind the direct light reflex, from the moment light hits your retina to the split-second muscle response that makes your pupil constrict. Then we explore the consensual light reflex — the remarkable reason why shining light into one eye causes *both* pupils to respond simultaneously — and why that elegant cross-communication between the two sides of your brain is so diagnostically valuable.\n\nYou'll also learn how eye doctors use these reflexes to pinpoint problems along the visual and motor pathways, what a third nerve palsy looks like and why it can signal a medical emergency, and how the swinging flashlight test detects a relative afferent pupillary defect (RAPD) — a key sign of optic nerve disease in conditions like optic neuritis, glaucoma, and multiple sclerosis.\n\nWhether you're an optometry or medical student, a healthcare professional brushing up on the basics, or simply a curious person who wants to understand what happens during an eye exam, this episode delivers clear, engaging explanations without sacrificing clinical depth.\n\nYour pupils reveal more about your brain and nervous system than you might ever have imagined — and now you'll know exactly what they're saying.\n\nListen now, and visit Focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "pupils,anisocoria,rapd,neuro",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-11.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7c8c4bba-8a17-483e-819b-99f7f4c9a089",
+      "generatedAt": "2026-08-05T17:46:23.347Z"
     },
     {
       "episodeOrder": 12,

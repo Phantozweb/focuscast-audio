@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-05T19:46:04.924Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-05T19:46:08.101Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Field Progression: GPA, Trend Analysis, and Clinical Judgment",
-      "description": "Distinguishing true progression from variability and the threshold that triggers escalation.",
+      "title": "Glaucoma Visual Field Progression: GPA & Trend Analysis",
+      "description": "Is your glaucoma patient getting worse — and how fast? These two questions drive every management decision in glaucoma care, yet the answers are buried inside visual field reports that can feel overwhelming to interpret. In this episode of Focus Cast, we break down the essential framework for analyzing visual field progression with clarity and confidence.\n\nWe start with Guided Progression Analysis (GPA), the Humphrey Field Analyzer's event-based detection tool, explaining exactly how it establishes baselines, flags significant change, and filters out the natural variability of perimetric testing. Then we move into trend analysis, including mean deviation slope and pointwise linear regression, showing you how to calculate the rate of progression and why that rate can mean the difference between manageable vision loss and functional blindness within a patient's lifetime.\n\nBut data alone is never enough. We explore the critical role of clinical judgment — how to handle unreliable tests, avoid the learning effect trap, correlate visual field findings with OCT structural data, and factor in patient-specific variables like age, life expectancy, and fellow eye status. We also connect progression data directly to target IOP decisions, because lowering pressure is only meaningful if it actually stops the disease from advancing.\n\nWhether you are a glaucoma specialist, an optometrist managing chronic disease, or a trainee building your clinical foundation, this episode gives you a practical, evidence-informed approach to one of the most consequential skills in eye care.\n\nListen now and start seeing your visual field reports in a whole new way. Visit Focuslinks.in for more episodes and clinical resources.\n\n---",
       "tags": "progression,gpa,trend,escalation",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-19.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a60ecd13-13fb-469d-9888-362cd0498e57",
+      "generatedAt": "2026-08-05T19:46:08.101Z"
     },
     {
       "episodeOrder": 20,

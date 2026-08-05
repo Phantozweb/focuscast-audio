@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-05T17:41:56.193Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-05T17:49:08.827Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Vertex Distance: Why the Refraction and the Glasses Differ",
-      "description": "The vertex conversion formula and why a contact lens power is not the spectacle power.",
+      "title": "Vertex Distance: Why Your Glasses and Refraction Differ",
+      "description": "Ever picked up a brand-new pair of glasses and felt like something was just slightly off — even though your prescription was perfectly accurate? The answer might have nothing to do with your eyes and everything to do with vertex distance. In this episode of Focus Cast by Focuslinks.in, we break down one of the most overlooked concepts in optics and vision correction.\n\nVertex distance is the measurement between the back of a lens and the front of your cornea. It sounds simple, but even a few millimeters of difference between where lenses sit during your eye exam and where they sit in your actual glasses frame can meaningfully change the effective power reaching your eye — especially for prescriptions stronger than plus or minus four diopters.\n\nWe cover exactly why high myopes often notice sharper vision after pushing their glasses up, why contact lens prescriptions cannot simply be copied from a spectacle prescription, and how vertex distance affects progressive lenses and reading additions. You will also learn about the vertex distance compensation formula, what the notation \"VD 12\" on your prescription actually means, and what questions to ask your optician when switching to a new frame style.\n\nWhether you wear glasses, contact lenses, or both, understanding vertex distance gives you a clearer picture of the precision that goes into every prescription. This episode is packed with practical insights that eye care professionals use every day — explained in plain language anyone can follow.\n\nListen now and share this episode with anyone who has ever wondered why their new glasses felt slightly different from what they experienced in the exam room. For more episodes and vision care resources, visit Focuslinks.in.",
       "tags": "vertex,conversion,contact-lens,spectacle",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-07.mp3",
+      "duration": "9:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952148225",
+      "generatedAt": "2026-08-05T17:49:08.225Z"
     },
     {
       "episodeOrder": 8,

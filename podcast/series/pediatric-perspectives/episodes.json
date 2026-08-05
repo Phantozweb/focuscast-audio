@@ -8,19 +8,21 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:29.895Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-05T20:06:00.505Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Infant Eye Exam: The First Six Months",
-      "description": "Red reflex, fixation, and the acuity cards — what to check and when to refer in the baby eye exam.",
+      "title": "Infant Eye Exam: What Every Parent Must Know (0–6 Months)",
+      "description": "Did you know your newborn's vision is still developing — and the first six months could determine how well they see for the rest of their life? In this eye-opening episode of Focus Cast, we break down everything parents need to know about infant eye exams in the critical first six months of life.\n\nWe cover how a baby's visual system develops from birth, why this window of time is so important for catching problems early, and what actually happens during a professional infant eye exam — no reading charts required. You'll learn about key screening techniques like the red reflex test and preferential looking, understand conditions like strabismus and amblyopia (lazy eye), and discover the real-life impact of early detection through a story that every parent needs to hear.\n\nWe also walk you through the visual milestones to watch for at home month by month, the red flags that should prompt an immediate call to your doctor, and why passing a routine pediatric checkup doesn't always mean a comprehensive eye exam isn't needed. Plus, we share a simple, actionable plan to protect your baby's vision starting today.\n\nWhether you're a new parent, an expecting one, or simply curious about how infant vision works, this episode gives you the knowledge and confidence to take the right steps at the right time.\n\nListen now and share this episode with every parent in your life — because early vision care is one of the greatest gifts you can give your child. Visit Focuslinks.in for more episodes and resources to keep your family's vision in focus.\n\n---",
       "tags": "infant,red-reflex,fixation,teller",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-01.mp3",
+      "duration": "12:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "01ab14f2-6b66-44c6-8027-ffbf2cba9c4a",
+      "generatedAt": "2026-08-05T20:06:00.505Z"
     },
     {
       "episodeOrder": 2,

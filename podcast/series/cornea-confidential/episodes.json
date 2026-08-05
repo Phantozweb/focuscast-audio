@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T19:44:13.166Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-05T19:45:00.513Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -388,14 +388,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Graft Rejection: The Khodadoust Line and Urgent Steroids",
-      "description": "Recognizing the endothelial rejection line and the same-day steroid protocol that saves the graft.",
+      "title": "Khodadoust Line & Corneal Graft Rejection: Act Fast",
+      "description": "What does it mean when your ophthalmologist spots a Khodadoust line after a corneal transplant — and why does treatment need to start *right now*? In this episode of Focus Cast, we break down one of the most urgent scenarios in corneal medicine: endothelial graft rejection.\n\nWe start with the basics of corneal transplantation and why the eye's immune-privileged status isn't a guaranteed shield against rejection. From there, we explore the different types of graft rejection — epithelial, stromal, and endothelial — and explain why endothelial rejection is the most clinically dangerous. You'll learn exactly what the Khodadoust line is, how it was first described by ophthalmologist Ali Reza Khodadoust, and why its wave-like march across the donor cornea is a visual emergency that demands immediate steroid therapy.\n\nWe also cover the critical role of endothelial cell counts, why every hour of delayed treatment can mean permanent cell loss, and how intensive topical corticosteroids like prednisolone acetate are used to halt rejection in its tracks. Plus, we discuss long-term prevention strategies, the classic four R's of rejection warning signs — redness, reduced vision, photosensitivity, and pain — and how modern surgical techniques like DMEK have transformed rejection risk profiles.\n\nWhether you're a medical student, ophthalmology resident, or clinician managing post-keratoplasty patients, this episode gives you the clinical clarity you need to recognize and respond to corneal graft rejection with confidence.\n\nListen now and share this episode with a colleague who works in corneal or anterior segment medicine. Visit Focuslinks dot in for more focused, clinically relevant medical conversations.\n\n---",
       "tags": "rejection,khodadoust,steroid,graft",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-30.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c466e289-322b-4761-ab37-1342f833dce4",
+      "generatedAt": "2026-08-05T19:45:00.513Z"
     }
   ]
 }

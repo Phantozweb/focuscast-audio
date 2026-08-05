@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T18:15:29.090Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-05T18:17:25.835Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Pellucid Marginal Degeneration: The “Keratoconus Lookalike”",
-      "description": "The inferior crab-claw topographic pattern and why standard contact lens fitting fails these patients.",
+      "title": "Pellucid Marginal Degeneration: The Keratoconus Lookalike",
+      "description": "Is it really keratoconus — or something else entirely? In this episode of Focus Cast by Focuslinks.in, we dive deep into Pellucid Marginal Degeneration (PMD), a rare but clinically significant corneal condition that is frequently misdiagnosed as keratoconus, often leading patients down the wrong treatment path for years.\n\nWe break down exactly what Pellucid Marginal Degeneration is, how the cornea thins and bulges in a uniquely peripheral, inferior pattern, and why that distinctive butterfly or crab-claw topography sets it apart from keratoconus. You will learn how these two ectatic conditions differ in their age of onset, topographic signatures, contact lens fitting strategies, and surgical management — including why standard corneal cross-linking and central corneal transplants may fall short when PMD is the true diagnosis.\n\nWe also explore what living with this condition really feels like — the frustrating years of changing prescriptions, the relief of finally getting the right diagnosis, and how scleral lenses are transforming vision and quality of life for PMD patients. Plus, we touch on the emerging research into genetics, the possible overlap between PMD and keratoconus, and what the future of diagnosis may look like as imaging technology continues to advance.\n\nWhether you are a patient trying to make sense of a confusing corneal diagnosis, a student building your clinical knowledge, or a practitioner looking for a focused refresher, this episode delivers clear, practical, and genuinely useful insights.\n\nListen now and share with anyone navigating the complex world of corneal ectasia. Visit Focuslinks.in for more episodes and eye care resources.",
       "tags": "pmd,marginal,crab-claw,ectasia",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-15.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953844992",
+      "generatedAt": "2026-08-05T18:17:24.992Z"
     },
     {
       "episodeOrder": 16,

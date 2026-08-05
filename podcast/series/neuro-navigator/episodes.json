@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-05T20:23:04.441Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-05T20:23:09.527Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -200,14 +200,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Chiasmal Lesions: The Bitemporal Hemianopia",
-      "description": "The pituitary adenoma, the craniopharyngioma, and the junctional scotoma that flags the chiasm.",
+      "title": "Bitemporal Hemianopia: When Brain Tumors Steal Your Side Vision",
+      "description": "What if you were slowly going blind on both sides and had absolutely no idea? That is the unsettling reality of bitemporal hemianopia, a condition where damage to a tiny brain structure called the optic chiasm silently erases your entire peripheral vision, left and right, while your central vision remains perfectly intact. In this episode of Focus Cast, we break down exactly how this happens, why it is so dangerously easy to miss, and what it means for your health beyond just your eyes.\n\nWe explore the fascinating anatomy of the visual pathway, from the retina to the optic chiasm, and explain why a tumor pressing on this single crossroads in the brain can produce such a distinctive and diagnostically powerful pattern of vision loss. You will learn why pituitary adenomas are the most common culprit, how hormonal symptoms often appear before any visual changes, and why early detection through visual field testing can be genuinely life-saving.\n\nWe also cover the full spectrum of causes including craniopharyngiomas, meningiomas, and aneurysms, walk through how neuroimaging and blood tests guide diagnosis, and discuss treatment options ranging from transsphenoidal surgery to dopamine agonist medications that can shrink tumors without a single incision.\n\nWhether you are a patient, a caregiver, a student, or simply someone curious about how the brain and eyes work together, this episode offers clear, clinically grounded insights you will not forget.\n\nIf you or someone you know has been experiencing unexplained peripheral vision loss, headaches, or hormonal changes, do not wait. Visit Focuslinks dot in to explore more episodes, articles, and resources on eye health and vision science.\n\n---",
       "tags": "chiasm,bitemporal,pituitary,junctional",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-16.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d0b16b23-4245-4a96-a643-c4ad3f886869",
+      "generatedAt": "2026-08-05T20:23:09.527Z"
     },
     {
       "episodeOrder": 17,

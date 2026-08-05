@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-05T18:37:04.621Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-05T18:40:38.802Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Visual Fields: 24-2, 10-2, and the RNFL–Field Correspondence",
-      "description": "Choosing the right strategy, recognizing the arcuate scotoma, and the artifacts that mimic loss.",
+      "title": "Visual Fields 24-2 vs 10-2: RNFL Explained Simply",
+      "description": "Ever wondered what actually happens during a visual field test — and why your eye doctor sometimes orders different types? In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about the 24-2 and 10-2 visual field tests, and how they connect to the retinal nerve fiber layer (RNFL) in ways that can make or break early glaucoma detection.\n\nWe start with the 24-2, the gold standard for glaucoma screening, covering 54 test points across 24 degrees of your visual field. Then we zoom into the 10-2, a denser, more focused test that examines the central 10 degrees — the zone responsible for reading, driving, and face recognition — with 68 test points that can catch damage the 24-2 simply misses. You will learn why normal tension glaucoma and advanced glaucoma make the 10-2 not just useful, but essential.\n\nFrom there, we explore the structure-function relationship between the RNFL and visual field loss, explaining how thinning in specific regions of the nerve fiber layer corresponds directly to predictable patterns of field damage. We also cover the floor effect in advanced glaucoma, why OCT and visual field testing must work together, and how early versus late disease changes which tool leads the diagnostic conversation.\n\nWhether you are a patient managing glaucoma, a caregiver, or a curious learner, this episode gives you the clarity to understand your eye care on a deeper level.\n\nListen now and visit Focuslinks.in for more eye health episodes designed to keep you informed, empowered, and ahead of vision loss.",
       "tags": "visual-field,24-2,10-2,scotoma",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-18.mp3",
+      "duration": "10:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785955238350",
+      "generatedAt": "2026-08-05T18:40:38.350Z"
     },
     {
       "episodeOrder": 19,

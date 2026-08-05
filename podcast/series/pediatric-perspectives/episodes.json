@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T20:11:44.850Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-05T20:12:04.333Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -176,14 +176,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Nasolacrimal Duct Obstruction: The Tearing Infant",
-      "description": "The massage technique, the infection that complicates, and the probing age that resolves most cases.",
+      "title": "Nasolacrimal Duct Obstruction: Why Babies Have Watery Eyes",
+      "description": "Is your baby's eye constantly watery with crusty discharge every morning? You are not alone — and it is probably not an infection. In this episode of Focus Cast, we break down nasolacrimal duct obstruction, one of the most common eye conditions in newborns, and explain everything parents and clinicians need to know in plain, clear language.\n\nWe start with the anatomy — how the tear drainage system works and why a tiny membrane called the valve of Hasner fails to open in five to twenty percent of newborns. Then we walk through the classic clinical picture: persistent tearing, mucoid discharge, and crucially, a white and quiet eye that distinguishes this condition from conjunctivitis. We also cover complications like dacryocystitis and the rare but important congenital dacryocystocele that demands prompt attention.\n\nFrom there, we get practical. We explain the Crigler massage technique that parents can perform at home, discuss when topical antibiotics are and are not appropriate, and walk through the evidence behind watchful waiting versus early probing — including what the landmark PEDIG study actually found. We also cover what happens when conservative management is not enough, from nasolacrimal duct probing to silicone stenting and dacryocystorhinostomy.\n\nWhether you are a worried parent, a medical student preparing for exams, or a clinician refreshing your knowledge, this episode gives you a confident, evidence-based understanding of a condition you will encounter often.\n\nVisit Focuslinks.in to explore more episodes of Focus Cast and keep building your medical knowledge one clear conversation at a time.\n\n---",
       "tags": "nldo,tearing,massage,probing",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-14.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "62cc0d75-ff8d-4c12-8315-9d90f7789d62",
+      "generatedAt": "2026-08-05T20:12:04.333Z"
     },
     {
       "episodeOrder": 15,

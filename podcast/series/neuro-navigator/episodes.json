@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:29:18.270Z",
+  "lastUpdated": "2026-08-05T20:29:20.224Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -222,15 +222,15 @@
     {
       "episodeOrder": 17,
       "title": "Homonymous Hemianopia: When Half Your Vision Disappears",
-      "description": "What if half your visual world simply vanished — not because your eyes stopped working, but because your brain did? In this episode of Focus Cast, we take a deep dive into homonymous hemianopia, one of the most clinically significant yet underrecognized consequences of retrochiasmal lesions.\n\nWe start at the optic chiasm and trace the visual pathway through the optic tract, lateral geniculate nucleus, optic radiations, and all the way to the occipital cortex — unpacking exactly why damage anywhere along this retrochiasmal route causes the same half of the visual field to disappear in both eyes simultaneously. From there, we explore the most common causes, including stroke, traumatic brain injury, brain tumors, and demyelinating disease, and explain why the location of the lesion matters as much as its presence.\n\nYou will learn how concepts like congruity and macular sparing serve as powerful diagnostic clues, helping clinicians localize lesions with striking precision using nothing more than a visual field test. We also go beyond the clinical picture to explore what it actually feels like to live with this condition — the challenges with reading, driving, navigation, and the very real psychological toll it takes on patients and their families.\n\nFinally, we cover the latest in visual rehabilitation, from compensatory scanning training and prism glasses to visual restoration therapy and occupational support, offering a genuinely hopeful look at what modern care can achieve.\n\nWhether you are an eye care professional, a neurology student, or simply passionate about the science of vision, this episode will change the way you think about the brain's visual map.\n\nListen now, and visit focuslinks.in for more episodes and resources.\n\n---",
+      "description": "What if half your visual world vanished overnight and you never even noticed? That is the unsettling reality of homonymous hemianopia, a condition where damage to the brain silently erases an entire side of vision in both eyes. In this episode of Focus Cast, we break down one of the most clinically significant yet frequently overlooked consequences of retrochiasmal lesions.\n\nWe start with the anatomy, walking you through how visual information travels from the retina, through the optic chiasm, and all the way to the occipital cortex, and why any damage after that critical crossroads affects both eyes simultaneously. From there, we explore the most common causes, including stroke, brain tumors, traumatic brain injury, and demyelinating diseases like multiple sclerosis, and explain how the precise location of a lesion shapes the pattern of visual field loss.\n\nBut this episode goes beyond the clinical. We talk honestly about what it feels like to live with homonymous hemianopia, from the dangers of driving to the frustration of reading, and the very real psychological toll of losing half your world. We also cover the three main rehabilitation approaches, compensatory training, optical prisms, and restorative therapy, and why early identification and referral can make a life-changing difference for patients.\n\nWhether you are an eye care professional, a neurology student, or simply someone fascinated by the science of vision, this episode will change the way you think about what it means to truly see.\n\nListen now and visit Focuslinks dot in for more episodes, clinical resources, and everything eye care.\n\n---",
       "tags": "retrochiasmal,homonymous,congruity,macular-sparing",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-17.mp3",
-      "duration": "12:28",
+      "duration": "12:38",
       "imageUrl": "",
       "status": "generated",
-      "runId": "0aa36449-aee6-4048-89ac-7f0caed082b6",
-      "generatedAt": "2026-08-05T20:27:08.043Z"
+      "runId": "3f49f87f-a03a-455e-b2a0-937f1c5ab56b",
+      "generatedAt": "2026-08-05T20:29:19.650Z"
     },
     {
       "episodeOrder": 18,
@@ -336,16 +336,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Functional Visual Loss: Understanding the Non-Organic Patient",
-      "description": "What happens when a patient can't see — but every test comes back completely normal? In this eye-opening episode of Focus Cast, we dive deep into functional visual loss, also known as non-organic or psychogenic visual loss, one of the most misunderstood and underappreciated conditions in eye care today.\n\nWe break down exactly what functional visual loss is, why it's not the same as faking or malingering, and who is most likely to be affected. From school-age children dealing with hidden stress to adults navigating trauma, anxiety, or conversion disorders, the reality of this condition is far more nuanced than most people expect.\n\nYou'll learn how clinicians use clever diagnostic techniques — like the fogging test, tubular visual field analysis, and visual evoked potentials — to uncover inconsistencies that point toward a functional rather than structural cause. We also tackle one of the hardest parts of the whole process: how to communicate your findings to a distressed patient without being dismissive or accusatory, and why the language you choose can make all the difference in their recovery.\n\nWhether you're an eye care professional looking to sharpen your clinical approach, a student building your foundational knowledge, or simply someone curious about the powerful connection between the mind and vision, this episode offers practical insights and a fresh perspective on what it truly means to see.\n\nFunctional visual loss is real, it's treatable, and it deserves far more attention than it gets. Tune in and change the way you think about vision.\n\nListen to more episodes and explore eye care resources at focuslinks.in.\n\n---",
+      "title": "Functional Visual Loss: Diagnosing the Non-Organic Patient",
+      "description": "What happens when a patient loses vision — but every test comes back completely normal? In this episode of Focus Cast, we explore one of the most misunderstood and clinically challenging presentations in eye care: functional visual loss, also known as non-organic or psychogenic visual loss.\n\nWe break down exactly what functional visual loss is, why it happens, and who is most likely to experience it — from stressed adolescents to adults navigating conversion disorders. You'll learn the key diagnostic tests used to detect inconsistencies between reported and actual visual function, including the fogging test, optokinetic nystagmus, visual evoked potentials, the prism dissociation test, and the mirror test — and understand the clinical reasoning behind each one.\n\nWe also tackle the sensitive topic of malingering, how to distinguish it from genuine functional loss, and why mislabeling patients carries serious ethical consequences. Perhaps most importantly, we discuss how to communicate findings to patients with honesty, empathy, and language that opens doors rather than closing them.\n\nWhether you're an ophthalmologist, optometrist, neurology trainee, or medical student, this episode will sharpen both your diagnostic thinking and your patient communication skills. Because the non-organic patient isn't a difficult patient — they're a complex one. And that complexity is where the most meaningful clinical work happens.\n\nListen now and visit **focuslinks.in** for more episodes, resources, and in-depth content from the world of ophthalmology.\n\n---",
       "tags": "functional,non-organic,fogging,tubular",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-26.mp3",
-      "duration": "12:10",
+      "duration": "11:54",
       "imageUrl": "",
       "status": "generated",
-      "runId": "b047e9f1-c4f7-4e52-9a96-bdf1d870e9b4",
-      "generatedAt": "2026-08-05T20:29:18.270Z"
+      "runId": "52b8db88-11f8-45c6-9fd5-a33b059cae21",
+      "generatedAt": "2026-08-05T20:28:12.548Z"
     },
     {
       "episodeOrder": 27,

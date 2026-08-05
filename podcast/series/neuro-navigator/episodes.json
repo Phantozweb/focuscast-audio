@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-05T20:24:28.066Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-05T20:24:42.837Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Optic Disc Drusen: The Pseudopapilledema",
-      "description": "The buried calcification, the spontaneous venous pulsations, and the B-scan and OCT that confirm.",
+      "title": "Optic Disc Drusen: Why Your \"Swollen\" Optic Nerve May Be Fine",
+      "description": "Imagine being told your optic nerve looks swollen during a routine eye exam — and spending the next week convinced something is seriously wrong with your brain. For thousands of people every year, that terrifying experience ends with three unexpected words: optic disc drusen. But what exactly are they, and why do they fool even experienced doctors?\n\nIn this episode of Focus Cast, we break down everything you need to know about optic disc drusen, the condition nicknamed pseudopapilledema because of how convincingly it mimics a genuine neurological emergency. We explore how these small calcium and protein deposits form within the optic nerve head, why they look so similar to true papilledema caused by raised intracranial pressure, and how modern diagnostic tools like B-scan ultrasound, OCT imaging, fundus autofluorescence, and fluorescein angiography help doctors tell the difference with confidence.\n\nWe also cover what an optic disc drusen diagnosis actually means for your long-term vision and eye health. Are they dangerous? Do they need treatment? What should you be monitoring over time? We answer all of it in plain, reassuring language backed by clinical insight.\n\nWhether you have recently been referred to a specialist after a routine eye exam, have already been diagnosed with optic disc drusen, or are simply curious about the remarkable diagnostic capabilities of modern eye care, this episode will give you clarity, context, and genuine peace of mind.\n\nVisit Focuslinks.in to explore more episodes and eye care resources from Focus Cast. And if it has been a while since your last eye exam, let this be your reminder — your eyes reveal far more than just your prescription.\n\n---",
       "tags": "drusen,pseudopapilledema,bscan,svp",
-      "category": "Optic Nerve",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-15.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b4635f98-6b6b-40fd-ac6d-d5a691358641",
+      "generatedAt": "2026-08-05T20:24:42.837Z"
     },
     {
       "episodeOrder": 16,

@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T19:52:22.764Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-05T19:52:52.660Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -284,14 +284,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Glare and Scatter: The Opacities That Steal Vision",
-      "description": "Straylight, the CIE standard, and the tinted lens and surgery decisions that follow.",
+      "title": "Glare & Scatter: How Eye Opacities Are Stealing Your Vision",
+      "description": "Do oncoming headlights feel like exploding starbursts at night? Does bright sunlight leave you blinded longer than it should? You're not imagining it — and it's not just aging. In this eye-opening episode of Focus Cast, we uncover the hidden science behind glare and scatter, two of the most overlooked threats to clear, comfortable vision.\n\nWe break down exactly what opacities are, where they form inside your eye, and why they're so visually destructive. From cataracts — the world's leading cause of reversible blindness — to corneal scarring, vitreous changes, and posterior capsule opacification after cataract surgery, we walk you through each condition in plain language, explaining how scattered light creates that frustrating fog that dims your world without warning.\n\nBut this episode goes beyond anatomy. We explore what living with glare and scatter actually feels like — the shrinking confidence, the avoided night drives, the evenings spent squinting at a book that used to bring joy. Because vision loss isn't just about the eye chart. It's about quality of life.\n\nYou'll also learn about the latest research into anti-reflective lens technology, antioxidant protection, and even experimental eye drops that may one day dissolve early cataracts. Most importantly, you'll walk away knowing that in most cases, something can be done — and that awareness is the most powerful tool you have.\n\nIf your vision feels hazier than it used to, don't brush it off. Listen to what your eyes are telling you. Visit Focuslinks.in for more episodes, expert resources, and everything you need to protect your sight and live fully.\n\n---",
       "tags": "glare,scatter,straylight,tint",
       "category": "Cataract",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-22.mp3",
+      "duration": "12:01",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4afe6871-9a3d-4a32-b37f-ada0a5735e5e",
+      "generatedAt": "2026-08-05T19:52:52.660Z"
     },
     {
       "episodeOrder": 23,

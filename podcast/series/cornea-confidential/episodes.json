@@ -9,7 +9,7 @@
   "order": 3,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T19:41:45.297Z",
+  "lastUpdated": "2026-08-05T19:42:25.974Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,16 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Specular Microscopy: How Doctors Count Your Endothelial Cells",
-      "description": "What if your eyes were silently losing irreplaceable cells — and you had no idea? In this episode of Focus Cast by Focuslinks.in, we explore the fascinating world of specular microscopy, the non-invasive technology that lets eye care professionals see, count, and analyze the corneal endothelial cells keeping your vision clear.\n\nYou'll learn why endothelial cells are so critical — and why losing them is permanent. We break down what a healthy endothelium looks like under a specular microscope, and what warning signs clinicians watch for, including changes in cell density, polymegethism, and pleomorphism. We also walk through the real-world applications that make this technology indispensable in modern eye care: monitoring long-term contact lens wearers, screening patients before cataract surgery, tracking the progression of Fuchs endothelial dystrophy, and evaluating donor corneal tissue before transplantation.\n\nWhether you're an optometry student, an ophthalmology professional, or simply someone curious about the science behind your vision, this episode offers a clear, engaging deep-dive into one of the most powerful diagnostic tools in corneal health. By the end, you'll never look at a slit-lamp or imaging instrument the same way again.\n\nTune in, and discover how counting a few thousand microscopic cells can make all the difference between clear vision and corneal failure. For more episodes and eye care resources, visit Focuslinks.in and subscribe to Focus Cast wherever you listen to podcasts.\n\n---",
+      "title": "Specular Microscopy: How We Count Corneal Endothelial Cells",
+      "description": "What if the key to your vision depended on a single layer of cells you were born with — cells that never grow back? In this episode of Focus Cast, we dive deep into the world of specular microscopy and the corneal endothelium, exploring why counting endothelial cells is one of the most critical tasks in modern eye care.\n\nWe break down exactly what the corneal endothelium is, why its cell density matters, and what happens when those irreplaceable cells are lost to aging, disease, or surgery. You will learn how specular microscopy works, what parameters like endothelial cell density, coefficient of variation, and hexagonality actually tell us about corneal health, and why clinicians rely on this technology every single day.\n\nFrom pre-operative cataract surgery screening and contact lens monitoring to Fuchs endothelial dystrophy management and eye bank quality control, this episode covers the full clinical picture of why specular microscopy is indispensable in ophthalmology and optometry practice.\n\nWhether you are an eye care student trying to understand corneal imaging, a clinician looking to refresh your knowledge, or simply someone curious about the science behind clear vision, this episode delivers clear, practical insights in a way that is easy to follow and genuinely fascinating.\n\nTune in, and discover the invisible workforce keeping your vision sharp — and the remarkable technology we use to protect it.\n\nFor more eye care content, articles, and resources, visit us at focuslinks.in.\n\n---",
       "tags": "specular,endothelium,cell-count,iol",
       "category": "Cataract",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-27.mp3",
-      "duration": "12:41",
+      "duration": "12:18",
       "imageUrl": "",
       "status": "generated",
-      "runId": "5d21b563-071a-4c31-9066-edb7481ea8f8",
-      "generatedAt": "2026-08-05T19:41:45.297Z"
+      "runId": "4dd2c3e8-0880-4051-b1ef-afd54bd3b6e4",
+      "generatedAt": "2026-08-05T19:42:25.974Z"
     },
     {
       "episodeOrder": 28,

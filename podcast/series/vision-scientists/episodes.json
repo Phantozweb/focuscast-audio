@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T18:09:39.727Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-05T18:12:57.888Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Anisometropia: When the Two Eyes Differ",
-      "description": "The aniseikonia problem, the contact lens advantage, and the amblyopia risk in children.",
+      "title": "Anisometropia: When Your Two Eyes See Differently",
+      "description": "Did you know your two eyes could have completely different prescriptions — and you might not even realize it? In this episode of Focus Cast, we break down anisometropia, the surprisingly common vision condition where each eye has a significantly different refractive power. We explain what it is, why it happens, and why so many people go years without a diagnosis.\n\nWe cover how anisometropia develops in both children and adults, why it often goes undetected, and how it can silently lead to amblyopia — commonly known as lazy eye — if left untreated. You'll learn about the critical window for treating amblyopia in children, why early eye exams are so important, and what symptoms in adults might be pointing to an undiagnosed prescription imbalance.\n\nWe also walk through the full range of treatment options available today, from prescription glasses and contact lenses to LASIK surgery and the increasingly popular overnight orthokeratology lenses — and explain why contacts are often the better choice for people with significant anisometropia.\n\nWhether you're a parent wanting to protect your child's vision, or an adult dealing with unexplained headaches and eye strain, this episode gives you the knowledge to ask the right questions at your next eye exam.\n\nListen now and share this episode with someone who might be living with undiagnosed anisometropia without knowing it. For more eye health resources and episodes, visit us at focuslinks.in.",
       "tags": "anisometropia,aniseikonia,amblyopia,contact-lens",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-14.mp3",
+      "duration": "10:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953577079",
+      "generatedAt": "2026-08-05T18:12:57.079Z"
     },
     {
       "episodeOrder": 15,

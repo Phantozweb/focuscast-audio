@@ -9,20 +9,20 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T20:22:37.783Z",
+  "lastUpdated": "2026-08-05T20:22:44.878Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Afferent Pupillary Pathway: From Retina to Midbrain Explained",
-      "description": "Every time you walk into a bright room, your pupils shrink in an instant — and you never have to think about it. But what is actually happening inside your nervous system? In this episode of Focus Cast by Focuslinks.in, we trace the complete afferent pupillary pathway, following the light signal from the moment it strikes your retina all the way to the midbrain structures that control your pupil response.\n\nWe break down the science in plain language, covering how photoreceptors and intrinsically photosensitive retinal ganglion cells (ipRGCs) detect light, how signals travel through the optic nerve and optic chiasm, and why the pupillary pathway branches away from the visual cortex at the optic tract to reach the olivary pretectal nucleus. You will learn why both pupils constrict even when only one eye is exposed to light, and what that tells us about the brain's bilateral wiring.\n\nWe also explore the real clinical power of this pathway — from understanding relative afferent pupillary defects (RAPD) and the swinging flashlight test, to how pupillometry is emerging as a diagnostic tool for glaucoma, Alzheimer's disease, concussion, and more.\n\nWhether you are a student, a healthcare professional, or simply someone who loves understanding how the human body works, this episode gives you a clear, memorable picture of one of neuroscience's most elegant circuits.\n\nListen now and discover why something as simple as a flashlight can reveal so much about the health of your nervous system. For more episodes on vision science and neuroscience, visit Focuslinks.in.\n\n---",
+      "title": "The Afferent Pupillary Pathway: Retina to Midbrain Explained",
+      "description": "What happens inside your brain the moment light hits your eye? In this episode of Focus Cast, we trace the complete afferent pupillary pathway — from the first photon striking your retina all the way to the midbrain structures that orchestrate the pupil light reflex.\n\nWe start at the retina, where specialized intrinsically photosensitive retinal ganglion cells (ipRGCs) loaded with melanopsin detect ambient light levels independently of rods and cones. You will learn why even people with complete rod and cone degeneration can still have an intact pupillary reflex — and what that tells us about how separate and sophisticated this pathway truly is.\n\nFrom there, we follow the signal through the optic nerve, across the optic chiasm where nasal fibers cross and temporal fibers stay, along the optic tract, and into the pretectal nucleus of the dorsal midbrain. We explain why the pupillary pathway diverges from the conscious visual pathway before reaching the lateral geniculate nucleus — and how the pretectal nucleus broadcasts signals bilaterally to both Edinger-Westphal nuclei, producing both the direct and consensual pupillary responses.\n\nWe also break down the clinical power of this anatomy, including how the swinging flashlight test detects a relative afferent pupillary defect (RAPD) and why this single bedside finding has helped diagnose optic neuritis, multiple sclerosis, compressive optic nerve lesions, and asymmetric glaucoma.\n\nAll of this happens in under 400 milliseconds — faster than a finger snap.\n\nIf you are a student, clinician, or simply someone fascinated by the neuroscience of vision, this episode will change how you see the humble pupil forever. Listen now and visit focuslinks.in for more vision science content.\n\n---",
       "tags": "afferent,pupil,pathway,midbrain",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-01.mp3",
-      "duration": "12:19",
+      "duration": "12:34",
       "imageUrl": "",
       "status": "generated",
-      "runId": "2f46daf3-fc8c-48e0-b6a2-777c04af0862",
-      "generatedAt": "2026-08-05T20:22:37.783Z"
+      "runId": "8630a734-cd56-4cfd-a83d-c374ab3edc2b",
+      "generatedAt": "2026-08-05T20:22:44.878Z"
     },
     {
       "episodeOrder": 2,

@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-05T17:49:08.827Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-05T17:52:27.275Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Accommodation: The Crystalline Lens at Work",
-      "description": "The ciliary muscle, zonules, and the amplitude of accommodation that declines with age.",
+      "title": "How Your Crystalline Lens Focuses: Accommodation Explained",
+      "description": "Ever wonder how your eyes instantly snap into focus when you glance from your phone to a face across the room? That split-second shift is called accommodation, and it is one of the most remarkable feats of biological engineering in the human body. In this episode of Focus Cast, we take a deep dive into the crystalline lens, the small, flexible, transparent structure behind your pupil that makes sharp vision possible at any distance.\n\nWe break down exactly how accommodation works, from the ciliary muscle contracting and relaxing, to the zonules of Zinn pulling and releasing tension, to the lens itself changing shape to bend light precisely onto your retina. You will learn why children can shift focus almost instantaneously, what the near point of accommodation actually means, and why most people over forty start holding their reading material at arm's length.\n\nWe also explore presbyopia, the natural age-related stiffening of the crystalline lens that makes close-up vision blurry, and why eye exercises cannot fix it. Plus, we cover cataracts, how they form, and how modern intraocular lens technology is working to replicate what your natural lens does effortlessly every single day.\n\nWhether you are curious about eye health, studying vision science, or just noticing changes in your own eyesight, this episode gives you a clear, engaging, and genuinely fascinating look at how your eyes work from the inside out.\n\nListen now and share this episode with anyone who wants to understand the science behind their vision. For more eye health content, visit Focuslinks dot in.",
       "tags": "accommodation,ciliary,zonules,amplitude",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-08.mp3",
+      "duration": "9:56",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952346648",
+      "generatedAt": "2026-08-05T17:52:26.648Z"
     },
     {
       "episodeOrder": 9,

@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T19:53:29.151Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T19:53:32.878Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -369,14 +369,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Adaptation: Dark, Light, and the Photoreceptor Reset",
-      "description": "The rod and cone adaptation curves, the bleaching recovery, and the night vision complaints.",
+      "title": "Dark & Light Adaptation: How Your Eyes Reset Instantly",
+      "description": "Have you ever walked into a dark movie theater and gone temporarily blind? That disorienting moment of blindness followed by gradual clarity is one of the most fascinating biological processes your body performs — and most of us never think twice about it. In this episode of Focus Cast, we break down exactly what happens inside your eyes when lighting conditions change, exploring the science of dark adaptation, light adaptation, and the remarkable photoreceptor reset that keeps your vision sharp every single day.\n\nWe dive deep into the roles of rods and cones, the two types of photoreceptors in your retina, and explain why your eyes can handle a light range of ten billion to one — something no camera can match. You will learn how rhodopsin, the light-sensitive pigment in your rods, gets bleached and regenerated during dark adaptation, why full night vision takes twenty to thirty minutes to develop, and how light adaptation happens in just seconds through rapid photoreceptor chemistry and neural recalibration.\n\nWe also explore the incredible daily renewal cycle of photoreceptor outer segments, synchronized with your circadian rhythm, and why this reset process is absolutely essential to maintaining healthy vision. From World War Two pilots using red light to preserve night vision, to the connection between vitamin A deficiency and poor night sight, this episode is packed with insights that will change how you think about your eyes forever.\n\nWhether you are a science enthusiast, a healthcare professional, or simply someone curious about how the human body works, this episode delivers clarity on a topic that affects every moment of your visual life. Listen now and visit Focuslinks.in for more episodes from Focus Cast.\n\n---",
       "tags": "adaptation,dark,rods,cones",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-29.mp3",
+      "duration": "13:05",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b8ed282d-13fc-4014-a950-87b84a1c5c16",
+      "generatedAt": "2026-08-05T19:53:32.878Z"
     },
     {
       "episodeOrder": 30,

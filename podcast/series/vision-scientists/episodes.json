@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T18:12:57.888Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-05T18:16:18.529Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Binocular Vision: Fusion, Stereopsis, and the Cyclopean Eye",
-      "description": "How two retinal images become one percept and the cortical machinery that makes it possible.",
+      "title": "Binocular Vision: Fusion, Stereopsis & the Cyclopean Eye",
+      "description": "Your brain is doing something extraordinary right now — and you don't even notice it. You have two eyes, each capturing a slightly different view of the world, and every waking second, your visual system fuses those two images into one seamless, three-dimensional reality. But how does it actually work? In this episode of Focus Cast, we break down the fascinating science of binocular vision in a way that's easy to understand and impossible to forget.\n\nWe start with binocular fusion — the brain's remarkable ability to stitch two separate images into one unified perception — and explore what happens when that process breaks down, from double vision to the mind-bending phenomenon of binocular rivalry. Then we dive into stereopsis, the depth perception superpower that lets you catch a ball, perform surgery, or judge a fast-moving object with pinpoint accuracy. You'll discover why 3D movies, VR headsets, and stereoscopes all trace back to the same principle your brain uses automatically every day.\n\nFinally, we explore one of the most fascinating concepts in vision science — the cyclopean eye. Introduced by scientist Bela Julesz in the 1960s, this idea reveals that your brain constructs a single virtual viewpoint from your two eyes, and that much of what you \"see\" is actually built inside your mind, not captured by your eyes. Julesz's random dot stereograms prove it in a way that will genuinely surprise you.\n\nWhether you're a vision science enthusiast, an eye care professional, or simply someone curious about how perception works, this episode will change the way you see the world — literally. Listen now, and visit Focuslinks.in for more content on vision and eye health.",
       "tags": "binocular,fusion,stereopsis,cortical",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-15.mp3",
+      "duration": "9:47",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953777280",
+      "generatedAt": "2026-08-05T18:16:17.280Z"
     },
     {
       "episodeOrder": 16,

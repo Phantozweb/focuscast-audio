@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T20:10:28.532Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-05T20:11:13.282Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -76,14 +76,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Amblyopia Treatment: Patching, Atropine, and the PEDIG Evidence",
-      "description": "Dosing hours, the atropine penalty alternative, and the stopping rules from PEDIG trials.",
+      "title": "Amblyopia Treatment: Patching, Atropine & PEDIG Evidence",
+      "description": "What is that patch on a child's eye really doing — and does it actually work? In this episode of Focus Cast, we dive deep into amblyopia, commonly known as lazy eye, to uncover why it happens, why early treatment is critical, and what the latest clinical research tells us about the most effective ways to treat it.\n\nWe break down the two frontline treatments — patching and atropine eye drops — explaining how each works, what makes them effective, and why one might be a better fit for your child than the other. Compliance challenges, social factors, and real-world practicality all play a role in treatment success, and we cover them honestly.\n\nAt the heart of this episode is the groundbreaking research from PEDIG, the Pediatric Eye Disease Investigator Group, whose large-scale randomized controlled trials have reshaped how eye care professionals approach amblyopia treatment. We explore their landmark findings — including why atropine proved just as effective as patching for moderate amblyopia, why two hours of daily patching can match six hours, and why older children still benefit from treatment even beyond the traditional cutoff age.\n\nWe also look ahead at emerging therapies like dichoptic training and vision-based video games that could transform how children experience amblyopia treatment in the years to come.\n\nWhether you are a parent navigating a new diagnosis, an eye care professional staying current with the evidence, or simply someone curious about how vision develops in children, this episode gives you the clarity you need to make informed decisions.\n\nListen now and share this episode with any parent, teacher, or caregiver who works with young children. Visit Focuslinks.in for more eye health resources and episodes of Focus Cast.\n\n---",
       "tags": "patching,atropine,pedig,dosing",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-06.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "83f91939-f605-4032-94b3-bf9da9446fd3",
+      "generatedAt": "2026-08-05T20:11:13.282Z"
     },
     {
       "episodeOrder": 7,

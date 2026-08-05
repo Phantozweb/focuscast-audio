@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-05T17:42:31.133Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-05T17:50:33.539Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Normal-Tension Glaucoma: When IOP Is Not the Whole Story",
-      "description": "Vascular risk factors, the NTG phenotype, and the lower target pressures these patients need.",
+      "title": "Normal-Tension Glaucoma: When Eye Pressure Isn't the Problem",
+      "description": "What if your eye pressure tested completely normal — and you still had glaucoma? It sounds impossible, but it happens to millions of people worldwide. In this eye-opening episode of Focus Cast, we explore Normal-Tension Glaucoma (NTG), a condition that challenges everything we thought we knew about one of the leading causes of irreversible blindness.\n\nWe break down why the optic nerve can suffer serious damage even when intraocular pressure falls within the so-called safe range, and what that means for how glaucoma is diagnosed and treated. You'll learn about the surprising role of blood flow, intracranial pressure, genetics, and even the immune system in driving optic nerve damage — factors that a routine pressure check will never reveal.\n\nWe also cover who is most at risk, including people of East Asian descent, women, and those with cardiovascular conditions like low blood pressure or Raynaud's phenomenon. Plus, we explain why Normal-Tension Glaucoma accounts for over seventy percent of glaucoma cases in Japan, and what that tells us about this disease globally.\n\nFrom diagnosis using optical coherence tomography and visual field testing, to treatment strategies that go beyond standard pressure-lowering approaches, this episode gives you a complete and honest picture of a condition that is far more common than most people realize.\n\nIf you've ever been reassured by a normal eye pressure reading, this episode is essential listening. Because when it comes to protecting your vision, one number is never the whole story.\n\nVisit Focuslinks.in for more episodes and eye health resources, and share this episode with someone who deserves to know the full picture.",
       "tags": "ntg,low-tension,vascular,risk",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-07.mp3",
+      "duration": "10:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952232943",
+      "generatedAt": "2026-08-05T17:50:32.943Z"
     },
     {
       "episodeOrder": 8,

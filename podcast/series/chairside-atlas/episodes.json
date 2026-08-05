@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-05T18:12:36.768Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-05T18:24:18.626Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Conjunctiva: Reading Redness, Follicles, and Papillae",
-      "description": "Differentiating infectious, allergic, and inflammatory conjunctivitis from the slit lamp pattern alone.",
+      "title": "Red Eyes Decoded: Conjunctiva, Follicles & Papillae Explained",
+      "description": "Ever looked in the mirror and wondered why your eyes are red? That redness is not random — your conjunctiva is trying to tell you something. In this episode of Focus Cast, we break down one of the most informative yet overlooked tissues in the human body: the conjunctiva.\n\nWe start with the basics — what the conjunctiva is, where it sits, and why it reacts so quickly to changes inside and outside the body. Then we dive deep into the three key signs every eye care professional looks for: redness, follicles, and papillae.\n\nYou will learn the critical difference between conjunctival injection and ciliary injection, and why that ring of redness around your cornea is never something to ignore. We explain what subconjunctival hemorrhage actually is and when it becomes a concern. Then we unpack follicles — those pale, lymphocyte-filled bumps linked to viral infections like adenovirus and even chlamydial eye disease — and explore how trachoma remains the world's leading infectious cause of preventable blindness.\n\nWe also cover papillae, the red, cobblestone-like bumps that signal allergic conjunctivitis, vernal keratoconjunctivitis, and giant papillary conjunctivitis in contact lens wearers. By the end, you will have a simple, memorable way to tell follicles and papillae apart — and understand exactly what each one means.\n\nWhether you are a student, a clinician, or simply someone who wants to understand their own eye health better, this episode gives you the tools to read your eyes like a pro.\n\nVisit Focuslinks.in for more episodes and eye care resources. Do not just see — understand what you are seeing.\n\n---",
       "tags": "conjunctiva,red-eye,follicles,papillae",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-19.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ff831816-1935-43d5-a7dd-a7a3b53cb410",
+      "generatedAt": "2026-08-05T18:24:17.787Z"
     },
     {
       "episodeOrder": 20,

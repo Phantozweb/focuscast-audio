@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T19:29:54.380Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T19:30:23.419Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -336,14 +336,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Serous and Tractional Detachments: Non-Rhegmatogenous Mechanisms",
-      "description": "Distinguishing exudative and tractional detachments and the very different workups each requires.",
+      "title": "Serous & Tractional Retinal Detachments Explained Clearly",
+      "description": "What actually keeps your retina in place — and what happens when it silently lifts away without a single tear or hole? In this episode of Focus Cast, we dive deep into the two most misunderstood types of retinal detachment: serous and tractional, the non-rhegmatogenous mechanisms that every ophthalmology student and resident needs to master.\n\nWe break down how serous detachments form when fluid accumulates beneath the retina due to a failing RPE barrier, and walk through the key causes including Vogt-Koyanagi-Harada disease, posterior scleritis, severe hypertensive retinopathy, choroidal tumors, and central serous chorioretinopathy. You will learn why the shifting fluid sign is such a powerful clinical clue and what it tells you about the underlying pathology.\n\nThen we shift to tractional retinal detachments, where fibrovascular membranes physically pull the retina away from the RPE. From proliferative diabetic retinopathy and sickle cell retinopathy to retinopathy of prematurity and penetrating trauma, we cover the full spectrum of causes, explain the mechanism of fibrovascular contraction, and discuss why combined tractional-rhegmatogenous detachments are a surgical emergency.\n\nFinally, we connect mechanism to management, showing how understanding the type of detachment directly shapes your clinical decisions, from anti-inflammatory therapy to urgent vitrectomy.\n\nWhether you are preparing for exams, seeing these patients in clinic, or simply passionate about how the eye works, this episode gives you a clear, memorable framework you can actually use.\n\nListen now and visit Focuslinks dot in for more ophthalmology episodes and resources.\n\n---",
       "tags": "serous,tractional,detachment,exudative",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-26.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b787f1c4-ac89-4cc2-a226-e9bf1666f044",
+      "generatedAt": "2026-08-05T19:30:23.419Z"
     },
     {
       "episodeOrder": 27,

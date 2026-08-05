@@ -8,19 +8,21 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-05T20:19:45.956Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-05T20:19:54.127Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "The Afferent Pupillary Pathway: From Retina to Midbrain",
-      "description": "Tracing the light reflex through the optic nerve, chiasm, and pretectal nucleus — and where lesions break it.",
+      "title": "The Afferent Pupillary Pathway: Retina to Midbrain Explained",
+      "description": "Ever wondered what actually happens when a doctor shines a light in your eye? That split-second pupil response is the result of one of the most sophisticated neural circuits in the human body — and in this episode of Focus Cast, we break it down completely.\n\nWe trace the afferent pupillary pathway step by step, starting at the retina, where specialized intrinsically photosensitive retinal ganglion cells (ipRGCs) and their photopigment melanopsin first detect incoming light. From there, we follow the signal along the optic nerve, through the critical crossing point at the optic chiasm, down the optic tract, and into the pretectal nucleus deep in the midbrain — the command center of the pupillary light reflex.\n\nAlong the way, we unpack why the pupillary pathway diverges from the visual pathway for conscious sight, what makes the consensual light reflex possible, and why this anatomy matters far beyond basic biology. We dive into the relative afferent pupillary defect (RAPD), also known as the Marcus Gunn pupil, and explain the swinging flashlight test — one of the most powerful and elegantly simple diagnostic tools in clinical medicine.\n\nWe also explore the real-world conditions that disrupt this pathway, including optic neuritis, glaucoma, retinal artery occlusion, and optic tract lesions, showing how a thorough understanding of the anatomy directly informs diagnosis.\n\nWhether you are a medical student, an ophthalmology professional, or simply someone fascinated by how the human body works, this episode offers clear, clinically relevant insights you will not forget.\n\nListen now and visit Focuslinks.in for more episodes, articles, and resources on ophthalmology and eye care science.\n\n---",
       "tags": "afferent,pupil,pathway,midbrain",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-01.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "44dc18cc-17a2-4650-99a0-abb9c35de7cc",
+      "generatedAt": "2026-08-05T20:19:54.127Z"
     },
     {
       "episodeOrder": 2,

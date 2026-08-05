@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T18:50:58.235Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-05T18:54:38.482Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -312,14 +312,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Gonioscopy: Opening the Angle",
-      "description": "Indentation versus non-indentation, the Schaffer grading, and deciding who is a closure risk.",
+      "title": "Gonioscopy Explained: How Doctors See the Hidden Drainage Angle",
+      "description": "What if the most important structure in glaucoma diagnosis is one that's completely invisible without the right tool? In this episode of Focus Cast by Focuslinks.in, we take a deep dive into gonioscopy — the essential clinical technique that allows eye care professionals to visualize the anterior chamber angle and unlock the true nature of a patient's glaucoma.\n\nWe break down the fascinating physics behind why the drainage angle can't be seen with a standard eye exam, how a simple mirrored lens defeats total internal reflection, and why this matters enormously for every glaucoma patient. You'll learn the difference between open-angle and angle-closure glaucoma, how gonioscopy guides treatment decisions, and why getting this wrong can cost a patient their vision.\n\nWe also cover the Shaffer and Spaeth grading systems, secondary causes of angle damage like neovascular glaucoma and pigment dispersion syndrome, and how gonioscopy plays a critical role in modern minimally invasive glaucoma surgery (MIGS). Plus, we discuss where newer imaging technologies like AS-OCT fit in — and why gonioscopy remains the undisputed gold standard.\n\nWhether you're a student, a clinician, or a patient navigating a glaucoma diagnosis, this episode gives you a clear, practical understanding of a technique that is foundational to eye care yet often underappreciated.\n\nListen now, and if you or someone you know has been diagnosed with glaucoma or elevated eye pressure, ask your doctor whether gonioscopy has been performed. Visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "gonioscopy,angle,schaffer,closure",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-24.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7a730c2c-ad46-43dd-aa3c-2f2dd89f9599",
+      "generatedAt": "2026-08-05T18:54:37.855Z"
     },
     {
       "episodeOrder": 25,

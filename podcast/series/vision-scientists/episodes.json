@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-05T19:50:37.129Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-05T19:51:29.821Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -304,14 +304,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "The Visual Pathway: Retina to Occipital Cortex",
-      "description": "The chiasm, the tract, the radiations — and the field defects each lesion produces.",
+      "title": "The Visual Pathway: How Your Eyes Talk to Your Brain",
+      "description": "Have you ever stopped to wonder what actually happens between the moment light enters your eye and the moment you consciously see the world around you? In this episode of Focus Cast, we take you on a fascinating journey through the visual pathway — one of the most complex and elegant systems in the human body.\n\nWe start at the retina, where over 120 million rods and cones convert light into electrical signals through a process called phototransduction. From there, we follow those signals along the optic nerve to the optic chiasm, where the brain performs a remarkable crossover that splits your visual world between its two hemispheres. We then explore the lateral geniculate nucleus inside the thalamus — the brain's sophisticated visual sorting office — before tracing the optic radiation all the way to the primary visual cortex in the occipital lobe, where conscious vision finally comes to life.\n\nAlong the way, you will discover how the brain's retinotopic mapping works, why the fovea commands nearly half of your visual cortex, and how the ventral and dorsal streams divide the work of recognizing objects and guiding movement. We also unpack the real clinical significance of this pathway — how understanding it helps eye care professionals diagnose conditions like glaucoma, macular degeneration, and stroke-related vision loss with pinpoint accuracy.\n\nWhether you are a student of vision science, an eye care professional, or simply someone who is curious about how you experience the world, this episode will change the way you think about seeing.\n\nVisit Focuslinks.in to explore more episodes and dive deeper into the science of eye health and vision.\n\n---",
       "tags": "visual-pathway,chiasm,tract,field-defect",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-24.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fa7c20b6-b451-40cf-913b-19644ff5450c",
+      "generatedAt": "2026-08-05T19:51:29.821Z"
     },
     {
       "episodeOrder": 25,

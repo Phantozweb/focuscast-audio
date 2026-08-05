@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T17:39:10.978Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-05T17:42:31.133Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Primary Open-Angle Glaucoma: The Silent Thief",
-      "description": "The natural history, the asymptomatic progression, and the optometric role in early detection.",
+      "title": "Primary Open-Angle Glaucoma: The Silent Thief of Sight",
+      "description": "Did you know that over 80 million people worldwide have glaucoma — and nearly half of them have no idea? In this eye-opening episode of Focus Cast, we pull back the curtain on Primary Open-Angle Glaucoma, the leading cause of irreversible blindness that steals your sight without a single warning sign.\n\nWe break down exactly how glaucoma develops inside your eye, why rising intraocular pressure quietly destroys your optic nerve, and why so many people only discover the damage when it is already too late. You will learn who is most at risk — including those over 40, people with a family history of glaucoma, and individuals of African descent who face significantly higher rates of the disease — and why even people with normal eye pressure are not always in the clear.\n\nWe also walk you through what a comprehensive glaucoma eye exam actually involves, from tonometry and optic nerve evaluation to visual field testing and advanced OCT imaging. And if you or someone you love has been diagnosed, we cover the full range of treatment options available today, including medicated eye drops, Selective Laser Trabeculoplasty, and surgical interventions — all of which work best when glaucoma is caught early.\n\nThe most important takeaway from this episode is simple: regular eye exams save sight. Glaucoma is silent, but it is not invisible to a trained eye care professional.\n\nDo not wait for symptoms that may never come. Book your comprehensive eye exam today, share this episode with someone you care about, and visit Focuslinks.in for more episodes and eye health resources.",
       "tags": "poag,silent,progression,detection",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-06.mp3",
+      "duration": "10:02",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951750540",
+      "generatedAt": "2026-08-05T17:42:30.541Z"
     },
     {
       "episodeOrder": 7,

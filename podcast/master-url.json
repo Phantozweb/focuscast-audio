@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T17:33:21.229Z",
+  "lastUpdated": "2026-08-05T17:33:44.296Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 20,
+  "generatedEpisodes": 21,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -44,10 +44,10 @@
       "category": "Cornea",
       "order": 3,
       "totalEpisodes": 30,
-      "generatedEpisodes": 1,
+      "generatedEpisodes": 2,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/episodes.json",
       "audioDir": "podcast/series/cornea-confidential/audio",
-      "lastUpdated": "2026-08-05T17:29:07.568Z"
+      "lastUpdated": "2026-08-05T17:33:31.559Z"
     },
     {
       "slug": "glaucoma-guardian",

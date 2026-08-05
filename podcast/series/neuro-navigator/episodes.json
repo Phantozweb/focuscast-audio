@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-05T20:19:54.127Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-05T20:20:20.556Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Anisocoria in the Light: The Parasympathetic Problem",
-      "description": "When the larger pupil is the abnormal one — Adie’s tonic pupil, pharmacologic, and third nerve palsy.",
+      "title": "Anisocoria in the Light: When Pupils Signal Brain Emergencies",
+      "description": "Ever glanced in the mirror and noticed one pupil larger than the other? That tiny difference could be completely harmless — or it could be one of the most urgent warning signs in clinical medicine. In this episode of Focus Cast by Focuslinks.in, we unpack anisocoria in the light and what it reveals when the parasympathetic nervous system breaks down.\n\nWe start with the basics: what anisocoria actually is, why up to 30% of people have it naturally, and how bright-light conditions expose parasympathetic dysfunction in ways that dim light simply cannot. From there, we explore the third cranial nerve — the oculomotor nerve — and why its anatomy makes a dilated, unreactive pupil a potential neurological emergency. A posterior communicating artery aneurysm, brain herniation, or tumor can all compress this nerve, and the pupil is often the first structure to sound the alarm.\n\nWe also dive into Adie's tonic pupil, a fascinating and usually benign condition caused by ciliary ganglion damage, and explain the concept of denervation supersensitivity and how a simple pilocarpine test can distinguish it from something far more serious. And we cover pharmacological dilation — accidental exposure to atropine or scopolamine — and why it mimics a third nerve palsy well enough to fool even experienced clinicians.\n\nWhether you're a medical student, a healthcare professional, or simply someone who loves understanding how the body works, this episode will change the way you look at something as small as a pupil.\n\nListen now and visit Focuslinks.in for more eye health episodes and resources.\n\n---",
       "tags": "anisocoria,light,adies,third-nerve",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-03.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7809041f-36a4-43da-a411-ba910a746277",
+      "generatedAt": "2026-08-05T20:20:20.556Z"
     },
     {
       "episodeOrder": 4,

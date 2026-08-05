@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T20:00:05.824Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T20:00:32.326Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Hybrid Lenses: The RGP Center with a Soft Skirt",
-      "description": "The patient profile, the fitting approach, and the limitations that keep them a niche option.",
+      "title": "Hybrid Contact Lenses: RGP Center with a Soft Skirt Explained",
+      "description": "What if you could have the razor-sharp vision of a rigid gas permeable lens and the all-day comfort of a soft lens — in one? That's exactly what hybrid contact lenses deliver, and in this episode of Focus Cast, we break down everything you need to know about this remarkable innovation in vision correction.\n\nWe explore how hybrid lenses work, combining a rigid gas permeable (RGP) center with a soft silicone hydrogel skirt, and why that unique design makes such a dramatic difference for the right patients. Whether you're living with keratoconus, dealing with high or irregular astigmatism, recovering from LASIK or a corneal transplant, or simply struggling to tolerate traditional RGP lenses, hybrid lenses could be the solution you've been searching for.\n\nWe also walk you through the specialty fitting process, including corneal topography and why getting the fit right is so critical for both comfort and eye health. You'll learn about oxygen transmissibility, proper lens care routines, leading brands like SynergEyes Duette and UltraHealth, and what to expect in terms of cost and insurance coverage.\n\nIf you've ever felt stuck choosing between clear vision and comfortable wear, this episode will show you that you don't have to choose. Hybrid lenses represent one of the most underrated advancements in contact lens technology, and for the right patient, they can be genuinely life-changing.\n\nListen now and discover whether hybrid contact lenses could transform your vision experience. Then visit [focuslinks.in](http://focuslinks.in) for more expert guidance on specialty contact lenses and eye care.\n\n---",
       "tags": "hybrid,rgp,soft-skirt,fitting",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-12.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "496d798d-0b4f-43fe-8991-cdb48fd76349",
+      "generatedAt": "2026-08-05T20:00:32.326Z"
     },
     {
       "episodeOrder": 13,

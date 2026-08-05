@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T19:53:15.444Z",
+  "lastUpdated": "2026-08-05T19:53:22.260Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 143,
+  "generatedEpisodes": 144,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -74,10 +74,10 @@
       "category": "Refraction",
       "order": 5,
       "totalEpisodes": 30,
-      "generatedEpisodes": 23,
+      "generatedEpisodes": 24,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/episodes.json",
       "audioDir": "podcast/series/vision-scientists/audio",
-      "lastUpdated": "2026-08-05T19:53:02.001Z"
+      "lastUpdated": "2026-08-05T19:53:10.348Z"
     },
     {
       "slug": "contact-lens-chronicles",

@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T18:01:26.652Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-05T18:05:10.082Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Corneal Dystrophies: Map-Dot-Fingerprint and Granular",
-      "description": "The anterior and stromal dystrophies an optometrist will see — patterns, inheritance, and management.",
+      "title": "Corneal Dystrophies Explained: Map-Dot-Fingerprint & Granular",
+      "description": "Do you wake up with sharp eye pain, blurry vision, or a sandpaper-like sensation that fades after a few minutes? Your cornea might be trying to tell you something. In this episode of Focus Cast, we take a deep dive into two of the most common corneal dystrophies — Map-Dot-Fingerprint Dystrophy (Epithelial Basement Membrane Dystrophy) and Granular Corneal Dystrophy — breaking down what they are, how they feel, and what you can do about them.\n\nWe explore why the corneal epithelium fails to adhere properly in Map-Dot-Fingerprint Dystrophy, what causes those painful recurrent corneal erosions, and which treatments — from lubricating drops to phototherapeutic keratectomy — actually work. Then we shift to Granular Corneal Dystrophy, uncovering the TGFBI gene mutation behind those distinctive white stromal deposits, the critical difference between Type 1 and Type 2 (Avellino Dystrophy), and why patients with this condition must avoid LASIK surgery at all costs.\n\nWhether you are a patient trying to understand a recent diagnosis, a medical student studying corneal anatomy and genetics, or simply someone curious about how a single gene mutation or a microscopic membrane can impact your everyday vision — this episode delivers clear, accurate, and genuinely engaging answers.\n\nTune in to learn how these two very different conditions both fall under the corneal dystrophy umbrella, and why early detection and the right eye care can make all the difference in preserving your vision long-term.\n\nVisit Focuslinks.in for more eye health episodes, resources, and expert insights. Because understanding your eyes is the first step to protecting them.",
       "tags": "dystrophy,granular,map-dot,inheritance",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-11.mp3",
+      "duration": "10:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953109277",
+      "generatedAt": "2026-08-05T18:05:09.277Z"
     },
     {
       "episodeOrder": 12,

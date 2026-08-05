@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T20:04:16.803Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-05T20:04:43.633Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -308,14 +308,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Giant Papillary Conjunctivitis: The CL Wearers’ Bane",
-      "description": "The mechanical and immunological cascade, the papillae on tarsal conjunctiva, and the step-down plan.",
+      "title": "Giant Papillary Conjunctivitis: What Every Contact Lens Wearer Must Know",
+      "description": "Are your contact lenses suddenly feeling uncomfortable, itchy, or just plain wrong? You might be dealing with Giant Papillary Conjunctivitis — and you are not alone. In this episode of Focus Cast, we break down everything contact lens wearers need to know about GPC, one of the most common yet misunderstood reasons people are forced to give up their lenses.\n\nWe start with the basics: what GPC actually is, why it is an immune-mediated inflammatory condition and not an infection, and how deposit buildup on contact lens surfaces triggers your body's overreaction. From there, we walk through the full symptom progression — from that early, easy-to-dismiss itchiness all the way to persistent foreign body sensation, mucus discharge, and unstable lens movement that signals advanced inflammation.\n\nYou will learn exactly what to do if you suspect GPC, including why a proper slit lamp examination matters, how daily disposable lenses can be a game changer, and when anti-inflammatory or mast cell stabilizer eye drops come into play. We also cover the most effective prevention strategies, including sticking to your replacement schedule, proper lens hygiene, and managing allergy-related risk factors that make GPC more likely.\n\nWhether you are currently struggling with contact lens discomfort or simply want to protect your eye health for the long term, this episode gives you the practical knowledge to act early and stay comfortable.\n\nListen now and take the first step toward healthier, happier eyes. For more eye care resources and episodes, visit Focuslinks dot in.\n\n---",
       "tags": "gpc,papillae,mechanical,immunologic",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-24.mp3",
+      "duration": "12:51",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7cc74c12-f2d9-4359-aa1c-a8bc1a473c8d",
+      "generatedAt": "2026-08-05T20:04:43.633Z"
     },
     {
       "episodeOrder": 25,

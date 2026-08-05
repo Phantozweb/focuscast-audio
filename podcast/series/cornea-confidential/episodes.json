@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-05T18:17:25.835Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-05T18:21:03.858Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Dry Eye and the Cornea: How Surface Disease Shapes the Exam",
-      "description": "Punctate epithelial erosions, staining patterns, and how OSD changes every refraction.",
+      "title": "Dry Eye & the Cornea: How Surface Disease Shapes Your Exam",
+      "description": "What if the unstable refraction, the suspicious topography, and the patient who keeps coming back with the wrong prescription all have the same root cause? In this episode of Focus Cast by Focuslinks.in, we dive deep into how dry eye disease silently compromises every measurement, every image, and every clinical decision you make at the slit lamp.\n\nDry eye is one of the most common yet underdiagnosed conditions in eye care, and its impact goes far beyond patient comfort. When the tear film breaks down, the corneal surface becomes irregular, and that irregularity ripples through your entire exam. We break down exactly how this plays out in three critical areas: manifest refraction, corneal topography and surgical planning, and the slit lamp examination itself.\n\nYou will learn why fluctuating visual acuity during refraction is often a tear film problem, not a patient problem. You will understand how dry eye artifacts on topography can mimic early keratoconus and delay necessary surgery. And you will get practical, clinic-ready guidance on fluorescein staining patterns, tear breakup time testing, meibomian gland signs, and how to read the ocular surface story before it distorts your data.\n\nWhether you are refining your pre-operative workup, troubleshooting a tricky refraction, or simply looking to sharpen your anterior segment skills, this episode gives you a framework for putting the ocular surface first, every time.\n\nListen now, and start seeing what the cornea has been trying to tell you all along. For more episodes and eye care resources, visit Focuslinks.in.",
       "tags": "dry-eye,erosions,spk,refraction",
       "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-16.mp3",
+      "duration": "10:52",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954063410",
+      "generatedAt": "2026-08-05T18:21:03.410Z"
     },
     {
       "episodeOrder": 17,

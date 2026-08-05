@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T18:33:28.043Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-05T18:37:04.621Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "OCT RNFL for Glaucoma: Thickness Maps and Progression",
-      "description": "Reading the quadrants, the TSNIT curve, and the Guided Progression Analysis that flags change.",
+      "title": "OCT RNFL Thickness Maps & Glaucoma Progression Explained",
+      "description": "Glaucoma steals sight silently — and by the time patients notice something is wrong, irreversible damage has already been done. In this episode of Focus Cast, we break down one of the most powerful tools in modern glaucoma management: OCT RNFL analysis. If you have ever looked at those colorful thickness maps and wondered exactly what they are telling you, this episode is your answer.\n\nWe start with the fundamentals — how Optical Coherence Tomography works, why the Retinal Nerve Fiber Layer is the key structural target in glaucoma, and what the characteristic double hump pattern tells us about a healthy versus a damaged optic nerve. From there, we dive deep into how RNFL thickness maps are generated, what the color coding actually means, and why inferior and superior thinning are the classic early signatures of glaucomatous damage.\n\nThe real focus of this episode is progression analysis — the serial monitoring that separates good glaucoma care from great glaucoma care. We walk through event-based versus trend-based progression detection, how to distinguish disease-related thinning from normal age-related change, and how to use OCT data to make smarter, faster treatment decisions. We also cover the critical limitations every clinician needs to know: the floor effect in advanced disease, signal quality pitfalls, optic disc size variability, and why OCT should always be interpreted alongside the full clinical picture.\n\nFinally, we look at where this field is heading, including how artificial intelligence is beginning to reshape OCT interpretation and glaucoma risk prediction.\n\nWhether you are an ophthalmologist, optometrist, or ophthalmology student, this episode will sharpen how you read, interpret, and act on OCT RNFL data. Listen now and visit Focuslinks.in for more eye care education.",
       "tags": "oct,rnfl,tsnit,gpa",
       "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-17.mp3",
+      "duration": "10:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785955023988",
+      "generatedAt": "2026-08-05T18:37:03.988Z"
     },
     {
       "episodeOrder": 18,

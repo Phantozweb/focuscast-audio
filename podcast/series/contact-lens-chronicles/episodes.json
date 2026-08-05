@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-05T19:56:50.322Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-05T19:57:29.061Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -76,14 +76,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Multifocal CL: Simultaneous Versus Translating Vision",
-      "description": "The center-near and center-distance designs, the add placement, and the pupil dependence.",
+      "title": "Multifocal Contact Lenses: Simultaneous vs Translating Vision",
+      "description": "Struggling to read your phone or squinting at restaurant menus? You might be experiencing presbyopia, the age-related loss of near vision that affects nearly everyone after 40. But if you wear contact lenses, reading glasses are not your only option. In this episode of Focus Cast, we break down the two major design philosophies behind multifocal contact lenses: simultaneous vision and translating vision, and explain exactly how each one works to help you see clearly at every distance.\n\nWe explore how simultaneous vision lenses, including concentric ring and aspheric designs, present both distance and near correction at once, relying on your brain's remarkable ability to adapt and select the sharpest image. We then dive into translating vision RGP lenses, a more mechanical approach where the lens physically shifts on your eye as your gaze moves, delivering crisp, precise optics for patients who need the sharpest possible vision.\n\nAlong the way, we cover how pupil size affects lens performance, why neural adaptation matters, what modified monovision is and when it might be the right fit, and how two patients with identical prescriptions can end up with completely different ideal solutions. Whether you are a patient exploring your options or an eye care professional looking for a clear way to explain these concepts, this episode gives you the full picture.\n\nReady to find the multifocal contact lens that fits your life? Visit Focuslinks dot in for more episodes, articles, and expert resources on everything eye care.\n\n---",
       "tags": "multifocal,simultaneous,translating,presbyopia",
       "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-06.mp3",
+      "duration": "12:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "375b19a5-56b6-4344-8738-685e410aa133",
+      "generatedAt": "2026-08-05T19:57:29.060Z"
     },
     {
       "episodeOrder": 7,

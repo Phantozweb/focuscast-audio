@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T17:53:21.951Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-05T17:58:19.681Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Extraocular Motility: The Six Muscles and Their Nerves",
-      "description": "Ductions, versions, cover-uncover in cardinal positions — and localizing a palsy in seconds.",
+      "title": "Extraocular Muscles and Nerves: Eye Movement Explained",
+      "description": "Ever wondered what actually happens when your eyes follow a moving object? In this episode of Focus Cast by Focuslinks.in, we break down the six extraocular muscles and the three cranial nerves that control every eye movement you make — from glancing across a room to tracking a tennis ball mid-flight.\n\nWe start with the four rectus muscles — medial, lateral, superior, and inferior — covering their primary actions and why the superior and inferior rectus do more than just move the eye up and down. Then we dive into the two oblique muscles, the superior and inferior oblique, unpacking their counterintuitive paths and actions that always trip students up.\n\nFrom there, we explore the three cranial nerves behind it all. Cranial nerve three, the oculomotor nerve, controls four muscles, the eyelid, and the pupil — and a complete third nerve palsy is a medical emergency you need to recognize. Cranial nerve four, the trochlear nerve, controls only the superior oblique and is the most common cause of vertical double vision. Cranial nerve six, the abducens nerve, drives the lateral rectus alone and is the most frequently affected ocular motor nerve in clinical practice.\n\nWe also cover the LR6SO4 mnemonic, the Bielschowsky head tilt test, and the concept of yoke muscles in conjugate gaze — everything you need to understand extraocular motility with confidence.\n\nWhether you are a medical student, optometry trainee, or eye care professional brushing up on the basics, this episode gives you a clear, clinically relevant foundation. Listen now and visit Focuslinks.in for more ophthalmology and vision science content.",
       "tags": "motility,cranial-nerves,strabismus,versions",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-14.mp3",
+      "duration": "10:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952699093",
+      "generatedAt": "2026-08-05T17:58:19.094Z"
     },
     {
       "episodeOrder": 15,

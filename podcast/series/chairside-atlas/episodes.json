@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T18:05:18.042Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-05T18:08:25.616Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Lids, Lashes, and Lacrimal Apparatus: The Anterior Survey",
-      "description": "A systematic lid exam that catches blepharitis, entropion, lagophthalmos, and nasolacrimal obstruction.",
+      "title": "Eyelids, Lashes & Tear System: The Anterior Eye Survey",
+      "description": "Ever wondered why your nose runs when you cry, or what really causes that painful bump on your eyelid? In this episode of Focus Cast, we take a fascinating deep dive into the structures that protect and frame your eyes before we even reach the eyeball itself — the eyelids, eyelashes, and lacrimal apparatus.\n\nWe break down the layered anatomy of the eyelids, from the levator palpebrae superioris muscle that lifts your upper lid to the Meibomian glands that keep your tear film stable. You will learn why blinking matters more than you think, how screen time is quietly wrecking your eye surface, and what a chalazion or stye is actually telling you about your lid glands.\n\nFrom there, we explore the eyelashes — not just as a cosmetic feature, but as a precision sensory barrier. We cover conditions like trichiasis, where lashes grow inward and damage the cornea, and madarosis, where lash loss signals deeper systemic health issues.\n\nFinally, we unpack the elegant three-layer tear film, how the lacrimal gland produces tears, why emotional tears are chemically different from reflex tears, and how the puncta, canaliculi, and nasolacrimal duct work together to drain tears straight into your nasal cavity.\n\nWhether you are an optometry or ophthalmology student, an eye care professional, or simply someone curious about how the human body works, this episode gives you a clear, engaging, and clinically grounded understanding of the anterior eye survey.\n\nListen now and visit Focuslinks.in for more episodes, study resources, and everything eye care.\n\n---",
       "tags": "lids,lashes,lacrimal,blepharitis",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-17.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "db628caa-b110-4671-b18e-4553e2096e5c",
+      "generatedAt": "2026-08-05T18:08:24.797Z"
     },
     {
       "episodeOrder": 18,

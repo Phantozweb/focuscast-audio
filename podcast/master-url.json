@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T20:15:57.710Z",
+  "lastUpdated": "2026-08-05T20:16:06.989Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 200,
+  "generatedEpisodes": 201,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -104,10 +104,10 @@
       "category": "Pediatric",
       "order": 7,
       "totalEpisodes": 30,
-      "generatedEpisodes": 20,
+      "generatedEpisodes": 21,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/episodes.json",
       "audioDir": "podcast/series/pediatric-perspectives/audio",
-      "lastUpdated": "2026-08-05T20:15:43.584Z"
+      "lastUpdated": "2026-08-05T20:15:51.081Z"
     },
     {
       "slug": "neuro-navigator",

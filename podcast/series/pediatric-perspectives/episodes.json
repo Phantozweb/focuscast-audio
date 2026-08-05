@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:17:02.015Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T20:17:10.210Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Learning-Related Vision Problems: The Evidence",
-      "description": "The reading difficulty referral, the vision therapy debate, and the multidisciplinary approach.",
+      "title": "Learning-Related Vision Problems: What the Evidence Says",
+      "description": "Could your child's reading struggles, attention issues, or school difficulties actually be a vision problem in disguise? In this eye-opening episode of Focus Cast, we dig into the real evidence behind learning-related vision problems — a category of conditions that affects roughly one in four children yet remains chronically underdiagnosed.\n\nWe break down the science behind convergence insufficiency, eye tracking problems, focusing difficulties, and visual processing deficits — and explain why the standard school eye screening misses nearly all of them. You'll learn how symptoms of these conditions are routinely mistaken for ADHD, dyslexia, or simply a lack of effort, and what landmark studies like the Convergence Insufficiency Treatment Trial reveal about the powerful connection between visual function and learning.\n\nWe also cover what vision therapy actually is, what the research says about its effectiveness, and why a comprehensive evaluation from a developmental optometrist is a completely different experience from a routine eye test.\n\nWhether you're a parent watching a child struggle in school, a teacher trying to understand a disengaged student, or an adult who has always found reading exhausting — this episode gives you the information you need to ask better questions and take meaningful action.\n\nThe gap between what the research shows and what happens in classrooms and clinics is still wide. This conversation is part of closing it.\n\nListen now, and if this episode resonates with you, share it with someone who needs to hear it. Visit us at focuslinks.in to learn more.\n\n---",
       "tags": "learning,reading,vision-therapy,evidence",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-20.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1c9a2cce-29cd-4e26-aa79-97a5d9594069",
+      "generatedAt": "2026-08-05T20:17:10.210Z"
     },
     {
       "episodeOrder": 21,

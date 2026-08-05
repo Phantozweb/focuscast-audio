@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T19:54:24.465Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-05T19:54:36.808Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,14 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Depth of Focus and Depth of Field in the Eye",
-      "description": "How pupil, accommodation, and pupil miosis extend the range of clear vision.",
+      "title": "Depth of Focus & Depth of Field in the Human Eye Explained",
+      "description": "Have you ever wondered how your eyes instantly snap from your phone screen to someone across the room — with zero effort? That split-second shift is the result of a sophisticated optical system working silently behind the scenes, every waking moment of your life.\n\nIn this episode of Focus Cast, we break down two fundamental but often misunderstood concepts in vision science: **depth of field** and **depth of focus** in the human eye. We explore how depth of field determines the range of distances in the world that appear sharp to you, and how factors like pupil size directly influence it — including why squinting actually helps you see more clearly. We then dive into depth of focus, the built-in tolerance inside your eye that keeps vision functional even when the focused image isn't perfectly landing on the retina.\n\nAlong the way, we unpack the role of **accommodation** and the crystalline lens, explain why **presbyopia** makes reading glasses inevitable for most people after 40, and reveal how **myopia** can go undetected in children because depth of focus quietly masks the blur. We also touch on exciting real-world applications, from extended depth of focus intraocular lenses used in cataract surgery to cutting-edge contact lens designs aimed at slowing myopia progression in kids.\n\nWhether you're a science enthusiast, an eye care professional, or someone who just picked up their first pair of reading glasses, this episode will change the way you think about vision.\n\n🎧 Listen now and visit **focuslinks.in** for more content on eye health, vision science, and the latest in optical technology.\n\n---",
       "tags": "depth-of-focus,accommodation,pupil,range",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-27.mp3",
+      "duration": "12:45",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "622dd5e7-7ad4-432b-a959-6cd8062c0e0e",
+      "generatedAt": "2026-08-05T19:54:36.808Z"
     },
     {
       "episodeOrder": 28,

@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T20:03:10.424Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-05T20:04:16.803Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -295,14 +295,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "CL Complications: Infiltrates, CLARE, and MK",
-      "description": "The red-eye differential for a CL wearer — infiltrates, acute red eye, and microbial keratitis.",
+      "title": "Contact Lens Complications: Infiltrates, CLARE & Keratitis",
+      "description": "Could your contact lens habits be putting your vision at risk? In this eye-opening episode of Focus Cast, we break down three of the most important — and most misunderstood — contact lens complications: corneal infiltrates, CLARE (Contact Lens Acute Red Eye), and microbial keratitis (MK). Whether you're a daily lens wearer or an eye care professional, understanding the difference between these conditions could literally save someone's sight.\n\nWe start with corneal infiltrates — what they are, why they form, and why the line between sterile and infectious isn't always easy to spot. Then we dive into CLARE, the acute red eye response that wakes wearers up in pain and why overnight lens wear is such a major trigger. Finally, we tackle microbial keratitis, a true corneal infection that ranks among the leading causes of preventable vision loss in contact lens wearers worldwide. We cover the warning signs, the most dangerous bacterial culprits like Pseudomonas aeruginosa, and what urgent treatment looks like.\n\nMost importantly, we talk about prevention — because the vast majority of these complications come down to habits that are completely within your control. Sleeping in lenses, topping off solution, skipping case replacements — small choices that carry serious consequences.\n\nIf you wear contact lenses or care for patients who do, this episode is essential listening. Share it with someone who needs to hear it, and visit Focuslinks.in for more episodes and eye health resources. Your vision is worth protecting — start with the right information.\n\n---",
       "tags": "complications,infiltrates,clare,mk",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-23.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1dabf490-793b-48cd-9a9f-ee3565340192",
+      "generatedAt": "2026-08-05T20:04:16.803Z"
     },
     {
       "episodeOrder": 24,

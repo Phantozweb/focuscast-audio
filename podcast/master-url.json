@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T20:02:18.460Z",
+  "lastUpdated": "2026-08-05T20:02:28.465Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 167,
   "series": [
@@ -92,7 +92,7 @@
       "generatedEpisodes": 17,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/episodes.json",
       "audioDir": "podcast/series/contact-lens-chronicles/audio",
-      "lastUpdated": "2026-08-05T20:01:48.902Z"
+      "lastUpdated": "2026-08-05T20:02:17.025Z"
     },
     {
       "slug": "pediatric-perspectives",

@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-05T20:21:07.341Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-05T20:21:39.630Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -137,14 +137,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Ischemic Optic Neuropathy: Arteritic Versus Non-Arteritic",
-      "description": "The GCA emergency, the ESR/CRP, and the temporal artery biopsy pathway that follows.",
+      "title": "Ischemic Optic Neuropathy: Arteritic vs Non-Arteritic Explained",
+      "description": "What if you woke up tomorrow and part of your vision was simply gone? That is the terrifying reality of ischemic optic neuropathy, a condition that strikes without warning and can cause permanent vision loss within hours. In this episode of Focus Cast, we break down everything you need to know about the two critical forms of this condition: arteritic ischemic optic neuropathy (AION) and non-arteritic ischemic optic neuropathy (NAION).\n\nWe explore how NAION, the most common acute optic neuropathy in adults over fifty, develops from vascular risk factors like hypertension, diabetes, sleep apnea, and a structurally crowded optic disc. You will learn why it often strikes in the morning, what the visual field loss looks like, and why there is currently no proven treatment to reverse the damage.\n\nThen we dive into the far more urgent arteritic form, caused by giant cell arteritis, where the risk of losing vision in the second eye can reach sixty-five percent without immediate treatment. We cover the classic warning signs including jaw claudication, scalp tenderness, and temple headaches, along with the key lab markers ESR and CRP, and why high-dose corticosteroids must be started before biopsy results return.\n\nWhether you are a clinician, a medical student, or someone navigating an eye health concern, this episode gives you the clinical clarity to understand why distinguishing between these two conditions is not just important but potentially sight-saving and life-saving.\n\nListen now and visit Focuslinks.in for more expert eye health content.\n\n---",
       "tags": "aion,naion,gca,esr",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-11.mp3",
+      "duration": "13:05",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c961721d-eed9-4e08-ba4b-f314e1890cf1",
+      "generatedAt": "2026-08-05T20:21:39.630Z"
     },
     {
       "episodeOrder": 12,

@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T19:39:05.200Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-05T19:40:30.233Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -312,14 +312,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Chemical Burns: The Irrigation That Saves the Eye",
-      "description": "Immediate, copious, continuous irrigation — the Morgan lens, the pH target, and the limbal ischemia grade.",
+      "title": "Chemical Eye Burns: The Irrigation That Saves Your Vision",
+      "description": "What would you do if a chemical splashed into your eye right now? In this eye-opening episode of Focus Cast, we break down one of the most critical and underestimated medical emergencies you could ever face — chemical burns to the eye — and the single intervention that can mean the difference between full recovery and permanent blindness: immediate eye irrigation.\n\nWe explore exactly what happens when acids and alkalis make contact with the delicate surface of the eye, and why alkali burns are especially dangerous, capable of silently destroying tissue for hours after initial exposure. You'll learn why modern emergency medicine now says irrigate first, then seek help — and why even five minutes of delay can dramatically change your outcome.\n\nFrom washing your eye at a kitchen sink to the clinical use of a Morgan lens and pH testing in the emergency room, we walk through the full spectrum of what proper chemical eye burn treatment looks like. We also cover the long-term consequences of severe burns, including limbal stem cell deficiency, and what it takes to treat vision loss when prevention and immediate care fall short.\n\nWhether you work in a lab, a workshop, a hospital, or simply keep cleaning products under your sink at home, this episode gives you knowledge that could genuinely save your sight or someone else's.\n\nListen now, and then share this episode with someone who needs to hear it. Visit us at Focuslinks.in for more episodes on eye health and vision science.\n\n---",
       "tags": "chemical,burn,irrigation,morgan-lens",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-24.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7709db8a-5bd2-477a-a77f-f9e1db7ba37d",
+      "generatedAt": "2026-08-05T19:40:30.233Z"
     },
     {
       "episodeOrder": 25,

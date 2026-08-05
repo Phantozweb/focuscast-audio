@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T20:25:44.972Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-05T20:25:57.876Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -254,14 +254,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Migraine With Aura: The Visual Spectrum",
-      "description": "The scintillating scotoma, the fortification spectra, and the differential from occipital TIA.",
+      "title": "Migraine With Aura: Understanding the Visual Spectrum",
+      "description": "Have you ever seen shimmering zigzag lines, flashing lights, or a growing blind spot before a headache strikes? You may be experiencing migraine with aura — a neurological phenomenon that affects nearly 25–30% of the one billion people worldwide who live with migraines. In this episode of Focus Cast, we break down everything you need to know about migraine with aura and its stunning visual symptoms.\n\nWe explore what a visual aura actually looks like, from the classic scintillating scotoma to rainbow-colored patterns, tunnel vision, and even the rare Alice in Wonderland Syndrome. More importantly, we dive into the science behind it — uncovering how a slow-moving wave of electrical activity called cortical spreading depression travels across your visual cortex, creating those vivid, otherworldly experiences right before the headache begins.\n\nWe also cover who is most at risk, the genetic and hormonal factors involved, and the wide range of personal triggers that can push your brain past its threshold. Whether it's stress, disrupted sleep, certain foods, or changes in weather, understanding your triggers is one of the most powerful tools you have.\n\nFinally, we walk through practical, evidence-based approaches to managing migraine with aura — from lifestyle changes and acute treatments like triptans to newer therapies like CGRP inhibitors and complementary options like magnesium and biofeedback.\n\nIf you or someone you love experiences these symptoms, this episode will help you feel informed, less afraid, and more in control. Listen now and visit Focuslinks.in for more episodes and resources on health, mind, and everyday life.\n\n---",
       "tags": "migraine,aura,scintillating,tia",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-20.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3202aad5-20db-4bef-b56e-9601fc8fea25",
+      "generatedAt": "2026-08-05T20:25:57.876Z"
     },
     {
       "episodeOrder": 21,

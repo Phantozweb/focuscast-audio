@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T19:46:40.530Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-05T19:47:13.287Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Carbonic Anhydrase Inhibitors and Rho Kinase Inhibitors",
-      "description": "Topical and oral CAIs, the netarsudil class, and when each earns a place in the regimen.",
+      "title": "Carbonic Anhydrase & Rho Kinase Inhibitors Explained",
+      "description": "Did you know that too much pressure inside your eye is one of the leading causes of irreversible blindness worldwide? Glaucoma silently steals vision from millions of people, often without pain or warning — but two remarkable classes of drugs are fighting back in surprisingly clever ways.\n\nIn this episode of Focus Cast, we break down exactly how carbonic anhydrase inhibitors and Rho kinase inhibitors work to manage intraocular pressure and protect vision. We start with the fundamentals of aqueous humor, the eye's internal fluid system, and explain why disrupted drainage leads to glaucoma. From there, we explore how carbonic anhydrase inhibitors like dorzolamide and brinzolamide slow down fluid production by targeting a key enzyme — and why topical eye drops were such a breakthrough compared to older oral medications like acetazolamide.\n\nThen we dive into the newer and genuinely exciting world of Rho kinase inhibitors, particularly netarsudil, which works by relaxing the trabecular meshwork cells to improve fluid drainage — a completely different mechanism that opened a new chapter in glaucoma treatment. We also cover combination therapies, real-world side effects, and why having multiple drug classes matters so much for a lifelong condition like glaucoma.\n\nWhether you're a healthcare professional, a student, a patient, or simply someone curious about the science behind eye care, this episode gives you a clear, engaging, and medically grounded understanding of two of ophthalmology's most important drug classes.\n\nListen now and discover the incredible science packed inside that tiny eye drop bottle. Visit Focuslinks.in for more episodes and health resources, and share this episode with anyone who wants to understand their eye health better.\n\n---",
       "tags": "cai,rho-kinase,dorzolamide,netarsudil",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-22.mp3",
+      "duration": "12:44",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c49c067a-0a5b-4f71-bbe5-95c32c4d851b",
+      "generatedAt": "2026-08-05T19:47:13.287Z"
     },
     {
       "episodeOrder": 23,

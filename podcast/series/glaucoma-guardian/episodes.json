@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-05T18:30:07.287Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-05T18:33:28.043Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "The Optic Nerve in Glaucoma: Cupping, Notching, and the Neuroretinal Rim",
-      "description": "A reproducible disc evaluation method and the focal notching that signals progression.",
+      "title": "Glaucoma & the Optic Nerve: Cupping, Notching & the Rim",
+      "description": "What does glaucoma actually look like inside your eye — and how do doctors spot it before you lose vision? In this episode of Focus Cast, we take a deep dive into the optic nerve in glaucoma, breaking down three critical signs that eye doctors examine: cupping, notching, and the neuroretinal rim.\n\nYou'll learn what the cup-to-disc ratio really means, why a large optic cup isn't always cause for alarm, and how a tiny notch in the neuroretinal rim can predict exactly where visual field loss will appear. We also explore the ISNT rule — a simple but powerful framework ophthalmologists use to assess optic nerve health — and explain why structural damage in glaucoma can silently outpace functional vision loss by several years.\n\nWe break down how modern imaging technology like OCT (optical coherence tomography) is revolutionizing early glaucoma detection, allowing doctors to measure nerve fiber loss in microns — often long before a patient notices any change in their sight. We also unpack the structure-function relationship and why aligning optic nerve findings with visual field results is central to accurate glaucoma diagnosis and management.\n\nWhether you have a family history of glaucoma, elevated eye pressure, or simply want to understand what your eye doctor is looking for during a dilated exam, this episode gives you the knowledge to take your eye health seriously.\n\nGlaucoma may be the silent thief of sight — but it does leave clues. Learn how to recognize them.\n\nVisit us at focuslinks.in for more eye health content, and share this episode with someone who could benefit from it.",
       "tags": "optic-nerve,cupping,notch,rim",
       "category": "Optic Nerve",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-16.mp3",
+      "duration": "9:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954807206",
+      "generatedAt": "2026-08-05T18:33:27.206Z"
     },
     {
       "episodeOrder": 17,

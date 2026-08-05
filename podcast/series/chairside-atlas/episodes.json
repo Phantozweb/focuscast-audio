@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T18:31:20.604Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-05T18:34:43.468Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Iris and Lens: Pupillary Margin to Nucleus",
-      "description": "Iris transillumination, pseudoexfoliation, nuclear opalescence, and cortical spokes — a systematic lens exam.",
+      "title": "Iris to Lens Nucleus: How Your Eye Focuses Light",
+      "description": "Ever wondered what's really happening inside your eye when light hits it? In this episode of Focus Cast, we take a fascinating microscopic journey from the pupillary margin of the iris all the way to the nucleus of the lens — and what we find along the way will completely change how you think about your own vision.\n\nWe start at the pupillary ruff, that living edge of the iris carrying remnants of your embryonic development, then explore how the sphincter and dilator pupillae muscles constantly reshape your pupil in response to light, focus, and even emotion. We unpack the science behind eye color, including why blue eyes aren't actually blue — it's pure physics, not pigment.\n\nFrom there, we cross into the lens, where the elegant zonular fibers and ciliary muscle work in perfect coordination to drive accommodation — your eye's built-in autofocus system. We move through the lens capsule, the epithelial layer, and the crystallin-packed lens fibers of the cortex, finally arriving at the nucleus: a dense, ancient core made of cells that have been with you since before you were born.\n\nAlong the way, we explain why presbyopia makes reading glasses almost inevitable after your mid-forties, how cataracts develop, and why cataract surgery remains one of the most successful procedures in modern medicine.\n\nWhether you're a student of anatomy, a curious patient, or simply someone who loves understanding how the human body works, this episode delivers clear, engaging answers to questions you didn't even know you had.\n\nListen now and see the world through brand-new eyes. Visit focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "iris,lens,pex,cataract",
       "category": "Cataract",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-22.mp3",
+      "duration": "12:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c0a517da-e759-4c2a-a02c-72cefe4b0068",
+      "generatedAt": "2026-08-05T18:34:42.541Z"
     },
     {
       "episodeOrder": 23,

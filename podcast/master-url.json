@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T20:22:10.060Z",
+  "lastUpdated": "2026-08-05T20:22:20.236Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 218,
   "series": [
@@ -107,7 +107,7 @@
       "generatedEpisodes": 30,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/episodes.json",
       "audioDir": "podcast/series/pediatric-perspectives/audio",
-      "lastUpdated": "2026-08-05T20:21:46.954Z"
+      "lastUpdated": "2026-08-05T20:22:00.195Z"
     },
     {
       "slug": "neuro-navigator",

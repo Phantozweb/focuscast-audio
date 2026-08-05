@@ -8,19 +8,21 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-05T17:11:02.280Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-05T17:17:24.865Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Anatomy of the Posterior Pole: From Bruch’s to Photoreceptors",
-      "description": "A layered tour of the retina that makes every future OCT and fundus finding click into place.",
+      "title": "Posterior Pole Anatomy: Bruch's Membrane to Photoreceptors",
+      "description": "What if the clearest, most detailed vision you experience every single day depends on a region of your eye just five millimeters wide? In this episode of Focus Cast, we take a layer-by-layer journey through the posterior pole — the most critical and complex region of the retina — breaking down the anatomy that every eye care professional and vision science enthusiast needs to understand.\n\nWe start at the foundation with Bruch's membrane, the thin but mighty five-layered extracellular matrix that acts as a selective barrier between the choroidal blood supply and the retina. You will learn why its age-related thickening is a key driver of macular degeneration and how drusen formation begins right here. From there, we move up to the retinal pigment epithelium, a single cell layer performing an extraordinary range of functions — from daily photoreceptor outer segment phagocytosis to nutrient transport and visual pigment recycling — and why its post-mitotic nature makes RPE loss so clinically devastating.\n\nFinally, we arrive at the photoreceptors themselves — rods and cones — exploring their distinct distributions, structural architecture, and the remarkable process of phototransduction that converts light into electrical signals in milliseconds. We also cover the foveal avascular zone and why the fovea's complete dependence on choroidal circulation makes it so vulnerable to disease.\n\nWhether you are studying for an ophthalmology exam, deepening your clinical knowledge, or simply fascinated by how vision works, this episode connects anatomy directly to disease and treatment in a way that is clear, engaging, and clinically relevant.\n\nListen now and visit Focuslinks.in for more episodes and vision science resources.",
       "tags": "anatomy,retina,layers,bruchs",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-01.mp3",
+      "duration": "9:47",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785950244276",
+      "generatedAt": "2026-08-05T17:17:24.276Z"
     },
     {
       "episodeOrder": 2,

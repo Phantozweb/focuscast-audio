@@ -9,7 +9,7 @@
   "order": 6,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T20:01:20.749Z",
+  "lastUpdated": "2026-08-05T20:01:41.574Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,16 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "RGP Lens Fitting: Base Curve, Tear Lens & Fluorescein Patterns",
-      "description": "Ever watched an experienced clinician peer through a slit lamp at a glowing green eye and wondered exactly what they were seeing? This episode of Focus Cast breaks down the science and art of rigid gas permeable contact lens fitting in a way that finally makes it all click.\n\nWe start with the base curve, exploring how the curvature of the lens back surface relates to the cornea and why that relationship defines everything about the fit. From there, we dive into the tear lens, the often-overlooked optical layer that forms between the RGP lens and the cornea, and how it adds or subtracts power depending on your fitting choice. You will learn the SAM FAP rule and understand why adjusting the base curve always means adjusting the prescription.\n\nThen comes the most visually striking part of RGP fitting: fluorescein patterns. We walk through what alignment, steep, and flat fits actually look like under cobalt blue light, what each pattern tells you about lens-cornea interaction, and how to use that information to make better fitting decisions. We also cover edge lift, corneal astigmatism patterns, and how modern corneal topography is changing the way complex cases are approached.\n\nWhether you are an optometry student encountering RGP fitting for the first time or a clinician looking to sharpen your contact lens skills, this episode gives you a clear, practical foundation rooted in real clinical understanding.\n\nListen now and start reading fluorescein patterns with confidence. Visit Focuslinks.in for more episodes and eye care learning resources.\n\n---",
+      "title": "RGP Fitting: Base Curve, Tear Lens & Fluorescein Patterns",
+      "description": "Ever watched a clinician stare at a glowing green pattern under a slit lamp and wondered what they're actually seeing? In this episode of Focus Cast, we decode one of the most rewarding skills in clinical eye care — fitting rigid gas permeable (RGP) contact lenses.\n\nWe break down exactly how the base curve of an RGP lens relates to corneal curvature, and why getting that relationship right is the foundation of every successful fit. From there, we explore the fascinating optics of the tear lens — the thin fluid layer trapped between the lens and the cornea that carries real optical power and directly influences the final prescription. You'll learn the SAM FAP rule and understand why changing a base curve always means adjusting the lens power.\n\nThen we get into the part that makes RGP fitting truly come alive: fluorescein patterns. We walk through what alignment, steep, and flat fits actually look like under blue light, what each pattern tells you about lens-cornea interaction, and why edge clearance matters more than most beginners expect. We also touch on toric fluorescein patterns for astigmatic corneas and the unique challenges of fitting irregular corneas like keratoconus.\n\nWhether you're an optometry student building your clinical foundation, a new practitioner sharpening your fitting skills, or simply someone curious about the science behind contact lens care, this episode gives you a clear, practical framework for understanding RGP fitting from the ground up.\n\nVisit Focuslinks.in for more episodes and eye care resources. Subscribe so you never miss an episode of Focus Cast.\n\n---",
       "tags": "rgp,fluorescein,tear-lens,fitting",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-09.mp3",
-      "duration": "13:18",
+      "duration": "12:50",
       "imageUrl": "",
       "status": "generated",
-      "runId": "c3bf946e-d269-45b3-972c-780ea3238bb5",
-      "generatedAt": "2026-08-05T19:58:58.045Z"
+      "runId": "e2ca5ca2-8d7e-479f-986c-034539221d66",
+      "generatedAt": "2026-08-05T20:01:41.574Z"
     },
     {
       "episodeOrder": 10,

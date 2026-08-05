@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-05T17:56:02.885Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-05T17:59:19.621Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Emmetropization: How the Eye Grows to Perfect Focus",
-      "description": "The developmental process that shapes the axial length and the visual feedback that guides it.",
+      "title": "Emmetropization: How Your Eyes Grow to Perfect Focus",
+      "description": "Have you ever wondered how your eyes learned to see clearly? In this fascinating episode of Focus Cast, we dive deep into emmetropization — the remarkable biological process by which a child's eye grows and self-calibrates to achieve perfect focus. Most babies are born farsighted, yet by their early teenage years, the eye has quietly engineered itself into a precision optical instrument. But how does it know when to stop growing?\n\nWe explore the science behind the retina's feedback loop, the surprising role of dopamine in controlling eye growth, and why bright outdoor light is one of the most powerful tools nature gave us for healthy vision development. We also uncover the alarming global rise in myopia — with rates hitting 80 to 90 percent in some East Asian cities — and explain exactly why children spending more time indoors is fueling this epidemic.\n\nYou will learn how the cornea, lens, and axial length work together in a beautifully coordinated system, why the peripheral retina matters more than scientists once thought, and what cutting-edge myopia control treatments like orthokeratology are doing to slow the progression of nearsightedness in children.\n\nMost importantly, you will walk away with practical, science-backed guidance on protecting your child's vision — starting with something as simple as two hours of outdoor time each day.\n\nWhether you are a parent, an eye care professional, or simply someone curious about the biology of vision, this episode will change the way you think about how we see the world. Listen now and visit focuslinks.in for more expert eye health content.",
       "tags": "emmetropization,axial-length,development,myopia",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-10.mp3",
+      "duration": "10:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952758780",
+      "generatedAt": "2026-08-05T17:59:18.780Z"
     },
     {
       "episodeOrder": 11,

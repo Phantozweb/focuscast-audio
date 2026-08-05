@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-05T18:26:36.603Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-05T19:50:37.129Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Spherical Aberration: The Edge of the Pupil Matters",
-      "description": "Why dilated pupils degrade image quality and how aspheric lenses compensate.",
+      "title": "Spherical Aberration: Why Your Pupil Size Affects Vision",
+      "description": "Ever wonder why your vision feels sharp during the day but soft and hazy at night? The answer lies in a fascinating optical phenomenon called spherical aberration — and your pupil is at the center of it all. In this episode of Focus Cast by Focuslinks.in, we break down exactly why the edges of your pupil matter more than you ever realized, and how this invisible force shapes the quality of your everyday vision.\n\nWe start with the basics — how your eye works like a biological camera — and then dive into why a spherical lens, including your own cornea, cannot focus all incoming light rays at a single perfect point. You will discover why your pupils dilating in low light reveals optical imperfections that stay hidden in bright conditions, and why that explains the halos and starbursts you see around streetlights at night.\n\nFrom there, we explore the real-world solutions eye care professionals use to address spherical aberration, including aspheric eyeglass and contact lens designs, wavefront-guided LASIK surgery, and advanced aberrometry technology that maps your eye's unique optical fingerprint. We also cover how aging changes your eye's natural ability to compensate for spherical aberration, and what that means for night vision as you get older.\n\nWhether you struggle with night driving, are considering laser eye surgery, or simply want to understand your eyes better, this episode gives you practical, science-backed insights you can actually use. Try the pinhole trick we describe — you might be surprised by what you notice.\n\nVisit Focuslinks.in for more episodes and vision science resources, and share this episode with anyone who has ever complained about blurry night vision.\n\n---",
       "tags": "spherical-aberration,pupil,aspheric,quality",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-19.mp3",
+      "duration": "12:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "59a9d141-2b36-440b-b00a-9d28a770e024",
+      "generatedAt": "2026-08-05T19:50:37.129Z"
     },
     {
       "episodeOrder": 20,

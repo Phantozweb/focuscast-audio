@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T19:50:21.703Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-05T19:50:25.950Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Minimally Invasive Glaucoma Surgery: The MIGS Landscape",
-      "description": "iStent, Trabectome, Xen, and canaloplasty — what the optometrist needs to know for co-management.",
+      "title": "MIGS Explained: Minimally Invasive Glaucoma Surgery Guide",
+      "description": "What if treating one of the world's leading causes of irreversible blindness required nothing more than a two-millimeter incision and a same-day recovery? Welcome to the world of Minimally Invasive Glaucoma Surgery — and this episode is your complete guide to understanding it.\n\nGlaucoma silently affects over 80 million people worldwide, stealing vision before most patients even realize something is wrong. For decades, treatment meant lifelong eye drops, laser therapy, or high-risk traditional surgery like trabeculectomy. But MIGS has changed the equation entirely — offering ophthalmologists and patients a safer, faster, and less disruptive path to controlling intraocular pressure.\n\nIn this episode of Focus Cast, we break down the entire MIGS landscape — from trabecular meshwork procedures like the iStent and Hydrus Microstent, to subconjunctival approaches like the XEN Gel Stent, suprachoroidal devices, and laser-based options like endocyclophotocoagulation (ECP). We explore how each procedure works, what the clinical evidence says, and why the combination of MIGS with cataract surgery is proving to be a game-changer for millions of patients.\n\nWe also dig into patient selection — who benefits most from MIGS, why medication adherence makes surgical intervention more compelling than ever, and how the philosophy of glaucoma management is shifting from reactive treatment to proactive, quality-of-life-focused care.\n\nWhether you're a patient navigating a new glaucoma diagnosis, a caregiver seeking clarity, or an eye care professional looking to stay current, this episode delivers the foundational knowledge you need.\n\nListen now and visit **focuslinks.in** to explore more episodes on the latest in ophthalmology and eye care innovation.\n\n---",
       "tags": "migs,istent,minimally-invasive,surgery",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-26.mp3",
+      "duration": "12:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "51af3efc-6b79-42b1-9ed6-89fcc4d4c8bd",
+      "generatedAt": "2026-08-05T19:50:25.950Z"
     },
     {
       "episodeOrder": 27,

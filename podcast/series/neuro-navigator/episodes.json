@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T20:29:44.689Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-05T20:29:49.949Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -362,14 +362,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Neuroimaging for the Optometrist: When and What",
-      "description": "Choosing CT versus MRI, the contrast decision, and the specific sequences that answer each question.",
+      "title": "Neuroimaging for Optometrists: When and What to Order",
+      "description": "What happens when a routine eye exam reveals something far more serious? In this episode of Focus Cast, we explore one of the most critical skills a modern optometrist can develop — knowing when to refer for neuroimaging and, just as importantly, knowing exactly what to ask for.\n\nYour optometry chair is often the first stop on a patient's neurological journey. From a swollen optic disc to a visual field defect that respects the vertical midline, the signs are there if you know how to read them. We walk through four high-stakes clinical scenarios every optometrist will encounter: acute visual loss and its link to stroke, papilloedema and raised intracranial pressure, post-chiasmal visual field defects, and new-onset diplopia with pupil involvement. For each scenario, we break down whether CT or MRI is appropriate, which specific imaging sequences to request, and how to write a referral that actually moves the needle for your patient.\n\nWe also cover why OCT is quietly becoming a neurological monitoring tool, with emerging roles in tracking multiple sclerosis, Alzheimer's disease, and Parkinson's disease progression.\n\nWhether you are a new graduate or an experienced clinician, this episode gives you a practical, clinically grounded framework for thinking like a neurologically aware optometrist. Because the difference between the right scan and the wrong one can mean the difference between a timely diagnosis and a missed one.\n\nListen now and share this episode with a colleague who needs to hear it. For more clinical resources and episodes, visit Focuslinks dot in.\n\n---",
       "tags": "imaging,ct,mri,contrast",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-28.mp3",
+      "duration": "11:57",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "925432d6-1cf8-4951-a8b9-13e92aca5a10",
+      "generatedAt": "2026-08-05T20:29:49.949Z"
     },
     {
       "episodeOrder": 29,

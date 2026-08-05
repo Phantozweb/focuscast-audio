@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T19:40:56.697Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T19:41:18.910Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Corneal Topography: Reading the Color Map",
-      "description": "Axial, tangential, and elevation maps — turning the color wheel into a clinical decision.",
+      "title": "Corneal Topography: How Color Maps Reveal Your Eye Health",
+      "description": "Ever wondered what those swirling color maps at your eye doctor's office actually mean? In this episode of Focus Cast, we break down corneal topography — the remarkable technology that maps the surface of your cornea using reflected light and color-coded data — into clear, engaging language anyone can understand.\n\nWe start with the basics: what the cornea does, why its shape matters so much for your vision, and how a corneal topographer uses Placido rings to capture a detailed portrait of your eye's front surface. From there, we decode the color map itself — what warm reds and oranges reveal about steep corneal curves, and what cool blues and greens tell us about flatter zones.\n\nYou will learn how to recognize key topographic patterns, including the classic bowtie shape of regular astigmatism and the telltale hot spot that signals keratoconus — a progressive corneal condition where early detection can be truly vision-saving. We also explore how corneal topography guides specialty contact lens fitting, helping patients with irregular corneas achieve comfortable, functional vision that glasses alone cannot deliver. And if you have ever considered LASIK, you will discover why topography is the critical safety screening step that protects candidates from serious surgical complications.\n\nWhether you are a patient curious about your own eye health, a student exploring optometry or ophthalmology, or simply someone who loves understanding how the human body works, this episode gives you a genuinely useful window into one of the most powerful diagnostic tools in modern eye care.\n\nListen now and see your eyes in a whole new way. For more episodes and eye care insights, visit Focuslinks dot in.\n\n---",
       "tags": "topography,axial,map,ectasia",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-26.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "154afbb1-b3b6-4bc3-8e7a-d882185ffede",
+      "generatedAt": "2026-08-05T19:41:18.910Z"
     },
     {
       "episodeOrder": 27,

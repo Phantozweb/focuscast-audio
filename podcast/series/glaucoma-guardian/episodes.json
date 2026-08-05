@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T19:49:41.700Z",
+  "lastUpdated": "2026-08-05T19:50:18.130Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -287,15 +287,15 @@
     {
       "episodeOrder": 22,
       "title": "Carbonic Anhydrase & Rho Kinase Inhibitors Explained",
-      "description": "What's really happening inside your eye when glaucoma silently steals your vision? In this episode of Focus Cast, we break down two powerful classes of glaucoma medications — carbonic anhydrase inhibitors and Rho kinase inhibitors — and explain exactly how they work, why they matter, and what makes them different from each other.\n\nWe start with carbonic anhydrase inhibitors, tracing their journey from acetazolamide in the 1950s to modern topical options like dorzolamide and brinzolamide. You'll learn how these drugs reduce intraocular pressure by slowing aqueous humor production, and why the shift from oral to eye drop formulations was a turning point in glaucoma treatment.\n\nThen we dive into the newer and exciting world of Rho kinase inhibitors, particularly netarsudil, the first FDA-approved ROCK inhibitor for glaucoma. Unlike most existing treatments, Rho kinase inhibitors directly target the trabecular meshwork drainage pathway — essentially unclogging the eye's natural drain. We also cover the breakthrough combination drop Rocklatan, which pairs netarsudil with a prostaglandin analog for superior pressure reduction.\n\nBeyond the science, we explore what these advances mean for patients — from sustained-release implants on the horizon to the potential neuroprotective effects of Rho kinase inhibitors that could one day protect the optic nerve directly.\n\nWhether you're a healthcare professional, a student, or someone managing glaucoma personally, this episode gives you a clear, accessible understanding of the cutting edge of eye care.\n\nListen now and share with someone who deserves to protect their vision. Visit Focuslinks.in for more episodes and health science resources.\n\n---",
+      "description": "What if a tiny enzyme or a stiff drainage tissue was quietly stealing your vision — and you never even felt it happening? In this episode of Focus Cast, we break down two powerful classes of glaucoma medications — Carbonic Anhydrase Inhibitors and Rho Kinase Inhibitors — and explain exactly how they protect your sight before it's too late.\n\nWe start with the basics: what aqueous humor is, how intraocular pressure builds up, and why glaucoma is one of the leading causes of irreversible blindness worldwide. Then we explore how Carbonic Anhydrase Inhibitors like dorzolamide and brinzolamide work by slowing fluid production in the eye, tracing their origins all the way back to acetazolamide in the 1950s. You'll learn why topical eye drops were a game-changer over oral medications and how combination therapies are making it easier for patients to stay on track.\n\nNext, we dive into the exciting science behind Rho Kinase Inhibitors, particularly netarsudil — the first new glaucoma drug mechanism approved in over two decades. Discover how ROCK inhibitors relax the trabecular meshwork to improve fluid drainage, why netarsudil's dual-action mechanism makes it uniquely effective, and how the combination product Rocklatan is pushing IOP reduction to impressive new levels.\n\nWhether you're managing glaucoma, caring for someone who is, or simply fascinated by how modern medicine works, this episode offers a clear, engaging look at the science protecting millions of people's vision every day.\n\nListen now and visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "cai,rho-kinase,dorzolamide,netarsudil",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-22.mp3",
-      "duration": "12:25",
+      "duration": "12:15",
       "imageUrl": "",
       "status": "generated",
-      "runId": "03361711-a341-4e39-9a50-325d83fb3d57",
-      "generatedAt": "2026-08-05T19:49:41.700Z"
+      "runId": "2aa55e6a-59b2-4ac0-af68-e8b10c584444",
+      "generatedAt": "2026-08-05T19:50:17.554Z"
     },
     {
       "episodeOrder": 23,

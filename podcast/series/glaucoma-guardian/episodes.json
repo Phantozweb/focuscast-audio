@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T19:50:42.003Z",
+  "lastUpdated": "2026-08-05T19:51:02.243Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,16 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Trabeculectomy vs Tube Shunts: How Surgery Saves Vision",
-      "description": "What happens when eye drops and lasers aren't enough to stop glaucoma from stealing your sight? In this episode of Focus Cast, we break down two of the most powerful surgical weapons in the fight against glaucoma — trabeculectomy and tube shunts — and explain exactly how they work, when surgeons choose one over the other, and why they've remained the gold standard of glaucoma surgery for decades.\n\nWe start with trabeculectomy, the procedure that changed glaucoma treatment when Harold Cairns first described it in the 1960s. Learn how surgeons create a controlled drainage pathway called a bleb, why scar tissue is the biggest threat to its success, and how anti-scarring agents like Mitomycin C help keep the surgery working long-term.\n\nThen we dive into tube shunts — devices like the Ahmed valve and Baerveldt implant — exploring how these small silicone tubes and plates offer a more mechanical solution for complex or previously operated eyes. We also unpack the landmark Tube Versus Trabeculectomy (TVT) study and what its findings mean for real clinical decision-making today.\n\nWhether you're a patient navigating a glaucoma diagnosis, a student studying ophthalmology, or simply someone curious about how surgeons protect one of the body's most vital organs, this episode gives you a clear, engaging, and medically grounded look at glaucoma surgery without the jargon overload.\n\nListen now and discover why these procedures represent not just surgical innovation, but genuine life-changing outcomes for millions of patients worldwide. For more eye health content, visit us at focuslinks.in.\n\n---",
+      "title": "Trabeculectomy & Tube Shunts: Glaucoma Surgery Explained",
+      "description": "What happens when eye drops and lasers aren't enough to stop glaucoma from stealing your sight? In this episode of Focus Cast, we dive deep into the two most powerful surgical weapons in the fight against glaucoma — trabeculectomy and tube shunts. Known as \"The Filtered and the Shunted,\" these procedures have preserved the vision of millions of patients worldwide, and today we're breaking down exactly how they work in plain, accessible language.\n\nWe start with the basics — what glaucoma actually does to your eye, why pressure builds up, and why that silent damage is so dangerous. From there, we explore trabeculectomy, the long-standing gold standard of glaucoma surgery, including how surgeons create a tiny drainage bleb, why mitomycin C is used to prevent scarring, and what makes this procedure both powerful and delicate. Then we move on to tube shunts — the Ahmed valve, the Baerveldt implant, and others — unpacking how these miniature silicone devices redirect fluid and what the landmark TVT study revealed about when tubes outperform traditional filtering surgery.\n\nWe also cover the real risks of both procedures, from blebitis to tube erosion, and explain why glaucoma surgery decisions are never one-size-fits-all. Whether you're a patient navigating a new diagnosis, a caregiver supporting a loved one, or simply someone curious about how ophthalmology solves one of medicine's trickiest problems, this episode gives you the clarity you need.\n\nListen now and walk away with a genuine understanding of two procedures that continue to save sight every single day. For more eye health content, visit us at focuslinks.in.\n\n---",
       "tags": "trabeculectomy,tube,bleb,filter",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-27.mp3",
-      "duration": "12:17",
+      "duration": "12:31",
       "imageUrl": "",
       "status": "generated",
-      "runId": "73567f49-efaa-4ad4-a4ba-eb3ee1457c97",
-      "generatedAt": "2026-08-05T19:50:33.582Z"
+      "runId": "cb35be4f-f483-410f-b96a-e614069da5bd",
+      "generatedAt": "2026-08-05T19:51:02.243Z"
     },
     {
       "episodeOrder": 28,

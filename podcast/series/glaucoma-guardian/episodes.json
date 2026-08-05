@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T19:48:33.025Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-05T19:48:43.624Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Combination Drops: Simplifying the Regimen",
-      "description": "When to combine, the adherence advantage, and the cost considerations that shape the choice.",
+      "title": "Combination Eye Drops: Simplify Your Glaucoma Regimen",
+      "description": "Are you juggling multiple eye drops, timing intervals, and refill schedules just to manage your eye pressure? There is a smarter way. In this episode of Focus Cast, we break down everything you need to know about combination drops, the single-bottle solution that is transforming glaucoma treatment and making daily eye care genuinely manageable.\n\nWe explore why so many glaucoma patients end up on multiple medications in the first place, how different drug classes like beta-blockers, prostaglandin analogues, and carbonic anhydrase inhibitors work together to lower eye pressure from multiple angles, and why combining them into one drop is more than just convenient. It is clinically powerful.\n\nYou will also learn about the hidden toll that preservatives like benzalkonium chloride take on your ocular surface over time, and how combination drops can significantly reduce that exposure. We share a relatable real-world story that illustrates how simplifying a regimen can directly improve pressure control and protect long-term vision. Plus, we cover the financial considerations, who makes the best candidate for combination therapy, and the one conversation you should be having with your eye doctor right now.\n\nWhether you are newly diagnosed or have been managing glaucoma for years, this episode gives you practical, evidence-backed information to help you take control of your treatment with confidence.\n\nListen now and discover how one small change to your routine could make a big difference for your vision. Visit Focuslinks dot in for more eye health episodes and resources.\n\n---",
       "tags": "combination,adherence,cost,regimen",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-23.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "00e2a333-bac8-4c08-b6a8-3cd85c2f90e8",
+      "generatedAt": "2026-08-05T19:48:43.202Z"
     },
     {
       "episodeOrder": 24,

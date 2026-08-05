@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-05T20:11:34.647Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-05T20:11:40.737Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Cycloplegic Refraction in Children: Why and How",
-      "description": "Choosing cyclopentolate versus atropine, the timing of the drop, and the refraction technique that follows.",
+      "title": "Cycloplegic Refraction in Children: Why Those Eye Drops Matter",
+      "description": "Ever wondered why eye doctors insist on putting drops in a child's eyes before checking their glasses number? The answer could make the difference between clear vision and a lifetime of preventable vision problems. In this episode of Focus Cast, we break down everything you need to know about cycloplegic refraction in children — one of the most important yet misunderstood procedures in pediatric eye care.\n\nWe explain why children's eyes are fundamentally different from adults', how the powerful focusing muscle inside a child's eye can completely mask their true refractive error, and why skipping cycloplegic drops can lead to missed diagnoses of farsightedness, lazy eye (amblyopia), and even squinting (strabismus). You'll learn about the most commonly used cycloplegic agents — atropine, cyclopentolate, and tropicamide — how they work, how long their effects last, and what side effects parents should watch for.\n\nWe also cover which children need cycloplegic refraction most urgently, the rare contraindications to be aware of, and why catching refractive errors early during a child's critical window of visual development can genuinely change the trajectory of their eyesight for life.\n\nWhether you're a parent preparing for your child's eye exam, a student studying optometry or ophthalmology, or a healthcare professional looking for a clear clinical refresher, this episode gives you the full picture in plain, accessible language.\n\nListen now and share this episode with any parent or caregiver who deserves to understand exactly what's happening at their child's eye appointment. For more eye care content like this, visit us at focuslinks.in.\n\n---",
       "tags": "cycloplegia,cyclopentolate,atropine,refraction",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-04.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "79c67f8e-3408-4b90-baf2-830569697b1d",
+      "generatedAt": "2026-08-05T20:11:40.737Z"
     },
     {
       "episodeOrder": 5,

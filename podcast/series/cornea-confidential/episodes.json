@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T19:43:29.794Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-05T19:44:13.166Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -365,13 +365,15 @@
     {
       "episodeOrder": 28,
       "title": "Anterior Segment OCT: Imaging What the Slit Lamp Misses",
-      "description": "Using AS-OCT for angles, scleral lenses, and the corneal pathology that hides behind opacity.",
+      "description": "Ever stared through the slit lamp, felt like everything looked fine, and still knew something was off? That gap between what you can see and what's actually happening inside the eye is exactly what this episode is about.\n\nIn this episode of Focus Cast, we take a deep dive into Anterior Segment OCT (AS-OCT) — the imaging technology that's quietly revolutionizing how clinicians assess, diagnose, and manage anterior segment disease. From corneal epithelial mapping that catches early keratoconus before topography raises a flag, to non-contact angle assessment that reveals plateau iris syndrome hiding behind a seemingly successful LPI, AS-OCT is changing clinical decisions in ways the slit lamp simply cannot.\n\nWe cover four high-impact areas where AS-OCT goes beyond what traditional examination offers: corneal layer-by-layer analysis including post-surgical evaluation of DMEK and DSAEK grafts, quantitative anterior chamber angle imaging for glaucoma and narrow-angle suspects, ICL vault measurement and IOL position assessment, and surgical planning with postoperative bleb monitoring for glaucoma procedures.\n\nWhether you're an ophthalmologist, optometrist, or eye care professional looking to sharpen your clinical toolkit, this episode breaks down a complex technology into practical, patient-centered insights you can apply immediately.\n\nIf you've ever second-guessed a narrow angle, cleared a keratoconus suspect for refractive surgery, or estimated an ICL vault instead of measuring it — this episode is for you.\n\nListen now, and start seeing the anterior segment the way it was always meant to be seen.\n\nVisit **focuslinks.in** for more episodes and eye care resources that keep you clinically sharp.\n\n---",
       "tags": "as-oct,angle,scleral,imaging",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-28.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "812e2ccf-dad7-493f-ba97-4029c8d0e991",
+      "generatedAt": "2026-08-05T19:44:13.166Z"
     },
     {
       "episodeOrder": 29,

@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T19:29:39.286Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-05T19:29:54.380Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -323,14 +323,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Retinal Detachment: Rhegmatogenous Recognition and Referral",
-      "description": "Photopsia, floaters, and the curtain — the triad that demands dilated fundus exam today.",
+      "title": "Retinal Detachment: Recognize RRD Before It Costs Vision",
+      "description": "What if the difference between a patient keeping their sight and losing it came down to a single phone call? In this episode of Focus Cast, we dive deep into rhegmatogenous retinal detachment (RRD), the most common and time-critical form of retinal detachment, and walk you through everything you need to know to recognize it fast and refer it right.\n\nWe break down the three symptoms every clinician must have memorized: photopsia, sudden floaters, and visual field defects, and explain exactly what each one tells you about what is happening inside the eye. You will learn how to identify Shafer's sign, understand the critical difference between macula-on and macula-off detachments, and discover why that distinction changes your referral urgency entirely.\n\nWe also cover the risk factors that raise suspicion, from high myopia and prior cataract surgery to trauma and family history, while reminding you that RRD does not always follow the rules. Through a real-world clinical scenario, we show how the same presentation, handled differently, can lead to two completely opposite outcomes for your patient.\n\nWhether you are an optometrist, a general ophthalmologist, or a primary care clinician, this episode gives you the clinical confidence to act decisively when it matters most. Because in retinal detachment, time is the most valuable resource, and you are the one who controls it.\n\nListen now and share this episode with a colleague who needs to hear it. Visit Focuslinks.in for more episodes, clinical resources, and everything eye care.\n\n---",
       "tags": "rds,photopsia,floaters,curtain",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-25.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "070d1aae-dd4e-4b60-ae52-c31cedc93dc3",
+      "generatedAt": "2026-08-05T19:29:54.380Z"
     },
     {
       "episodeOrder": 26,

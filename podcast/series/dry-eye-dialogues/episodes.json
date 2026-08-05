@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:34.835Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-05T20:30:10.208Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -46,14 +46,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Evaporative DED: The Meibomian Gland Problem",
-      "description": "MGD as the dominant cause of DED — the obstruction, the atrophy, and the lipid deficiency.",
+      "title": "Evaporative Dry Eye & Meibomian Gland Dysfunction Explained",
+      "description": "Do your eyes feel gritty, burning, or constantly watery — even though they seem dry at the same time? You might be dealing with evaporative dry eye, the most common form of dry eye disease, affecting up to 86% of sufferers. And the hidden cause behind it all? Your meibomian glands.\n\nIn this episode of Focus Cast, we break down exactly what meibomian gland dysfunction (MGD) is, why these tiny oil-producing glands inside your eyelids matter more than you think, and how their failure triggers the rapid tear evaporation that leaves your eyes uncomfortable and irritated all day long.\n\nWe cover everything you need to know — from how your tear film actually works and why the oily layer is so critical, to the everyday habits silently damaging your meibomian glands. Screen time, contact lens wear, hormonal changes, rosacea, and even a low omega-3 diet all play a role, and we explain exactly why.\n\nYou will also learn how eye care professionals diagnose MGD using advanced imaging like meibography, and what the most effective treatments look like today — including warm compresses, LipiFlow, intense pulsed light therapy, omega-3 supplementation, and proper lid hygiene routines.\n\nWhether you have been managing dry eye symptoms for years or are just starting to notice something feels off, this episode gives you the knowledge to take the right next step.\n\nListen now and share this episode with anyone who constantly complains about dry, irritated, or uncomfortable eyes. Then visit Focuslinks.in for more episodes and resources dedicated to keeping your vision sharp and your eyes healthy.\n\n---",
       "tags": "evaporative,mgd,obstruction,lipid",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-04.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "234fafd0-a169-46f8-a341-2f8a619b2f8f",
+      "generatedAt": "2026-08-05T20:30:10.208Z"
     },
     {
       "episodeOrder": 5,

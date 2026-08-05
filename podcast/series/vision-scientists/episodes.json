@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T19:54:03.206Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-05T19:54:24.465Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Pupil Size and Optical Performance",
-      "description": "The diffraction-versus-aberration tradeoff and the optimal pupil for peak resolution.",
+      "title": "Pupil Size and Optical Performance: How Your Eye Sees",
+      "description": "Ever wondered why your vision feels razor-sharp in daylight but blurry and halo-filled at night? The answer lies in one tiny, constantly shifting part of your eye — your pupil. In this episode of Focus Cast by Focuslinks.in, we explore the fascinating science of pupil size and optical performance, and why that small dark circle controls far more than just how much light enters your eye.\n\nWe break down the tug-of-war between diffraction and aberrations — two opposing optical forces that determine the quality of your vision at any given moment. You'll discover why there's a Goldilocks zone for pupil size where your vision peaks, and what happens when your pupil strays too far in either direction.\n\nFrom glasses prescriptions and laser eye surgery to night driving struggles and pinhole glasses, we connect the science directly to real-world experiences you've probably had but never fully understood. We also explore how the same optical trade-offs that govern your pupil apply to camera apertures, telescopes, and smartphone lenses — because the laws of physics don't play favorites.\n\nWhether you're curious about why older eyes behave differently in low light, why some people see worse after LASIK at night, or simply why squinting actually helps you see more clearly, this episode has answers that will change the way you think about your own vision.\n\nTune in, and give that tiny window in the center of your eye the credit it truly deserves. Visit Focuslinks.in for more episodes, articles, and resources on vision and optics.\n\n---",
       "tags": "pupil,diffraction,aberration,optimal",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-26.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e15391f3-050e-4915-a93a-c72a8dd45b6b",
+      "generatedAt": "2026-08-05T19:54:24.465Z"
     },
     {
       "episodeOrder": 27,

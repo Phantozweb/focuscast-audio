@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-05T19:45:00.513Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-05T19:45:32.791Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -377,14 +377,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Corneal Transplant: PKP, DSAEK, and DMEK for the Optometrist",
-      "description": "Understanding the procedure, the post-op timeline, and the graft rejection signs you must catch.",
+      "title": "Corneal Transplant Explained: PKP, DSAEK & DMEK for Optometrists",
+      "description": "When a patient's cornea fails, what happens next can define their vision for life — and as their optometrist, you play a critical role in that journey. In this episode of Focus Cast, we break down the three corneal transplant procedures you are most likely to encounter in co-management practice: PKP, DSAEK, and DMEK.\n\nWe start with the fundamentals — why the corneal endothelium matters, why it fails, and which conditions like Fuchs endothelial dystrophy, bullous keratopathy, and advanced keratoconus lead patients to the operating room. From there, we walk through each surgical technique in plain clinical language. You will learn how penetrating keratoplasty differs from the newer endothelial keratoplasty procedures, why DSAEK transformed corneal surgery in the mid-2000s, and why DMEK has become the gold standard for endothelial disease at leading corneal centers — delivering 20/20 outcomes with lower rejection rates and faster recovery.\n\nBut this episode is not just about surgery. It is about your role before, during, and after. We cover what to watch for in the post-operative period, how to recognize early graft rejection and respond urgently, why long-term steroid monitoring matters, and how scleral lens fitting after PKP can be genuinely life-changing for your patients.\n\nWhether you are new to co-managing corneal transplant patients or looking to sharpen your clinical knowledge, this episode gives you the framework to communicate confidently with surgical colleagues and deliver better care at every stage.\n\nListen now, and visit Focuslinks.in for more episodes and eye care resources. If this episode helped you, share it with a colleague and leave us a review.\n\n---",
       "tags": "transplant,pkp,dsaek,dmek",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-29.mp3",
+      "duration": "12:10",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a6dae87e-82bb-4af0-a424-ce461ff8ce3c",
+      "generatedAt": "2026-08-05T19:45:32.791Z"
     },
     {
       "episodeOrder": 30,

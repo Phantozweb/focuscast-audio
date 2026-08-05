@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T20:24:58.841Z",
+  "lastUpdated": "2026-08-05T20:25:22.316Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -170,15 +170,15 @@
     {
       "episodeOrder": 13,
       "title": "Papilledema: What Bilateral Disc Swelling Reveals About Your Brain",
-      "description": "What if your eyes could warn you that your brain was in danger? In this episode of Focus Cast by Focuslinks.in, we take a deep dive into papilledema, the bilateral optic disc swelling caused by raised intracranial pressure, and explore why every clinician needs to recognize it fast.\n\nWe break down exactly how elevated cerebrospinal fluid pressure travels along the optic nerve sheath to produce that telltale swollen disc appearance, and why seeing it in both eyes simultaneously is a neurological emergency until proven otherwise. From the Monro-Kellie doctrine to the Frisén grading scale, we walk through the foundational science and the practical clinical tools, including OCT, optic nerve sheath ultrasound, and fundoscopy, that help you assess severity and monitor progression.\n\nYou will learn the major causes of raised intracranial pressure, from brain tumors and hydrocephalus to idiopathic intracranial hypertension, and understand the step-by-step clinical approach from urgent neuroimaging to lumbar puncture and targeted treatment. We also cover two critical distinctions that can make or break a diagnosis: papilledema versus pseudopapilledema caused by optic disc drusen, and papilledema versus papillitis in optic neuritis.\n\nWhether you are a medical student preparing for exams, a junior doctor on the wards, or a clinician refreshing your knowledge, this episode gives you a clear, structured, and memorable understanding of one of medicine's most important clinical signs.\n\nListen now and start seeing the eye as the window to the brain it truly is. Visit Focuslinks.in for more episodes and medical learning resources.\n\n---",
+      "description": "What if a routine eye exam suddenly revealed a life-threatening problem inside your skull? That's the reality with papilledema — a critical medical finding that every student, clinician, and curious mind needs to understand. In this episode of Focus Cast, we break down exactly what papilledema is, why it happens, and why it demands immediate attention.\n\nWe start with the basics: how cerebrospinal fluid maintains intracranial pressure, and why a rise in that pressure causes the optic disc to swell in both eyes simultaneously. From there, we explore the major causes of raised intracranial pressure — including brain tumors, hydrocephalus, meningitis, venous sinus thrombosis, and idiopathic intracranial hypertension — and explain how each one sets off the chain of events visible at the back of the eye.\n\nYou'll learn how papilledema is identified using an ophthalmoscope, how it's graded on the Frisén scale, and why early-stage papilledema can exist with completely normal vision. We also cover the classic symptoms of raised intracranial pressure, including morning headaches and transient visual obscurations, and explain why ignoring these warning signs can lead to permanent vision loss.\n\nWe take a deep dive into idiopathic intracranial hypertension — its risk factors, diagnostic criteria, and treatment options including acetazolamide and surgical interventions. And we close with a powerful reminder: the optic disc is the only part of the central nervous system visible to the naked eye, making fundoscopy one of the most valuable skills in clinical medicine.\n\nWhether you're preparing for exams or expanding your medical knowledge, this episode delivers clarity on a complex topic. Listen now and visit focuslinks.in for more episodes like this one.\n\n---",
       "tags": "papilledema,icp,frisen,imaging",
-      "category": "Retina",
+      "category": "Optic Nerve",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-13.mp3",
-      "duration": "12:26",
+      "duration": "12:37",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a9d7b919-5d63-447d-8158-9b2783a30093",
-      "generatedAt": "2026-08-05T20:24:28.066Z"
+      "runId": "217aa4e5-0d75-44d6-bd47-e64955add81a",
+      "generatedAt": "2026-08-05T20:25:21.904Z"
     },
     {
       "episodeOrder": 14,

@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T19:29:26.950Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-05T19:29:39.286Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Ophthalmic Artery Occlusion: The Silent but Devastating Variant",
-      "description": "Distinguishing OAO from CRAO when the cherry-red spot is absent and the choroid is also ischemic.",
+      "title": "Ophthalmic Artery Occlusion: The Silent Vision Emergency",
+      "description": "What if you woke up one morning and your vision was simply gone — no pain, no warning, just darkness? That is the terrifying reality of ophthalmic artery occlusion, one of the most devastating and least understood emergencies in medicine. In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about this silent but catastrophic condition that can steal your sight in minutes.\n\nWe explore exactly what ophthalmic artery occlusion is, why it is more severe than central retinal artery occlusion, and why the absence of pain makes it so dangerously easy to ignore. You will learn who is most at risk — from people with high blood pressure, diabetes, and atherosclerosis to younger patients with clotting disorders — and why giant cell arteritis is a critical cause that every person over fifty should know about.\n\nWe also walk through the urgent reality of treatment, the frustrating lack of standardized options, and why time is the single most important factor in preserving vision. Perhaps most importantly, we reveal the powerful connection between ophthalmic artery occlusion and broader cardiovascular disease, including the alarming risk of stroke and heart attack that follows.\n\nWhether you are a patient, a caregiver, or simply someone who values their eyesight, this episode could change how you respond to sudden vision loss — for yourself or someone you love.\n\nListen now, and then share this episode with someone who needs to hear it. For more eye health resources, visit Focuslinks.in.\n\n---",
       "tags": "oao,ischemia,choroid,emergency",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-23.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6780c1da-a947-4a4e-96d8-ce0bc4d19529",
+      "generatedAt": "2026-08-05T19:29:39.286Z"
     },
     {
       "episodeOrder": 24,

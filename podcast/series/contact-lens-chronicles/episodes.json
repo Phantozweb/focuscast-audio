@@ -9,7 +9,7 @@
   "order": 6,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T20:11:34.718Z",
+  "lastUpdated": "2026-08-05T20:12:58.532Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -391,15 +391,15 @@
     {
       "episodeOrder": 30,
       "title": "The Unhappy Contact Lens Patient: A Diagnostic Framework",
-      "description": "Is your contact lens patient still uncomfortable after trying everything? You are not alone — and neither are they. In this episode of Focus Cast by Focuslinks.in, we walk through a practical, four-part diagnostic framework designed to help eye care practitioners stop chasing symptoms and start finding real answers for unhappy contact lens wearers.\n\nWe cover everything from the art of history taking — understanding when discomfort happens, how it feels, and what may have changed — to critically evaluating the lens material, replacement schedule, and care system your patient is actually using. From there, we dive deep into the clinical examination, including how to interpret corneal staining patterns, identify lid wiper epitheliopathy, and assess meibomian gland dysfunction, conditions that are frequently missed but are major drivers of contact lens discomfort.\n\nFinally, we bring it all together with a systematic approach to building a management plan that addresses root causes rather than surface-level symptoms. Whether the answer is a refit, a switch to daily disposables, dry eye treatment, or a preservative-free care system, this episode gives you the tools to make confident, evidence-informed decisions.\n\nWhether you are a seasoned optometrist, an optometry student, or a contact lens practitioner looking to sharpen your clinical thinking, this episode is packed with practical insights you can apply immediately.\n\nListen now and transform the way you approach your most challenging contact lens patients. For more episodes and clinical resources, visit Focuslinks.in.\n\n---",
+      "description": "Every contact lens practitioner knows the feeling — a frustrated patient walks in, something is clearly wrong, and you are not sure where to start. In this episode of Focus Cast, we break down a practical, four-part diagnostic framework to help you confidently assess and manage the unhappy contact lens patient without missing what truly matters.\n\nWe explore why contact lens discomfort is so common and so complex, starting with the critical role of patient history. Learn how to ask the right questions, decode symptom timing, and uncover hidden triggers like new medications, lifestyle changes, or environmental shifts that could be quietly sabotaging lens comfort.\n\nFrom there, we dive deep into ocular surface assessment — tear film quality, meibomian gland dysfunction, conjunctival and corneal staining patterns — and explain what each finding is telling you. We then walk through a thorough lens and fit evaluation, covering deposits, solution sensitivity, compliance issues, and whether the current lens modality is still the right choice for your patient.\n\nFinally, we zoom out to consider the systemic and environmental context, because the eye does not exist in isolation. Conditions like rosacea, Sjögren's syndrome, and digital eye strain can all drive contact lens dissatisfaction in ways that no lens change alone will fix.\n\nWhether you are a seasoned clinician looking to sharpen your approach or a student building your clinical thinking, this episode gives you a structured, evidence-informed way to turn a puzzling case into a clear path forward.\n\nListen now and start asking better questions. For more eye care insights, visit Focuslinks dot in.\n\n---",
       "tags": "unhappy,discomfort,framework,retention",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-30.mp3",
-      "duration": "12:29",
+      "duration": "12:17",
       "imageUrl": "",
       "status": "generated",
-      "runId": "d31b88a7-c849-496d-8a2d-29877d9e5889",
-      "generatedAt": "2026-08-05T20:11:34.718Z"
+      "runId": "d48edb95-5728-4570-bbd0-f337c54014fa",
+      "generatedAt": "2026-08-05T20:12:57.683Z"
     }
   ]
 }

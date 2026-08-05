@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-05T17:27:43.380Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-05T17:31:17.317Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "OCT Macula: Reading the Nine Layers on a Single Scan",
-      "description": "A reproducible method for interpreting macular OCT — identifying fluid, drusen, and atrophy in seconds.",
+      "title": "OCT Macula Explained: Reading All 9 Retinal Layers",
+      "description": "Ever stared at a macular OCT scan and struggled to make sense of all those bright and dark bands? You're not alone — and this episode is exactly what you've been looking for. In this focused, clinician-friendly breakdown, we walk through all nine retinal layers visible on a macular OCT scan, one by one, from the internal limiting membrane down to the RPE-Bruch's complex.\n\nYou'll learn what each layer looks like on OCT, what it does physiologically, and — most importantly — what it tells you clinically. We cover the ellipsoid zone as a photoreceptor health barometer, the outer nuclear layer as a marker of irreversible vision loss, the external limiting membrane as a prognostic tool in macular hole surgery, and the ganglion cell complex in early glaucoma detection. We also explore how conditions like diabetic macular edema, wet and dry AMD, central serous chorioretinopathy, macular telangiectasia, and retinal vein occlusion each leave their fingerprints on specific layers.\n\nWhether you're an ophthalmology resident building your foundation, an optometrist sharpening your OCT reading skills, or a seasoned clinician who wants a structured refresher, this episode gives you a systematic, layer-by-layer framework you can apply immediately in your practice.\n\nBy the end, you won't just be looking at an OCT — you'll be reading it with confidence and purpose.\n\nListen now, and share this episode with a colleague who could use a clearer view of the macula. Visit Focuslinks.in for more eye care education, podcast episodes, and clinical resources.",
       "tags": "oct,macula,layers,fluid",
       "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-05.mp3",
+      "duration": "10:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951076730",
+      "generatedAt": "2026-08-05T17:31:16.730Z"
     },
     {
       "episodeOrder": 6,

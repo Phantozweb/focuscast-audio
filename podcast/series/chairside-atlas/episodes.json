@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T18:54:38.482Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T19:10:35.174Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,14 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Fundus Examination Without Dilation: What You Can and Cannot See",
-      "description": "Direct ophthalmoscopy, the 20D lens at the slit lamp, and the limits of the undilated view.",
+      "title": "Fundus Exam Without Dilation: What Your Eye Doctor Can Miss",
+      "description": "Can your eye doctor really see everything they need to without dilating your pupils? In this episode of Focus Cast, we break down exactly what happens during a fundus examination without dilation — and why the answer to that question could have serious consequences for your long-term vision health.\n\nWe start with the fundamentals: what the fundus actually is, why the pupil size matters so much, and what a skilled clinician can realistically assess through an undilated eye. You might be surprised by how much modern technology, including non-mydriatic fundus cameras and AI-powered retinal imaging, has changed the game for non-dilated screening exams.\n\nBut we do not stop there. We get honest about the significant limitations. The peripheral retina, where most retinal tears and detachments begin, is largely invisible without dilation. Subtle early signs of diabetic macular edema, age-related macular degeneration, and optic nerve conditions can be missed entirely. We share a real-world patient story that illustrates just how high the stakes can be when dilation is skipped.\n\nWhether you are a patient wondering if your last eye exam was thorough enough, someone with diabetes or glaucoma risk factors, or an eye care professional looking for clear ways to communicate the value of dilation to your patients, this episode gives you the full picture.\n\nDo not leave your eye health to chance. Listen now, and visit Focuslinks.in for more episodes and resources on vision health and ophthalmology.\n\n---",
       "tags": "fundus,ophthalmoscopy,undilated,20d",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-25.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f701101d-db7c-4bc8-8874-76ebb106d359",
+      "generatedAt": "2026-08-05T19:10:34.350Z"
     },
     {
       "episodeOrder": 26,

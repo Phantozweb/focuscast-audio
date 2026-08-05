@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T18:06:03.178Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T18:09:39.727Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Astigmatism: The Football-Shaped Cornea",
-      "description": "Corneal and lenticular astigmatism, the irregular variety, and the correction options.",
+      "title": "Astigmatism Explained: The Football-Shaped Cornea & Fixes",
+      "description": "Ever left your eye doctor's office nodding along to the word \"astigmatism\" and then quietly googled it later? You're not alone — and this episode is here to finally make it all click. In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about astigmatism in plain, jargon-free language that actually makes sense.\n\nWe start with how your eye processes light and why the shape of your cornea matters more than you might think. You'll learn why astigmatism causes blurry, stretched, or ghosted vision — and why staring at headlights at night can look like a starburst show. We cover the different types of astigmatism, including corneal vs. lenticular, regular vs. irregular, and even touch on keratoconus, a condition that often masquerades as ordinary astigmatism.\n\nMost importantly, we walk you through every correction option available today — from glasses with cylindrical lenses and toric contact lenses, to orthokeratology, LASIK, LASEK, and the newer SMILE surgery. Whether you've had astigmatism for years or just got your first diagnosis, this episode gives you the knowledge to have a smarter conversation with your eye care provider.\n\nAstigmatism affects nearly one in three people, and most of them don't fully understand what's happening in their eyes. After ten minutes with us, you will. If your vision has felt off lately, or your current prescription doesn't seem quite right, this is the episode to listen to. Share it with someone who's been squinting a little too much — they'll thank you for it. Visit Focuslinks.in for more eye health episodes and resources.",
       "tags": "astigmatism,corneal,lenticular,irregular",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-13.mp3",
+      "duration": "10:10",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953378583",
+      "generatedAt": "2026-08-05T18:09:38.583Z"
     },
     {
       "episodeOrder": 14,

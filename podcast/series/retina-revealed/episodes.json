@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-05T18:28:50.698Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-05T19:26:18.190Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Macular Hole: Staging and the Surgical Window",
-      "description": "Gass staging on OCT, the role of gas tamponade, and how quickly to refer.",
+      "title": "Macular Hole Stages & Surgical Window: Save Your Vision",
+      "description": "What happens when a tiny hole forms at the very center of your vision — and how long do you have before it's too late to fix it? In this episode of Focus Cast, we break down everything you need to know about macular holes, from how they form to why timing your surgery correctly can mean the difference between reading a book and struggling to see a large letter on an eye chart.\n\nWe walk through the Gass classification system, explaining all four stages of macular hole progression in plain language — starting from the early impending stage where spontaneous resolution is still possible, through to a fully developed full-thickness hole with complete vitreous detachment. You'll understand exactly what vitreomacular traction is, why the vitreous pulling on your macula matters, and how optical coherence tomography (OCT) has transformed diagnosis and staging.\n\nMost importantly, we explore the critical surgical window — that roughly six-month period from symptom onset during which pars plana vitrectomy with ILM peeling delivers closure rates as high as 90 to 95 percent. We also cover the pharmacological alternative ocriplasmin and who it's best suited for.\n\nWhether you're a patient noticing central vision changes, a medical student studying retinal conditions, or a clinician looking for a focused refresher, this episode delivers clear, evidence-based insights you can act on.\n\nDon't ignore a dark spot or distortion in your central vision — early action saves sight. Listen now, and visit Focuslinks.in for more episodes on eye health and vision science.\n\n---",
       "tags": "macular-hole,staging,vitrectomy,gas",
-      "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-19.mp3",
+      "duration": "12:10",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1172e1be-5203-43fa-ade4-004a772e8ec5",
+      "generatedAt": "2026-08-05T19:26:18.190Z"
     },
     {
       "episodeOrder": 20,

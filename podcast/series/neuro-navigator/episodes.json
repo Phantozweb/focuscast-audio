@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-05T20:22:09.482Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-05T20:22:28.422Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -174,14 +174,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Pseudotumor Cerebri: The Idiopathic Intracranial Hypertension",
-      "description": "The young obese woman, the empty sella, and the weight loss and acetazolamide that manage it.",
+      "title": "Pseudotumor Cerebri: When Your Brain Fakes a Tumor",
+      "description": "What if your brain showed every sign of a tumor — crushing headaches, vision problems, relentless pressure — but every scan came back completely clear? That's the baffling reality of Pseudotumor Cerebri, also known as Idiopathic Intracranial Hypertension (IIH), and in this episode of Focus Cast, we break it all down in plain language.\n\nWe explore what it actually means to have elevated cerebrospinal fluid pressure with no structural cause, who is most at risk, and why diagnosis is so often delayed by months or even years. You'll learn about the hallmark symptoms — from severe persistent headaches and papilledema to pulsatile tinnitus and brain fog — and understand why early detection is critical to protecting long-term vision.\n\nWe also walk through how doctors diagnose IIH using MRI, CT scans, and lumbar puncture, and what the diagnostic fingerprint of this condition looks like. On the treatment side, we cover everything from first-line medications like acetazolamide and the powerful role of weight loss, to surgical options including optic nerve sheath fenestration, CSF shunting, and the emerging promise of venous sinus stenting.\n\nWhether you're a patient searching for answers, a caregiver trying to understand a loved one's diagnosis, or simply someone curious about how the brain works under pressure, this episode gives you a clear, compassionate, and medically grounded look at one of neurology's most misunderstood conditions.\n\nIf you or someone you know experiences unexplained chronic headaches or visual disturbances, this episode could be the turning point toward getting the right diagnosis. Listen now, and visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "iih,pseudotumor,acetazolamide,weight",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-14.mp3",
+      "duration": "12:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "02813d32-e186-4e37-9a0c-bd804d4bd54e",
+      "generatedAt": "2026-08-05T20:22:28.422Z"
     },
     {
       "episodeOrder": 15,

@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T20:24:53.384Z",
+  "lastUpdated": "2026-08-05T20:24:58.841Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -105,15 +105,15 @@
     {
       "episodeOrder": 8,
       "title": "Fourth Nerve Palsy & Parks Three-Step Test Explained",
-      "description": "Ever wondered why some people constantly tilt their head to one side? It might not be a habit — it could be the body's brilliant response to fourth nerve palsy. In this episode of Focus Cast by Focuslinks.in, we unpack one of ophthalmology's most fascinating and frequently missed diagnoses: Fourth Nerve Palsy, also known as trochlear nerve palsy.\n\nWe start with the basics — what the superior oblique muscle does, why the trochlear nerve is uniquely vulnerable, and how a weakness in this single tiny muscle creates a vertical misalignment that the brain quietly compensates for with a characteristic head tilt. You will learn how this compensatory tilt can go unnoticed for years, even decades, and why old family photographs can sometimes serve as the most powerful diagnostic tool in the clinic.\n\nFrom there, we walk through the causes of fourth nerve palsy — from congenital origins and head trauma to microvascular disease and idiopathic cases — before diving deep into the Parks Three-Step Test, the elegant three-step diagnostic method that has been the gold standard since 1958. We break down each step clearly, including the Bielschowsky head tilt test, so you can understand exactly how clinicians narrow down the responsible muscle with logic and precision.\n\nWe also cover management options including watchful waiting, prism glasses, and surgical correction, along with the life-changing impact treatment can have on patients who have lived with this condition unknowingly for years.\n\nWhether you are a medical student, an ophthalmology resident, or a curious learner, this episode gives you a clear, memorable, and clinically relevant understanding of fourth nerve palsy. Listen now and share with anyone who loves learning about the eye. Visit Focuslinks.in for more episodes and eye care resources.\n\n---",
+      "description": "Ever wondered why some people walk around with a persistent head tilt? It might not be a habit — it could be the brain quietly compensating for a Fourth Nerve Palsy. In this episode of Focus Cast by Focuslinks.in, we unpack one of ophthalmology's most fascinating and frequently missed diagnoses in a way that actually makes sense.\n\nWe start with the trochlear nerve itself — the thinnest cranial nerve in the body, the only one that exits from the dorsal brainstem, and the only one that completely crosses sides — before exploring exactly what happens when it fails. You will learn how the superior oblique muscle works, why its palsy creates such a complex pattern of eye misalignment, and how patients unconsciously tilt their heads for years, sometimes decades, without ever knowing why.\n\nThen we walk step by step through the Parks Three-Step Test, the elegant clinical tool developed by Marshall Parks that systematically narrows down eight possible muscles to identify the single culprit behind a vertical strabismus. We cover the Bielschowsky head tilt test, the role of ocular torsion, how to spot a decompensated congenital palsy, and what treatment options actually look like for patients.\n\nWhether you are a medical student preparing for exams, a clinician brushing up on strabismus, or simply someone who loves understanding how the human body solves its own problems, this episode delivers real clinical insight with zero jargon overload.\n\nListen now and visit Focuslinks.in for more ophthalmology episodes, resources, and learning tools designed to sharpen your clinical thinking one episode at a time.\n\n---",
       "tags": "fourth-nerve,head-tilt,parks,oblique",
-      "category": "Strabismus",
+      "category": "Optic Nerve",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-08.mp3",
-      "duration": "12:16",
+      "duration": "13:08",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a32aca6a-0833-4182-a70d-f00366bb07d4",
-      "generatedAt": "2026-08-05T20:22:46.885Z"
+      "runId": "878aa3f4-910c-4d52-9c20-eb6d7828807b",
+      "generatedAt": "2026-08-05T20:24:58.841Z"
     },
     {
       "episodeOrder": 9,

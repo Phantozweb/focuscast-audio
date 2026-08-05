@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-05T18:40:38.802Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-05T19:46:04.924Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -258,14 +258,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Prostaglandin Analogues: The First-Line Drop",
-      "description": "Efficacy, the once-daily dosing advantage, and the side effects patients will ask about.",
+      "title": "Prostaglandin Analogues: The First-Line Glaucoma Drop Explained",
+      "description": "What if a single drop placed in your eye once a day could be the difference between keeping your vision and losing it forever? In this episode of Focus Cast, we dive deep into prostaglandin analogues, the gold-standard first-line treatment for glaucoma that eye doctors prescribe more than any other medication in their arsenal.\n\nWe break down exactly how these powerful drops work, targeting the uveoscleral outflow pathway to reduce intraocular pressure by up to 25 to 35 percent, and why that pressure reduction is critical to protecting the optic nerve from irreversible damage. You will learn about the most commonly prescribed options including latanoprost, travoprost, bimatoprost, and tafluprost, and understand what sets them apart from older treatments like beta-blockers.\n\nWe also get honest about side effects, from eyelash changes and iris darkening to the role of preservatives like benzalkonium chloride in long-term eye health. Plus, we cover the practical details that actually determine whether treatment succeeds, including the correct technique for applying drops, why nighttime dosing matters, and why consistency is absolutely non-negotiable for glaucoma patients.\n\nWhether you are a patient newly diagnosed with glaucoma, a student studying ocular pharmacology, or simply someone who wants to understand how modern medicine protects vision, this episode gives you a clear, complete, and clinically grounded picture of one of ophthalmology's most important drug classes.\n\nVisit Focuslinks dot in to explore more episodes on eye health, vision science, and ophthalmology. Subscribe to Focus Cast so you never miss an episode, and share this with anyone who could benefit from understanding their glaucoma treatment better.\n\n---",
       "tags": "pga,prostaglandin,latanoprost,first-line",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-20.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "40e232e1-0c63-4bec-9960-ddeb9a5b687b",
+      "generatedAt": "2026-08-05T19:46:04.924Z"
     },
     {
       "episodeOrder": 21,

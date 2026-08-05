@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T19:33:44.698Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-05T19:34:10.054Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -388,14 +388,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Hereditary Dystrophies: Retinitis Pigmentosa and Beyond",
-      "description": "Bone spicules, ring scotoma, and the genetic testing and counseling conversation that follows.",
+      "title": "Retinitis Pigmentosa & Hereditary Retinal Dystrophies Explained",
+      "description": "What if your vision slowly dimmed from the edges inward, and there was nothing you could do to stop it? That is the daily reality for millions of people living with hereditary retinal dystrophies, and in this episode of Focus Cast, we pull back the curtain on these complex, life-altering conditions.\n\nWe start with retinitis pigmentosa, the most common inherited retinal disease affecting roughly two million people worldwide, breaking down how it works, why it is caused by mutations across more than sixty different genes, and what the progression from night blindness to tunnel vision actually looks like. From there, we explore the broader family of hereditary dystrophies, including Leber congenital amaurosis, the severe childhood condition at the heart of the world's first approved gene therapy, Stargardt disease and its impact on central vision, Usher syndrome and its devastating combination of vision and hearing loss, and choroideremia, a rare but increasingly treatable X-linked condition.\n\nWe also cover the science giving patients real reason for hope, from landmark gene therapies like Luxturna to stem cell research, retinal prostheses, and the emerging field of optogenetics. And we do not shy away from the human side of these diagnoses, the grief, the adaptation, and the powerful communities fighting for better treatments and greater awareness.\n\nWhether you are newly diagnosed, supporting a loved one, or simply curious about the frontiers of vision science, this episode offers clear, compassionate, and genuinely fascinating insight into where retinal research stands today.\n\nListen now and visit Focuslinks dot in for more episodes, expert articles, and resources on eye health and vision science.\n\n---",
       "tags": "rp,dystrophy,genetics,scotoma",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-30.mp3",
+      "duration": "12:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "291f0b21-41ec-42dc-8413-e4b2271c9244",
+      "generatedAt": "2026-08-05T19:34:10.054Z"
     }
   ]
 }

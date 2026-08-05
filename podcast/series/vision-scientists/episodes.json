@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T19:54:45.905Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-05T19:55:26.751Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -388,14 +388,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "The Limits of Vision: Resolution, Threshold, and Perception",
-      "description": "From the quantum limit to cortical completion — what the eye can and cannot see.",
+      "title": "The Limits of Vision: Resolution, Threshold & Perception",
+      "description": "Your eyes are lying to you — and your brain is helping. In this eye-opening episode of Focus Cast, we dive deep into the fascinating science of how human vision actually works, and more importantly, where it falls short. Most people assume seeing is believing, but the truth is far more complex and far more interesting.\n\nWe break down three core concepts that define the limits of your sight. First, visual resolution — discover why your sharpest vision covers only about two degrees of your visual field, why your brain stitches together a patchwork of images you never consciously notice, and what change blindness reveals about the gaps in your perception. Second, visual threshold — learn how the human eye can detect a single candle flame from 30 miles away, why contrast sensitivity matters more than raw brightness, and the clever reason old submarine crews used red lighting. Third, visual perception — explore how your brain actively constructs reality, fills in your blind spot without you knowing, and why half of all people completely miss a gorilla walking through a basketball video.\n\nWhether you're curious about neuroscience, fascinated by optical illusions, or simply want to understand how your mind interprets the world around you, this episode will change the way you look at everything. Literally.\n\nTune in for a conversation that blends science, wonder, and genuine humility about the limits of human perception. Because understanding what your eyes can't do might be the most important thing you see all day.\n\nListen now and visit Focuslinks.in for more episodes, articles, and resources that help you see the world more clearly.\n\n---",
       "tags": "limits,resolution,threshold,perception",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-30.mp3",
+      "duration": "12:47",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "074b5fd2-5248-4e10-9fec-1db236b67dc1",
+      "generatedAt": "2026-08-05T19:55:26.751Z"
     }
   ]
 }

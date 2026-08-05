@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T20:20:36.052Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-05T20:20:46.165Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Adie’s Tonic Pupil: The Light-Near Dissociation",
-      "description": "The vermiform movements, the sectoral palsy, and the Ross syndrome that extends beyond the eye.",
+      "title": "Adie's Tonic Pupil Explained: The Light-Near Dissociation",
+      "description": "What if one of your pupils refused to respond to light — but slowly shrank when you looked at something close? That's not a magic trick. That's Adie's Tonic Pupil, and it's one of the most fascinating clinical phenomena in all of eye care.\n\nIn this episode of Focus Cast by Focuslinks.in, we break down exactly what Adie's Tonic Pupil is, why it happens, and what it reveals about the remarkable — and sometimes unpredictable — way the nervous system repairs itself. We explore the role of the ciliary ganglion, the concept of aberrant reinnervation, and why misdirected nerve fibers create the defining feature of this condition: light-near dissociation, where the pupil responds to nearness but not to light.\n\nYou'll also learn about denervation supersensitivity and the clever pharmacological test using dilute pilocarpine that clinicians use to confirm the diagnosis. We cover who is most commonly affected, what symptoms to watch for, and how Adie's Tonic Pupil evolves over time — including the surprising way a once-large pupil can eventually become smaller than its fellow.\n\nPerhaps most importantly, we discuss why recognizing this benign condition matters so much clinically. A dilated, poorly reactive pupil can signal a life-threatening neurological emergency, and knowing the difference between Adie's and a third nerve palsy could literally save a life.\n\nWhether you're a student, a clinician, or simply someone who loves understanding how the human body works, this episode offers a clear, engaging, and clinically grounded look at one of neurology and ophthalmology's most intriguing crossover topics.\n\nVisit Focuslinks.in for more episodes, share this with someone who loves the science of vision, and keep exploring the world with curious eyes.\n\n---",
       "tags": "adie,tonic,light-near,ross",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-06.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "72ffb7d8-1fa8-4e1c-b171-76de9693e6f6",
+      "generatedAt": "2026-08-05T20:20:46.165Z"
     },
     {
       "episodeOrder": 7,

@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T20:23:16.894Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T20:23:19.261Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,16 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Anisocoria in the Light: When Pupils Signal Brain Emergencies",
-      "description": "Ever glanced in the mirror and noticed one pupil larger than the other? That tiny difference could be completely harmless — or it could be one of the most urgent warning signs in clinical medicine. In this episode of Focus Cast by Focuslinks.in, we unpack anisocoria in the light and what it reveals when the parasympathetic nervous system breaks down.\n\nWe start with the basics: what anisocoria actually is, why up to 30% of people have it naturally, and how bright-light conditions expose parasympathetic dysfunction in ways that dim light simply cannot. From there, we explore the third cranial nerve — the oculomotor nerve — and why its anatomy makes a dilated, unreactive pupil a potential neurological emergency. A posterior communicating artery aneurysm, brain herniation, or tumor can all compress this nerve, and the pupil is often the first structure to sound the alarm.\n\nWe also dive into Adie's tonic pupil, a fascinating and usually benign condition caused by ciliary ganglion damage, and explain the concept of denervation supersensitivity and how a simple pilocarpine test can distinguish it from something far more serious. And we cover pharmacological dilation — accidental exposure to atropine or scopolamine — and why it mimics a third nerve palsy well enough to fool even experienced clinicians.\n\nWhether you're a medical student, a healthcare professional, or simply someone who loves understanding how the body works, this episode will change the way you look at something as small as a pupil.\n\nListen now and visit Focuslinks.in for more eye health episodes and resources.\n\n---",
+      "title": "Anisocoria in the Light: The Parasympathetic Pupil Explained",
+      "description": "What does it mean when one pupil is bigger than the other — especially in bright light? In this episode of Focus Cast, we unpack the neurology behind anisocoria and why a tiny difference in pupil size can be one of the most powerful diagnostic clues in all of medicine.\n\nWe start with the basics: how the iris muscles work, what controls pupil constriction, and why the parasympathetic nervous system is the prime suspect when anisocoria is worse in bright light. From there, we trace the parasympathetic pathway along the third cranial nerve — through the midbrain, past the posterior communicating artery, through the cavernous sinus, and into the eye — explaining exactly where things can go wrong and why it matters.\n\nYou'll hear a compelling clinical story about how a subtle pupil finding led to the discovery of an unruptured brain aneurysm, saving a patient's life. We also cover Adie's tonic pupil, light-near dissociation, Argyll Robertson pupils, and the critical difference between parasympathetic and sympathetic causes of anisocoria — including Horner syndrome. Plus, we walk through the simple bedside tests clinicians use to tell them apart.\n\nWhether you're a medical student, a healthcare professional, or simply someone who loves understanding how the human body works, this episode will change the way you look at your own eyes in the mirror.\n\nListen now and discover why one millimeter of pupil difference can mean everything. Visit Focuslinks.in for more episodes and resources from Focus Cast.\n\n---",
       "tags": "anisocoria,light,adies,third-nerve",
-      "category": "Neuro-Ophthalmology",
+      "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-03.mp3",
-      "duration": "12:12",
+      "duration": "12:34",
       "imageUrl": "",
       "status": "generated",
-      "runId": "7809041f-36a4-43da-a411-ba910a746277",
-      "generatedAt": "2026-08-05T20:20:20.556Z"
+      "runId": "b43f001e-541d-4fe6-a425-306524937d52",
+      "generatedAt": "2026-08-05T20:23:19.261Z"
     },
     {
       "episodeOrder": 4,
@@ -92,15 +92,15 @@
     {
       "episodeOrder": 7,
       "title": "Third Nerve Palsy: The Pupil-Sparing Rule Explained",
-      "description": "Could a drooping eyelid and a dilated pupil be signs of a life-threatening brain aneurysm? In this episode of Focus Cast by Focuslinks.in, we break down one of the most clinically important rules in ophthalmology and neurology — the pupil-sparing rule in third nerve palsy — and explore exactly when you cannot afford to rely on it.\n\nWe start with the anatomy of the oculomotor nerve and why the location of parasympathetic fibers on its surface makes the pupil such a powerful diagnostic clue. From there, we walk through the classic distinction between compressive third nerve palsy, most commonly caused by a posterior communicating artery aneurysm, and ischemic third nerve palsy linked to microvascular disease in conditions like diabetes and hypertension.\n\nBut the real value of this episode lies in the exceptions. We cover incomplete palsies that can mask early aneurysmal involvement, why pain alongside a third nerve palsy should always raise your suspicion, how aberrant regeneration signals a structural cause even when ischemia seemed likely, and why diabetic patients with pupil involvement still need urgent imaging.\n\nWe also walk through the recommended workup, including CT angiography, MR angiography, and when conventional catheter angiography becomes necessary, along with how ischemic palsies are managed and monitored over time.\n\nWhether you are a medical student, ophthalmology or neurology resident, or an emergency medicine clinician, this episode gives you the clinical framework to approach third nerve palsy with confidence and caution.\n\nListen now and sharpen the diagnostic thinking that could one day save a patient's life. For more episodes like this, visit Focus Cast at Focuslinks.in.\n\n---",
+      "description": "When a patient walks in with a drooping eyelid and a deviated eye, one tiny detail can mean the difference between a conservative follow-up and an emergency neurosurgical call — the pupil. In this episode of Focus Cast, we take a deep dive into third nerve palsy and the famous pupil-sparing rule, breaking down the clinical logic, the underlying anatomy, and the high-stakes decisions that follow.\n\nWe start with the fundamentals of the oculomotor nerve and why its unique fiber arrangement makes the pupil such a powerful diagnostic clue. You will learn why ischemic causes like diabetes and hypertension tend to spare the pupil, while compressive lesions like a posterior communicating artery aneurysm tend to involve it — and why getting that distinction wrong can cost a patient their life.\n\nBut this episode goes beyond the textbook rule. We walk through four critical exceptions that every clinician needs to know: partial palsies that can fool you early, the rare but real aneurysms that present with pupil sparing, the importance of associated neurological signs, and why the headache history is just as important as the pupil exam.\n\nWhether you are a medical student preparing for exams, a resident navigating real clinical decisions, or a practicing physician looking to sharpen your diagnostic thinking, this episode gives you a framework you can actually use at the bedside.\n\nListen now and share this episode with a colleague who needs to hear it. Visit Focuslinks.in for more episodes and resources from Focus Cast.\n\n---",
       "tags": "third-nerve,pupil-sparing,aneurysm,aberrant",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-07.mp3",
-      "duration": "12:16",
+      "duration": "12:28",
       "imageUrl": "",
       "status": "generated",
-      "runId": "b818246e-bf59-4a6d-8dc6-ccd1b5c9c2a8",
-      "generatedAt": "2026-08-05T20:23:16.894Z"
+      "runId": "070bb8f4-5362-4de9-bfbb-d2ac7bc0af34",
+      "generatedAt": "2026-08-05T20:22:09.482Z"
     },
     {
       "episodeOrder": 8,
@@ -154,14 +154,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Giant Cell Arteritis: The Steroids Before the Biopsy",
-      "description": "The jaw claudication, the scalp tenderness, and the immediate high-dose steroid that prevents bilateral blindness.",
+      "title": "Giant Cell Arteritis: Start Steroids Before the Biopsy?",
+      "description": "Can starting steroids before a biopsy cost your patient their diagnosis — or could waiting cost them their sight? In this episode of Focus Cast, we tackle one of the most clinically urgent debates in medicine: whether to treat Giant Cell Arteritis before confirming it with a temporal artery biopsy.\n\nGiant Cell Arteritis, or GCA, is a large vessel vasculitis that predominantly affects adults over fifty and carries a devastating risk of permanent vision loss. The window to act is narrow, and the consequences of hesitation are irreversible. Yet many clinicians still pause, worried that starting high-dose steroids will invalidate the biopsy result.\n\nWe break down exactly why that concern, while understandable, should not delay treatment. You will learn how long histological changes actually persist after steroid initiation, what the recommended steroid dosing looks like for both uncomplicated GCA and cases with visual involvement, and why a negative biopsy does not close the diagnostic case. We also cover the role of skip lesions, the importance of biopsy length, and how emerging tools like temporal artery ultrasound and PET CT are reshaping the diagnostic pathway.\n\nWhether you are a medical student building your clinical reasoning skills, a junior doctor navigating a real-time emergency, or a seasoned clinician looking for a sharp refresher, this episode gives you the framework to act decisively when it matters most.\n\nListen now and share this episode with a colleague who manages patients at risk for GCA. For more evidence-based medical podcast episodes, visit Focuslinks dot in.\n\n---",
       "tags": "gca,steroids,biopsy,blindness",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-12.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "00c031e0-19d2-459a-9868-40d3b1a8b736",
+      "generatedAt": "2026-08-05T20:23:14.920Z"
     },
     {
       "episodeOrder": 13,

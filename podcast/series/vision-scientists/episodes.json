@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T19:53:09.055Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-05T19:53:10.348Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,27 +260,29 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Chromatic Aberration: Your Eye's Secret Focusing Superpower",
-      "description": "Did you know your eyes are secretly using an optical \"flaw\" to help you see depth and focus every single day? In this episode of Focus Cast, we dive deep into chromatic aberration — the phenomenon where different colors of light bend at slightly different angles through a lens — and reveal how your visual system has turned this quirk of physics into a powerful built-in focusing cue.\n\nWe break down exactly how your eye uses color blur to judge distance, why red objects appear to float forward while blue ones seem to recede, and how painters and interior designers have been exploiting this optical trick for centuries without even knowing the science behind it.\n\nBut there's a modern twist. With screen time at an all-time high, your eye's chromatic aberration system may be under more stress than ever. We explore the surprising link between artificial screen light, accommodative stress, digital eye strain, and the global rise in myopia — and why something as simple as spending time outdoors in natural light could genuinely protect your vision.\n\nWe also look at cutting-edge research into specially designed lenses that manipulate chromatic aberration to slow myopia progression in children — science that sounds like fiction but is very much real.\n\nWhether you're a curious learner, a parent concerned about your child's screen time, or someone who simply wants to understand how their eyes actually work, this episode will change the way you look at the world — literally.\n\nVisit us at Focuslinks.in for more eye health science, vision care insights, and optical deep dives. Don't forget to share this episode with everyone in your life who spends time on screens — so, everyone.\n\n---",
+      "title": "Chromatic Aberration: How Your Eyes Use Color to Focus",
+      "description": "What if the biggest \"flaw\" in your eye's optics is actually one of its most powerful features? In this episode of Focus Cast, we explore the fascinating science of chromatic aberration and how your visual system secretly relies on it to focus accurately every single day.\n\nMost people know chromatic aberration as those annoying color fringes in old photographs or cheap camera lenses — something optical engineers work hard to eliminate. But your eye never fully corrected for it, and researchers now believe that was no accident. Because different colors of light bend at slightly different angles through your lens, the subtle color fringing around objects actually tells your eye which direction to adjust its focus. It's a built-in directional compass, hidden inside what looks like an imperfection.\n\nWe break down how the eye's accommodation system works, why the \"sign of defocus\" problem is trickier than it sounds, and what happens when scientists deliberately reverse the chromatic signal — spoiling the eye's focusing cues entirely. We also connect this to the global myopia epidemic, exploring why outdoor light may protect children's eyesight, and what modern LED screens might be doing to your eye's natural feedback system.\n\nThis episode will change the way you think about vision, light, and the surprising intelligence built into your biology. Whether you're a science enthusiast, a parent concerned about screen time, or someone who's been squinting at their phone a little too long, this one is for you.\n\nListen now and discover why the imperfection is the information. For more episodes on the science of vision and eye health, visit Focuslinks dot in.\n\n---",
       "tags": "chromatic-aberration,lca,accommodation,cue",
-      "category": "Retina",
+      "category": "Refraction",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-20.mp3",
-      "duration": "12:22",
+      "duration": "12:19",
       "imageUrl": "",
       "status": "generated",
-      "runId": "94abd4f0-0454-44cf-b2b1-79d7eb606417",
-      "generatedAt": "2026-08-05T19:53:09.055Z"
+      "runId": "a0d7085d-964b-4ec2-b34f-742568698cfa",
+      "generatedAt": "2026-08-05T19:53:02.001Z"
     },
     {
       "episodeOrder": 21,
-      "title": "Contrast Sensitivity: The Functional Acuity Beyond the Chart",
-      "description": "Why 20/20 is not enough — spatial frequency, the CSF curve, and the patients who see yet struggle.",
+      "title": "Contrast Sensitivity: The Vision Test Beyond 20/20",
+      "description": "Think 20/20 vision means your eyes are perfect? Think again. In this eye-opening episode of Focus Cast by Focuslinks.in, we explore contrast sensitivity — the hidden dimension of vision that standard eye charts completely miss. If you've ever struggled with night driving, reading in dim light, or recognizing faces in tricky lighting despite a \"normal\" eye exam, contrast sensitivity could be the missing piece of your visual health puzzle.\n\nWe break down exactly what contrast sensitivity is, how it differs from standard visual acuity, and why researchers now call it the true measure of functional vision. You'll learn how it's tested using spatial frequency gratings, what a healthy contrast sensitivity function looks like, and why it matters far more than most people — and even some clinicians — realize.\n\nWe also cover the conditions that silently erode contrast sensitivity long before they show up on an eye chart, including glaucoma, cataracts, multiple sclerosis, diabetic retinopathy, and age-related macular degeneration. Plus, we discuss practical solutions, from cataract surgery and disease management to yellow-tinted lenses, anti-reflective coatings, and the exciting rise of digital contrast sensitivity testing.\n\nWhether you're a patient, a caregiver, or simply someone curious about how vision really works, this episode will change the way you think about eye health. Don't just settle for the smallest line on the chart — understand the full picture of your vision. Listen now, and visit Focuslinks.in for more expert insights on vision science and eye care.\n\n---",
       "tags": "contrast,sensitivity,csf,frequency",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-21.mp3",
+      "duration": "12:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9e7b13ea-6842-4bd1-b5e6-953f3a7b6219",
+      "generatedAt": "2026-08-05T19:53:10.348Z"
     },
     {
       "episodeOrder": 22,

@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T19:40:30.233Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T19:40:56.697Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,14 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Conjunctival Lesions: Nevus, Papilloma, and the Suspicious Mass",
-      "description": "When to photograph, when to biopsy, and the features that escalate from observation to referral.",
+      "title": "Conjunctival Lesions: Nevus, Papilloma & Suspicious Mass",
+      "description": "That little spot on the white of the eye — it could be nothing, or it could be something that changes everything. In this episode of Focus Cast, we break down the most important conjunctival lesions you will encounter in clinical practice: the conjunctival nevus, the conjunctival papilloma, and the suspicious mass that demands your full attention.\n\nWe start with the conjunctival nevus, the most common conjunctival lesion, and explain why those tiny epithelial inclusion cysts are actually a reassuring sign. Then we move into conjunctival papilloma, its link to HPV, why it tends to recur after removal, and what treatment options actually work. Finally, we tackle the lesions that keep clinicians on their toes — ocular surface squamous neoplasia (OSSN) and conjunctival melanoma — covering their clinical features, warning signs, diagnostic tools like AS-OCT, and current treatment approaches.\n\nWhether you are a student preparing for exams, an optometrist or ophthalmologist refreshing your clinical knowledge, or simply someone curious about eye health, this episode gives you a clear, practical framework for evaluating any conjunctival lesion you come across. You will learn what to look for, what questions to ask, and when to refer — because on the conjunctiva, the details make all the difference.\n\nListen now and sharpen the way you see. For more clinical eye care content, visit us at focuslinks.in.\n\n---",
       "tags": "conjunctiva,nevus,papilloma,biopsy",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-25.mp3",
+      "duration": "12:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1619efa0-541c-4f3b-98e7-b92818616f92",
+      "generatedAt": "2026-08-05T19:40:56.697Z"
     },
     {
       "episodeOrder": 26,

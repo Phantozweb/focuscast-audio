@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-05T17:52:27.275Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-05T17:56:02.885Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Presbyopia: The Inevitable Decline of Near Focus",
-      "description": "The physiology of aging accommodation, the add progression, and the onset that surprises patients.",
+      "title": "Presbyopia Explained: Why Your Near Vision Fades After 40",
+      "description": "Have you started holding your phone a little further away, squinting at menus, or asking someone else to read the fine print? You are not imagining it — and you are definitely not alone. In this episode of Focus Cast, we break down presbyopia, the age-related vision change that affects every single person who lives long enough to experience it.\n\nWe start with the science: how your eye's natural lens loses flexibility over time, why the ciliary muscles can no longer do their job as effectively, and what \"accommodation\" actually means for your daily vision. Then we clear up one of the most common points of confusion — how presbyopia differs from nearsightedness and farsightedness, and why even people with perfect distance vision are not immune.\n\nThe numbers are staggering. Nearly 1.8 billion people worldwide currently live with presbyopia, and that figure is only expected to grow. Yet despite being one of the most universal human experiences in history, it remains widely misunderstood and undertreated.\n\nWe also walk you through every major treatment option available today — from over-the-counter reading glasses and progressive lenses to multifocal contacts, monovision correction, surgical procedures, and the newly FDA-approved prescription eye drops making waves in ophthalmology. Plus, we cover what can accelerate presbyopia onset and why regular eye exams after 40 are non-negotiable.\n\nWhether you are already noticing the early signs or simply want to understand what lies ahead, this episode gives you everything you need to know. Visit Focuslinks dot in for more eye health insights, and share this episode with anyone whose arms have suddenly started feeling too short.",
       "tags": "presbyopia,aging,add,near",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-09.mp3",
+      "duration": "10:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952562289",
+      "generatedAt": "2026-08-05T17:56:02.289Z"
     },
     {
       "episodeOrder": 10,

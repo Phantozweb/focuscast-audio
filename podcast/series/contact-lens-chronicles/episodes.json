@@ -9,7 +9,7 @@
   "order": 6,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-05T20:01:48.902Z",
+  "lastUpdated": "2026-08-05T20:02:14.700Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -40,15 +40,15 @@
     {
       "episodeOrder": 3,
       "title": "Corneal Topography for Contact Lens Fitting: Read the Map",
-      "description": "Ever wondered why your contact lenses feel uncomfortable even with the right prescription? The answer often lies in the shape of your cornea — and corneal topography is the tool that reveals everything. In this episode of Focus Cast by Focuslinks.in, we break down how corneal topography works, how to read those colorful maps, and why this technology is a game-changer for contact lens fitting.\n\nWe explore the difference between axial, tangential, and elevation maps, and what warm versus cool colors actually tell you about corneal curvature. You will learn how Sim K values and eccentricity data guide base curve selection, and how topography helps identify conditions like regular astigmatism and keratoconus before they become fitting nightmares.\n\nFrom soft toric lenses to rigid gas permeable lenses, orthokeratology, and scleral lenses, we walk through real-world fitting scenarios where topography transforms guesswork into precision. We also cover how topography serves as a long-term monitoring tool, helping practitioners detect corneal warpage or early disease progression over time.\n\nWhether you are an optometry student, a seasoned contact lens practitioner, or a patient who has struggled with lens comfort for years, this episode gives you a clear, practical understanding of one of the most powerful tools in modern eye care.\n\nIf you have ever had persistent contact lens issues, this episode might hold the answer you have been looking for. Listen now, and visit Focuslinks.in for more episodes, resources, and insights from the world of vision science.\n\n---",
+      "description": "What if fitting contact lenses could be as precise as reading a detailed map of the eye? In this episode of Focus Cast by Focuslinks.in, we dive deep into corneal topography and how this powerful diagnostic tool is transforming the way eye care practitioners fit contact lenses.\n\nWe break down exactly how a corneal topographer works, how to interpret color-coded axial maps, and what those warm and cool colors actually mean for your fitting decisions. You will learn how to use Sim K values, eccentricity, Q-values, and peripheral curvature data to select the right lens for each unique corneal shape.\n\nWe also explore how topography reveals conditions like keratoconus, pellucid marginal degeneration, and post-surgical corneal changes, and why recognizing these patterns is critical before placing any lens on the eye. From soft lenses to rigid gas permeable lenses, scleral lenses, and orthokeratology, corneal topography plays a central role at every level of contact lens fitting.\n\nBeyond fitting, we discuss how longitudinal topography monitoring acts as a safety net, helping practitioners detect early corneal changes, contact lens-induced warpage, and myopia progression over time.\n\nWhether you are an optometry student building your clinical foundation or a seasoned practitioner refining your skills, this episode gives you the knowledge to move from guesswork to genuine precision in contact lens fitting.\n\nListen now and start reading the map with confidence. Visit Focuslinks.in for more episodes, clinical resources, and tools to support your growth in eye care practice.\n\n---",
       "tags": "topography,fitting,axial,bowtie",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-03.mp3",
-      "duration": "12:20",
+      "duration": "12:31",
       "imageUrl": "",
       "status": "generated",
-      "runId": "43649077-9c43-4ad2-abcd-3be128c1f641",
-      "generatedAt": "2026-08-05T19:59:59.551Z"
+      "runId": "10750f56-7332-4f54-b68c-da312c53a029",
+      "generatedAt": "2026-08-05T20:02:13.905Z"
     },
     {
       "episodeOrder": 4,

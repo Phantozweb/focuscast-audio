@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T20:15:51.081Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-05T20:16:06.032Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -284,14 +284,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Color Vision Deficiency in Children: Genetics and Counseling",
-      "description": "The X-linked inheritance, the Ishihara screen, and the career counseling that follows the diagnosis.",
+      "title": "Color Blindness in Kids: Genetics, Signs & Support Tips",
+      "description": "Did you know that up to 8% of boys may have color vision deficiency, yet most go undiagnosed for years? In this eye-opening episode of Focus Cast by Focuslinks.in, we break down everything parents, teachers, and caregivers need to know about color vision deficiency in children — from the science behind how it works to the genetics that make it far more common in males than females.\n\nWe explore how red-green color blindness is inherited through an X-linked recessive pattern, what it actually looks like in a child's daily life, and why early screening can make a life-changing difference in a child's education and confidence. You'll learn how simple tools like Ishihara plate tests can catch the condition early, and how genetic counseling helps families understand inheritance patterns and plan ahead.\n\nWe also cover practical strategies for schools and parents — from adjusting classroom materials to using assistive apps and tinted lenses — so children with color vision deficiency can thrive without unnecessary frustration or confusion. And perhaps most importantly, we remind listeners that color vision deficiency does not define a child's potential, creativity, or future.\n\nWhether you're a parent who just received a diagnosis, a teacher looking to make your classroom more inclusive, or simply curious about how genetics shapes the way we see the world, this episode is packed with clear, compassionate, and actionable information.\n\nTune in, and visit Focuslinks.in for more expert content on eye health and vision science.\n\n---",
       "tags": "color-vision,genetics,counseling,ishihara",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-22.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "79d98697-e219-4e86-a1ab-378406ae7a76",
+      "generatedAt": "2026-08-05T20:16:06.032Z"
     },
     {
       "episodeOrder": 23,

@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T18:19:25.827Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T18:23:11.004Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Pigment Dispersion Syndrome: The Krukenberg Spindle",
-      "description": "Midperipheral transillumination, the concave iris, and exercise-induced pigment release.",
+      "title": "Pigment Dispersion Syndrome & the Krukenberg Spindle Explained",
+      "description": "What if your eye doctor spotted something unusual during a routine checkup — and you had no idea your eyes were even at risk? In this episode of Focus Cast, we dive deep into Pigment Dispersion Syndrome, a surprisingly common condition that often goes undetected, and its telltale sign: the Krukenberg Spindle.\n\nWe break down exactly what happens inside the eye when pigment granules flake off the iris and drift through the eye's natural fluid currents, eventually settling into a precise, spindle-shaped pattern on the cornea. It sounds technical, but we make it genuinely fascinating and easy to understand.\n\nYou will learn who is most at risk — including young, nearsighted, physically active people in their twenties and thirties — and why athletes may actually be more susceptible than most. We also explore how Pigment Dispersion Syndrome can silently progress into Pigmentary Glaucoma, damaging the optic nerve before any symptoms appear, and why that makes early detection so critical.\n\nFrom watchful monitoring to eye drops, laser peripheral iridotomy, and laser trabeculoplasty, we walk through the full range of treatment options available today and explain what the science currently tells us about each one.\n\nWhether you have been told you have this condition, know someone who has, or simply want to understand your eye health better, this episode gives you the knowledge to ask the right questions at your next eye exam.\n\nDo not wait for your vision to change before taking action. Visit Focuslinks dot in to explore more episodes and eye health resources from Focus Cast.",
       "tags": "pigment-dispersion,krukenberg,iris,exercise",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-13.mp3",
+      "duration": "10:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954190553",
+      "generatedAt": "2026-08-05T18:23:10.553Z"
     },
     {
       "episodeOrder": 14,

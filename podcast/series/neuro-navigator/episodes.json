@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-05T20:25:57.876Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-05T20:26:03.745Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -300,14 +300,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Nystagmus: The Pathological Oscillations",
-      "description": "Jerk versus pendular, congenital versus acquired, and the localizing value of the null point.",
+      "title": "Nystagmus Explained: Causes, Types & Living With It",
+      "description": "Ever wondered why some people's eyes move involuntarily, as if they have a mind of their own? In this episode of Focus Cast, we take a deep dive into nystagmus — the neurological condition that causes repetitive, uncontrolled eye movements affecting roughly one in every thousand people worldwide.\n\nWe break down the science behind how your eyes and brain work together to maintain stable vision, and what happens when that system breaks down. You'll learn the difference between congenital and acquired nystagmus, explore specific types like vestibular nystagmus, gaze-evoked nystagmus, and downbeat nystagmus, and discover what each pattern reveals about the underlying nervous system. We also cover the wide range of causes — from inner ear disorders and multiple sclerosis to medication side effects and vitamin deficiencies — and even explain why nystagmus plays a role in roadside sobriety testing.\n\nBeyond the science, we explore what daily life looks like for someone living with nystagmus, including the concept of the null point, how people naturally adapt their head position to see more clearly, and what treatment options currently exist — from prism lenses and eye muscle surgery to emerging pharmacological therapies like memantine and gabapentin.\n\nWhether you're a healthcare professional, a curious learner, or someone personally affected by this condition, this episode offers clear, accessible insights into one of neurology's most telling visual signs.\n\nListen now and discover just how much invisible complexity your nervous system manages every second simply to let you see the world clearly. For more episodes like this, visit us at focuslinks.in.\n\n---",
       "tags": "nystagmus,jerk,pendular,null",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-24.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0da35374-5d06-4501-8b77-c475bb245106",
+      "generatedAt": "2026-08-05T20:26:03.745Z"
     },
     {
       "episodeOrder": 25,

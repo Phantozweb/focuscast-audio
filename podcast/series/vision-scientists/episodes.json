@@ -9,7 +9,7 @@
   "order": 5,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T19:54:36.808Z",
+  "lastUpdated": "2026-08-05T19:54:45.905Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -273,16 +273,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Contrast Sensitivity: The Vision Test Your Eye Chart Misses",
-      "description": "Your eye doctor says your vision is 20/20 — so why does driving at night still feel uncomfortable? Why do faces seem harder to recognize in a crowd? Why does reading in dim light feel exhausting? The answer lies in something your standard eye chart was never designed to measure: contrast sensitivity.\n\nIn this episode of Focus Cast, we explore contrast sensitivity — the hidden dimension of functional vision that determines how well you actually see in the real world. We break down exactly what contrast sensitivity is, how it differs from standard visual acuity, and why the distinction matters far more than most people realize.\n\nYou'll learn how contrast sensitivity is clinically tested using sine wave gratings, why it can detect early signs of cataracts, glaucoma, diabetic retinopathy, and even multiple sclerosis before a standard eye chart ever would, and how reduced contrast sensitivity affects everyday tasks like nighttime driving, face recognition, and reading in low light. Research even shows contrast sensitivity is a stronger predictor of driving safety than traditional acuity tests — a finding with serious real-world implications.\n\nWe also cover the key factors that affect contrast sensitivity, including aging, uncorrected refractive errors, certain medications, and neurological conditions like Parkinson's and Alzheimer's disease.\n\nIf you've ever felt like your vision wasn't quite right despite a normal eye exam, this episode could change the way you think about your eyesight entirely.\n\nListen now and discover why good vision isn't just about seeing clearly — it's about seeing fully. For more episodes and eye health resources, visit Focuslinks dot in.\n\n---",
+      "title": "Contrast Sensitivity: The Vision Skill Your Eye Chart Misses",
+      "description": "Did you know you can have perfect 20/20 vision and still struggle to drive at night, read in dim light, or recognize faces across a room? The standard eye chart only tells part of your vision story — and today, we're uncovering the part it leaves out.\n\nIn this episode of Focus Cast, we dive deep into contrast sensitivity, the often-overlooked visual ability that determines how well you see in the real world. Unlike visual acuity, which measures how small an object you can detect, contrast sensitivity measures how faint something can be before your brain loses it entirely. And that difference matters more than most people realize.\n\nWe break down exactly how contrast sensitivity works, how scientists measure it using the contrast sensitivity function, and why two people with identical acuity scores can have dramatically different real-world vision experiences. We also explore the conditions that quietly erode contrast sensitivity — including cataracts, glaucoma, aging, multiple sclerosis, diabetic retinopathy, and even higher-order optical aberrations — often before any standard test raises a red flag.\n\nMost importantly, we talk about what you can actually do about it. From clinical tests like the Pelli-Robson chart, to anti-reflective lens coatings, nutritional supplements, wavefront-guided corrections, and the emerging science of perceptual learning — there are real, evidence-based options worth knowing about.\n\nIf your vision has ever felt \"off\" despite a clean bill of eye health, this episode could change the way you think about your sight entirely.\n\nListen now, and visit focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "contrast,sensitivity,csf,frequency",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-21.mp3",
-      "duration": "12:48",
+      "duration": "12:18",
       "imageUrl": "",
       "status": "generated",
-      "runId": "58354c4e-0fcf-4a6c-a388-11a410ac291b",
-      "generatedAt": "2026-08-05T19:53:48.830Z"
+      "runId": "1b11358f-46bc-4268-acd5-1ce612bd2f47",
+      "generatedAt": "2026-08-05T19:54:45.905Z"
     },
     {
       "episodeOrder": 22,

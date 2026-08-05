@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T19:13:59.993Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-05T19:17:21.404Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,14 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Cup-to-Disc Ratio: Estimating and Documenting Accurately",
-      "description": "Vertical and horizontal cupping, ISNT rule, and how to avoid the common estimation errors.",
+      "title": "Cup-to-Disc Ratio: Estimate & Document It Accurately",
+      "description": "How confident are you when you look through the ophthalmoscope and try to put a number to what you see? In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about the cup-to-disc ratio (CDR) — one of the most critical measurements in eye care and a frontline tool in the early detection of glaucoma.\n\nWe start with the fundamentals: what the optic disc and optic cup actually are, why we always measure the vertical CDR, and what values should raise a clinical red flag. From there, we walk through how to estimate the CDR using a direct ophthalmoscope, a slit lamp with a Volk lens, and modern imaging tools like OCT and fundus photography — covering the strengths and limitations of each approach.\n\nYou will also learn how to document CDR findings clearly and consistently, why inter-eye asymmetry of 0.2 or more is a significant clinical sign, and what to look for beyond the number itself — including neuroretinal rim integrity, the ISNT rule, disc hemorrhages, and pallor.\n\nFinally, we tackle the most common pitfalls: poor dilation, confusing disc and cup margins, peripapillary atrophy, and the danger of treating CDR as the only metric that matters. Because glaucoma is the silent thief of sight, and your careful, consistent optic disc assessment may be the most powerful defense your patient has.\n\nWhether you are an optometry student or a seasoned clinician, this episode will sharpen your skills and strengthen your documentation habits. Listen now, and visit Focuslinks.in for more eye care resources and episodes.\n\n---",
       "tags": "optic-disc,cup-to-disc,glaucoma,isnt",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-27.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1c1e8a1d-7950-4952-974c-99d0bf72e158",
+      "generatedAt": "2026-08-05T19:17:20.820Z"
     },
     {
       "episodeOrder": 28,

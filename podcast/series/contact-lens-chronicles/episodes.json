@@ -9,7 +9,7 @@
   "order": 6,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T20:05:59.862Z",
+  "lastUpdated": "2026-08-05T20:05:57.429Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -356,14 +356,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Centration and Movement: The CL Fitting Metrics",
-      "description": "How much movement is ideal, the lag on blink, and the decentration that signals poor fit.",
+      "title": "Contact Lens Centration & Movement: Master the Fit Metrics",
+      "description": "Ever wondered why your contact lenses feel uncomfortable even when your prescription is correct? The answer almost always comes down to fit — specifically, two critical metrics every eye care practitioner must master: centration and movement. In this episode of Focus Cast by Focuslinks.in, we break down exactly what these metrics mean, why they matter, and how they directly impact your vision, comfort, and long-term eye health.\n\nWe explore how centration determines where a lens sits on the eye and why even slight decentration can blur vision, distort optics, and cause serious problems for toric lens wearers correcting astigmatism. We then dive into lens movement, explaining why a contact lens is supposed to move with each blink, what the ideal 0.2 to 0.4 millimetre benchmark really means, and how to identify a lens that is too tight or too loose. You will also learn about key clinical tools like the push-up test, slit lamp assessment, and how corneal topography is transforming modern contact lens fitting.\n\nWhether you are an optometry student building your clinical foundation, a practitioner refining your fitting technique, or a contact lens wearer trying to understand why your eyes feel off by the end of the day, this episode gives you the knowledge to ask better questions and make smarter decisions.\n\nIf your lenses feel uncomfortable, your vision fluctuates, or your eyes are red after wear, do not ignore it. A proper centration and movement assessment could change everything. Listen now, and visit Focuslinks.in for more expert optometry content, clinical resources, and episodes designed to keep your practice sharp.\n\n---",
       "tags": "centration,movement,lag,fit-quality",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-28.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "767645de-7029-4a0b-a010-76d8da3a30c8",
+      "generatedAt": "2026-08-05T20:05:57.429Z"
     },
     {
       "episodeOrder": 29,
@@ -378,16 +380,14 @@
     },
     {
       "episodeOrder": 30,
-      "title": "The Unhappy Contact Lens Patient: A Diagnostic Framework",
-      "description": "When a contact lens patient says \"my lenses just don't feel right,\" do you have a clear plan — or are you guessing? In this episode of Focus Cast by Focuslinks.in, we break down a practical, systematic framework for diagnosing and managing the unhappy contact lens patient.\n\nWhether your patient is struggling with discomfort, blurry vision, or a vague sense that something is off, this episode walks you through the exact clinical questions and examination steps that lead to real answers. We cover the three core complaint categories — comfort, vision, and general dissatisfaction — and explore the diagnostic logic behind each one.\n\nYou'll learn why contact lens-related dry eye is far more common than most practitioners realize, how to interpret fluctuating vision as a tear film sign, what end-of-day discomfort is really telling you, and how to spot conditions like giant papillary conjunctivitis, superior limbic keratoconjunctivitis, and solution toxicity before they derail your patient's lens-wearing experience. We also discuss corneal warpage, toric lens misrotation, and the often-overlooked role of fluorescein staining patterns in guiding your diagnosis.\n\nThis isn't about swapping lenses and hoping for the best. It's about building the clinical confidence to find the root cause every time.\n\nIf you're an optometrist, ophthalmologist, or optometry student looking to sharpen your contact lens troubleshooting skills, this episode is for you.\n\nListen now and take a smarter diagnostic approach back to your clinic. Visit Focuslinks.in for more episodes and clinical resources designed to help you grow as a practitioner.\n\n---",
+      "title": "The Unhappy CL Patient: A Diagnostic Framework",
+      "description": "A structured approach to discomfort, poor vision, and redness that turns frustration into retention.",
       "tags": "unhappy,discomfort,framework,retention",
-      "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-30.mp3",
-      "duration": "12:36",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "5545ffb0-cd99-4955-bbf5-bb1e6c23fb7c",
-      "generatedAt": "2026-08-05T20:05:59.862Z"
+      "status": "draft"
     }
   ]
 }

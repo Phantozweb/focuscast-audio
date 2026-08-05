@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-05T19:57:58.869Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-05T19:58:07.559Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -89,14 +89,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Modified Monovision: The Compromise That Works",
-      "description": "When to blend a distance lens with a multifocal, the dominance choice, and the adaptation period.",
+      "title": "Modified Monovision: The Vision Compromise That Actually Works",
+      "description": "Still squinting at your phone or holding menus at arm's length? You might be dealing with presbyopia — and modified monovision could be the solution you never knew existed. In this episode of Focus Cast, we break down exactly what modified monovision is, how it differs from traditional monovision, and why it is quickly becoming one of the most popular approaches to managing age-related near vision loss.\n\nWe cover the science behind presbyopia and why your eyes lose their reading flexibility in your forties, how traditional monovision works and why some people struggle to adapt to it, and how modified monovision dials back the prescription difference between your eyes to create a more natural, comfortable visual experience. You will also learn who makes the best candidate for modified monovision — whether through contact lenses, LASIK, or premium intraocular lenses — and what the adaptation period actually looks like in real life.\n\nWhether you are a longtime contact lens wearer curious about trying a modified monovision prescription, someone considering LASIK who wants to address presbyopia at the same time, or a patient exploring options after cataract surgery, this episode gives you the clear, jargon-free information you need to have a smarter conversation with your eye care professional.\n\nModified monovision is not about perfect vision in one eye or the other. It is about getting both eyes to work together in a way that fits your real life. And for many people, it genuinely changes everything.\n\nVisit Focuslinks.in for more expert vision guidance and resources.\n\n---",
       "tags": "monovision,multifocal,dominance,adaptation",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-07.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9dccbca9-ee3a-47f1-bd5c-6cb89b6d2fd1",
+      "generatedAt": "2026-08-05T19:58:07.559Z"
     },
     {
       "episodeOrder": 8,

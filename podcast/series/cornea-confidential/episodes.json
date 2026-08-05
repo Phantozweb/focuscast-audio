@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T19:37:24.198Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-05T19:37:33.674Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Corneal Abrasion: The Scratch That Demands Care",
-      "description": "Antibiotic choice, the contact lens wearer exception, and why cycloplegia transforms comfort overnight.",
+      "title": "Corneal Abrasion: Why Every Eye Scratch Demands Care",
+      "description": "That burning, gritty feeling in your eye might be more than just irritation — it could be a corneal abrasion, and ignoring it could cost you your vision. In this episode of Focus Cast, we dive deep into one of the most common yet underestimated eye injuries: the corneal scratch.\n\nYour cornea is packed with more nerve endings per square millimeter than almost any other tissue in your body, which is why even a tiny scratch can bring you to your knees. We break down exactly what a corneal abrasion is, how it happens — from aggressive eye rubbing and contact lens misuse to a toddler's stray fingernail — and what's actually going on inside your eye when that outer layer gets damaged.\n\nYou'll learn the right steps to take immediately after a corneal injury, why rubbing your eye is the worst thing you can do, and why seeing a doctor matters more than you think. We also cover the treatments that actually work, including why eye patching has fallen out of favor, and the ones that don't.\n\nWe go beyond the basics to discuss serious complications like bacterial keratitis and recurrent corneal erosion syndrome, so you know exactly what warning signs to watch for during recovery. Plus, we share practical, easy-to-follow prevention tips for contact lens wearers, active individuals, and parents alike.\n\nWhether you've experienced a corneal abrasion before or want to be prepared if it ever happens, this episode gives you the knowledge to protect your eyes with confidence.\n\nListen now and visit Focuslinks.in for more eye health episodes and expert tips. Because your eyes deserve more than guesswork — they deserve real care.\n\n---",
       "tags": "abrasion,antibiotic,cycloplegia,contact-lens",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-22.mp3",
+      "duration": "12:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "21081f5e-f927-4101-8733-4f99df99f00a",
+      "generatedAt": "2026-08-05T19:37:33.674Z"
     },
     {
       "episodeOrder": 23,

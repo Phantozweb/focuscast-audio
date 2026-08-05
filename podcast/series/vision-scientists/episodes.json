@@ -9,7 +9,7 @@
   "order": 5,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:25.084Z",
+  "lastUpdated": "2026-08-05T17:11:10.301Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "light,waves,photons,spectrum",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -29,7 +29,7 @@
       "tags": "snells-law,refraction,optics,geometric",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -40,7 +40,7 @@
       "tags": "thin-lens,focal-length,optics,math",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,7 +51,7 @@
       "tags": "spherical,plus,minus,focal-point",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -62,7 +62,7 @@
       "tags": "cylinder,astigmatism,axis,toric",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -73,7 +73,7 @@
       "tags": "prism,diopter,base,diplopia",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -84,7 +84,7 @@
       "tags": "vertex,conversion,contact-lens,spectacle",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -95,7 +95,7 @@
       "tags": "accommodation,ciliary,zonules,amplitude",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -106,7 +106,7 @@
       "tags": "presbyopia,aging,add,near",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -117,7 +117,7 @@
       "tags": "emmetropization,axial-length,development,myopia",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -128,7 +128,7 @@
       "tags": "myopia,elongation,retinal-risk,control",
       "category": "Pediatric",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -139,7 +139,7 @@
       "tags": "hyperopia,accommodation,latency,headache",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -150,7 +150,7 @@
       "tags": "astigmatism,corneal,lenticular,irregular",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -161,7 +161,7 @@
       "tags": "anisometropia,aniseikonia,amblyopia,contact-lens",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -172,7 +172,7 @@
       "tags": "binocular,fusion,stereopsis,cortical",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -183,7 +183,7 @@
       "tags": "panum,fusion,disparity,vergence",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -194,7 +194,7 @@
       "tags": "vergence,convergence,ac-a,vision-therapy",
       "category": "Strabismus",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -205,7 +205,7 @@
       "tags": "wavefront,aberrations,zernike,custom",
       "category": "Refractive Surgery",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -216,7 +216,7 @@
       "tags": "spherical-aberration,pupil,aspheric,quality",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -227,7 +227,7 @@
       "tags": "chromatic-aberration,lca,accommodation,cue",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -238,7 +238,7 @@
       "tags": "contrast,sensitivity,csf,frequency",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -249,7 +249,7 @@
       "tags": "glare,scatter,straylight,tint",
       "category": "Cataract",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -260,7 +260,7 @@
       "tags": "color-vision,trichromacy,cones,genetics",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -271,7 +271,7 @@
       "tags": "visual-pathway,chiasm,tract,field-defect",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -282,7 +282,7 @@
       "tags": "mtf,image-quality,neural,blur",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -293,7 +293,7 @@
       "tags": "pupil,diffraction,aberration,optimal",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -304,7 +304,7 @@
       "tags": "depth-of-focus,accommodation,pupil,range",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -315,7 +315,7 @@
       "tags": "dominance,monovision,cataract,refractive",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -326,7 +326,7 @@
       "tags": "adaptation,dark,rods,cones",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -337,7 +337,7 @@
       "tags": "limits,resolution,threshold,perception",
       "category": "Refraction",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     }

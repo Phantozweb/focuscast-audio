@@ -9,7 +9,7 @@
   "order": 5,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T19:58:03.618Z",
+  "lastUpdated": "2026-08-05T19:58:35.936Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,16 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "How Your Eyes Really Work: Vision, Limits & Perception",
-      "description": "Have you ever squinted at a menu across the room and wondered why your eyes just couldn't quite make it out? There's a fascinating science behind that frustrating moment — and it reveals just how extraordinary, and how limited, human vision truly is.\n\nIn this episode of Focus Cast, we break down the three core boundaries of human sight: **visual resolution**, **threshold**, and **perception**. You'll discover why your fovea — a tiny patch of retina just one and a half millimeters wide — is responsible for nearly all the sharp detail you see, and why your peripheral vision is far blurrier than you think. We explore the science of visual threshold, including the jaw-dropping fact that a dark-adapted human eye can detect a single candle flame from thirty miles away. And we dive deep into how your brain doesn't just receive vision — it actively constructs it, filling in blind spots, correcting colors, and making confident assumptions that can sometimes get things completely wrong.\n\nFrom optical illusions and foggy driving conditions to medical misdiagnosis and unreliable eyewitness testimony, the way your brain builds your visual world has real, everyday consequences. Understanding these limits isn't just intellectually fascinating — it's genuinely useful for how you design, communicate, and make decisions.\n\nWhether you're curious about neuroscience, human biology, or simply want to understand yourself better, this episode will change the way you think about seeing.\n\nListen now and start seeing the world a little more clearly. For more episodes exploring vision, focus, and the science of perception, visit us at **focuslinks.in**.\n\n---",
+      "title": "The Limits of Vision: Resolution, Threshold & Perception",
+      "description": "How much of what you see is actually real — and how much is your brain making it up? In this eye-opening episode of Focus Cast, we explore the fascinating science behind the limits of human vision, breaking down three core concepts: resolution, threshold, and perception.\n\nWe start with visual resolution — what it means for your eyes, how the fovea works, and why the crisp, wide-angle world you think you're seeing is actually a clever illusion stitched together by your brain. Then we dive into the threshold of vision, uncovering just how extraordinarily sensitive your eyes can be in darkness, why rods and cones behave so differently, and how contrast drives everything your visual system detects. Finally, we get into perception — the part where your brain takes incomplete, noisy data and constructs a seamless reality, filling in blind spots, pattern-matching faces, and sometimes getting it beautifully wrong.\n\nAlong the way, you'll discover why optical illusions fool your brain rather than your eyes, why eyewitness testimony is less reliable than we think, and what the ancient astronomer's trick of averted vision reveals about how your retina is wired.\n\nWhether you're curious about eye health, cognitive science, or simply want to understand the extraordinary machinery behind everyday sight, this episode will change the way you think about seeing.\n\nVisit Focuslinks.in for more episodes, eye health resources, and expert insights. Subscribe to Focus Cast so you never miss an episode — and share this one with someone who could use a fresh perspective.\n\n---",
       "tags": "limits,resolution,threshold,perception",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-30.mp3",
-      "duration": "12:30",
+      "duration": "12:37",
       "imageUrl": "",
       "status": "generated",
-      "runId": "f7432512-faa3-4073-86ea-77d3723fa6f5",
-      "generatedAt": "2026-08-05T19:58:03.618Z"
+      "runId": "763cce33-0535-4289-a7eb-0d9f65c1e159",
+      "generatedAt": "2026-08-05T19:58:35.084Z"
     }
   ]
 }

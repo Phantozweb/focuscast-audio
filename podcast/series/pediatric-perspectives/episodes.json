@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T20:16:53.019Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T20:17:02.015Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -323,14 +323,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Pediatric Contact Lenses: Age, Maturity, and Modality",
-      "description": "The daily disposable first philosophy, the parent-child counseling, and the safety profile.",
+      "title": "Contact Lenses for Kids: Age, Maturity & Best Modalities",
+      "description": "Are contact lenses safe for children? The answer might surprise you. In this episode of Focus Cast by Focuslinks.in, we break down everything parents and eye care professionals need to know about pediatric contact lenses — and why the real question is never just about age.\n\nWe explore what the research actually says, including findings from the landmark CLIP study, which showed that children as young as eight can be just as successful with contact lens wear as teenagers. We dive deep into the maturity factors that truly determine readiness — hygiene habits, personal motivation, fine motor skills, and the critical role parents play in building a sustainable routine.\n\nWe also cover the all-important question of lens modality. From daily disposable lenses and their clear hygiene advantages for children, to specialized options like orthokeratology and soft multifocal lenses designed to slow myopia progression — a growing concern as the World Health Organization projects nearly half the global population could be myopic by 2050.\n\nWe address the fears parents commonly raise around infection risk, lost lenses, dry eyes, and screen time, offering honest, evidence-based reassurance alongside practical guidance.\n\nWhether you are a parent wondering if your child is ready, or an eye care professional looking for a resource to share with families, this episode gives you a clear, thoughtful framework for making the right decision.\n\nListen now and discover how the right lens, matched to the right child at the right time, can protect vision for a lifetime. For more expert insights on eye health and optics, visit Focuslinks.in.\n\n---",
       "tags": "pediatric-cl,daily-disposable,counseling,safety",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-25.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c9bb1218-e1b7-49eb-ac1f-7ddc13d33125",
+      "generatedAt": "2026-08-05T20:17:02.014Z"
     },
     {
       "episodeOrder": 26,

@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:17:12.754Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T20:17:22.909Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Learning-Related Vision Problems: The Evidence",
-      "description": "The reading difficulty referral, the vision therapy debate, and the multidisciplinary approach.",
+      "title": "Learning-Related Vision Problems: What the Evidence Says",
+      "description": "Could your child's reading struggles actually be a vision problem that standard eye tests completely miss? In this eye-opening episode of Focus Cast, we dig deep into the science behind learning-related vision problems — and why millions of kids and adults are falling through the cracks of conventional screening.\n\nWe break down the research on convergence insufficiency, a condition where the eyes struggle to work together at close range, and explore the landmark CITT clinical trial that proved targeted vision therapy delivers real, measurable results. You'll learn how accommodative dysfunction silently exhausts students in the classroom, why erratic eye tracking can derail even the brightest readers, and what the science actually says about controversial interventions like tinted lenses and colored overlays.\n\nThis episode also tackles the critical distinction between vision problems and learning disabilities like dyslexia — and why a child can have both at the same time. We cut through the noise to tell you which treatments have solid evidence behind them and which ones don't, so you can make informed decisions for yourself or your child.\n\nWhether you're a parent watching a smart kid struggle, an educator trying to understand why some students can't seem to focus, or an adult who never quite figured out why reading always felt so hard — this episode is for you.\n\nDon't rely on a school screening to tell the whole story. Visit [Focuslinks.in](https://focuslinks.in) to explore more resources on vision and learning, and share this episode with anyone who needs to hear it.\n\n---",
       "tags": "learning,reading,vision-therapy,evidence",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-20.mp3",
+      "duration": "11:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a84efd32-e594-4179-8bb3-43a5428fada2",
+      "generatedAt": "2026-08-05T20:17:22.328Z"
     },
     {
       "episodeOrder": 21,

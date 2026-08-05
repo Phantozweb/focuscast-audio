@@ -9,7 +9,7 @@
   "order": 6,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-05T19:58:07.559Z",
+  "lastUpdated": "2026-08-05T19:58:41.704Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -77,15 +77,15 @@
     {
       "episodeOrder": 6,
       "title": "Multifocal Contact Lenses: Simultaneous vs Translating Vision",
-      "description": "Struggling to read your phone or squinting at restaurant menus? You might be experiencing presbyopia, the age-related loss of near vision that affects nearly everyone after 40. But if you wear contact lenses, reading glasses are not your only option. In this episode of Focus Cast, we break down the two major design philosophies behind multifocal contact lenses: simultaneous vision and translating vision, and explain exactly how each one works to help you see clearly at every distance.\n\nWe explore how simultaneous vision lenses, including concentric ring and aspheric designs, present both distance and near correction at once, relying on your brain's remarkable ability to adapt and select the sharpest image. We then dive into translating vision RGP lenses, a more mechanical approach where the lens physically shifts on your eye as your gaze moves, delivering crisp, precise optics for patients who need the sharpest possible vision.\n\nAlong the way, we cover how pupil size affects lens performance, why neural adaptation matters, what modified monovision is and when it might be the right fit, and how two patients with identical prescriptions can end up with completely different ideal solutions. Whether you are a patient exploring your options or an eye care professional looking for a clear way to explain these concepts, this episode gives you the full picture.\n\nReady to find the multifocal contact lens that fits your life? Visit Focuslinks dot in for more episodes, articles, and expert resources on everything eye care.\n\n---",
+      "description": "Struggling to read menus, labels, or your phone without holding them at arm's length? You're not alone. Presbyopia affects nearly everyone past their mid-forties, but multifocal contact lenses offer a real solution — and not all of them work the same way.\n\nIn this episode of Focus Cast by Focuslinks.in, we break down the two fundamental design philosophies behind multifocal contact lenses: simultaneous vision and translating vision. We explain exactly how simultaneous vision lenses use concentric ring and aspheric designs to present multiple focal zones at once, letting your brain do the selecting — and why that works brilliantly for most people while creating subtle trade-offs in contrast and sharpness. Then we dive into translating vision lenses, the engineering marvel that physically shifts on your eye to deliver one clean focal zone at a time, offering razor-sharp clarity at every distance for those willing to adapt to a rigid gas permeable lens.\n\nWe also cover hybrid multifocal lenses, the monovision alternative, and the key factors your eye care practitioner weighs when recommending the right design for your prescription, lifestyle, and visual demands. Whether you're a first-time multifocal wearer or someone who hasn't found the right fit yet, this episode gives you the knowledge to have a smarter conversation with your optometrist.\n\nIf you've been squinting your way through the day and wondering whether multifocal contact lenses could actually work for you, this is the episode to start with. Listen now, and visit Focuslinks.in for more expert insights on contact lenses and vision science.\n\n---",
       "tags": "multifocal,simultaneous,translating,presbyopia",
       "category": "Contact Lens",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-06.mp3",
-      "duration": "12:55",
+      "duration": "12:38",
       "imageUrl": "",
       "status": "generated",
-      "runId": "375b19a5-56b6-4344-8738-685e410aa133",
-      "generatedAt": "2026-08-05T19:57:29.060Z"
+      "runId": "921c626a-74ed-47ed-bbc5-f84d24978da7",
+      "generatedAt": "2026-08-05T19:58:41.703Z"
     },
     {
       "episodeOrder": 7,

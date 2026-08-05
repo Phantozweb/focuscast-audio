@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-05T17:50:22.724Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-05T17:54:00.479Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Fluorescein Angiography: Phases, Leakage, and Blocking",
-      "description": "Interpreting the arterial, venous, and late phases — and distinguishing leakage from window defects.",
+      "title": "Fluorescein Angiography Explained: Phases, Leakage & Blocking",
+      "description": "Ever wondered what it looks like to watch blood flowing through the tiny vessels at the back of your eye in real time? In this episode of Focus Cast, we break down fluorescein angiography (FFA) — one of the most powerful diagnostic tools in ophthalmology — into a clear, engaging, and clinically useful guide you will actually remember.\n\nWe walk you through the five key phases of fluorescein angiography, from the early choroidal flush to the late phase findings that signal disease. You will learn exactly what leakage means, why it happens, and how to recognize it in conditions like diabetic retinopathy, cystoid macular edema, and choroidal neovascularization in wet age-related macular degeneration. We also cover blocking, the often-overlooked flip side of leakage, explaining how blood, pigment, and hard exudates cast shadows on the angiogram and how to distinguish blocking from capillary non-perfusion.\n\nBy the end of this episode, you will have a solid mental framework for interpreting fluorescein angiograms with confidence, whether you are studying for an ophthalmology exam, preparing for a clinical rotation, or simply building your knowledge of retinal disease.\n\nThis episode is perfect for medical students, ophthalmology residents, and anyone who wants a deeper understanding of retinal imaging and how it guides real-world treatment decisions.\n\nIf you found this episode helpful, share it with a classmate or colleague who is learning the ropes of retinal diagnostics. Visit Focuslinks.in for more ophthalmology episodes, study resources, and everything you need to sharpen your clinical knowledge. Keep focusing on what matters.",
       "tags": "fa,angiography,leakage,phases",
       "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-09.mp3",
+      "duration": "10:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952439873",
+      "generatedAt": "2026-08-05T17:53:59.874Z"
     },
     {
       "episodeOrder": 10,

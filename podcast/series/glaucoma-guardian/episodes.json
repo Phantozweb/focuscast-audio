@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-05T18:16:07.216Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-05T18:19:25.827Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Pseudoexfoliation Syndrome: The White Flakes and the Pressure Spike",
-      "description": "How PEX weakens the zonules, raises IOP, and changes cataract surgery risk.",
+      "title": "Pseudoexfoliation Syndrome: White Flakes & Pressure Spikes",
+      "description": "What if tiny, invisible flakes inside your eye were silently stealing your vision — and you had absolutely no idea? In this episode of Focus Cast, we dive deep into Pseudoexfoliation Syndrome, one of the most common yet underrecognized eye conditions in the world, affecting an estimated 60 to 70 million people globally.\n\nWe break down exactly what Pseudoexfoliation Syndrome is, how abnormal fibrous material builds up inside the eye, and why it is considered a leading identifiable cause of glaucoma worldwide. You will learn why the pressure spikes associated with this condition can be sudden and severe, how it weakens the delicate fibers holding your lens in place, and why that makes cataract surgery significantly more complex for affected patients.\n\nWe also explore who is most at risk, including older adults, those with a family history of glaucoma, and specific populations in Scandinavia, the Middle East, and India, where rates are notably high. From the genetics of the LOXL1 gene to the role of oxidative stress and environmental factors, we cover the science in a way that is clear, engaging, and genuinely useful.\n\nMost importantly, we talk about what you can actually do. From eye drops and Selective Laser Trabeculoplasty to the critical role of regular eye examinations, this episode gives you the knowledge to protect your vision before damage occurs.\n\nIf you are over 50, or if glaucoma runs in your family, this episode could be one of the most important things you listen to this year. Share it with someone who might be overdue for an eye check-up.\n\nVisit Focuslinks dot in for more episodes and eye health resources.",
       "tags": "pex,pseudoexfoliation,zonules,cataract",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-12.mp3",
+      "duration": "10:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953965000",
+      "generatedAt": "2026-08-05T18:19:25.000Z"
     },
     {
       "episodeOrder": 13,

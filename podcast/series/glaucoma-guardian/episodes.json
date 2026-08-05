@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-05T17:35:27.376Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-05T17:39:10.978Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Open-Angle vs Angle-Closure: The Gonioscopic Divide",
-      "description": "Why every glaucoma suspect needs gonioscopy and the landmarks that classify the angle.",
+      "title": "Open-Angle vs Angle-Closure Glaucoma: The Gonioscopy Guide",
+      "description": "Did you know that two people can both have glaucoma yet require completely different treatments? The reason comes down to one critical distinction — and one remarkable diagnostic tool. In this episode of Focus Cast, we break down the fundamental difference between open-angle glaucoma and angle-closure glaucoma, and explore how gonioscopy helps eye doctors tell them apart with precision.\n\nWe start with the basics — how the eye drains fluid, what happens when that drainage fails, and why rising intraocular pressure silently destroys the optic nerve before most people ever notice a symptom. From there, we unpack exactly why the drainage angle is the key to understanding glaucoma type, and why getting that diagnosis right changes everything about treatment.\n\nYou will learn how a gonioscope works, why it remains the gold standard after more than a century, and what doctors actually see when they examine the angle — from wide-open trabecular meshwork to an iris physically blocking the drain. We also cover who is most at risk for angle-closure glaucoma, the terrifying reality of an acute angle-closure crisis, and how early screening with gonioscopy can prevent permanent vision loss before an emergency ever occurs.\n\nWhether you have been diagnosed with glaucoma, have elevated eye pressure, or simply want to understand your eye health better, this episode gives you the knowledge to ask the right questions at your next appointment.\n\nVisit Focuslinks.in for more episodes and eye health resources. If this episode helped you, share it with someone whose vision matters to you.",
       "tags": "gonioscopy,angle,open-angle,closure",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-05.mp3",
+      "duration": "10:45",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951550545",
+      "generatedAt": "2026-08-05T17:39:10.545Z"
     },
     {
       "episodeOrder": 6,

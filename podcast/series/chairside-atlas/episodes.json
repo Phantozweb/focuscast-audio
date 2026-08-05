@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T17:58:19.681Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-05T18:01:41.383Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "The Cover Test and Cover-Uncover: Quantifying Ocular Deviation",
-      "description": "Distinguishing tropia from phoria, measuring the shift, and knowing when to refer.",
+      "title": "Cover Test & Cover-Uncover Test: Detecting Eye Deviation",
+      "description": "What if a simple hand movement could reveal hidden problems with your eyes that no machine would catch? In this episode of Focus Cast, we break down two of the most powerful diagnostic tools in eye care — the cover test and the cover-uncover test — and explain exactly how clinicians use them to detect and measure ocular deviation.\n\nWe start with the basics of binocular vision and why strabismus, or squint, is far more than a cosmetic concern. You'll learn how the cover test works to expose manifest deviations like esotropia and exotropia, and why the visual system is surprisingly good at hiding misalignment when both eyes are open. From there, we dive into the cover-uncover test, the technique that reveals latent deviations called phorias — the kind that only show up when fusion is broken and the eye is free to drift.\n\nWe also walk through the prism cover test and how clinicians quantify deviation in prism diopters, the critical difference between the alternate and simultaneous cover tests, and why testing at both distance and near can completely change a diagnosis. A real-world example of a child with unexplained headaches shows just how much a careful cover test can uncover — and how the right correction can make all the difference.\n\nWhether you're a student, a curious patient, or a healthcare professional brushing up on the fundamentals, this episode gives you a clear, engaging, and clinically grounded understanding of ocular motility assessment.\n\nListen now and see the world of eye care a little differently. For more episodes, visit Focus Cast at Focuslinks.in.",
       "tags": "cover-test,tropia,phoria,strabismus",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-15.mp3",
+      "duration": "9:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952900928",
+      "generatedAt": "2026-08-05T18:01:40.928Z"
     },
     {
       "episodeOrder": 16,

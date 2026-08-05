@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-05T20:21:17.330Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-05T20:21:20.949Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -365,13 +365,15 @@
     {
       "episodeOrder": 28,
       "title": "Stargardt Disease: The Inherited Macular Dystrophy of Youth",
-      "description": "The pisciform flecks, the dark choroid on FA, and the genetic counseling and low vision support.",
+      "description": "What if you started losing your central vision at age twelve — not from an injury, but from your own DNA? In this episode of Focus Cast, we take a deep dive into Stargardt disease, the most common inherited macular dystrophy affecting children and young adults worldwide.\n\nWe break down exactly what happens inside the eye when the ABCA4 gene mutates, how toxic lipofuscin buildup silently destroys the retinal cells responsible for sharp, detailed central vision, and why this condition so often strikes during the most formative years of a young person's life. You'll learn how Stargardt disease is inherited, why two parents with perfect vision can have a child who develops the condition, and why genetic counseling is so critical for affected families.\n\nWe also cover how ophthalmologists diagnose Stargardt disease using tools like fundus autofluorescence, OCT imaging, and genetic testing, along with the practical steps patients can take today — from UV protection to low vision aids — to protect their quality of life. And we explore the genuinely exciting frontier of gene therapy, stem cell research, and drug-based treatments currently in clinical trials that could change everything for future patients.\n\nWhether you're a patient, a parent, a caregiver, or simply someone curious about vision science, this episode offers a clear, compassionate, and thorough look at a condition that deserves far more attention than it gets.\n\nListen now, and share this episode with anyone who might benefit from understanding Stargardt disease better. For more episodes on eye health and vision science, visit Focuslinks dot in.\n\n---",
       "tags": "stargardt,pisciform,flecks,genetics",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-28.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a1ae2567-81e7-413e-8585-337d9b3bd998",
+      "generatedAt": "2026-08-05T20:21:20.949Z"
     },
     {
       "episodeOrder": 29,
@@ -388,16 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Pediatric to Adult Care Transition: The Critical Handoff",
-      "description": "What happens when a teenager who has spent their entire life in pediatric care suddenly walks into an adult clinic for the very first time? That moment, known as the pediatric handoff, is one of the most overlooked and highest-risk periods in healthcare, and it affects millions of young people with chronic conditions every year.\n\nIn this episode of Focus Cast, we break down exactly why the transition from pediatric care to adult care is so difficult, what goes wrong when it is handled poorly, and what genuinely works when it is done right. We explore the real consequences of poor transition planning, including a staggering forty percent increase in hospitalizations among young adults with Type 1 diabetes during this period, and unpack the systemic, emotional, and communication failures that drive those numbers.\n\nWe also highlight proven solutions like structured transition programs, the Got Transition model, dedicated transition coordinators, and the powerful concept of a patient-created transition passport that puts humanity back at the center of the handoff process.\n\nWhether you are a parent learning when to step back, a young adult trying to find your voice in a new healthcare system, or a provider looking to make transition care a true clinical priority, this episode gives you the insight and tools to make the process smoother, safer, and more empowered.\n\nThe pediatric handoff is not just a paperwork formality. It is a defining moment in a young person's health journey, and getting it right changes lives.\n\nListen now and share this episode with anyone navigating this transition. Visit Focuslinks dot in for more episodes and resources from Focus Cast.\n\n---",
+      "title": "Pediatric to Adult Care Transition: The Handoff Guide",
+      "description": "What happens when a teenager who has spent their entire life in pediatric care suddenly has to navigate the adult healthcare system alone? The shift is more than just a change of doctors — it is one of the most vulnerable moments in a young patient's medical journey, and far too often, it goes wrong.\n\nIn this episode of Focus Cast, we break down the pediatric handoff: the complex process of transitioning young patients with chronic and complex conditions from pediatric to adult care. We explore why this transition is so difficult, why nearly half of young adults with congenital heart disease drop out of specialist care during this period, and who is most at risk — from those living with Type 1 diabetes and epilepsy to young people with autism spectrum disorder and cerebral palsy.\n\nWe also cover what a successful transition actually looks like, including structured transition programs like Got Transition, the power of the warm handoff, and the six-core-element model that healthcare teams can use to guide patients safely through this critical period.\n\nWhether you are a young person approaching this milestone, a parent learning when to step back, or a healthcare provider looking to improve your transition process, this episode gives you practical, actionable guidance to make the pediatric to adult care transition smoother, safer, and more human.\n\nListen now and share this episode with anyone navigating this important healthcare moment. For more episodes like this, visit Focus Cast at Focuslinks.in.\n\n---",
       "tags": "transition,adult-care,chronic,continuity",
       "category": "Pediatric",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-30.mp3",
-      "duration": "12:31",
+      "duration": "12:21",
       "imageUrl": "",
       "status": "generated",
-      "runId": "2e8d36df-92fb-47a9-820c-a17384c313a4",
-      "generatedAt": "2026-08-05T20:21:17.330Z"
+      "runId": "f2a72508-1142-43fc-b62b-0bd6072f9ddd",
+      "generatedAt": "2026-08-05T20:20:40.151Z"
     }
   ]
 }

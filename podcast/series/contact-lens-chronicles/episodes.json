@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-05T19:58:41.704Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-05T19:58:58.045Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -115,14 +115,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "RGP Fitting: Base Curve, Tear Lens, and Fluorescein Patterns",
-      "description": "Reading the fluorescein pooling and bearing, the tear lens power, and the alignment goal.",
+      "title": "RGP Lens Fitting: Base Curve, Tear Lens & Fluorescein Patterns",
+      "description": "Ever watched an experienced clinician peer through a slit lamp at a glowing green eye and wondered exactly what they were seeing? This episode of Focus Cast breaks down the science and art of rigid gas permeable contact lens fitting in a way that finally makes it all click.\n\nWe start with the base curve, exploring how the curvature of the lens back surface relates to the cornea and why that relationship defines everything about the fit. From there, we dive into the tear lens, the often-overlooked optical layer that forms between the RGP lens and the cornea, and how it adds or subtracts power depending on your fitting choice. You will learn the SAM FAP rule and understand why adjusting the base curve always means adjusting the prescription.\n\nThen comes the most visually striking part of RGP fitting: fluorescein patterns. We walk through what alignment, steep, and flat fits actually look like under cobalt blue light, what each pattern tells you about lens-cornea interaction, and how to use that information to make better fitting decisions. We also cover edge lift, corneal astigmatism patterns, and how modern corneal topography is changing the way complex cases are approached.\n\nWhether you are an optometry student encountering RGP fitting for the first time or a clinician looking to sharpen your contact lens skills, this episode gives you a clear, practical foundation rooted in real clinical understanding.\n\nListen now and start reading fluorescein patterns with confidence. Visit Focuslinks.in for more episodes and eye care learning resources.\n\n---",
       "tags": "rgp,fluorescein,tear-lens,fitting",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-09.mp3",
+      "duration": "13:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c3bf946e-d269-45b3-972c-780ea3238bb5",
+      "generatedAt": "2026-08-05T19:58:58.045Z"
     },
     {
       "episodeOrder": 10,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T19:50:51.522Z",
+  "lastUpdated": "2026-08-05T19:50:55.868Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 136,
+  "generatedEpisodes": 137,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -62,7 +62,7 @@
       "generatedEpisodes": 28,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/episodes.json",
       "audioDir": "podcast/series/glaucoma-guardian/audio",
-      "lastUpdated": "2026-08-05T19:50:36.406Z"
+      "lastUpdated": "2026-08-05T19:50:42.003Z"
     },
     {
       "slug": "vision-scientists",
@@ -74,10 +74,10 @@
       "category": "Refraction",
       "order": 5,
       "totalEpisodes": 30,
-      "generatedEpisodes": 18,
+      "generatedEpisodes": 19,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/episodes.json",
       "audioDir": "podcast/series/vision-scientists/audio",
-      "lastUpdated": "2026-08-05T18:26:36.603Z"
+      "lastUpdated": "2026-08-05T19:50:37.129Z"
     },
     {
       "slug": "contact-lens-chronicles",

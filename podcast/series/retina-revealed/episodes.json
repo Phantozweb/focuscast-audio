@@ -9,7 +9,7 @@
   "order": 2,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T19:43:02.432Z",
+  "lastUpdated": "2026-08-05T19:43:04.191Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -313,15 +313,15 @@
     {
       "episodeOrder": 24,
       "title": "Retinal Tears Explained: Lattice, Atrophic Holes & Flap Tears",
-      "description": "Have you ever noticed a sudden flash of light or a new floater drifting across your vision and wondered if it meant something serious? In this episode of Focus Cast, we break down everything you need to know about retinal tears — one of the most important yet overlooked topics in eye health.\n\nWe explore three key types of retinal tears: lattice degeneration, atrophic holes, and flap tears. You'll learn what makes each one unique, how they develop, and why some are silent while others demand same-day medical attention. Lattice degeneration affects up to 10% of the population and often goes undetected for years. Atrophic holes form quietly within weakened retinal tissue, carrying low but real risk. And flap tears — driven by vitreous traction — are the urgent ones, often signaling a potential retinal detachment that can threaten your vision within hours.\n\nWe also walk through how eye doctors diagnose and treat these conditions, from watchful waiting and routine dilated exams to laser photocoagulation and cryotherapy. Real-world examples help illustrate why acting fast on warning signs can be the difference between saving and losing your sight.\n\nWhether you're nearsighted, have a family history of retinal problems, or simply want to be proactive about your eye health, this episode gives you the knowledge to recognize the warning signs and take the right action at the right time.\n\nDon't wait for symptoms to tell you something is wrong. Schedule your dilated eye exam today, and visit Focuslinks.in for more episodes and eye health resources that could protect your vision for years to come.\n\n---",
+      "description": "Have you ever noticed a sudden flash of light at the edge of your vision, or a new floater drifting across your view? These could be early warning signs of a retinal tear — and knowing the difference between types could protect your sight. In this episode of Focus Cast, we break down three common retinal conditions that eye doctors see regularly: lattice degeneration, atrophic holes, and flap tears.\n\nWe start with the basics — what the retina actually does and why the aging vitreous gel puts it at risk. From there, we explore lattice degeneration, a surprisingly common condition affecting up to 10% of the population that creates vulnerable zones in the peripheral retina. We then explain how atrophic holes form slowly within those weakened areas and why they carry a lower but still real risk of retinal detachment. Finally, we dive into flap tears — the most urgent of the three — caused by active vitreous traction and often signaled by sudden, dramatic symptoms that demand same-day medical attention.\n\nWhether you are myopic, approaching your fifties, or simply want to understand your eye health better, this episode gives you clear, practical knowledge about retinal tears, their warning signs, and when to act fast. You will also learn why regular dilated eye exams are your single most powerful tool for catching these conditions before they become emergencies.\n\nDo not wait for symptoms to take your retinal health seriously. Listen now, then visit Focuslinks.in for more episodes and eye health resources that could make a real difference for you and your family.\n\n---",
       "tags": "tears,lattice,hole,laser",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-24.mp3",
-      "duration": "12:29",
+      "duration": "12:39",
       "imageUrl": "",
       "status": "generated",
-      "runId": "3b0316f8-c338-46da-9870-54b08884a3d2",
-      "generatedAt": "2026-08-05T19:43:02.000Z"
+      "runId": "b46df8cb-ec25-4f5a-8155-9a37420a7513",
+      "generatedAt": "2026-08-05T19:43:02.913Z"
     },
     {
       "episodeOrder": 25,

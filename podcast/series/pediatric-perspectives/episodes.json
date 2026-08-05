@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T20:09:56.629Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-05T20:09:57.397Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,16 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Visual Development in Children: Birth to School Age Milestones",
-      "description": "Have you ever wondered what a newborn actually sees when they look at your face? The answer might surprise you — and it matters more than most parents realize. In this episode of Focus Cast by Focuslinks.in, we take you on a fascinating journey through your child's visual development, from the blurry, high-contrast world of a newborn to the sharp, coordinated vision a child needs to thrive in the classroom.\n\nWe break down every major milestone along the way — how babies develop color vision, depth perception, and hand-eye coordination in their first year; how toddlers build the visual discrimination skills that lay the groundwork for reading and writing; and how preschoolers develop spatial awareness that directly shapes their future success in math and science. We also explore why vision is responsible for roughly 80% of early childhood learning, and why problems like amblyopia or convergence insufficiency often go undetected until they quietly begin affecting a child's ability to learn.\n\nWhether you are a parent, grandparent, teacher, or caregiver, this episode gives you the knowledge to recognize what healthy visual development looks like — and when it might be time to seek a professional eye exam. Because catching a vision problem early can make all the difference.\n\nIf you care about the children in your life, this is an episode you will want to share. Visit Focuslinks.in to explore more episodes and resources on vision health and child development.\n\n---",
+      "title": "Visual Development Milestones: Birth to School Age Explained",
+      "description": "Did you know that 80% of what a child learns in their early years comes through their visual system? In this eye-opening episode of Focus Cast, we walk you through the fascinating journey of visual development — from a newborn's first blurry glimpse of a parent's face to the complex visual perceptual skills children need to read, write, and thrive in school.\n\nWe break down every critical stage, including what newborns can actually see in their first month, how color vision and depth perception develop between two and six months, why eye-hand coordination milestones matter during the crawling stage, and how visual skills like visual discrimination and spatial awareness directly shape a child's ability to learn.\n\nWe also cover the childhood vision conditions parents need to know about — including amblyopia (lazy eye) and strabismus — and explain why early detection through comprehensive eye exams can make a life-changing difference. Plus, we share simple, practical tips for creating visually stimulating environments at every stage of your child's growth.\n\nWhether you are a parent, caregiver, teacher, or anyone who loves a child, this episode gives you the knowledge to recognize visual milestones, spot potential concerns early, and support healthy eye development from day one.\n\nListen now and share this episode with every parent and caregiver in your life — because understanding how children's vision develops is one of the most powerful things you can do for their future. Visit Focuslinks.in for more episodes and resources.\n\n---",
       "tags": "development,milestones,acuity,stereopsis",
-      "category": "Neuro-Ophthalmology",
+      "category": "Refraction",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-02.mp3",
-      "duration": "12:30",
+      "duration": "12:49",
       "imageUrl": "",
       "status": "generated",
-      "runId": "497c31e1-0da7-4b6e-a482-f2a7c191f571",
-      "generatedAt": "2026-08-05T20:08:15.544Z"
+      "runId": "0c4e9d30-85dd-489a-a312-3030c6ee30b5",
+      "generatedAt": "2026-08-05T20:09:57.397Z"
     },
     {
       "episodeOrder": 3,
@@ -50,16 +50,14 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Cycloplegic Refraction in Children: Why Eye Drops Matter",
-      "description": "Ever wondered why eye doctors insist on putting drops in a child's eyes before checking their glasses number? The answer could make a bigger difference than you think. In this episode of Focus Cast, we break down cycloplegic refraction in children — what it is, why it's essential, and exactly how it's performed.\n\nChildren's eyes are remarkably powerful accommodators, meaning their eye muscles can mask significant amounts of farsightedness during a standard eye exam. Without cycloplegic drops to temporarily relax that muscle, a child's true prescription can be missed by as much as three to four diopters — a difference that could lead to amblyopia, strabismus, or permanently impaired vision if left untreated during the critical years of visual development.\n\nWe cover everything parents need to know: how cycloplegic agents like cyclopentolate and atropine work, what to expect during and after the appointment, why retinoscopy is the gold standard for young children, and at what age cycloplegic refraction should first be performed. We also explain why school vision screenings and quick chart tests are simply not enough for children with risk factors like a family history of lazy eye, premature birth, or concerns about eye alignment.\n\nWhether you're a parent, caregiver, or educator, this episode gives you the knowledge to advocate for a child's eye health with confidence. Because catching the right prescription early isn't just about clearer vision — it's about giving every child the best possible foundation for learning and development.\n\nListen now, and if this episode helped you, share it with a parent who needs to hear it. Visit Focuslinks.in for more eye health resources and episodes.\n\n---",
+      "title": "Cycloplegic Refraction in Children: Why and How",
+      "description": "Choosing cyclopentolate versus atropine, the timing of the drop, and the refraction technique that follows.",
       "tags": "cycloplegia,cyclopentolate,atropine,refraction",
-      "category": "Refraction",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-04.mp3",
-      "duration": "12:03",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "4e404c20-59f5-48f3-b2d5-dac5bb91fdb0",
-      "generatedAt": "2026-08-05T20:09:56.629Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,

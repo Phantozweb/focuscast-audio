@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T18:26:44.231Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-05T18:30:07.287Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Steroid-Induced Glaucoma: The Pressure Response",
-      "description": "Who responds, how quickly, and the topical steroid ladder that keeps patients safe.",
+      "title": "Steroid-Induced Glaucoma: How Steroids Silently Raise Eye Pressure",
+      "description": "Did you know that a common steroid medication — whether it's eye drops, an inhaler, or even a skin cream — could be quietly raising the pressure inside your eyes without you feeling a thing? In this eye-opening episode of Focus Cast by Focuslinks.in, we dive deep into steroid-induced glaucoma, one of the most underdiagnosed and preventable causes of vision loss today.\n\nWe break down exactly how corticosteroids interfere with the eye's natural drainage system, the trabecular meshwork, triggering a dangerous buildup of intraocular pressure that can silently damage the optic nerve over time. You'll learn why some people are far more vulnerable than others, including those with a family history of glaucoma, high myopia, or diabetes, and why steroid responsiveness is something everyone on long-term steroid therapy needs to understand.\n\nWe also cover which steroids carry the highest risk, how different routes of administration affect your eyes differently, and what the warning signs look like — or more accurately, why there often aren't any until it's too late. Most importantly, we walk you through what you can actually do about it, from monitoring strategies to treatment options and the latest research offering hope for better, safer therapies.\n\nWhether you're managing asthma, autoimmune conditions, allergies, or recovering from eye surgery, this episode could genuinely protect your vision. If you or someone you care about is on any form of steroid medication, this is a conversation you need to hear.\n\nListen now, then visit Focuslinks.in for more expert resources on eye health and vision science. Don't wait for symptoms — schedule that eye pressure check today.",
       "tags": "steroid-induced,topical,response,iop",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-15.mp3",
+      "duration": "10:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954606439",
+      "generatedAt": "2026-08-05T18:30:06.439Z"
     },
     {
       "episodeOrder": 16,

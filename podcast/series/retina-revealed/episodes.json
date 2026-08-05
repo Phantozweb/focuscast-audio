@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T18:07:46.289Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T18:11:19.009Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Panretinal Photocoagulation: What the Optometrist Must Know",
-      "description": "Understanding PRP indications, post-laser appearance, and the visual side effects your patient will describe.",
+      "title": "Panretinal Photocoagulation: What Every Optometrist Must Know",
+      "description": "What happens when a patient with advanced proliferative diabetic retinopathy walks into your clinic? Do you know enough about panretinal photocoagulation to counsel them, set expectations, and monitor them effectively after treatment? In this episode of Focus Cast, we break down everything optometrists need to know about PRP — one of the most important laser procedures in retinal care.\n\nWe cover how panretinal photocoagulation works and why destroying peripheral retinal tissue actually saves vision. You will learn which conditions make PRP necessary, including proliferative diabetic retinopathy, retinal vein occlusions, sickle cell retinopathy, and ocular ischemic syndrome. We walk through what your patient will experience during and after the procedure, including the real side effects that are often underdiscussed — peripheral visual field loss, reduced night vision, and the implications for driving eligibility.\n\nWe also guide you through post-PRP fundus findings, so you can confidently identify laser scars, spot signs of persistent neovascularization, and know exactly when to refer back to the retinal specialist. Plus, we touch on how anti-VEGF therapy is changing the treatment landscape and what that means for your clinical conversations.\n\nWhether you are preparing a patient for their first referral or reviewing someone who had PRP years ago, this episode gives you the clinical confidence to play a central role in their care.\n\nListen now and strengthen your approach to managing retinal disease in practice. Visit Focuslinks.in for more episodes, clinical resources, and everything in eye care.",
       "tags": "prp,laser,pdr,treatment",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-13.mp3",
+      "duration": "10:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953478176",
+      "generatedAt": "2026-08-05T18:11:18.176Z"
     },
     {
       "episodeOrder": 14,

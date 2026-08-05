@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T19:10:35.174Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T19:13:59.993Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Dilated Fundus Examination: Disc, Macula, Vessels, Periphery",
-      "description": "A four-zone retinal sweep that no pathology escapes — the 90D and 20D together.",
+      "title": "Dilated Fundus Exam: Disc, Macula, Vessels & Periphery",
+      "description": "What is your eye doctor actually seeing when they peer into your dilated eye? More than you might think. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into the dilated fundus examination, one of the most powerful diagnostic tools in clinical medicine, and break down the four essential areas every examiner must evaluate: the optic disc, the macula, the retinal vessels, and the peripheral retina.\n\nWe explore how the cup-to-disc ratio can reveal glaucoma before a single symptom appears, why changes at the macula are the leading cause of vision loss in adults over 60, and how the retinal blood vessels serve as a real-time window into systemic conditions like hypertension and diabetes. We also cover the often-overlooked peripheral retina, where retinal tears and detachments silently develop and where early detection can mean the difference between saving and losing sight.\n\nWhether you are an optometry or ophthalmology student building your clinical skills, a practicing clinician refreshing your fundus examination technique, or simply someone curious about what happens during a dilated eye exam, this episode gives you a clear, structured, and clinically grounded understanding of the entire examination from disc to periphery.\n\nBy the end, you will know exactly what is being looked for, why each landmark matters, and why skipping a dilated eye exam is never worth the risk.\n\nListen now, and if this episode added value to your learning, share it with a classmate or colleague. Visit Focuslinks.in for more episodes and clinical resources designed to sharpen your vision, inside and outside the exam room.\n\n---",
       "tags": "fundus,dilation,disc,macula",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-26.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e659eaeb-64cd-48ec-981e-4284400df18b",
+      "generatedAt": "2026-08-05T19:13:59.415Z"
     },
     {
       "episodeOrder": 27,

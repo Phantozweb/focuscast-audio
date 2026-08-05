@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-05T18:00:56.906Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-05T18:07:46.289Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Diabetic Macular Edema: CSME Criteria and Anti-VEGF Thresholds",
-      "description": "Recognizing clinically significant macular edema and the OCT features that trigger treatment.",
+      "title": "Diabetic Macular Edema: CSME Criteria & Anti-VEGF Thresholds",
+      "description": "What separates a watched lesion from a treated one? In this episode of Focus Cast, we break down one of the most critical clinical decision points in ophthalmology — knowing exactly when and why to initiate anti-VEGF therapy for diabetic macular edema (DME).\n\nWe start with the foundational CSME criteria established by the landmark ETDRS trial, walking through all three defining parameters and explaining why proximity to the foveal center is the key anatomical concern. From there, we move into the modern era of OCT-guided assessment, exploring how central subfield thickness, intraretinal fluid, and DRIL findings have reshaped how clinicians evaluate and stage DME in everyday practice.\n\nYou will learn how current AAO guidelines define the threshold for anti-VEGF initiation, why center-involving DME with associated vision impairment is the critical trigger, and what Protocol T revealed about choosing between ranibizumab, bevacizumab, and aflibercept based on baseline visual acuity. We also cover the emerging role of faricimab, the importance of systemic optimization in non-center-involving disease, and the often-overlooked challenge of treatment burden and patient counseling.\n\nWhether you are a resident building your retina knowledge base or a clinician looking to sharpen your DME management framework, this episode gives you the clinical clarity to make confident, evidence-based decisions at the slit lamp and beyond.\n\nNew episodes drop regularly at focuslinks.in — subscribe, share with a colleague, and leave us a review to help more eye care professionals find Focus Cast.",
       "tags": "dme,csme,anti-vegf,oct",
       "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-12.mp3",
+      "duration": "10:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953265686",
+      "generatedAt": "2026-08-05T18:07:45.686Z"
     },
     {
       "episodeOrder": 13,

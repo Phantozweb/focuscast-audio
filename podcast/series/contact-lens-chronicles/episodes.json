@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T20:08:46.533Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-05T20:09:11.855Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Daily Disposable Lenses: The Safest Modality",
-      "description": "The compliance advantage, the cost-versus-risk conversation, and the patient profile that fits.",
+      "title": "Daily Disposable Lenses: The Safest Contact Lens Modality",
+      "description": "Are your contact lenses putting your eyes at risk? In this eye-opening episode of Focus Cast, we break down why daily disposable contact lenses are consistently ranked as the safest contact lens modality by eye care professionals worldwide — and why millions of reusable lens wearers may be unknowingly gambling with their vision every single day.\n\nWe explore the science behind what actually happens to a contact lens the longer you wear it — from protein and lipid deposit buildup to lens case contamination — and why even the most diligent cleaning routines fall short. You will learn about microbial keratitis, a serious and potentially sight-threatening corneal infection, and discover how switching to daily disposables can reduce your risk by three to four times compared to monthly or two-weekly lenses.\n\nWe also cover why daily disposable lenses deliver superior end-of-day comfort, how advanced moisture-retaining materials keep lenses feeling fresh from morning to night, and why they are the ideal choice for occasional wearers, new wearers, and teenagers just getting started with contact lenses. We even tackle the cost question head-on, so you can make a truly informed decision.\n\nWhether you are exploring contact lenses for the first time or considering switching from reusable lenses, this episode gives you everything you need to have a smarter conversation with your eye care professional.\n\nVisit Focuslinks.in for more expert guidance on contact lenses and eye care. If this episode helped you, share it with a fellow lens wearer — because better eye health starts with better information.\n\n---",
       "tags": "daily-disposable,safety,compliance,modality",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-26.mp3",
+      "duration": "12:52",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1c33900b-1352-4062-be79-8fba7651aa32",
+      "generatedAt": "2026-08-05T20:09:11.855Z"
     },
     {
       "episodeOrder": 27,

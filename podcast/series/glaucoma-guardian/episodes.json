@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T19:51:32.610Z",
+  "lastUpdated": "2026-08-05T19:52:00.291Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,16 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Glaucoma Adherence: Why Staying on Track Is So Hard",
-      "description": "Glaucoma is known as the silent thief of sight — and for good reason. It steals your vision slowly, without pain or warning, making it one of the most dangerous eye conditions in the world. But here's what most people don't talk about: for millions of patients, the hardest part isn't getting diagnosed or finding the right treatment. It's staying consistent with it, every single day, for life.\n\nIn this episode of Focus Cast, we dive deep into the real-world challenges of glaucoma medication adherence. We explore why between 30 and 70 percent of glaucoma patients don't use their eye drops as prescribed — and why that's not a matter of laziness or carelessness, but a deeply human problem rooted in psychology, economics, physical limitations, and the frustrating reality of managing a condition you simply cannot feel.\n\nWe break down the barriers that make glaucoma treatment so difficult to maintain, from the asymptomatic trap and improper drop technique to side effects, medication costs, and the cognitive load of complex daily routines. We also look at what's actually helping — stronger patient-provider relationships, smart medication reminders, innovative sustained-release drug delivery systems, and the quiet but powerful role of caregiver support.\n\nWhether you're living with glaucoma, caring for someone who is, or simply want to understand this condition better, this episode offers honest, empathetic, and practical insight into a battle that plays out in homes around the world every single day.\n\nYour vision is worth protecting. Tune in, and share this episode with someone who needs to hear it. Learn more and explore eye health resources at focuslinks.in.\n\n---",
+      "title": "Glaucoma Adherence: Why Skipping Eye Drops Costs Your Sight",
+      "description": "What if the biggest threat to your vision wasn't glaucoma itself, but the daily battle of staying on top of your treatment? In this eye-opening episode of Focus Cast, we dive deep into glaucoma adherence — the silent struggle that plays out not in the clinic, but at home, every single day.\n\nGlaucoma affects over 80 million people worldwide and remains the leading cause of irreversible blindness. Yet studies show that between 30 and 60 percent of patients don't take their prescribed eye drops as directed. The reasons are more complex than simply forgetting — from the psychological challenge of treating a disease with no visible symptoms, to the physical difficulty of instilling drops correctly, to side effects, cost barriers, and the emotional weight of living with a chronic, silent condition.\n\nIn this episode, we break down exactly why glaucoma adherence is so hard, and more importantly, what actually helps. We explore practical strategies like habit stacking and reminder technology, discuss the role of the patient-provider relationship in driving better outcomes, and look at exciting advances in drug delivery systems that could one day eliminate the need for daily drops altogether.\n\nWhether you're a glaucoma patient, a caregiver, or an eye care professional, this conversation is for you. Because the prescription is only the beginning — what happens after you leave the clinic is where vision is truly won or lost.\n\nListen now and share this episode with someone who needs to hear it. For more resources on eye health, visit Focuslinks.in.\n\n---",
       "tags": "adherence,compliance,counseling,technique",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-30.mp3",
-      "duration": "11:49",
+      "duration": "12:41",
       "imageUrl": "",
       "status": "generated",
-      "runId": "02b08863-5553-46d2-b573-c2ee752a54e9",
-      "generatedAt": "2026-08-05T19:51:32.610Z"
+      "runId": "e0cab773-014e-4e20-bf73-b4d48a8c3db8",
+      "generatedAt": "2026-08-05T19:52:00.291Z"
     }
   ]
 }

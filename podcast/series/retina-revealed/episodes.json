@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T19:30:23.419Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T19:33:01.336Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -360,14 +360,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Choroidal Nevus: When to Worry About the “Freckle”",
-      "description": "Growth, fluid, lipofuscin, and thickness — the features that escalate a nevus toward melanoma suspicion.",
+      "title": "Choroidal Nevus: When to Worry About Your Eye Freckle",
+      "description": "Has your eye doctor ever told you there's a \"freckle\" at the back of your eye and sent you home wondering what that actually means? You're not alone. In this episode of Focus Cast, we break down everything you need to know about choroidal nevus, the pigmented spot found in the eyes of roughly five to ten percent of the population.\n\nWe explain what a choroidal nevus actually is, how it forms in the choroid layer behind your retina, and why most people never even know they have one until a routine dilated eye exam reveals it. More importantly, we walk you through the key warning signs that eye doctors look for when assessing whether a nevus needs closer attention, including the widely used TFSOM framework covering thickness, subretinal fluid, visual symptoms, orange pigment, and proximity to the optic disc.\n\nWe also put the risk of transformation into uveal melanoma into honest perspective, discuss the monitoring tools your doctor uses to track changes over time, and explain what treatment options look like when a nevus does show signs of growth. Spoiler: early detection makes a significant difference in outcomes.\n\nWhether you've recently been told you have a choroidal nevus or you're simply curious about eye health, this episode gives you the clear, calm, and clinically grounded information you need to make sense of what your eye doctor is watching and why.\n\nListen now, and if this episode helped you, share it with someone who deserves to know more about their eye health. Visit Focuslinks dot in for more episodes and resources on ophthalmology and vision care.\n\n---",
       "tags": "nevus,melanoma,suspicion,surveillance",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-28.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d4ea86ed-f602-4021-b294-87f3815d05b1",
+      "generatedAt": "2026-08-05T19:33:01.336Z"
     },
     {
       "episodeOrder": 29,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T20:30:10.216Z",
+  "lastUpdated": "2026-08-05T20:30:28.241Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 237,
+  "generatedEpisodes": 238,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -122,7 +122,7 @@
       "generatedEpisodes": 27,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/episodes.json",
       "audioDir": "podcast/series/neuro-navigator/audio",
-      "lastUpdated": "2026-08-05T20:29:49.949Z"
+      "lastUpdated": "2026-08-05T20:30:20.687Z"
     },
     {
       "slug": "dry-eye-dialogues",
@@ -134,10 +134,10 @@
       "category": "Dry Eye",
       "order": 9,
       "totalEpisodes": 30,
-      "generatedEpisodes": 0,
+      "generatedEpisodes": 1,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/episodes.json",
       "audioDir": "podcast/series/dry-eye-dialogues/audio",
-      "lastUpdated": "2026-07-30T16:56:34.835Z"
+      "lastUpdated": "2026-08-05T20:30:10.208Z"
     },
     {
       "slug": "refractive-rundown",

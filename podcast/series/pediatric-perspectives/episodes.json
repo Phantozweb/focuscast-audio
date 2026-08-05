@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-05T20:08:15.544Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-05T20:09:29.125Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -94,14 +94,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Strabismus Screening: The Cover Test in Children",
-      "description": "Detecting tropias and phorias in a wiggly child and the prism measurement that quantifies the deviation.",
+      "title": "Strabismus in Kids: How the Cover Test Saves Vision",
+      "description": "Could a simple eye test change the course of your child's vision forever? In this episode of Focus Cast, we break down everything parents, teachers, and caregivers need to know about strabismus in children — the condition where the eyes don't point in the same direction — and why catching it early is absolutely critical.\n\nWe explain how the developing visual brain works, why misaligned eyes can silently lead to amblyopia (lazy eye), and how the window for effective treatment begins closing as early as age seven or eight. Most importantly, we walk you through the cover test, a straightforward clinical screening tool that requires no high-tech equipment yet can detect even subtle eye misalignments in children as young as infants.\n\nYou'll learn the difference between a tropia and a phoria, how the cover-uncover test and alternating cover test each reveal different types of misalignment, and what a normal versus abnormal result actually looks like. We also share a real-world scenario showing how a routine screening at age four can completely change a child's visual outcome — and what happens when that screening never takes place.\n\nWhether you're a parent wondering if your child's drifting eye is something to worry about, or a healthcare professional looking to reinforce the importance of pediatric vision screening, this episode gives you clear, actionable information grounded in clinical practice.\n\nDon't wait for obvious symptoms. Early detection through strabismus screening is one of the most powerful gifts you can give a child's long-term eye health. Listen now, then share this episode with every parent and caregiver you know. For more eye health resources, visit Focuslinks dot in.\n\n---",
       "tags": "strabismus,cover-test,prism,deviation",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Pediatric",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-08.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "52b3b4a5-c36c-47a7-a64e-2c9fda866107",
+      "generatedAt": "2026-08-05T20:09:29.125Z"
     },
     {
       "episodeOrder": 9,

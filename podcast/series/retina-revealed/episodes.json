@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-05T18:25:30.596Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-05T18:28:50.698Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Epiretinal Membrane: Crinkled Macula, Distorted Vision",
-      "description": "Reading the OCT hallmark, monitoring metamorphopsia, and the surgical threshold.",
+      "title": "Epiretinal Membrane: Why Your Vision Looks Wavy & Distorted",
+      "description": "Ever noticed straight lines looking wavy or text appearing strangely distorted? You might be experiencing the early signs of an epiretinal membrane — a surprisingly common eye condition that affects millions of people over 50, yet rarely gets talked about until it happens to you.\n\nIn this episode of Focus Cast, we break down exactly what an epiretinal membrane is, why a thin layer of scar-like tissue forms on top of your macula, and how it causes that unsettling crinkled or puckered vision effect. We explore the real reasons this condition develops — from the natural aging of the vitreous gel inside your eye to triggers like diabetic retinopathy, retinal tears, and previous eye surgery.\n\nYou will learn how to recognize the symptoms, how the Amsler grid can help you monitor your own vision at home, and how a painless imaging test called OCT gives doctors a crystal-clear look at what is happening inside your eye. We also walk you through the main treatment option — vitrectomy with membrane peeling — explaining what the surgery involves, what kind of vision improvement you can realistically expect, and what recovery looks like.\n\nWhether you have recently been diagnosed, noticed changes in your central vision, or simply want to stay informed about your eye health as you age, this episode gives you the knowledge you need to take action with confidence.\n\nDo not ignore wavy or distorted vision — early detection truly makes a difference. Listen now, and visit Focuslinks.in for more expert eye health content.",
       "tags": "erm,membrane,metamorphopsia,vitrectomy",
       "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-18.mp3",
+      "duration": "9:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954530113",
+      "generatedAt": "2026-08-05T18:28:50.113Z"
     },
     {
       "episodeOrder": 19,

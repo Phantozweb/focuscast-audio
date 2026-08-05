@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T19:43:20.504Z",
+  "lastUpdated": "2026-08-05T19:43:26.898Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 123,
   "series": [
@@ -32,7 +32,7 @@
       "generatedEpisodes": 30,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/episodes.json",
       "audioDir": "podcast/series/retina-revealed/audio",
-      "lastUpdated": "2026-08-05T19:43:04.191Z"
+      "lastUpdated": "2026-08-05T19:43:12.944Z"
     },
     {
       "slug": "cornea-confidential",
@@ -47,7 +47,7 @@
       "generatedEpisodes": 27,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/episodes.json",
       "audioDir": "podcast/series/cornea-confidential/audio",
-      "lastUpdated": "2026-08-05T19:42:25.974Z"
+      "lastUpdated": "2026-08-05T19:43:14.352Z"
     },
     {
       "slug": "glaucoma-guardian",

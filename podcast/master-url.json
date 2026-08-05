@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T20:20:36.774Z",
+  "lastUpdated": "2026-08-05T20:20:53.329Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 212,
+  "generatedEpisodes": 214,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -104,10 +104,10 @@
       "category": "Pediatric",
       "order": 7,
       "totalEpisodes": 30,
-      "generatedEpisodes": 28,
+      "generatedEpisodes": 29,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/episodes.json",
       "audioDir": "podcast/series/pediatric-perspectives/audio",
-      "lastUpdated": "2026-08-05T20:20:23.090Z"
+      "lastUpdated": "2026-08-05T20:20:40.151Z"
     },
     {
       "slug": "neuro-navigator",
@@ -119,10 +119,10 @@
       "category": "Neuro-Ophthalmology",
       "order": 8,
       "totalEpisodes": 30,
-      "generatedEpisodes": 4,
+      "generatedEpisodes": 5,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/episodes.json",
       "audioDir": "podcast/series/neuro-navigator/audio",
-      "lastUpdated": "2026-08-05T20:20:20.556Z"
+      "lastUpdated": "2026-08-05T20:20:36.052Z"
     },
     {
       "slug": "dry-eye-dialogues",

@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-05T19:57:50.234Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-05T19:58:03.618Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,14 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "The Limits of Vision: Resolution, Threshold, and Perception",
-      "description": "From the quantum limit to cortical completion — what the eye can and cannot see.",
+      "title": "How Your Eyes Really Work: Vision, Limits & Perception",
+      "description": "Have you ever squinted at a menu across the room and wondered why your eyes just couldn't quite make it out? There's a fascinating science behind that frustrating moment — and it reveals just how extraordinary, and how limited, human vision truly is.\n\nIn this episode of Focus Cast, we break down the three core boundaries of human sight: **visual resolution**, **threshold**, and **perception**. You'll discover why your fovea — a tiny patch of retina just one and a half millimeters wide — is responsible for nearly all the sharp detail you see, and why your peripheral vision is far blurrier than you think. We explore the science of visual threshold, including the jaw-dropping fact that a dark-adapted human eye can detect a single candle flame from thirty miles away. And we dive deep into how your brain doesn't just receive vision — it actively constructs it, filling in blind spots, correcting colors, and making confident assumptions that can sometimes get things completely wrong.\n\nFrom optical illusions and foggy driving conditions to medical misdiagnosis and unreliable eyewitness testimony, the way your brain builds your visual world has real, everyday consequences. Understanding these limits isn't just intellectually fascinating — it's genuinely useful for how you design, communicate, and make decisions.\n\nWhether you're curious about neuroscience, human biology, or simply want to understand yourself better, this episode will change the way you think about seeing.\n\nListen now and start seeing the world a little more clearly. For more episodes exploring vision, focus, and the science of perception, visit us at **focuslinks.in**.\n\n---",
       "tags": "limits,resolution,threshold,perception",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-30.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f7432512-faa3-4073-86ea-77d3723fa6f5",
+      "generatedAt": "2026-08-05T19:58:03.618Z"
     }
   ]
 }

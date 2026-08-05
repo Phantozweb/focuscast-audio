@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T20:00:32.326Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-05T20:00:54.250Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -215,14 +215,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Post-Graft CL Fitting: The Irregular Challenge",
-      "description": "Fitting the PKP cornea with piggyback, hybrid, or scleral lenses and managing the graft interface.",
+      "title": "Post-Graft Contact Lens Fitting: Mastering the Irregular Cornea",
+      "description": "What do you do when a corneal transplant leaves your patient with clear vision but a wildly irregular surface that spectacles simply can't correct? In this episode of Focus Cast, we tackle one of the most complex and rewarding challenges in contact lens practice — fitting lenses on post-keratoplasty eyes.\n\nWhether your patient has had a penetrating keratoplasty, DALK, or DSAEK, the optical journey doesn't end in the operating theatre. High astigmatism, irregular graft-host junctions, and unpredictable topography maps mean every post-graft eye is a unique puzzle — and this episode walks you through exactly how to solve it.\n\nWe cover the full spectrum of fitting strategies, from standard RGPs and large-diameter corneo-scleral lenses to scleral lenses and hybrids, breaking down when to use each, what to watch for in fluorescein assessment, and how to manage common challenges like lens tilt, fogging, and poor centration. We also explore the often-overlooked patient experience side of post-graft fitting — because these patients have been through a lot, and how you guide them through the process matters just as much as the lens you choose.\n\nIf you've ever hesitated before fitting a post-graft patient, this episode will give you the clinical clarity and confidence to move forward. Real-world examples, practical tips, and a patient-centred approach make this a must-listen for any optometrist or contact lens practitioner looking to elevate their specialty lens skills.\n\nListen now and transform the way you approach post-graft contact lens fitting. Visit Focuslinks.in for more episodes and clinical resources to keep your practice at its sharpest.\n\n---",
       "tags": "post-graft,pkp,piggyback,irregular",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-17.mp3",
+      "duration": "12:08",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8cbfd6b5-2b3d-4b62-b68e-01eff7af1562",
+      "generatedAt": "2026-08-05T20:00:54.250Z"
     },
     {
       "episodeOrder": 18,

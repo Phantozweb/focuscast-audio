@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-05T17:32:09.542Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-05T17:35:27.376Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Central Corneal Thickness: The Pachymetry Correction",
-      "description": "How CCT changes the interpretation of IOP and the OHTS threshold that guides treatment.",
+      "title": "Pachymetry Correction: Why Corneal Thickness Changes Everything",
+      "description": "Is your eye pressure reading actually accurate? It might not be — and the answer lies in a thin, transparent structure just half a millimeter thick. In this episode of Focus Cast by Focuslinks.in, we dive deep into central corneal thickness and the pachymetry correction, exploring one of the most clinically significant yet often overlooked variables in glaucoma diagnosis and management.\n\nWe break down how Goldmann applanation tonometry works, why its built-in assumptions about average corneal thickness can lead to dangerously misleading pressure readings, and what that means for real patients. You will learn how a cornea that is just 50 micrometers thicker or thinner than average can shift your intraocular pressure reading by 2.5 mmHg — enough to miss a glaucoma diagnosis entirely or trigger years of unnecessary monitoring.\n\nWe also cover the landmark Ocular Hypertension Treatment Study findings, the major pachymetry correction formulas including Ehlers and Doughty-Zaman, and why there is still no universal agreement on which formula to use. Plus, we explore how newer technologies like dynamic contour tonometry, ocular response analyzers, and corneal hysteresis measurements are reshaping how clinicians think about eye pressure beyond simple numbers.\n\nWhether you are a patient wondering if your glaucoma risk has been properly assessed, a student building your clinical foundation, or a practitioner looking to sharpen your diagnostic thinking, this episode gives you the context to understand why pachymetry is not optional in modern eye care.\n\nListen now and visit Focuslinks.in for more episodes and vision science resources.",
       "tags": "cct,pachymetry,ohts,iop",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-04.mp3",
+      "duration": "9:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951326775",
+      "generatedAt": "2026-08-05T17:35:26.775Z"
     },
     {
       "episodeOrder": 5,

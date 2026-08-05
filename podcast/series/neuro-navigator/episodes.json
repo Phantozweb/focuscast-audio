@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-05T20:20:20.556Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-05T20:20:36.052Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Anisocoria in the Dark: The Sympathetic Problem",
-      "description": "When the smaller pupil is the abnormal one — Horner syndrome and the cocaine and apraclonidine tests.",
+      "title": "Anisocoria in the Dark: What Unequal Pupils Reveal",
+      "description": "Have you ever noticed that someone's pupils look different sizes — and wondered if it means something serious? In this episode of Focus Cast, we unpack the fascinating and clinically important world of anisocoria, specifically the kind that becomes more noticeable in dim light. This single observation — whether unequal pupils are worse in the dark or in the light — is one of the most powerful diagnostic clues in all of neurology and ophthalmology.\n\nWe explore how the sympathetic nervous system controls pupil dilation, what happens when that pathway breaks down, and why the resulting condition — Horner syndrome — can be a window into problems occurring anywhere from the brain and spinal cord to the lungs, neck, and carotid artery. You will learn about the classic triad of Horner syndrome, the three-segment sympathetic pathway, and why causes like carotid artery dissection and Pancoast tumors make this finding a potential medical emergency.\n\nWe also walk through how clinicians use pharmacological eye drop tests like apraclonidine to confirm the diagnosis, how old photographs can help identify congenital cases, and what symptoms should prompt you to seek immediate medical attention. A real-world case study shows exactly how a subtle eye finding led to a life-saving diagnosis in an emergency setting.\n\nWhether you are a curious listener, a student, or a healthcare professional, this episode gives you a genuinely useful piece of medical knowledge that could one day make a real difference. Listen now, and visit Focuslinks.in to explore more episodes from Focus Cast covering eye health, neuroscience, and the science of how we see the world.\n\n---",
       "tags": "anisocoria,dark,horner,aprclonidine",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-04.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4b641128-15f1-45c2-80e8-c3ff5a705c28",
+      "generatedAt": "2026-08-05T20:20:36.052Z"
     },
     {
       "episodeOrder": 5,

@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T20:23:14.920Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-05T20:23:16.894Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -92,15 +92,15 @@
     {
       "episodeOrder": 7,
       "title": "Third Nerve Palsy: The Pupil-Sparing Rule Explained",
-      "description": "When a patient walks in with a drooping eyelid and a deviated eye, one tiny detail can mean the difference between a conservative follow-up and an emergency neurosurgical call — the pupil. In this episode of Focus Cast, we take a deep dive into third nerve palsy and the famous pupil-sparing rule, breaking down the clinical logic, the underlying anatomy, and the high-stakes decisions that follow.\n\nWe start with the fundamentals of the oculomotor nerve and why its unique fiber arrangement makes the pupil such a powerful diagnostic clue. You will learn why ischemic causes like diabetes and hypertension tend to spare the pupil, while compressive lesions like a posterior communicating artery aneurysm tend to involve it — and why getting that distinction wrong can cost a patient their life.\n\nBut this episode goes beyond the textbook rule. We walk through four critical exceptions that every clinician needs to know: partial palsies that can fool you early, the rare but real aneurysms that present with pupil sparing, the importance of associated neurological signs, and why the headache history is just as important as the pupil exam.\n\nWhether you are a medical student preparing for exams, a resident navigating real clinical decisions, or a practicing physician looking to sharpen your diagnostic thinking, this episode gives you a framework you can actually use at the bedside.\n\nListen now and share this episode with a colleague who needs to hear it. Visit Focuslinks.in for more episodes and resources from Focus Cast.\n\n---",
+      "description": "Could a drooping eyelid and a dilated pupil be signs of a life-threatening brain aneurysm? In this episode of Focus Cast by Focuslinks.in, we break down one of the most clinically important rules in ophthalmology and neurology — the pupil-sparing rule in third nerve palsy — and explore exactly when you cannot afford to rely on it.\n\nWe start with the anatomy of the oculomotor nerve and why the location of parasympathetic fibers on its surface makes the pupil such a powerful diagnostic clue. From there, we walk through the classic distinction between compressive third nerve palsy, most commonly caused by a posterior communicating artery aneurysm, and ischemic third nerve palsy linked to microvascular disease in conditions like diabetes and hypertension.\n\nBut the real value of this episode lies in the exceptions. We cover incomplete palsies that can mask early aneurysmal involvement, why pain alongside a third nerve palsy should always raise your suspicion, how aberrant regeneration signals a structural cause even when ischemia seemed likely, and why diabetic patients with pupil involvement still need urgent imaging.\n\nWe also walk through the recommended workup, including CT angiography, MR angiography, and when conventional catheter angiography becomes necessary, along with how ischemic palsies are managed and monitored over time.\n\nWhether you are a medical student, ophthalmology or neurology resident, or an emergency medicine clinician, this episode gives you the clinical framework to approach third nerve palsy with confidence and caution.\n\nListen now and sharpen the diagnostic thinking that could one day save a patient's life. For more episodes like this, visit Focus Cast at Focuslinks.in.\n\n---",
       "tags": "third-nerve,pupil-sparing,aneurysm,aberrant",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-07.mp3",
-      "duration": "12:28",
+      "duration": "12:16",
       "imageUrl": "",
       "status": "generated",
-      "runId": "070bb8f4-5362-4de9-bfbb-d2ac7bc0af34",
-      "generatedAt": "2026-08-05T20:22:09.482Z"
+      "runId": "b818246e-bf59-4a6d-8dc6-ccd1b5c9c2a8",
+      "generatedAt": "2026-08-05T20:23:16.894Z"
     },
     {
       "episodeOrder": 8,
@@ -154,16 +154,14 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Giant Cell Arteritis: Start Steroids Before the Biopsy?",
-      "description": "Can starting steroids before a biopsy cost your patient their diagnosis — or could waiting cost them their sight? In this episode of Focus Cast, we tackle one of the most clinically urgent debates in medicine: whether to treat Giant Cell Arteritis before confirming it with a temporal artery biopsy.\n\nGiant Cell Arteritis, or GCA, is a large vessel vasculitis that predominantly affects adults over fifty and carries a devastating risk of permanent vision loss. The window to act is narrow, and the consequences of hesitation are irreversible. Yet many clinicians still pause, worried that starting high-dose steroids will invalidate the biopsy result.\n\nWe break down exactly why that concern, while understandable, should not delay treatment. You will learn how long histological changes actually persist after steroid initiation, what the recommended steroid dosing looks like for both uncomplicated GCA and cases with visual involvement, and why a negative biopsy does not close the diagnostic case. We also cover the role of skip lesions, the importance of biopsy length, and how emerging tools like temporal artery ultrasound and PET CT are reshaping the diagnostic pathway.\n\nWhether you are a medical student building your clinical reasoning skills, a junior doctor navigating a real-time emergency, or a seasoned clinician looking for a sharp refresher, this episode gives you the framework to act decisively when it matters most.\n\nListen now and share this episode with a colleague who manages patients at risk for GCA. For more evidence-based medical podcast episodes, visit Focuslinks dot in.\n\n---",
+      "title": "Giant Cell Arteritis: The Steroids Before the Biopsy",
+      "description": "The jaw claudication, the scalp tenderness, and the immediate high-dose steroid that prevents bilateral blindness.",
       "tags": "gca,steroids,biopsy,blindness",
-      "category": "Optic Nerve",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-12.mp3",
-      "duration": "12:41",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "00c031e0-19d2-459a-9868-40d3b1a8b736",
-      "generatedAt": "2026-08-05T20:23:14.920Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 13,

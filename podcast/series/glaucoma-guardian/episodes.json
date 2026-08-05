@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:21.895Z",
+  "lastUpdated": "2026-08-05T17:11:07.278Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "glaucoma,definition,neuropathy,iop",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -29,7 +29,7 @@
       "tags": "aqueous,outflow,trabecular,physiology",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -40,7 +40,7 @@
       "tags": "iop,diurnal,fluctuation,tonometry",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,7 +51,7 @@
       "tags": "cct,pachymetry,ohts,iop",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -62,7 +62,7 @@
       "tags": "gonioscopy,angle,open-angle,closure",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -73,7 +73,7 @@
       "tags": "poag,silent,progression,detection",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -84,7 +84,7 @@
       "tags": "ntg,low-tension,vascular,risk",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -95,7 +95,7 @@
       "tags": "oht,ohts,risk-calculator,decision",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -106,7 +106,7 @@
       "tags": "pacg,suspect,iridotomy,anatomy",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -117,7 +117,7 @@
       "tags": "aac,emergency,iridotomy,pressure",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -128,7 +128,7 @@
       "tags": "secondary,pex,pigmentary,nvg",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -139,7 +139,7 @@
       "tags": "pex,pseudoexfoliation,zonules,cataract",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -150,7 +150,7 @@
       "tags": "pigment-dispersion,krukenberg,iris,exercise",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -161,7 +161,7 @@
       "tags": "nvg,nvi,ischemia,anti-vegf",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -172,7 +172,7 @@
       "tags": "steroid-induced,topical,response,iop",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -183,7 +183,7 @@
       "tags": "optic-nerve,cupping,notch,rim",
       "category": "Optic Nerve",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -194,7 +194,7 @@
       "tags": "oct,rnfl,tsnit,gpa",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -205,7 +205,7 @@
       "tags": "visual-field,24-2,10-2,scotoma",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -216,7 +216,7 @@
       "tags": "progression,gpa,trend,escalation",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -227,7 +227,7 @@
       "tags": "pga,prostaglandin,latanoprost,first-line",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -238,7 +238,7 @@
       "tags": "beta-blocker,alpha-2,timolol,brimonidine",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -249,7 +249,7 @@
       "tags": "cai,rho-kinase,dorzolamide,netarsudil",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -260,7 +260,7 @@
       "tags": "combination,adherence,cost,regimen",
       "category": "Pharmacology",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -271,7 +271,7 @@
       "tags": "slt,alt,laser,trabeculoplasty",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -282,7 +282,7 @@
       "tags": "lpi,iridotomy,closure,iridoplasty",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -293,7 +293,7 @@
       "tags": "migs,istent,minimally-invasive,surgery",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -304,7 +304,7 @@
       "tags": "trabeculectomy,tube,bleb,filter",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -315,7 +315,7 @@
       "tags": "target-iop,goal,life-expectancy,reassess",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -326,7 +326,7 @@
       "tags": "pregnancy,medication-safety,trimester,postpartum",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -337,7 +337,7 @@
       "tags": "adherence,compliance,counseling,technique",
       "category": "Glaucoma",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     }

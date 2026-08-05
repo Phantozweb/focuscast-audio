@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:27.388Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-05T19:55:29.794Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -57,14 +57,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Soft Toric Fitting: Rotation, Stability, and the LARS Rule",
-      "description": "Reading rotation, adjusting axis with LARS, and the lens designs that stabilize best.",
+      "title": "Soft Toric Lens Fitting: Rotation, Stability & the LARS Rule",
+      "description": "Struggling with soft toric contact lens fitting? You're not alone. Toric lenses are essential for correcting astigmatism — affecting roughly one-third of contact lens wearers — but getting them to sit correctly on the eye is one of the most nuanced skills in clinical practice. In this episode of Focus Cast, we break it all down in a way that's clear, practical, and immediately applicable.\n\nWe start with why lens orientation matters so much: when a toric lens rotates even slightly, the cylinder axis misaligns with the patient's astigmatism, and vision suffers. From there, we walk through the stabilization methods manufacturers use — including prism ballasting, peri-ballasting, and accelerated stabilization designs — and explain how reference marks on the lens help you assess rotation at the slit lamp.\n\nThen we dive deep into the LARS rule (Left Add, Right Subtract), the essential compensation technique every contact lens fitter needs to master. We work through real clinical examples so the concept truly sticks, and we clarify when LARS is the right tool — and when a rotation problem actually signals a deeper fitting issue.\n\nWe also cover the key factors that influence lens stability: eyelid anatomy, corneal shape, base curve selection, lens diameter, and even the patient's blinking habits. Plus, we share practical tips on when and how to assess rotation for the most accurate results.\n\nWhether you're a student building your clinical foundation or an experienced practitioner looking for a reliable refresher, this episode delivers the detail you need. Listen now, and visit focuslinks.in for more episodes and resources to support your practice.\n\n---",
       "tags": "toric,rotation,lars,stability",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-05.mp3",
+      "duration": "12:45",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b54eb41f-676c-4250-8daf-c6afd21d5bd5",
+      "generatedAt": "2026-08-05T19:55:29.794Z"
     },
     {
       "episodeOrder": 6,

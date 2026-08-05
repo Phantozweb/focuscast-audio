@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-05T18:18:16.036Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-05T18:21:54.400Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Geographic Atrophy: The Slow Burn of Late Dry AMD",
-      "description": "Reading en-face atrophy, counseling on progression, and the new complement-inhibitor treatments.",
+      "title": "Geographic Atrophy: Understanding Late-Stage Dry AMD",
+      "description": "What if you were slowly losing your central vision and barely noticed until it was too late? In this eye-opening episode of Focus Cast, we dive deep into geographic atrophy (GA) — the advanced stage of dry age-related macular degeneration (AMD) that silently steals sight from millions of people over 50 worldwide.\n\nWe break down exactly what geographic atrophy is, how it differs from wet AMD, and why it went untreated for so long. You'll learn what's actually happening inside your eye as RPE cells die and photoreceptors follow, why the brain's ability to compensate can mask serious damage, and who is most at risk based on age, genetics, and lifestyle factors like smoking.\n\nWe also cover the landmark 2023 FDA approvals of Syfovre and Izervay — the first-ever treatments for geographic atrophy — explaining how these complement pathway inhibitors work to slow vision loss and what they mean for patients today. Beyond treatment, we explore what daily life looks like with GA, the power of low vision rehabilitation, and the assistive technologies transforming independence for those affected.\n\nLooking ahead, we discuss the exciting research pipeline — from stem cell therapies and gene therapy to AI-powered early detection — and why the future for GA patients is more hopeful than ever.\n\nWhether you've been diagnosed with AMD, have a family history of the condition, or simply want to protect your vision, this episode gives you the knowledge to take action. Get a comprehensive dilated eye exam, know your risk factors, and stay engaged with your eye care.\n\nVisit Focuslinks.in for more episodes and eye health resources. Because when it comes to your vision, early awareness makes all the difference.",
       "tags": "ga,atrophy,complement,late-amd",
       "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-16.mp3",
+      "duration": "10:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954113951",
+      "generatedAt": "2026-08-05T18:21:53.951Z"
     },
     {
       "episodeOrder": 17,

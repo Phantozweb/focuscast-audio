@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:29:12.845Z",
+  "lastUpdated": "2026-08-05T20:29:18.270Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -336,16 +336,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Functional Visual Loss: Diagnosing the Non-Organic Patient",
-      "description": "What happens when a patient loses vision — but every test comes back completely normal? In this episode of Focus Cast, we explore one of the most misunderstood and clinically challenging presentations in eye care: functional visual loss, also known as non-organic or psychogenic visual loss.\n\nWe break down exactly what functional visual loss is, why it happens, and who is most likely to experience it — from stressed adolescents to adults navigating conversion disorders. You'll learn the key diagnostic tests used to detect inconsistencies between reported and actual visual function, including the fogging test, optokinetic nystagmus, visual evoked potentials, the prism dissociation test, and the mirror test — and understand the clinical reasoning behind each one.\n\nWe also tackle the sensitive topic of malingering, how to distinguish it from genuine functional loss, and why mislabeling patients carries serious ethical consequences. Perhaps most importantly, we discuss how to communicate findings to patients with honesty, empathy, and language that opens doors rather than closing them.\n\nWhether you're an ophthalmologist, optometrist, neurology trainee, or medical student, this episode will sharpen both your diagnostic thinking and your patient communication skills. Because the non-organic patient isn't a difficult patient — they're a complex one. And that complexity is where the most meaningful clinical work happens.\n\nListen now and visit **focuslinks.in** for more episodes, resources, and in-depth content from the world of ophthalmology.\n\n---",
+      "title": "Functional Visual Loss: Understanding the Non-Organic Patient",
+      "description": "What happens when a patient can't see — but every test comes back completely normal? In this eye-opening episode of Focus Cast, we dive deep into functional visual loss, also known as non-organic or psychogenic visual loss, one of the most misunderstood and underappreciated conditions in eye care today.\n\nWe break down exactly what functional visual loss is, why it's not the same as faking or malingering, and who is most likely to be affected. From school-age children dealing with hidden stress to adults navigating trauma, anxiety, or conversion disorders, the reality of this condition is far more nuanced than most people expect.\n\nYou'll learn how clinicians use clever diagnostic techniques — like the fogging test, tubular visual field analysis, and visual evoked potentials — to uncover inconsistencies that point toward a functional rather than structural cause. We also tackle one of the hardest parts of the whole process: how to communicate your findings to a distressed patient without being dismissive or accusatory, and why the language you choose can make all the difference in their recovery.\n\nWhether you're an eye care professional looking to sharpen your clinical approach, a student building your foundational knowledge, or simply someone curious about the powerful connection between the mind and vision, this episode offers practical insights and a fresh perspective on what it truly means to see.\n\nFunctional visual loss is real, it's treatable, and it deserves far more attention than it gets. Tune in and change the way you think about vision.\n\nListen to more episodes and explore eye care resources at focuslinks.in.\n\n---",
       "tags": "functional,non-organic,fogging,tubular",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-26.mp3",
-      "duration": "11:54",
+      "duration": "12:10",
       "imageUrl": "",
       "status": "generated",
-      "runId": "52b8db88-11f8-45c6-9fd5-a33b059cae21",
-      "generatedAt": "2026-08-05T20:28:12.548Z"
+      "runId": "b047e9f1-c4f7-4e52-9a96-bdf1d870e9b4",
+      "generatedAt": "2026-08-05T20:29:18.270Z"
     },
     {
       "episodeOrder": 27,

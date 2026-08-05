@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-05T17:17:24.865Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-05T17:20:43.285Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "The Optic Disc: Cup, Rim, and the ISNT Rule",
-      "description": "Reading neuroretinal rim symmetry and recognizing the earliest glaucomatous and pathological changes.",
+      "title": "The Optic Disc Explained: Cup, Rim & the ISNT Rule",
+      "description": "Ever wondered what your eye doctor is actually looking at when they peer into the back of your eye? In this episode of Focus Cast, we break down one of the most important structures in eye care — the optic disc — and explain exactly what the cup, the rim, and the ISNT rule mean for your vision and long-term eye health.\n\nWe start with the basics: what the optic disc is, why it creates a natural blind spot, and why it serves as a critical window into your neurological health. From there, we dive into the cup-to-disc ratio — a key measurement eye doctors use to monitor optic nerve health — and explain why a growing cup can be an early warning sign of glaucoma, one of the leading causes of irreversible blindness worldwide.\n\nThen we unpack the ISNT rule, a clever clinical guideline that describes the normal thickness pattern of the neuroretinal rim across four regions of the optic disc: Inferior, Superior, Nasal, and Temporal. You'll learn why violations of this rule can signal early glaucomatous damage, often before a patient notices any change in their vision — and why that makes routine eye exams so much more than just a glasses prescription check.\n\nWhether you're a patient curious about what happens during a dilated eye exam, a student studying optometry or ophthalmology, or simply someone who wants to understand their eye health better, this episode gives you a clear, jargon-free foundation.\n\nListen now, and share this episode with someone who hasn't had an eye exam in a while. Visit us at focuslinks.in for more eye health content, articles, and resources.",
       "tags": "optic-disc,isnt,cup,glaucoma",
       "category": "Optic Nerve",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-02.mp3",
+      "duration": "9:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785950442870",
+      "generatedAt": "2026-08-05T17:20:42.870Z"
     },
     {
       "episodeOrder": 3,

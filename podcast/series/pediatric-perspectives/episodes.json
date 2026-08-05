@@ -9,7 +9,7 @@
   "order": 7,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T20:22:00.195Z",
+  "lastUpdated": "2026-08-05T20:22:21.231Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -365,15 +365,15 @@
     {
       "episodeOrder": 28,
       "title": "Stargardt Disease: The Inherited Macular Dystrophy of Youth",
-      "description": "What if you started losing your central vision at age twelve — not from an injury, but from your own DNA? In this episode of Focus Cast, we take a deep dive into Stargardt disease, the most common inherited macular dystrophy affecting children and young adults worldwide.\n\nWe break down exactly what happens inside the eye when the ABCA4 gene mutates, how toxic lipofuscin buildup silently destroys the retinal cells responsible for sharp, detailed central vision, and why this condition so often strikes during the most formative years of a young person's life. You'll learn how Stargardt disease is inherited, why two parents with perfect vision can have a child who develops the condition, and why genetic counseling is so critical for affected families.\n\nWe also cover how ophthalmologists diagnose Stargardt disease using tools like fundus autofluorescence, OCT imaging, and genetic testing, along with the practical steps patients can take today — from UV protection to low vision aids — to protect their quality of life. And we explore the genuinely exciting frontier of gene therapy, stem cell research, and drug-based treatments currently in clinical trials that could change everything for future patients.\n\nWhether you're a patient, a parent, a caregiver, or simply someone curious about vision science, this episode offers a clear, compassionate, and thorough look at a condition that deserves far more attention than it gets.\n\nListen now, and share this episode with anyone who might benefit from understanding Stargardt disease better. For more episodes on eye health and vision science, visit Focuslinks dot in.\n\n---",
+      "description": "What if you started losing your central vision at age fourteen — and no one around you could even tell? In this eye-opening episode of Focus Cast, we take a deep dive into Stargardt disease, the most common inherited macular dystrophy affecting children and young adults. Caused by mutations in the ABCA4 gene, Stargardt disease silently destroys the macula's light-sensitive cells, gradually erasing the sharp central vision we rely on for reading, recognizing faces, and navigating daily life — all while leaving peripheral vision largely intact.\n\nWe break down the science behind how this genetic condition works, why two parents with perfect vision can have a child diagnosed with Stargardt, and what the slow, unpredictable progression of vision loss actually feels like from the inside. We also explore the unique challenge of living with an invisible disability — one that others often fail to recognize or believe — and why awareness matters so much.\n\nBut this episode is not just about loss. We cover the most exciting frontiers in Stargardt disease research, including gene therapy, stem cell therapy, and protective treatment strategies currently in clinical trials. We also highlight the powerful role of low vision rehabilitation and patient communities in helping people with Stargardt lead full, independent, and meaningful lives.\n\nWhether you are a patient, a parent, an eye care professional, or simply someone who wants to understand a condition that affects hundreds of thousands of people worldwide, this episode is for you. Listen now, and share it with someone who needs to hear it. For more episodes and eye health resources, visit Focuslinks dot in.\n\n---",
       "tags": "stargardt,pisciform,flecks,genetics",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-28.mp3",
-      "duration": "12:16",
+      "duration": "12:36",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a1ae2567-81e7-413e-8585-337d9b3bd998",
-      "generatedAt": "2026-08-05T20:21:20.949Z"
+      "runId": "066f71d6-9a04-4667-a29d-f97d19683b4b",
+      "generatedAt": "2026-08-05T20:22:21.231Z"
     },
     {
       "episodeOrder": 29,

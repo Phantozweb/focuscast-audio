@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T19:47:46.353Z",
+  "lastUpdated": "2026-08-05T19:47:55.678Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 130,
   "series": [
@@ -62,7 +62,7 @@
       "generatedEpisodes": 22,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/episodes.json",
       "audioDir": "podcast/series/glaucoma-guardian/audio",
-      "lastUpdated": "2026-08-05T19:47:28.385Z"
+      "lastUpdated": "2026-08-05T19:47:40.985Z"
     },
     {
       "slug": "vision-scientists",

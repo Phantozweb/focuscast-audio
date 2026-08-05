@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-05T17:46:23.979Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-05T17:50:01.085Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "The Swinging Flashlight Test: Catching a Relative Afferent Defect",
-      "description": "Mastering the technique and interpretation of the RAPD — the single most useful bedside neuro-ophthalmic sign.",
+      "title": "Swinging Flashlight Test: Detecting RAPD in Eye Exams",
+      "description": "What looks like a simple flashlight swinging between two eyes is actually one of the most powerful diagnostic tools in ophthalmology — and it costs absolutely nothing. In this episode of Focus Cast, we break down the swinging flashlight test and the condition it is designed to catch: a relative afferent pupillary defect, or RAPD.\n\nWe start with the basics — how your pupils respond to light, what the afferent visual pathway is, and why damage to the optic nerve creates a telltale asymmetry that this test is uniquely built to expose. Then we walk through exactly how the test is performed, what a positive RAPD looks like, and why that paradoxical pupil dilation is such a critical clinical finding.\n\nFrom there, we explore the conditions that cause a RAPD, including optic neuritis and its link to multiple sclerosis, advanced glaucoma, ischemic optic neuropathy, giant cell arteritis, and significant retinal disease. We also cover a valuable clinical pearl: why a dense cataract does not cause a RAPD, and what the absence of a RAPD in a poorly seeing eye actually tells you.\n\nWe round out the episode with a discussion on grading RAPDs using neutral density filters, the technique mistakes that lead to missed findings, and a real-world clinical case involving a young woman whose positive RAPD led to an early multiple sclerosis diagnosis.\n\nWhether you are a student, a clinician, or simply someone curious about how eye care works, this episode will change the way you think about a flashlight. Visit Focuslinks dot in to explore more episodes and eye care resources.\n\n---",
       "tags": "rapd,swinging-flashlight,optic-nerve,afferent",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-12.mp3",
+      "duration": "12:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5912b409-5be1-4bc2-9a15-180f93bbc37e",
+      "generatedAt": "2026-08-05T17:50:00.246Z"
     },
     {
       "episodeOrder": 13,

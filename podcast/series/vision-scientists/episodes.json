@@ -9,7 +9,7 @@
   "order": 5,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-05T19:56:34.494Z",
+  "lastUpdated": "2026-08-05T19:56:47.156Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,16 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Pupil Size and Optical Performance: How Your Eye Sees",
-      "description": "Ever wondered why your vision feels razor-sharp in daylight but blurry and halo-filled at night? The answer lies in one tiny, constantly shifting part of your eye — your pupil. In this episode of Focus Cast by Focuslinks.in, we explore the fascinating science of pupil size and optical performance, and why that small dark circle controls far more than just how much light enters your eye.\n\nWe break down the tug-of-war between diffraction and aberrations — two opposing optical forces that determine the quality of your vision at any given moment. You'll discover why there's a Goldilocks zone for pupil size where your vision peaks, and what happens when your pupil strays too far in either direction.\n\nFrom glasses prescriptions and laser eye surgery to night driving struggles and pinhole glasses, we connect the science directly to real-world experiences you've probably had but never fully understood. We also explore how the same optical trade-offs that govern your pupil apply to camera apertures, telescopes, and smartphone lenses — because the laws of physics don't play favorites.\n\nWhether you're curious about why older eyes behave differently in low light, why some people see worse after LASIK at night, or simply why squinting actually helps you see more clearly, this episode has answers that will change the way you think about your own vision.\n\nTune in, and give that tiny window in the center of your eye the credit it truly deserves. Visit Focuslinks.in for more episodes, articles, and resources on vision and optics.\n\n---",
+      "title": "Pupil Size & Optical Performance: How Your Eyes Really Work",
+      "description": "Ever wondered why you see halos around streetlights at night, or why squinting actually helps you read without glasses? The answer lies in something you rarely think about — your pupil size. In this eye-opening episode of Focus Cast by Focuslinks.in, we break down exactly how pupil size controls your optical performance and shapes every visual experience you have.\n\nWe explore the fascinating tug-of-war between diffraction and optical aberrations — two opposing forces that make very small and very large pupils problematic, and reveal why the sweet spot of three to five millimeters delivers the sharpest, clearest vision. You'll learn how depth of field works in your eye just like a camera lens, why presbyopia feels worse in dim lighting, and how small aperture technology is revolutionizing cataract surgery.\n\nWe also get into the real-world impact of pupil size on contact lens design, LASIK surgery outcomes, and why surgeons measure your pupils in the dark before recommending laser eye correction. And we wrap up with a surprising connection between your emotional state, cognitive load, and how wide your pupils dilate — and what that means for your optical quality in those high-stakes moments.\n\nWhether you wear glasses, contacts, or have perfect vision, understanding how your pupils work gives you a smarter perspective on your eye health and vision care decisions. This episode is packed with practical science explained in plain language — no jargon, just clarity.\n\nListen now and see the world differently. For more expert vision content and resources, visit Focuslinks.in.\n\n---",
       "tags": "pupil,diffraction,aberration,optimal",
-      "category": "Cornea",
+      "category": "Cataract",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-26.mp3",
-      "duration": "12:41",
+      "duration": "12:49",
       "imageUrl": "",
       "status": "generated",
-      "runId": "e15391f3-050e-4915-a93a-c72a8dd45b6b",
-      "generatedAt": "2026-08-05T19:54:24.465Z"
+      "runId": "afc57fa6-5c2e-4987-abed-09eb72ac4364",
+      "generatedAt": "2026-08-05T19:56:47.156Z"
     },
     {
       "episodeOrder": 27,

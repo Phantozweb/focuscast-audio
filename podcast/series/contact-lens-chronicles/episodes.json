@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-05T20:09:40.440Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-05T20:09:42.120Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -339,15 +339,15 @@
     {
       "episodeOrder": 26,
       "title": "Daily Disposable Lenses: The Safest Contact Lens Modality",
-      "description": "Are your contact lenses putting your eyes at risk? In this episode of Focus Cast by Focuslinks.in, we break down why daily disposable contact lenses are widely considered the safest contact lens modality available today — and why eye care professionals around the world are recommending them more than ever.\n\nWe start with the science of deposit buildup — the invisible proteins, lipids, and calcium that accumulate on reusable lenses no matter how well you clean them — and explain exactly why starting fresh every day is a game-changer for eye health. We also tackle a topic most lens wearers overlook: contact lens cases. From biofilm formation to dangerous pathogens like Pseudomonas aeruginosa and Acanthamoeba, your lens case may be the biggest hidden risk in your daily routine. Daily disposable wearers simply do not have that problem.\n\nWe also cover who benefits most from daily disposables — allergy sufferers, children and teenagers, occasional wearers, and people with dry eyes — and address the cost question honestly, including the hidden expenses of monthly lens wear that most people forget to calculate.\n\nWhether you are a first-time lens wearer, a parent considering contact lenses for your child, or someone who has been wearing monthlies for years, this episode gives you the information you need to make a smarter, safer choice for your vision.\n\nYour eyes are irreplaceable. Is your current lens routine giving them the protection they deserve?\n\nListen now and then visit Focuslinks.in to explore more episodes, expert articles, and everything you need to see the world more clearly.\n\n---",
+      "description": "Are your contact lenses putting your eyes at risk? In this eye-opening episode of Focus Cast, we break down why daily disposable contact lenses are consistently ranked as the safest contact lens modality by eye care professionals worldwide — and why millions of reusable lens wearers may be unknowingly gambling with their vision every single day.\n\nWe explore the science behind what actually happens to a contact lens the longer you wear it — from protein and lipid deposit buildup to lens case contamination — and why even the most diligent cleaning routines fall short. You will learn about microbial keratitis, a serious and potentially sight-threatening corneal infection, and discover how switching to daily disposables can reduce your risk by three to four times compared to monthly or two-weekly lenses.\n\nWe also cover why daily disposable lenses deliver superior end-of-day comfort, how advanced moisture-retaining materials keep lenses feeling fresh from morning to night, and why they are the ideal choice for occasional wearers, new wearers, and teenagers just getting started with contact lenses. We even tackle the cost question head-on, so you can make a truly informed decision.\n\nWhether you are exploring contact lenses for the first time or considering switching from reusable lenses, this episode gives you everything you need to have a smarter conversation with your eye care professional.\n\nVisit Focuslinks.in for more expert guidance on contact lenses and eye care. If this episode helped you, share it with a fellow lens wearer — because better eye health starts with better information.\n\n---",
       "tags": "daily-disposable,safety,compliance,modality",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-26.mp3",
-      "duration": "12:34",
+      "duration": "12:52",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a8f13a0c-4f3c-4c4f-8a7c-f71cfc705e50",
-      "generatedAt": "2026-08-05T20:09:40.440Z"
+      "runId": "1c33900b-1352-4062-be79-8fba7651aa32",
+      "generatedAt": "2026-08-05T20:09:11.855Z"
     },
     {
       "episodeOrder": 27,
@@ -390,14 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "The Unhappy CL Patient: A Diagnostic Framework",
-      "description": "A structured approach to discomfort, poor vision, and redness that turns frustration into retention.",
+      "title": "Unhappy Contact Lens Patient? A Diagnostic Framework That Works",
+      "description": "Is your contact lens patient uncomfortable, blurry-visioned, or just \"not feeling right\" — and you can't figure out why? This episode of Focus Cast gives you a clear, step-by-step diagnostic framework to stop guessing and start solving.\n\nContact lens dropout affects up to 20% of wearers within the first three years, with discomfort and dryness leading the way. The good news? Most of these patients can be helped — if you know where to look. In this episode, we break down exactly how to approach the unhappy contact lens wearer systematically, covering the four core layers of comfort complaints: tear film health, lens material, lens fit, and the patient's environment. You'll learn why up to 70% of contact lens discomfort has a dry eye component, how to differentiate constant versus variable vision blur, and why meibomian gland dysfunction is hiding in plain sight in your chair right now.\n\nWe also go beyond the lens itself — exploring how patient compliance, lens care habits, systemic medications, and even anxiety around lens wear can drive dissatisfaction that no lens swap will fix. Plus, a real-world cautionary tale about tap water and Acanthamoeba risk that's worth sharing with every patient you see.\n\nWhether you're a seasoned contact lens practitioner or building your clinical confidence, this episode gives you a practical four-step framework you can apply immediately in practice.\n\nListen now and start turning your most frustrated contact lens patients into your most loyal ones. For more clinical content designed for real-world practice, visit Focuslinks dot in.\n\n---",
       "tags": "unhappy,discomfort,framework,retention",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-30.mp3",
+      "duration": "11:60",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "38c24b2a-1bef-4e6a-912a-ce6f4a7fee65",
+      "generatedAt": "2026-08-05T20:09:42.120Z"
     }
   ]
 }

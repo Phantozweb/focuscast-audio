@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-05T18:01:41.383Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-05T18:05:03.079Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Slit Lamp Illumination: The Six Techniques and When Each Shines",
-      "description": "Diffuse, direct focal, slit, retro, specular, and sclerotic scatter — matching technique to pathology.",
+      "title": "Slit Lamp Illumination Techniques: All 6 Methods Explained",
+      "description": "Ever watched a skilled clinician reveal something invisible in the eye just by adjusting the slit lamp light — and wondered exactly how they did it? In this episode of Focus Cast by Focuslinks.in, we break down the six essential slit lamp illumination techniques every eye care professional needs to master, and more importantly, when to use each one for maximum diagnostic impact.\n\nWe start with direct focal illumination, the foundation of every slit lamp exam, and walk through how a simple beam change can reveal corneal layers, lens opacities, and aqueous cells. From there, we explore indirect illumination for catching subtle infiltrates that hide under direct light, and sclerotic scatter, a stunning technique that turns the cornea into its own fiber optic cable to expose haze and edema across the entire corneal surface.\n\nWe then dive into retroillumination, covering both direct and indirect forms, and explain why it is the gold standard for detecting posterior subcapsular cataracts. Next, we unpack specular reflection and how it lets you visualize the individual endothelial cell mosaic at the slit lamp, a critical skill for identifying early Fuchs dystrophy. Finally, we cover proximal illumination, the gentle, diffuse technique ideal for examining iris surface detail without patient discomfort.\n\nWhether you are an optometry or ophthalmology student building your clinical foundation, or an experienced practitioner looking to sharpen your technique, this episode gives you a clear, practical framework for using light itself as your most powerful diagnostic tool.\n\nListen now and transform the way you see through the slit lamp. Visit Focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "slit-lamp,illumination,anterior-segment,technique",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-16.mp3",
+      "duration": "13:13",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "76c6ef02-86d8-4c1f-94e3-3ce23cb83ca9",
+      "generatedAt": "2026-08-05T18:05:02.654Z"
     },
     {
       "episodeOrder": 17,

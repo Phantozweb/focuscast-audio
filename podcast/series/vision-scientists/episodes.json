@@ -8,19 +8,21 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-05T17:11:10.301Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-05T17:24:43.018Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "The Nature of Light: Waves, Photons, and the Eye",
-      "description": "How electromagnetic radiation becomes vision — wavelength, energy, and the visible spectrum.",
+      "title": "What Is Light? Waves, Photons, and How Your Eyes See",
+      "description": "What exactly is light — a wave, a particle, or something the universe refuses to let us label? In this episode of Focus Cast, we unpack one of the most fascinating and fundamental forces in existence, tracing the centuries-long scientific debate that changed how we understand reality itself.\n\nWe start with Isaac Newton's particle theory, move through Thomas Young's groundbreaking double-slit experiment that proved light behaves like a wave, and then arrive at Albert Einstein's Nobel Prize-winning discovery that light also travels in discrete packets of energy called photons. The surprising truth? Light is both — and neither. This strange phenomenon, known as wave-particle duality, sits at the heart of modern physics and challenges everything our human intuition tells us about the world.\n\nBut we don't stop at the physics. We bring it all the way home — literally — by exploring how light interacts with your eyes. From the cornea and pupil to the retina's 120 million rod cells and 6 million cone cells, you'll discover how a single photon can trigger a quantum-level chemical reaction that your brain transforms into vision. You'll also learn why looking slightly away from a faint star helps you see it better, and why bees see a completely different world than you do.\n\nWhether you're a science enthusiast or just someone who flips a light switch every morning without a second thought, this episode will leave you seeing light — and your own eyes — in a whole new way.\n\nListen now and visit Focuslinks.in to explore more curiosity-driven conversations on Focus Cast.",
       "tags": "light,waves,photons,spectrum",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-01.mp3",
+      "duration": "9:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785950682444",
+      "generatedAt": "2026-08-05T17:24:42.444Z"
     },
     {
       "episodeOrder": 2,

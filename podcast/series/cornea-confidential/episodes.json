@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-05T18:05:10.082Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-05T18:08:31.938Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Fuchs’ Endothelial Dystrophy: Guttae, Edema, and the Transplant Threshold",
-      "description": "Morning blur, confluent guttae, and monitoring corneal thickness until DSAEK or DMEK becomes necessary.",
+      "title": "Fuchs' Dystrophy Explained: Guttae, Edema & When to Get Surgery",
+      "description": "Ever woken up with blurry vision that mysteriously clears up by midday? You might be experiencing one of the earliest signs of Fuchs' Endothelial Dystrophy — a progressive corneal disease that affects millions of people worldwide, yet remains largely unknown until a diagnosis lands in your lap.\n\nIn this episode of Focus Cast, we break down everything you need to know about Fuchs' Endothelial Dystrophy in plain, accessible language. We start with the science — explaining how the corneal endothelium works, why those tiny wart-like deposits called guttae form, and how the gradual loss of endothelial cells leads to corneal edema and vision loss. We then walk through the classic symptom progression, from that telltale morning blurriness all the way to painful epithelial bullae that can seriously disrupt daily life.\n\nWe also cover the full spectrum of management options — from hypertonic saline drops and simple evaporation tricks to the gold-standard surgical procedure known as DMEK (Descemet Membrane Endothelial Keratoplasty) — and explain why this modern technique has transformed outcomes for patients compared to older full-thickness corneal transplants. Plus, we tackle one of the most nuanced questions in corneal care: when exactly is the transplant threshold crossed, and how is that decision made?\n\nWhether you have been recently diagnosed, have a family history of Fuchs', or simply want to understand your eye health better, this episode gives you the knowledge to ask the right questions and take the right steps.\n\nListen now, and visit Focuslinks.in for more eye health episodes and resources.",
       "tags": "fuchs,guttae,edema,dsaek",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-12.mp3",
+      "duration": "9:59",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953311468",
+      "generatedAt": "2026-08-05T18:08:31.468Z"
     },
     {
       "episodeOrder": 13,

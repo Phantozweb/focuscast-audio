@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T19:26:25.846Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-05T19:26:34.725Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -274,13 +274,15 @@
     {
       "episodeOrder": 21,
       "title": "Central Retinal Vein Occlusion: The Blood-and-Thunder Fundus",
-      "description": "CRVO severity, the dreaded neovascular glaucoma risk, and the follow-up schedule that prevents it.",
+      "description": "What does it look like when a storm hits the back of your eye? In this episode of Focus Cast, we dive deep into Central Retinal Vein Occlusion (CRVO), one of the most visually dramatic and clinically significant conditions in ophthalmology. From the iconic blood-and-thunder fundus appearance to the life-changing vision loss it can cause overnight, this episode covers everything you need to know about CRVO in a way that actually sticks.\n\nWe break down the anatomy of why the blockage happens at the lamina cribrosa, explore the critical difference between ischemic and non-ischemic CRVO, and explain why ischemic CRVO can lead to the devastating complication of neovascular glaucoma, historically known as the hundred-day glaucoma. You will also learn how fundus fluorescein angiography and OCT are used to investigate the condition, and how modern anti-VEGF treatments like ranibizumab and aflibercept have completely transformed patient outcomes compared to just a decade ago.\n\nWe also discuss the systemic connections that make CRVO far more than just an eye problem, including hypertension, diabetes, glaucoma, and atherosclerosis, and why CRVO in a young patient should always prompt a search for thrombophilic disorders. Whether you are a medical student preparing for exams, an ophthalmology resident building clinical knowledge, or a curious learner passionate about vision science, this episode delivers clear, practical, and memorable insights.\n\nListen now and never look at a fundus the same way again. Visit focuslinks.in for more episodes and ophthalmology resources.\n\n---",
       "tags": "crvo,nvi,nvg,anti-vegf",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-21.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4ea213fc-eb48-48f9-99ed-50598099726e",
+      "generatedAt": "2026-08-05T19:26:34.725Z"
     },
     {
       "episodeOrder": 22,

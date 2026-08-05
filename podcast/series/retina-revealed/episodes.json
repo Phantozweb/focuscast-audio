@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T18:14:55.662Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-05T18:18:16.036Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Wet AMD: Recognizing the Conversion Before Vision is Lost",
-      "description": "Subretinal fluid, hemorrhage, and PED — the OCT and clinical signs that demand urgent anti-VEGF.",
+      "title": "Wet AMD: Recognize the Conversion Before Vision Is Lost",
+      "description": "Could your dry AMD be silently converting to wet AMD right now? In this eye-opening episode of Focus Cast, we break down everything you need to know about recognizing the critical window between dry and wet age-related macular degeneration — before significant vision loss occurs.\n\nWet AMD is one of the leading causes of severe vision loss in adults over 65, yet many people miss the earliest warning signs until irreversible damage has already been done. The difference between preserving your vision and losing it can come down to just a matter of days. That's not an exaggeration — that's the reality of how fast wet AMD can progress.\n\nIn this episode, we cover the most important early symptoms of wet AMD conversion, including metamorphopsia, distorted or wavy lines, blurry central vision, and central blind spots. We explain why your brain's natural compensation can mask these symptoms when they appear in just one eye, and why testing each eye separately is so important. We also walk you through the Amsler grid, a simple free tool you can use at home every single day to monitor for changes.\n\nWe discuss who is most at risk for conversion, including those with intermediate or advanced dry AMD, large drusen, a family history of AMD, and lifestyle factors like smoking. And we explain why early treatment with anti-VEGF injections can not only stop further damage but in many cases actually restore recently lost vision.\n\nIf you or someone you love has been diagnosed with dry AMD, this episode could genuinely change your outcome. Listen now, then visit Focuslinks.in for more resources on protecting your eye health.",
       "tags": "wet-amd,cnv,anti-vegf,conversion",
       "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-15.mp3",
+      "duration": "10:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953895185",
+      "generatedAt": "2026-08-05T18:18:15.185Z"
     },
     {
       "episodeOrder": 16,

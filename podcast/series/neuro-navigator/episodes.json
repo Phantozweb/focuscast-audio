@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T20:25:30.032Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-05T20:25:47.139Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -232,14 +232,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Cortical Blindness: The Blind Sight Phenomenon",
-      "description": "The bilateral occipital infarct, the denial of blindness, and the residual non-conscious vision.",
+      "title": "Cortical Blindness & Blindsight: Seeing Without Knowing",
+      "description": "What if your brain could see — without you ever knowing it? In this episode of Focus Cast, we dive deep into one of neuroscience's most astonishing phenomena: cortical blindness and the mysterious world of blindsight. Unlike ordinary blindness caused by damaged eyes, cortical blindness occurs when the brain's primary visual cortex is destroyed by stroke, injury, or trauma — leaving a person with perfectly healthy eyes but no conscious vision whatsoever. And yet, something extraordinary happens. These patients flinch at approaching objects, navigate obstacle-filled hallways without a single collision, and accurately point to lights they swear they cannot see. How is that possible?\n\nWe explore the landmark research of psychologist Lawrence Weiskrantz and his famous patient D.B., whose uncanny ability to \"guess\" visual stimuli correctly changed neuroscience forever. We also unpack the incredible case of patient T.N., a completely cortically blind man who walked through a cluttered hallway without touching a single obstacle — and had no idea he had done it. The secret lies in the brain's older, primitive visual pathways — structures like the superior colliculus — that process visual information entirely outside of conscious awareness.\n\nThis episode goes beyond the science to ask bigger questions: What is consciousness, really? How much of your brain's activity happens without your knowledge? And what does blindsight reveal about the hidden machinery running beneath your every thought and perception? Whether you're a neuroscience enthusiast or simply someone who loves mind-expanding ideas, this episode will permanently change how you think about vision, awareness, and the human brain. Listen now and share it with someone who loves a great brain-bending conversation. New episodes every week at Focuslinks dot in.\n\n---",
       "tags": "cortical-blindness,anton,blindsight,occipital",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-18.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b4f8c740-a6b8-4c82-a168-37408319032e",
+      "generatedAt": "2026-08-05T20:25:47.139Z"
     },
     {
       "episodeOrder": 19,

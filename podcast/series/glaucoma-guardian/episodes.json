@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T18:23:11.004Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-05T18:26:44.231Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Neovascular Glaucoma: The Consequence of Ischemia",
-      "description": "NVI on the pupillary margin, the CRVO and diabetes link, and the urgent anti-VEGF and tube pathway.",
+      "title": "Neovascular Glaucoma: When Ischemia Steals Your Sight",
+      "description": "What happens when your eye tries to save itself — and makes everything catastrophically worse? In this eye-opening episode of Focus Cast, we dive deep into neovascular glaucoma (NVG), one of the most aggressive and vision-threatening forms of secondary glaucoma. Unlike typical glaucoma, NVG doesn't arise on its own. It's the consequence of retinal ischemia — a dangerous oxygen shortage that triggers a flood of VEGF, sparking abnormal blood vessel growth that ultimately blocks fluid drainage and destroys the optic nerve.\n\nWe break down the three major causes driving this condition: diabetic retinopathy, central retinal vein occlusion, and ocular ischemic syndrome — and explain why neovascular glaucoma is as much a systemic disease as it is an eye disease. From the silent early warning signs of rubeosis iridis to the acute, painful pressure spikes that can reach 70 mmHg, we walk you through the full clinical picture in plain, accessible language.\n\nYou'll also learn how modern treatments — including panretinal photocoagulation, anti-VEGF injections, and glaucoma drainage surgery — are used to fight back, and why early detection remains the single most powerful tool we have. Whether you're a patient living with diabetes, a caregiver, or a curious healthcare professional, this episode offers critical insights into why routine eye exams can literally save your vision.\n\nDon't wait for symptoms to appear. Listen now, share with someone who needs to hear this, and visit Focuslinks.in for more expert eye care content from Focus Cast.",
       "tags": "nvg,nvi,ischemia,anti-vegf",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-14.mp3",
+      "duration": "10:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954403422",
+      "generatedAt": "2026-08-05T18:26:43.422Z"
     },
     {
       "episodeOrder": 15,

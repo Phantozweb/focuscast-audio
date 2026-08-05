@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:32.626Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-05T20:18:49.722Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -57,14 +57,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Horner Syndrome: The Triad and the Lesion Localization",
-      "description": "Ptosis, miosis, and anhidrosis — central, preganglionic, and postganglionic localization by history and imaging.",
+      "title": "Horner Syndrome Explained: Triad, Anatomy & Lesion Localization",
+      "description": "What can a slightly droopy eyelid and a small pupil tell you about a lung tumor, a carotid dissection, or a brainstem stroke? More than you might think. In this episode of Focus Cast, we break down Horner Syndrome — one of clinical medicine's most elegant diagnostic puzzles — and show you exactly how a subtle facial asymmetry can point you straight to the source of a serious underlying condition.\n\nWe start with the classic triad: ptosis, miosis, and anhidrosis, and explain why each finding occurs by tracing the three-neuron sympathetic pathway from the hypothalamus all the way to the eye. From there, we walk through lesion localization at each level — first-order, second-order, and third-order neurons — and connect each anatomical site to real clinical causes like Wallenberg syndrome, Pancoast tumors, and internal carotid artery dissection.\n\nYou will also learn how pharmacological tests like apraclonidine and hydroxyamphetamine help confirm and localize the syndrome, why anhidrosis patterns differ depending on where the lesion sits, and how congenital Horner Syndrome can present with heterochromia in children.\n\nWhether you are a medical student preparing for exams, a clinician refreshing your neuroanatomy, or simply someone who loves understanding how the human body works, this episode gives you the tools to read what the body is quietly trying to say.\n\nListen now and turn a small clinical observation into a powerful diagnostic skill. Visit Focuslinks.in for more episodes and learning resources from Focus Cast.\n\n---",
       "tags": "horner,ptosis,miosis,anhidrosis",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-05.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8a1a48e7-af6e-472b-879c-a137bdd3d47b",
+      "generatedAt": "2026-08-05T20:18:49.722Z"
     },
     {
       "episodeOrder": 6,

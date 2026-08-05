@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-05T17:51:14.512Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-05T17:54:32.634Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Acanthamoeba Keratitis: The Ring and the Agony",
-      "description": "The ring infiltrate, disproportionate pain, and why early diagnosis is the only chance to save the eye.",
+      "title": "Acanthamoeba Keratitis: The Contact Lens Risk You Never Knew",
+      "description": "Could something living in your tap water be slowly destroying your vision? In this eye-opening episode of Focus Cast, we dive deep into Acanthamoeba Keratitis — a rare but devastating corneal infection that strikes mostly contact lens wearers and is frequently misdiagnosed until serious damage is done.\n\nYou'll learn exactly what Acanthamoeba is, why it thrives in everyday environments like tap water, swimming pools, and hot tubs, and how it infiltrates the cornea to cause one of the most painful eye infections known to medicine. We break down the two life stages of this microscopic organism — including the treatment-resistant cyst form that makes Acanthamoeba Keratitis so notoriously difficult to cure — and explain why standard antibiotic treatments often fail.\n\nWe cover the warning signs you should never ignore, including the hallmark ring infiltrate that forms in the cornea, and walk through why early diagnosis is the single most critical factor in saving your vision. You'll also hear about the diagnostic tools specialists use, the intensive long-term treatment process, and the very real emotional impact this condition has on patients' lives.\n\nMost importantly, this episode gives you clear, actionable steps to protect yourself. Simple changes in your contact lens hygiene routine can dramatically reduce your risk of ever facing this condition.\n\nIf you or someone you know wears contact lenses, this episode could genuinely make a difference. Listen now, share it with a contact lens wearer you care about, and visit Focuslinks.in for more eye health resources and episodes.",
       "tags": "acanthamoeba,ring,contact-lens,pain",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-08.mp3",
+      "duration": "10:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952472212",
+      "generatedAt": "2026-08-05T17:54:32.212Z"
     },
     {
       "episodeOrder": 9,

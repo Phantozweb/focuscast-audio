@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-05T17:47:40.794Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-05T17:51:14.512Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fungal Keratitis: Feathery Edges and Satellite Lesions",
-      "description": "Recognizing fungal morphology, the risk factors of trauma and contact lens wear, and the referral threshold.",
+      "title": "Fungal Keratitis: Feathery Edges, Satellite Lesions Explained",
+      "description": "What does a fungal eye infection actually look like — and why does recognizing it early mean the difference between saving and losing someone's sight? In this episode of Focus Cast by Focuslinks.in, we dive deep into fungal keratitis, one of the most visually distinctive and clinically challenging corneal infections in ophthalmology.\n\nWe start with a farmer, a blade of grass, and a moment that changes everything. From there, we break down exactly why fungal keratitis looks the way it does — those iconic feathery edges caused by branching fungal hyphae growing through corneal lamellae, and the satellite lesions that signal a spreading, uncontained infection. These are not just fascinating clinical signs. They are the fungus telling you precisely what it is.\n\nWe cover the most common causative organisms like Fusarium and Aspergillus, the role of vegetative trauma in triggering infection, and why tropical countries like India bear a disproportionate burden of this disease. You will also learn how to approach diagnosis through KOH microscopy and culture, why Natamycin remains the frontline treatment for filamentous fungi, and why corticosteroid eye drops in an undiagnosed red eye can turn a small ulcer into a catastrophic infection.\n\nWhether you are an ophthalmology student, an optometrist, a cornea specialist, or simply someone passionate about eye health, this episode gives you the clinical clarity and real-world context you need to understand fungal keratitis from the ground up.\n\nListen now, and share this episode with a colleague or student who needs to know this. Visit Focuslinks.in for more episodes and eye care resources.",
       "tags": "fungal,satellite,feathery,keratitis",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-07.mp3",
+      "duration": "10:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952273911",
+      "generatedAt": "2026-08-05T17:51:13.911Z"
     },
     {
       "episodeOrder": 8,

@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-05T19:59:59.551Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-05T20:00:05.824Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -200,14 +200,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Specialty Lenses for Keratoconus: The Fitting Ladder",
-      "description": "From soft toric to RGP to scleral — escalating the lens design as the cone progresses.",
+      "title": "Keratoconus Specialty Lenses: The Complete Fitting Ladder",
+      "description": "If you or your patient has keratoconus, choosing the right contact lens can feel overwhelming — but it does not have to be. In this episode of Focus Cast, we break down the keratoconus fitting ladder, a step-by-step framework that guides eye care professionals and patients through every lens option available, from the simplest to the most advanced.\n\nWe start with the basics of keratoconus — what it is, why glasses eventually fall short, and why specialty contact lenses become essential as the condition progresses. Then we climb the fitting ladder rung by rung, covering soft toric lenses for early-stage cases, custom keratoconus soft lenses, rigid gas permeable lenses and the art of fitting them on an irregular cornea, hybrid lenses that combine RGP optics with soft lens comfort, and scleral lenses — the game-changing option for moderate to advanced keratoconus. We also explore piggyback systems, topography-guided custom designs, and the role of corneal cross-linking in long-term management.\n\nWhether you are an optometry student learning specialty lens fitting, a clinician looking to sharpen your keratoconus management approach, or a patient trying to understand your own options, this episode gives you a clear, practical, and thorough guide to navigating the world of keratoconus contact lenses.\n\nThe right lens exists for every cornea — you just need to know where to look on the ladder.\n\nListen now and visit Focuslinks.in for more episodes, resources, and expert insights in eye care and vision science.\n\n---",
       "tags": "keratoconus,specialty,fitting-ladder,rgp",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-16.mp3",
+      "duration": "13:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "80d08106-1118-40e0-9c0f-600686508f41",
+      "generatedAt": "2026-08-05T20:00:05.824Z"
     },
     {
       "episodeOrder": 17,

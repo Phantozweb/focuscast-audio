@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T20:12:25.375Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T20:12:58.200Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Congenital Cataract: The Red Reflex Emergency",
-      "description": "The leukocoria that demands urgent referral, the surgery timing window, and the amblyopia that follows.",
+      "title": "Congenital Cataract & the Red Reflex: A Vision Emergency",
+      "description": "What if a single smartphone photo could save your child's vision forever? In this eye-opening episode of Focus Cast, we dive deep into congenital cataract — a condition present at birth that is one of the leading causes of preventable childhood blindness worldwide — and why the red reflex is one of the most critical clinical signs in pediatric medicine.\n\nWe break down exactly what the red reflex is, why its absence or distortion signals a potential emergency, and why acting within weeks — not months — can mean the difference between a lifetime of functional vision and permanent visual impairment. You will learn about the brain's critical period of visual development, how amblyopia develops when a cloudy lens goes undetected, and why even a thirty-second eye check at every well-child visit can change a child's future.\n\nWe also cover the causes of congenital cataract, from hereditary factors and metabolic conditions like galactosemia to rubella infection during pregnancy, and walk through the full treatment journey — from infant cataract surgery and contact lens correction to the challenging but essential practice of eye patching. Plus, we explore how modern smartphone photography is becoming a surprisingly powerful tool for early detection.\n\nWhether you are a new parent, a pediatric healthcare provider, or simply someone who cares about child health, this episode gives you the knowledge to recognize the warning signs and take action early.\n\nVisit Focuslinks.in for more episodes and eye health resources. Because when it comes to a child's vision, every day counts.\n\n---",
       "tags": "congenital-cataract,leukocoria,surgery,amblyopia",
       "category": "Cataract",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-11.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "31f8551d-f673-4394-873e-ab2c5256b6a7",
+      "generatedAt": "2026-08-05T20:12:58.200Z"
     },
     {
       "episodeOrder": 12,

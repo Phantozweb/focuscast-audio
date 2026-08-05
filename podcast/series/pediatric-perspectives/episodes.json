@@ -9,7 +9,7 @@
   "order": 7,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T20:09:56.942Z",
+  "lastUpdated": "2026-08-05T20:09:56.629Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -50,14 +50,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Cycloplegic Refraction in Children: Why and How",
-      "description": "Choosing cyclopentolate versus atropine, the timing of the drop, and the refraction technique that follows.",
+      "title": "Cycloplegic Refraction in Children: Why Eye Drops Matter",
+      "description": "Ever wondered why eye doctors insist on putting drops in a child's eyes before checking their glasses number? The answer could make a bigger difference than you think. In this episode of Focus Cast, we break down cycloplegic refraction in children — what it is, why it's essential, and exactly how it's performed.\n\nChildren's eyes are remarkably powerful accommodators, meaning their eye muscles can mask significant amounts of farsightedness during a standard eye exam. Without cycloplegic drops to temporarily relax that muscle, a child's true prescription can be missed by as much as three to four diopters — a difference that could lead to amblyopia, strabismus, or permanently impaired vision if left untreated during the critical years of visual development.\n\nWe cover everything parents need to know: how cycloplegic agents like cyclopentolate and atropine work, what to expect during and after the appointment, why retinoscopy is the gold standard for young children, and at what age cycloplegic refraction should first be performed. We also explain why school vision screenings and quick chart tests are simply not enough for children with risk factors like a family history of lazy eye, premature birth, or concerns about eye alignment.\n\nWhether you're a parent, caregiver, or educator, this episode gives you the knowledge to advocate for a child's eye health with confidence. Because catching the right prescription early isn't just about clearer vision — it's about giving every child the best possible foundation for learning and development.\n\nListen now, and if this episode helped you, share it with a parent who needs to hear it. Visit Focuslinks.in for more eye health resources and episodes.\n\n---",
       "tags": "cycloplegia,cyclopentolate,atropine,refraction",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Refraction",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-04.mp3",
+      "duration": "12:03",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4e404c20-59f5-48f3-b2d5-dac5bb91fdb0",
+      "generatedAt": "2026-08-05T20:09:56.629Z"
     },
     {
       "episodeOrder": 5,
@@ -109,16 +111,14 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Esotropia Explained: Congenital, Accommodative & Acquired",
-      "description": "Have you ever noticed a child's eyes crossing in a family photo and wondered if it was something to worry about? In this episode of Focus Cast by Focuslinks.in, we break down esotropia, the most common form of strabismus, in a way that is clear, practical, and genuinely eye-opening.\n\nEsotropia is not just a cosmetic concern. It is a condition where one or both eyes turn inward, disrupting the brain's ability to process vision correctly and potentially leading to permanent vision loss if left untreated. We explore all three major types: congenital esotropia, which appears in infants within the first six months of life and typically requires surgical correction; accommodative esotropia, which is closely linked to farsightedness and often responds remarkably well to prescription glasses; and acquired esotropia, which can develop later in life and may signal an underlying neurological condition that demands prompt medical attention.\n\nAlong the way, we explain how the eyes work as a team to create depth perception, why the brain suppresses vision from a misaligned eye, and what amblyopia, or lazy eye, has to do with all of this. We also cover the warning signs parents should never ignore, when to see a pediatric ophthalmologist, and why early intervention makes all the difference in a child's visual development and quality of life.\n\nWhether you are a parent, a caregiver, a healthcare student, or simply someone curious about how vision works, this episode gives you the knowledge to recognize esotropia early and take action confidently.\n\nListen now and share this episode with anyone who spends time around young children. For more eye health resources, visit Focuslinks.in.\n\n---",
+      "title": "Esotropia: Congenital, Accommodative, and Acquired",
+      "description": "The infantile ET versus the high-plus accommodative ET and the very different management of each.",
       "tags": "esotropia,accommodative,infantile,acquired",
-      "category": "Cataract",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-09.mp3",
-      "duration": "12:39",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "045f8735-c2be-4fb8-b814-7b56e1432626",
-      "generatedAt": "2026-08-05T20:09:56.942Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 10,

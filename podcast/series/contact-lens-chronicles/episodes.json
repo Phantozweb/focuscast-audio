@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-05T20:01:12.491Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-05T20:01:20.749Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -193,14 +193,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Myopia Control with CLs: The Evidence Base",
-      "description": "The defocus theory, the dual-focus designs, and the informed consent conversation with parents.",
+      "title": "Myopia Control with Contact Lenses: What the Evidence Says",
+      "description": "Could the right contact lens actually slow down your child's worsening eyesight? The answer, backed by growing clinical evidence, is yes. In this episode of Focus Cast, we break down the science behind myopia control with contact lenses and explain why eye care professionals worldwide are calling it the new standard of care for children with progressive myopia.\n\nWith nearly half the global population projected to be myopic by 2050, the stakes have never been higher. We explore how peripheral defocus drives eye elongation, and how specially designed contact lenses can interrupt that process. From the landmark BLINK study on soft multifocal lenses to the compelling axial length data behind orthokeratology, we walk through the strongest clinical evidence available today. We also cover the FDA-approved MiSight 1 day lens, its three-year trial results, and what newer optical designs are showing in early research.\n\nWhether you are a parent wondering whether myopia control is right for your child, an eye care professional looking to sharpen your clinical conversations, or simply someone curious about where vision science is headed, this episode gives you the evidence-based answers you need.\n\nKey topics include the BLINK and ROMIO studies, ortho-k mechanisms and outcomes, axial length as a progression marker, real-world treatment expectations, and the honest limitations of current research.\n\nVisit Focuslinks.in to explore more episodes on eye care, vision science, and the innovations shaping the future of sight.\n\n---",
       "tags": "myopia-control,defocus,dual-focus,evidence",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-15.mp3",
+      "duration": "12:05",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "031b7ac6-10f7-4dce-b6f9-8ac60004114c",
+      "generatedAt": "2026-08-05T20:01:20.749Z"
     },
     {
       "episodeOrder": 16,

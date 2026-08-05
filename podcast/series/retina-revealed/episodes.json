@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-05T17:33:09.752Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-05T17:36:27.727Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fundus Photography: Composing a Diagnostic Image",
-      "description": "Field definitions, stereo pairs, and the montage that captures the peripheral pathology a single frame misses.",
+      "title": "Fundus Photography: How to Compose a Diagnostic Image",
+      "description": "What separates a good fundus photograph from a truly diagnostic one? In this episode of Focus Cast, we break down the art and science of fundus photography — and why every imaging decision you make can directly impact patient care.\n\nWe cover everything from choosing the right field of view (30-degree vs. 45-degree vs. ultra-widefield) to mastering disc-centered and macula-centered framing. You'll learn when and how to use off-axis imaging to capture peripheral lesions that standard fields would miss entirely, and why manual focus override can make the difference when a retinal specialist needs to examine fine detail up close.\n\nWe also dig into the often-overlooked factors that make or break image quality — flash intensity calibration, managing media opacities like cataracts and corneal scarring, and the surprisingly powerful role of patient communication in getting a clean, artifact-free shot.\n\nPlus, we look at how ultra-widefield imaging is transforming the detection of diabetic retinopathy and retinal detachments by capturing up to 200 degrees of the retina in a single image — and what that means for earlier diagnosis and better outcomes.\n\nWhether you're an ophthalmic photographer, an optometrist, an ophthalmology resident, or simply someone passionate about eye care imaging, this episode gives you a practical, clinically grounded framework for capturing fundus images that truly inform diagnosis.\n\nListen now, and if you find it valuable, share it with a colleague or leave us a review. New episodes drop regularly at Focuslinks dot in — because great eye care starts with great imaging.",
       "tags": "fundus-photo,montage,fields,stereo",
       "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-07.mp3",
+      "duration": "10:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951387122",
+      "generatedAt": "2026-08-05T17:36:27.123Z"
     },
     {
       "episodeOrder": 8,

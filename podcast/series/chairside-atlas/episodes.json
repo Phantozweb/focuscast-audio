@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T18:05:03.079Z",
+  "lastUpdated": "2026-08-05T18:05:18.042Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,16 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Slit Lamp Illumination Techniques: All 6 Methods Explained",
-      "description": "Ever watched a skilled clinician reveal something invisible in the eye just by adjusting the slit lamp light — and wondered exactly how they did it? In this episode of Focus Cast by Focuslinks.in, we break down the six essential slit lamp illumination techniques every eye care professional needs to master, and more importantly, when to use each one for maximum diagnostic impact.\n\nWe start with direct focal illumination, the foundation of every slit lamp exam, and walk through how a simple beam change can reveal corneal layers, lens opacities, and aqueous cells. From there, we explore indirect illumination for catching subtle infiltrates that hide under direct light, and sclerotic scatter, a stunning technique that turns the cornea into its own fiber optic cable to expose haze and edema across the entire corneal surface.\n\nWe then dive into retroillumination, covering both direct and indirect forms, and explain why it is the gold standard for detecting posterior subcapsular cataracts. Next, we unpack specular reflection and how it lets you visualize the individual endothelial cell mosaic at the slit lamp, a critical skill for identifying early Fuchs dystrophy. Finally, we cover proximal illumination, the gentle, diffuse technique ideal for examining iris surface detail without patient discomfort.\n\nWhether you are an optometry or ophthalmology student building your clinical foundation, or an experienced practitioner looking to sharpen your technique, this episode gives you a clear, practical framework for using light itself as your most powerful diagnostic tool.\n\nListen now and transform the way you see through the slit lamp. Visit Focuslinks.in for more eye care episodes and resources.\n\n---",
+      "title": "Slit Lamp Illumination Techniques: All 6 Explained",
+      "description": "Ever watched an experienced clinician reveal something invisible in the eye just by shifting the slit lamp light? That is not magic — that is mastery of illumination technique. In this episode of Focus Cast by Focuslinks.in, we break down all six core slit lamp illumination techniques and, more importantly, teach you exactly when to use each one for maximum clinical impact.\n\nWe start with diffuse illumination, your essential wide-angle survey of the eye, before moving into direct focal illumination, the workhorse technique that creates a precise optical section through corneal and lens tissue. From there, we explore indirect illumination for detecting subtle, nearly transparent lesions, and sclerotic scatter, the visually stunning technique that lights up the entire cornea like a fiber optic cable to reveal faint edema and scarring. We then cover retroillumination for backlit assessment of the lens, iris transillumination defects, and corneal endothelium, and finally specular reflection, the technique that lets you visualize the individual hexagonal endothelial cell mosaic — critical before cataract surgery and in conditions like Fuchs' endothelial dystrophy.\n\nWhether you are an optometry student building your clinical foundation or a seasoned practitioner looking to sharpen your examination skills, this episode gives you a clear, practical framework for moving fluidly between techniques and building a complete picture of ocular health layer by layer.\n\nListen now and transform the way you see through the slit lamp. Visit Focuslinks.in for more episodes, clinical resources, and everything eye care.",
       "tags": "slit-lamp,illumination,anterior-segment,technique",
-      "category": "Cataract",
+      "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-16.mp3",
-      "duration": "13:13",
+      "duration": "10:50",
       "imageUrl": "",
       "status": "generated",
-      "runId": "76c6ef02-86d8-4c1f-94e3-3ce23cb83ca9",
-      "generatedAt": "2026-08-05T18:05:02.654Z"
+      "runId": "agent-1785953117448",
+      "generatedAt": "2026-08-05T18:05:17.448Z"
     },
     {
       "episodeOrder": 17,

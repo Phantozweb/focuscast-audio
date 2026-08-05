@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T17:31:17.317Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-05T17:33:09.752Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "OCT RNFL: The Glaucoma Surveillance Workhorse",
-      "description": "Reading thickness maps, quadrant asymmetry, and progression — and knowing when the printout lies.",
+      "title": "OCT RNFL: The Ultimate Tool for Glaucoma Surveillance",
+      "description": "Glaucoma is one of the most deceptive diseases in eye care — stealing vision slowly, silently, and without warning. By the time a patient notices something is wrong, up to 40% of their nerve fibers may already be gone. So how do eye care professionals stay one step ahead? The answer lies in OCT RNFL imaging, and in this episode of Focus Cast, we break down exactly why it has become the gold standard for glaucoma detection and monitoring.\n\nWe start with the basics — what Optical Coherence Tomography actually does and how it measures the Retinal Nerve Fiber Layer with micron-level precision. From there, we explore the TSNIT curve, the color-coded thickness maps, and the critical anatomical relationship between structural nerve damage and visual field loss that every clinician should understand.\n\nWe then dive into how OCT RNFL fits alongside traditional glaucoma assessment tools like intraocular pressure measurement and visual field testing, and why trend analysis and progression rates are just as important as a single scan result. We also cover the floor effect, pre-perimetric glaucoma detection, the role of macular ganglion cell complex analysis, and the real-world limitations clinicians face with high myopia and scan quality.\n\nFinally, we look at where the technology is headed — from swept-source OCT and enhanced depth imaging to artificial intelligence and OCT angiography — and what these advances mean for the future of glaucoma care.\n\nWhether you are an eye care professional, a student, or a curious patient, this episode gives you a clear, practical understanding of one of the most powerful diagnostic tools in modern ophthalmology. Listen now and visit Focuslinks.in for more eye care conversations.",
       "tags": "oct,rnfl,glaucoma,progression",
       "category": "Ocular Imaging",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-06.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951189333",
+      "generatedAt": "2026-08-05T17:33:09.333Z"
     },
     {
       "episodeOrder": 7,

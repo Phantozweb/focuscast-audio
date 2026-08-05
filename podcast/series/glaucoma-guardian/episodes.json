@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T19:46:32.704Z",
+  "lastUpdated": "2026-08-05T19:46:40.530Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -248,15 +248,15 @@
     {
       "episodeOrder": 19,
       "title": "Glaucoma Field Progression: GPA, Trend Analysis & Clinical Judgment",
-      "description": "How do you know when a glaucoma patient's visual field is truly getting worse — and how fast? In this episode of Focus Cast by Focuslinks.in, we break down the three essential tools every clinician needs to master field progression: Glaucoma Progression Analysis (GPA), trend analysis, and clinical judgment.\n\nWe start with GPA — how it works, what it's really telling you, and the critical baseline pitfalls that can mislead even experienced clinicians. Then we dive into trend analysis using Mean Deviation slope, where we explain what a rate of minus one decibel per year actually means for a patient's long-term vision and independence. Real-world examples make the numbers come alive in a way that's immediately applicable to your practice.\n\nBut the most powerful part of this episode is the conversation around clinical judgment — the questions no software can ask. Patient age, life expectancy, baseline damage, risk factors, structure-function correlation — these are the layers that separate good glaucoma management from great glaucoma management. We also explore how to know when to trust your data and when to question it, and how OCT and visual fields work together to tell a more complete story.\n\nWhether you're a seasoned ophthalmologist, an optometrist managing glaucoma patients, or a trainee building your clinical foundation, this episode will change how you read a visual field printout.\n\nListen now and carry something useful into your very next clinic session. Visit Focuslinks.in for more episodes and clinical resources designed to help you grow as a clinician.\n\n---",
+      "description": "Are you staring at visual field printouts and struggling to tell whether your glaucoma patient is truly getting worse? You are not alone. In this episode of Focus Cast, we break down the essential tools and thinking behind visual field progression analysis so you can make smarter, more confident clinical decisions.\n\nWe start with the fundamentals of what visual field testing actually measures and why a single test is never enough. From there, we take a deep dive into Guided Progression Analysis (GPA) on the Humphrey Field Analyzer, explaining exactly how the baseline is set, how flagging works, and why a poor baseline can silently undermine everything that follows. You will also learn how trend analysis using Mean Deviation slope gives you a rate of change that lets you predict where your patient's vision is headed, and why a slope of minus one decibel per year is a number every clinician should know.\n\nBut the real heart of this episode is clinical judgment. We walk through three challenging real-world scenarios including high variability fields, structure-function discordance, and cataract-related field changes that look like glaucoma progression. You will come away with a practical framework for combining GPA, trend analysis, OCT data, and your own clinical reasoning into a coherent management approach.\n\nWhether you are a resident building your foundation or an experienced clinician looking to sharpen your skills, this episode delivers clear, practical knowledge you can apply immediately.\n\nListen now and protect your patients' vision with greater confidence. Visit Focuslinks.in for more episodes and clinical resources from Focus Cast.\n\n---",
       "tags": "progression,gpa,trend,escalation",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-19.mp3",
-      "duration": "12:16",
+      "duration": "12:29",
       "imageUrl": "",
       "status": "generated",
-      "runId": "5c23617a-77c2-4f13-bcf8-c68243c53077",
-      "generatedAt": "2026-08-05T19:46:32.704Z"
+      "runId": "e9bd74e7-c275-4526-bc0a-1c7610a16fec",
+      "generatedAt": "2026-08-05T19:46:40.530Z"
     },
     {
       "episodeOrder": 20,

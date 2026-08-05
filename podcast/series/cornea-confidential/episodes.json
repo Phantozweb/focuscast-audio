@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-05T17:54:32.634Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-05T17:58:06.753Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Herpes Simplex Keratitis: Dendrites, Disciform, and the Steroid Trap",
-      "description": "Epithelial versus stromal HSV — the fluorescein staining pattern and the topical steroid decision.",
+      "title": "Herpes Simplex Keratitis: Dendrites, Disciform & the Steroid Trap",
+      "description": "What if the treatment you almost prescribed could make everything worse? In this episode of Focus Cast, we break down one of ophthalmology's most important and most mismanaged conditions: Herpes Simplex Keratitis. Whether you are a student trying to nail your clinical exams or a practitioner looking to sharpen your diagnostic instincts, this episode walks you through everything you need to know.\n\nWe start with the classic dendritic ulcer, that branching, tree-like corneal lesion that is the hallmark of active epithelial HSV keratitis. You will learn exactly what to look for on slit lamp examination, why reduced corneal sensation is a critical clue, and why antivirals, not steroids, are the right call here.\n\nThen we move into disciform keratitis, the immune-mediated stromal form that looks completely different and demands a completely different approach. We explain why topical steroids actually have a role in stromal disease, and why antiviral cover is non-negotiable when you use them.\n\nAnd then we get to the steroid trap, the dangerous and surprisingly common mistake of prescribing steroids to a patient with unrecognized herpes keratitis. We walk through how it happens, what goes wrong, and how a small dendrite can become a large geographic ulcer that threatens permanent vision loss.\n\nWe also cover recurrence rates, long-term suppressive therapy, and the key findings from the landmark HEDS trial that shaped modern management of this condition.\n\nIf you care about eyes, this episode is essential listening. Share it with a colleague or classmate who needs to hear it. Visit Focuslinks dot in for more ophthalmology episodes and resources.",
       "tags": "hsv,dendrite,disciform,steroid",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-09.mp3",
+      "duration": "10:51",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952686341",
+      "generatedAt": "2026-08-05T17:58:06.341Z"
     },
     {
       "episodeOrder": 10,

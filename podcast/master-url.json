@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T20:03:15.801Z",
+  "lastUpdated": "2026-08-05T20:04:31.982Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 169,
+  "generatedEpisodes": 171,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -89,10 +89,10 @@
       "category": "Contact Lens",
       "order": 6,
       "totalEpisodes": 30,
-      "generatedEpisodes": 19,
+      "generatedEpisodes": 21,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/episodes.json",
       "audioDir": "podcast/series/contact-lens-chronicles/audio",
-      "lastUpdated": "2026-08-05T20:02:56.532Z"
+      "lastUpdated": "2026-08-05T20:04:16.803Z"
     },
     {
       "slug": "pediatric-perspectives",

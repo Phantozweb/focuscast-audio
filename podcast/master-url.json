@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T17:32:20.976Z",
+  "lastUpdated": "2026-08-05T17:33:05.837Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 18,
+  "generatedEpisodes": 19,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -14,10 +14,10 @@
       "category": "General",
       "order": 1,
       "totalEpisodes": 30,
-      "generatedEpisodes": 6,
+      "generatedEpisodes": 7,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/episodes.json",
       "audioDir": "podcast/series/chairside-atlas/audio",
-      "lastUpdated": "2026-08-05T17:29:33.780Z"
+      "lastUpdated": "2026-08-05T17:32:54.441Z"
     },
     {
       "slug": "retina-revealed",

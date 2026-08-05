@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-05T20:11:13.282Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-05T20:11:25.984Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -89,14 +89,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Refractive Amblyopia: The Plus and the Cylinder Thresholds",
-      "description": "When hyperopia and astigmatism trigger amblyopia and the prescribing thresholds that guide intervention.",
+      "title": "Refractive Amblyopia: Plus & Cylinder Thresholds Explained",
+      "description": "What does it actually take for farsightedness or astigmatism to steal a child's vision permanently? In this episode of Focus Cast, we break down one of the most clinically critical yet underappreciated topics in pediatric eye care: the refractive thresholds that trigger amblyopia in developing eyes.\n\nRefractive amblyopia is the most common cause of monocular visual impairment in children, affecting two to three percent of the population. The alarming part? Most children show no obvious symptoms. No squinting, no complaints, no visible signs of trouble. Yet their brain is quietly learning to ignore the blurry signal from one eye, and once that critical window of visual development closes, reversing the damage becomes significantly harder.\n\nWe explore the plus threshold, covering how much hyperopia, typically three and a half to four diopters or more, puts a child at risk, and why age and anisometropia change everything. We then dive into the cylinder threshold, explaining why astigmatism as low as one and a half diopters can cause amblyopia, and why the concept of meridional amblyopia makes uncorrected astigmatism particularly dangerous for young eyes.\n\nYou will also learn how early screening tools, cycloplegic refraction, and timely glasses prescriptions can prevent or even reverse amblyopia before permanent damage sets in, and why acting before age five makes a measurable difference in outcomes.\n\nWhether you are a parent, educator, eye care professional, or simply curious about how vision develops, this episode gives you the knowledge to recognize risk early and advocate for timely intervention.\n\nListen now and visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "refractive-amblyopia,hyperopia,astigmatism,threshold",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-07.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d8e0a879-2c97-4146-bc7a-6895cdce4979",
+      "generatedAt": "2026-08-05T20:11:25.984Z"
     },
     {
       "episodeOrder": 8,

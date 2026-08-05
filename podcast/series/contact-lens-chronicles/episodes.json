@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-05T20:02:56.532Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-05T20:03:10.424Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Scleral Lenses for Ocular Surface Disease",
-      "description": "The fluid reservoir that heals the epithelium — scleral lenses as a therapeutic device, not just optical.",
+      "title": "Scleral Lenses for Ocular Surface Disease: Life-Changing Relief",
+      "description": "If chronic dry eye, burning, and blurry vision have taken over your daily life, this episode could change everything. In today's Focus Cast, we explore how scleral lenses are transforming the management of ocular surface disease — and why patients who have tried every drop, plug, and prescription are finally finding real, lasting relief.\n\nWe break down exactly what ocular surface disease is, covering conditions like dry eye disease, Sjögren's syndrome, graft versus host disease, Stevens-Johnson syndrome, neurotrophic keratitis, and keratoconus. Then we dive deep into how scleral lenses work — large-diameter rigid gas permeable lenses that vault over the cornea and create a continuous fluid reservoir that hydrates, protects, and cushions the ocular surface all day long.\n\nYou will learn why scleral lenses outperform soft contact lenses for irregular corneas, what the fitting process actually involves, and what patients can realistically expect during their first weeks of wear. We also explore the science behind why the fluid reservoir reduces corneal staining and inflammation, and how scleral lenses are being used as a frontline tool for some of the most challenging ocular surface conditions in clinical practice.\n\nWhether you are a patient searching for answers, a student building your clinical knowledge, or an eye care professional looking for a clear patient-friendly explanation to share, this episode delivers everything you need to understand why scleral lenses have become one of the most significant advances in ocular surface disease management in recent decades.\n\nThink scleral lenses might be right for you or someone you care about? Visit Focuslinks dot in for expert resources and more episodes of Focus Cast.\n\n---",
       "tags": "scleral,osd,reservoir,therapeutic",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-19.mp3",
+      "duration": "12:13",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8accab0a-d8b0-46dc-9350-e34d4ee73ed1",
+      "generatedAt": "2026-08-05T20:03:10.424Z"
     },
     {
       "episodeOrder": 20,

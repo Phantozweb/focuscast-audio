@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T18:12:31.138Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-05T18:16:07.216Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Secondary Glaucomas: PEX, Pigmentary, and Neovascular",
-      "description": "Recognizing the secondary causes — pseudoexfoliation, pigment dispersion, and the ischemic NVG.",
+      "title": "Secondary Glaucomas: PEX, Pigmentary & Neovascular Explained",
+      "description": "What if the most dangerous forms of glaucoma are the ones most people have never heard of? In this eye-opening episode of Focus Cast, we go beyond primary open-angle glaucoma to explore three clinically critical secondary glaucomas: pseudoexfoliation glaucoma, pigmentary glaucoma, and neovascular glaucoma.\n\nWe break down pseudoexfoliation syndrome, the most common identifiable cause of open-angle glaucoma worldwide, explaining how microscopic fibrillar deposits clog the eye's drainage system and why patients face unpredictable pressure spikes and higher surgical risks. Then we dive into pigmentary glaucoma, a condition that often targets young, myopic men, where iris-zonule friction releases pigment that silently destroys the trabecular meshwork. You will learn the classic signs to look for, including Krukenberg spindle and iris transillumination defects, and why exercise can trigger dangerous pressure spikes.\n\nFinally, we tackle neovascular glaucoma, arguably the most urgent of the three. Driven by retinal ischemia from diabetic retinopathy, central retinal vein occlusion, or carotid artery disease, this condition sends intraocular pressure soaring and vision plummeting. We explain the role of VEGF, the importance of early intervention with anti-VEGF therapy and panretinal photocoagulation, and why neovascular glaucoma is as much a systemic warning sign as it is an eye disease.\n\nWhether you are an eye care professional sharpening your clinical knowledge or a patient wanting to understand your diagnosis, this episode delivers clear, evidence-based insights you can act on.\n\nListen now and share with anyone who cares about preserving vision. Visit Focuslinks dot in for more episodes and eye care resources.",
       "tags": "secondary,pex,pigmentary,nvg",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-11.mp3",
+      "duration": "11:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953766739",
+      "generatedAt": "2026-08-05T18:16:06.739Z"
     },
     {
       "episodeOrder": 12,

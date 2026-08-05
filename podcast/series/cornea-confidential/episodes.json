@@ -9,7 +9,7 @@
   "order": 3,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T19:42:25.974Z",
+  "lastUpdated": "2026-08-05T19:43:14.352Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,16 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Specular Microscopy: How We Count Corneal Endothelial Cells",
-      "description": "What if the key to your vision depended on a single layer of cells you were born with — cells that never grow back? In this episode of Focus Cast, we dive deep into the world of specular microscopy and the corneal endothelium, exploring why counting endothelial cells is one of the most critical tasks in modern eye care.\n\nWe break down exactly what the corneal endothelium is, why its cell density matters, and what happens when those irreplaceable cells are lost to aging, disease, or surgery. You will learn how specular microscopy works, what parameters like endothelial cell density, coefficient of variation, and hexagonality actually tell us about corneal health, and why clinicians rely on this technology every single day.\n\nFrom pre-operative cataract surgery screening and contact lens monitoring to Fuchs endothelial dystrophy management and eye bank quality control, this episode covers the full clinical picture of why specular microscopy is indispensable in ophthalmology and optometry practice.\n\nWhether you are an eye care student trying to understand corneal imaging, a clinician looking to refresh your knowledge, or simply someone curious about the science behind clear vision, this episode delivers clear, practical insights in a way that is easy to follow and genuinely fascinating.\n\nTune in, and discover the invisible workforce keeping your vision sharp — and the remarkable technology we use to protect it.\n\nFor more eye care content, articles, and resources, visit us at focuslinks.in.\n\n---",
+      "title": "Specular Microscopy: How Doctors Count Your Corneal Cells",
+      "description": "What if the key to your vision lay in thousands of microscopic cells you never knew existed? In this episode of Focus Cast, we dive deep into the fascinating world of specular microscopy and corneal endothelial cell counting — the technology that gives eye care professionals an extraordinary window into one of the most critical, and irreplaceable, structures in the human eye.\n\nYour corneal endothelium is a single layer of honeycomb-shaped cells lining the back of your cornea, working around the clock to pump fluid out and keep your vision crystal clear. The catch? These cells never regenerate. Once lost, they are gone forever — and when counts drop too low, the consequences for your vision can be severe and permanent.\n\nWe break down exactly how specular microscopy works, what cell density, polymegethism, and pleomorphism actually mean, and why these three measurements together paint a complete picture of corneal health. We also explore the real-world clinical applications — from pre-operative screening before cataract surgery and monitoring Fuchs endothelial dystrophy, to evaluating donor corneas at eye banks and tracking the long-term effects of contact lens wear.\n\nWhether you are an eye care professional, a student, or simply someone curious about the science behind your sight, this episode will change the way you think about your cornea. The technology is remarkable, the biology is humbling, and the clinical implications are genuinely life-changing.\n\nListen now and discover the living mosaic that has been quietly protecting your vision since the day you were born. For more eye health content like this, visit us at focuslinks.in.\n\n---",
       "tags": "specular,endothelium,cell-count,iol",
       "category": "Cataract",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-27.mp3",
-      "duration": "12:18",
+      "duration": "12:21",
       "imageUrl": "",
       "status": "generated",
-      "runId": "4dd2c3e8-0880-4051-b1ef-afd54bd3b6e4",
-      "generatedAt": "2026-08-05T19:42:25.974Z"
+      "runId": "6d624f8c-ff1d-4449-a615-6345356ad44d",
+      "generatedAt": "2026-08-05T19:43:14.352Z"
     },
     {
       "episodeOrder": 28,

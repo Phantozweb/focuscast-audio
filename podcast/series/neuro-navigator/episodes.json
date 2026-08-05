@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T20:28:20.395Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T20:28:25.178Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -380,14 +380,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Cranial Nerve Palsies: The Follow-Up and Recovery",
-      "description": "The expected recovery timeline, the prism and patch management, and the surgical referral threshold.",
+      "title": "Cranial Nerve Palsy Recovery: What to Expect & How Long",
+      "description": "Waking up with a drooping eyelid, double vision, or a face that won't move the way it should is terrifying — but what happens *after* the diagnosis is the part nobody talks about. In this episode of Focus Cast, we break down everything you need to know about cranial nerve palsy recovery and follow-up care, in plain language that actually makes sense.\n\nWe cover the most commonly affected cranial nerves — the third, fourth, sixth, and seventh — and explain what realistic recovery looks like for each one. You'll learn why most isolated microvascular palsies resolve within six to twelve weeks, what aberrant regeneration means and why it happens, and how tools like prism glasses, eye patching, and lubricating drops help manage symptoms while your nerve heals.\n\nWe also get into what happens when recovery doesn't go as planned — from strabismus surgery for persistent eye misalignment to Botox for synkinesis after facial nerve palsy. And because recovery isn't just physical, we give real attention to the emotional toll of living with a cranial nerve palsy and why that part of the journey deserves support too.\n\nWhether you've been diagnosed with Bell's palsy, a sixth nerve palsy, or a third nerve palsy, or you're supporting someone who has, this episode gives you the clarity, reassurance, and practical knowledge to navigate the road ahead with confidence.\n\nListen now and share this episode with anyone who needs it. For more episodes and resources, visit **Focuslinks.in**.\n\n---",
       "tags": "cranial-nerve,recovery,prism,surgical",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-30.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ef802146-71c4-4fa9-8a87-fe0f3b58d282",
+      "generatedAt": "2026-08-05T20:28:25.178Z"
     }
   ]
 }

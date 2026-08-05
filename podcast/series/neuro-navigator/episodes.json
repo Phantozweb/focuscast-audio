@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T20:27:25.800Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-05T20:28:12.548Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -332,14 +332,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Functional Visual Loss: The Non-Organic Patient",
-      "description": "The tubular field, the fogging test, and the compassionate documentation that avoids confrontation.",
+      "title": "Functional Visual Loss: Diagnosing the Non-Organic Patient",
+      "description": "What happens when a patient loses vision — but every test comes back completely normal? In this episode of Focus Cast, we explore one of the most misunderstood and clinically challenging presentations in eye care: functional visual loss, also known as non-organic or psychogenic visual loss.\n\nWe break down exactly what functional visual loss is, why it happens, and who is most likely to experience it — from stressed adolescents to adults navigating conversion disorders. You'll learn the key diagnostic tests used to detect inconsistencies between reported and actual visual function, including the fogging test, optokinetic nystagmus, visual evoked potentials, the prism dissociation test, and the mirror test — and understand the clinical reasoning behind each one.\n\nWe also tackle the sensitive topic of malingering, how to distinguish it from genuine functional loss, and why mislabeling patients carries serious ethical consequences. Perhaps most importantly, we discuss how to communicate findings to patients with honesty, empathy, and language that opens doors rather than closing them.\n\nWhether you're an ophthalmologist, optometrist, neurology trainee, or medical student, this episode will sharpen both your diagnostic thinking and your patient communication skills. Because the non-organic patient isn't a difficult patient — they're a complex one. And that complexity is where the most meaningful clinical work happens.\n\nListen now and visit **focuslinks.in** for more episodes, resources, and in-depth content from the world of ophthalmology.\n\n---",
       "tags": "functional,non-organic,fogging,tubular",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-26.mp3",
+      "duration": "11:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "52b8db88-11f8-45c6-9fd5-a33b059cae21",
+      "generatedAt": "2026-08-05T20:28:12.548Z"
     },
     {
       "episodeOrder": 27,

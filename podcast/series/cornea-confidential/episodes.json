@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-05T18:24:24.065Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-05T18:27:43.448Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Pinguecula: The Yellow Nodule That Is Not a Pterygium",
-      "description": "Distinguishing pinguecula from pterygium, UV link, and the lubrication-first management.",
+      "title": "Pinguecula vs Pterygium: What That Yellow Eye Bump Means",
+      "description": "Ever noticed a small, yellowish bump on the white of your eye and immediately feared the worst? You are not alone — and in most cases, what you are looking at is a pinguecula, one of the most common yet misunderstood eye conditions affecting adults worldwide. In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about pinguecula in plain, reassuring language.\n\nWe cover what a pinguecula actually is, why it forms, and who is most at risk — from outdoor workers and surfers to anyone who has spent years without proper UV eye protection. You will learn the critical difference between a pinguecula and a pterygium, two conditions that are frequently confused but behave very differently and carry very different implications for your vision health.\n\nWe also walk you through the symptoms to watch for, including dryness, grittiness, redness, and contact lens discomfort, and explain exactly when you should see an eye doctor versus simply monitor the growth at home. From lubricating eye drops and UV-blocking sunglasses to the rare cases where surgery becomes necessary, this episode gives you a complete, practical picture of how to manage and prevent pinguecula progression.\n\nWhether you discovered a bump on your eye this morning or you are simply curious about eye health, this episode will leave you informed, reassured, and better equipped to protect your vision for the long term.\n\nVisit Focuslinks.in for more episodes, articles, and expert resources on eye health and vision care. If this episode helped you, share it with someone who needs to hear it.",
       "tags": "pinguecula,uv,lubrication,benign",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-18.mp3",
+      "duration": "9:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954462962",
+      "generatedAt": "2026-08-05T18:27:42.962Z"
     },
     {
       "episodeOrder": 19,

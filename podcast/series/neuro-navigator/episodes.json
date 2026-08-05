@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T20:24:05.598Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-05T20:24:28.066Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Papilledema: The Bilateral Disc Swelling of Raised ICP",
-      "description": "The Frisén grading, the headache and pulsatile tinnitus, and the urgent neuroimaging that follows.",
+      "title": "Papilledema: What Bilateral Disc Swelling Reveals About Your Brain",
+      "description": "What if your eyes could warn you that your brain was in danger? In this episode of Focus Cast by Focuslinks.in, we take a deep dive into papilledema, the bilateral optic disc swelling caused by raised intracranial pressure, and explore why every clinician needs to recognize it fast.\n\nWe break down exactly how elevated cerebrospinal fluid pressure travels along the optic nerve sheath to produce that telltale swollen disc appearance, and why seeing it in both eyes simultaneously is a neurological emergency until proven otherwise. From the Monro-Kellie doctrine to the Frisén grading scale, we walk through the foundational science and the practical clinical tools, including OCT, optic nerve sheath ultrasound, and fundoscopy, that help you assess severity and monitor progression.\n\nYou will learn the major causes of raised intracranial pressure, from brain tumors and hydrocephalus to idiopathic intracranial hypertension, and understand the step-by-step clinical approach from urgent neuroimaging to lumbar puncture and targeted treatment. We also cover two critical distinctions that can make or break a diagnosis: papilledema versus pseudopapilledema caused by optic disc drusen, and papilledema versus papillitis in optic neuritis.\n\nWhether you are a medical student preparing for exams, a junior doctor on the wards, or a clinician refreshing your knowledge, this episode gives you a clear, structured, and memorable understanding of one of medicine's most important clinical signs.\n\nListen now and start seeing the eye as the window to the brain it truly is. Visit Focuslinks.in for more episodes and medical learning resources.\n\n---",
       "tags": "papilledema,icp,frisen,imaging",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-13.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a9d7b919-5d63-447d-8158-9b2783a30093",
+      "generatedAt": "2026-08-05T20:24:28.066Z"
     },
     {
       "episodeOrder": 14,

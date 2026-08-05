@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-05T20:20:46.165Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-05T20:20:57.068Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -113,14 +113,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Sixth Nerve Palsy: The Abducens and Its Long Path",
-      "description": "The elevated intracranial pressure link, the microvascular cause, and the recovery timeline.",
+      "title": "Sixth Nerve Palsy: Why Your Eye Turns Inward & Sees Double",
+      "description": "What causes one eye to suddenly drift inward and make everything look doubled? The answer lies in one of the most fascinating and vulnerable nerves in the human body — the abducens nerve, also known as the sixth cranial nerve. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into sixth nerve palsy, breaking down the science in a way that is clear, engaging, and genuinely eye-opening.\n\nWe explore exactly what the sixth nerve does, why its unusually long path through the skull makes it the most commonly affected cranial nerve in eye movement disorders, and what can go wrong along the way. From viral illness in children to diabetes, high blood pressure, and even increased intracranial pressure in adults, the causes of sixth nerve palsy are more varied — and more telling — than most people realize.\n\nYou will also learn what it actually feels like to live with sudden double vision, why doctors treat any new sixth nerve palsy as a potential neurological red flag, and what treatment options are available, from eye patching and prism glasses to muscle surgery. We also discuss recovery timelines and what influences the overall prognosis.\n\nWhether you are a patient trying to understand a recent diagnosis, a student studying neuro-ophthalmology, or simply someone curious about how the brain controls eye movement, this episode gives you a thorough and accessible look at a condition that reveals far more about the nervous system than just the eye.\n\nListen now and follow Focus Cast on Focuslinks.in for more episodes on eye health, vision science, and the remarkable biology behind how we see the world.\n\n---",
       "tags": "sixth-nerve,abducens,icp,microvascular",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-09.mp3",
+      "duration": "12:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c2730352-348a-4411-98a1-e94233dc4f38",
+      "generatedAt": "2026-08-05T20:20:57.068Z"
     },
     {
       "episodeOrder": 10,

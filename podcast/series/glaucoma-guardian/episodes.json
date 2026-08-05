@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-05T17:23:43.600Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-05T17:28:47.481Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Aqueous Dynamics: Production, Outflow, and the Uveoscleral Path",
-      "description": "How aqueous is made and drained — the physiology that every glaucoma drug targets.",
+      "title": "Aqueous Humor: How Your Eye Produces and Drains Fluid",
+      "description": "What keeps your eye perfectly round and functioning as a precision optical instrument? The answer lies in a continuous fluid system most people never think about — until something goes wrong. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into aqueous dynamics, exploring how aqueous humor is produced, how it circulates through the eye, and how it drains through two remarkably different pathways.\n\nWe start with the ciliary body, where aqueous humor is actively secreted into the posterior chamber at a rate of two to three microliters per minute. From there, we follow the fluid as it flows through the pupil and into the anterior chamber, where it exits via the conventional trabecular meshwork pathway or the lesser-known uveoscleral pathway — a pressure-independent drainage route that runs through the ciliary muscle and suprachoroidal space before exiting through the sclera.\n\nYou will learn why the uveoscleral pathway was not even described in humans until the 1960s, how prostaglandin analogs like latanoprost and bimatoprost harness this pathway to treat glaucoma, and why this drainage route becomes less efficient as we age — raising the risk of elevated intraocular pressure and optic nerve damage. We also touch on cutting-edge surgical approaches, including micro-invasive glaucoma surgery devices targeting the suprachoroidal space.\n\nWhether you are a healthcare professional, a student of ophthalmology, or simply someone who wants to understand how your eyes actually work, this episode delivers clear, science-backed insights in an accessible format. Listen now and see your eyes in a completely new way. Visit Focuslinks.in for more episodes on the science of vision.",
       "tags": "aqueous,outflow,trabecular,physiology",
       "category": "Glaucoma",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-02.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785950927066",
+      "generatedAt": "2026-08-05T17:28:47.066Z"
     },
     {
       "episodeOrder": 3,

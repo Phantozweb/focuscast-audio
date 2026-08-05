@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T18:21:54.400Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-05T18:25:30.596Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Central Serous Retinopathy: The Leaky Choriocapillaris",
-      "description": "Identifying serous detachments, the stress link, and when to observe versus treat.",
+      "title": "Central Serous Retinopathy: Why Stress Leaks Into Your Eyes",
+      "description": "What if stress could literally blur your vision? In this eye-opening episode of Focus Cast, we explore Central Serous Retinopathy (CSR) — a condition where fluid builds up beneath the central retina, causing blurry vision, distorted straight lines, and washed-out colors right in the middle of your sight. And the surprising culprit? Your stress hormones.\n\nWe take a deep dive into the choriocapillaris, the dense network of tiny blood vessels beneath your retina, and explain exactly why it starts leaking in people with CSR. You'll learn how elevated cortisol, corticosteroid medications, and high-pressure lifestyles make certain individuals — particularly driven men between 25 and 50 — far more vulnerable to this condition than others.\n\nFrom the first alarming symptom to cutting-edge diagnostic tools like Optical Coherence Tomography (OCT) and fluorescein angiography, we walk you through what the diagnosis journey looks like. We also cover the full spectrum of treatment options, including watchful waiting, photodynamic therapy with verteporfin, micropulse laser therapy, and medications like eplerenone — plus why genuine lifestyle changes can be just as powerful as any procedure.\n\nWhether you've been diagnosed with CSR, know someone who has, or simply want to understand how your mental health connects to your eye health, this episode delivers clear, accessible answers backed by real science.\n\nYour vision depends on more than just your eyes. Visit Focuslinks.in to explore more episodes on eye health, retinal conditions, and vision science — and start seeing the bigger picture.",
       "tags": "csr,csr,serous-detachment,stress",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-17.mp3",
+      "duration": "10:49",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954330130",
+      "generatedAt": "2026-08-05T18:25:30.130Z"
     },
     {
       "episodeOrder": 18,

@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T19:49:31.995Z",
+  "lastUpdated": "2026-08-05T19:49:41.700Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -287,15 +287,15 @@
     {
       "episodeOrder": 22,
       "title": "Carbonic Anhydrase & Rho Kinase Inhibitors Explained",
-      "description": "Did you know that too much pressure inside your eye is one of the leading causes of irreversible blindness worldwide? Glaucoma silently steals vision from millions of people, often without pain or warning — but two remarkable classes of drugs are fighting back in surprisingly clever ways.\n\nIn this episode of Focus Cast, we break down exactly how carbonic anhydrase inhibitors and Rho kinase inhibitors work to manage intraocular pressure and protect vision. We start with the fundamentals of aqueous humor, the eye's internal fluid system, and explain why disrupted drainage leads to glaucoma. From there, we explore how carbonic anhydrase inhibitors like dorzolamide and brinzolamide slow down fluid production by targeting a key enzyme — and why topical eye drops were such a breakthrough compared to older oral medications like acetazolamide.\n\nThen we dive into the newer and genuinely exciting world of Rho kinase inhibitors, particularly netarsudil, which works by relaxing the trabecular meshwork cells to improve fluid drainage — a completely different mechanism that opened a new chapter in glaucoma treatment. We also cover combination therapies, real-world side effects, and why having multiple drug classes matters so much for a lifelong condition like glaucoma.\n\nWhether you're a healthcare professional, a student, a patient, or simply someone curious about the science behind eye care, this episode gives you a clear, engaging, and medically grounded understanding of two of ophthalmology's most important drug classes.\n\nListen now and discover the incredible science packed inside that tiny eye drop bottle. Visit Focuslinks.in for more episodes and health resources, and share this episode with anyone who wants to understand their eye health better.\n\n---",
+      "description": "What's really happening inside your eye when glaucoma silently steals your vision? In this episode of Focus Cast, we break down two powerful classes of glaucoma medications — carbonic anhydrase inhibitors and Rho kinase inhibitors — and explain exactly how they work, why they matter, and what makes them different from each other.\n\nWe start with carbonic anhydrase inhibitors, tracing their journey from acetazolamide in the 1950s to modern topical options like dorzolamide and brinzolamide. You'll learn how these drugs reduce intraocular pressure by slowing aqueous humor production, and why the shift from oral to eye drop formulations was a turning point in glaucoma treatment.\n\nThen we dive into the newer and exciting world of Rho kinase inhibitors, particularly netarsudil, the first FDA-approved ROCK inhibitor for glaucoma. Unlike most existing treatments, Rho kinase inhibitors directly target the trabecular meshwork drainage pathway — essentially unclogging the eye's natural drain. We also cover the breakthrough combination drop Rocklatan, which pairs netarsudil with a prostaglandin analog for superior pressure reduction.\n\nBeyond the science, we explore what these advances mean for patients — from sustained-release implants on the horizon to the potential neuroprotective effects of Rho kinase inhibitors that could one day protect the optic nerve directly.\n\nWhether you're a healthcare professional, a student, or someone managing glaucoma personally, this episode gives you a clear, accessible understanding of the cutting edge of eye care.\n\nListen now and share with someone who deserves to protect their vision. Visit Focuslinks.in for more episodes and health science resources.\n\n---",
       "tags": "cai,rho-kinase,dorzolamide,netarsudil",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-22.mp3",
-      "duration": "12:44",
+      "duration": "12:25",
       "imageUrl": "",
       "status": "generated",
-      "runId": "c49c067a-0a5b-4f71-bbe5-95c32c4d851b",
-      "generatedAt": "2026-08-05T19:47:13.287Z"
+      "runId": "03361711-a341-4e39-9a50-325d83fb3d57",
+      "generatedAt": "2026-08-05T19:49:41.700Z"
     },
     {
       "episodeOrder": 23,

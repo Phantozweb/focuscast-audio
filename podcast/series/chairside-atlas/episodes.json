@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T17:50:01.085Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T17:53:21.951Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Confrontation Visual Fields: A One-Minute Screen",
-      "description": "Four-quadrant and target-counting methods that catch hemianopias and quadrantanopias before formal perimetry.",
+      "title": "Confrontation Visual Fields: A 60-Second Eye Screen Explained",
+      "description": "What if a sixty-second test using nothing but a doctor's hands could reveal a stroke, a brain tumor, or silent vision loss you never knew you had? In this episode of Focus Cast, we break down confrontation visual field testing — one of the most powerful yet underappreciated screening tools in clinical medicine — and explain exactly why it matters for your health.\n\nWe walk you through how the test works, from the face-to-face setup to the different techniques used, including finger counting, finger wiggling, and red target testing. You'll learn how your visual field maps onto your brain, why neurologists rely on this bedside test as a rapid neurological survey, and what specific defect patterns — like homonymous hemianopia or bitemporal hemianopia — can reveal about conditions ranging from stroke to pituitary tumors.\n\nWe also get honest about the test's limitations, how it compares to automated perimetry, and why the skill of the examiner matters more than most people realize. Whether you're a patient, a caregiver, a student, or simply someone curious about how the visual system works, this episode gives you practical knowledge you can actually use.\n\nBy the end, you'll know what to look for, what to ask your doctor, and why sixty seconds of screening could make a meaningful difference in catching serious conditions early.\n\nListen now, and visit Focuslinks.in for more eye care content that cuts through the complexity and gets straight to what matters.\n\n---",
       "tags": "visual-field,confrontation,screening,neuro",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-13.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c14dabca-e023-47e0-8be6-afff824aa312",
+      "generatedAt": "2026-08-05T17:53:21.333Z"
     },
     {
       "episodeOrder": 14,

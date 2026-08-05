@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-05T17:36:27.727Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-05T17:50:22.724Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Fundus Autofluorescence: Lipofuscin as a Disease Marker",
-      "description": "Reading hypo- and hyper-autofluorescent patterns in Stargardt, AMD, and hydroxychloroquine toxicity.",
+      "title": "Fundus Autofluorescence: How Lipofuscin Reveals Eye Disease",
+      "description": "What if your eye could glow in a way that reveals hidden disease before you ever notice a single symptom? In this episode of Focus Cast by Focuslinks.in, we explore the science of fundus autofluorescence imaging and how lipofuscin, the so-called aging pigment, has become one of the most powerful biomarkers in modern ophthalmology.\n\nWe break down exactly how lipofuscin builds up inside the retinal pigment epithelium, why it fluoresces under specific wavelengths of light, and how clinicians use this natural glow to map RPE health across the retina. From age-related macular degeneration and geographic atrophy to Stargardt disease and retinitis pigmentosa, you will discover how autofluorescence imaging is changing the way eye diseases are detected, monitored, and studied in clinical trials.\n\nWe also cover the technology behind confocal scanning laser ophthalmoscopy, how near-infrared autofluorescence adds a complementary layer of diagnostic information, and how this non-invasive imaging technique compares to traditional fluorescein angiography. Plus, learn how autofluorescence is used to screen for hydroxychloroquine toxicity in patients on long-term medication.\n\nWhether you are an ophthalmology student, a clinician looking to sharpen your retinal imaging knowledge, or simply someone fascinated by the science of vision, this episode offers a clear, engaging, and clinically grounded deep dive into one of the most valuable tools in retinal diagnostics today.\n\nListen now and see the retina in a whole new light. Visit Focuslinks.in for more episodes, resources, and updates on eye care and ophthalmology.",
       "tags": "faf,lipofuscin,stargardt,toxicity",
       "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-08.mp3",
+      "duration": "10:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952222122",
+      "generatedAt": "2026-08-05T17:50:22.123Z"
     },
     {
       "episodeOrder": 9,

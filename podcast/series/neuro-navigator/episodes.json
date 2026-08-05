@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-05T20:21:39.630Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-05T20:22:09.482Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Third Nerve Palsy: The Pupil-Sparing Rule and Its Exceptions",
-      "description": "When to image urgently, the aneurysm versus microvascular distinction, and the aberrant regeneration signs.",
+      "title": "Third Nerve Palsy: The Pupil-Sparing Rule Explained",
+      "description": "When a patient walks in with a drooping eyelid and a deviated eye, one tiny detail can mean the difference between a conservative follow-up and an emergency neurosurgical call — the pupil. In this episode of Focus Cast, we take a deep dive into third nerve palsy and the famous pupil-sparing rule, breaking down the clinical logic, the underlying anatomy, and the high-stakes decisions that follow.\n\nWe start with the fundamentals of the oculomotor nerve and why its unique fiber arrangement makes the pupil such a powerful diagnostic clue. You will learn why ischemic causes like diabetes and hypertension tend to spare the pupil, while compressive lesions like a posterior communicating artery aneurysm tend to involve it — and why getting that distinction wrong can cost a patient their life.\n\nBut this episode goes beyond the textbook rule. We walk through four critical exceptions that every clinician needs to know: partial palsies that can fool you early, the rare but real aneurysms that present with pupil sparing, the importance of associated neurological signs, and why the headache history is just as important as the pupil exam.\n\nWhether you are a medical student preparing for exams, a resident navigating real clinical decisions, or a practicing physician looking to sharpen your diagnostic thinking, this episode gives you a framework you can actually use at the bedside.\n\nListen now and share this episode with a colleague who needs to hear it. Visit Focuslinks.in for more episodes and resources from Focus Cast.\n\n---",
       "tags": "third-nerve,pupil-sparing,aneurysm,aberrant",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-07.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "070bb8f4-5362-4de9-bfbb-d2ac7bc0af34",
+      "generatedAt": "2026-08-05T20:22:09.482Z"
     },
     {
       "episodeOrder": 8,

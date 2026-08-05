@@ -9,7 +9,7 @@
   "order": 5,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T19:53:32.878Z",
+  "lastUpdated": "2026-08-05T19:53:39.440Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,16 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Spherical Aberration: Why Your Pupil's Edge Blurs Vision",
-      "description": "Ever wonder why your vision turns soft and hazy at night, even with a perfect glasses prescription? The answer lies at the very edge of your pupil — and it has everything to do with a fascinating optical phenomenon called spherical aberration. In this episode of Focus Cast by Focuslinks.in, we break down exactly what spherical aberration is, why it affects your eyes more in low light, and why your pupil size plays a bigger role in your visual clarity than most people ever realize.\n\nWe explore how the cornea and crystalline lens each contribute to spherical aberration, why night vision tends to decline with age, and how the eye actually has a built-in compensation system that gradually weakens over time. You will also learn how modern vision care is tackling this issue head-on — from wavefront-guided LASIK surgery that customizes laser treatment to your eye's unique aberration profile, to aspheric contact lenses engineered to deliver sharper, cleaner vision especially in dim conditions.\n\nWhether you notice halos around streetlights, struggle with night driving, or simply want to understand what is really happening inside your eyes, this episode gives you the science in plain, engaging language. Spherical aberration is not just a technical footnote — it is a key reason your visual experience shifts so dramatically between bright and dark environments.\n\nIf you are curious about how your eyes truly work and what modern optics can do to improve your vision, this is the episode for you. Visit Focuslinks.in to explore more episodes, expert insights, and everything you need to see the world more clearly.\n\n---",
+      "title": "Spherical Aberration: Why Your Night Vision Feels Blurry",
+      "description": "Have you ever noticed halos around streetlights or that soft, hazy glow around headlights at night? You might have blamed tired eyes — but the real culprit could be spherical aberration, a fundamental optical imperfection happening right at the edge of your pupil. In this episode of Focus Cast, we break down exactly what spherical aberration is, why it matters, and how it shapes your everyday visual experience in ways most people never realize.\n\nWe explore how the cornea and natural lens work together to partially cancel out aberrations in a healthy eye, and why that delicate balance breaks down when your pupil dilates in low light. You will learn why night vision feels so different from daytime vision, how early LASIK surgery left patients struggling with starbursts and ghosting, and how modern wavefront-guided treatments have transformed outcomes for refractive surgery patients.\n\nWe also dive into the evolution of aspheric intraocular lenses for cataract surgery, how wavefront aberrometry creates a precise optical fingerprint of your eye, and why aspheric contact lenses are quietly improving vision quality for everyday wearers. Whether you are curious about eye health, considering laser surgery, or simply want to understand the science behind what you see, this episode gives you a clear, accessible look at one of vision science's most important concepts.\n\nUnderstanding spherical aberration is not just for eye doctors — it is for anyone who wants to see the world more clearly, literally and scientifically.\n\nListen now and share this episode with someone who loves learning how things work. Visit Focuslinks dot in for more episodes, articles, and resources on eye health and vision science.\n\n---",
       "tags": "spherical-aberration,pupil,aspheric,quality",
       "category": "Cataract",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-19.mp3",
-      "duration": "12:12",
+      "duration": "12:47",
       "imageUrl": "",
       "status": "generated",
-      "runId": "efc26072-5bd0-42a3-a2f5-3e225ff4497b",
-      "generatedAt": "2026-08-05T19:52:05.293Z"
+      "runId": "c8d83ea1-e9d9-4657-b1da-5dad9813d5b8",
+      "generatedAt": "2026-08-05T19:53:39.440Z"
     },
     {
       "episodeOrder": 20,

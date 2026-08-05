@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T19:17:21.404Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-05T19:20:44.527Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -364,14 +364,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Macula and Foveal Reflex: Spotting Early Disease",
-      "description": "Identifying drusen, pigmentary change, fluid, and the subtle foveal reflex loss that flags trouble.",
+      "title": "Macula & Foveal Reflex: How Doctors Spot Eye Disease Early",
+      "description": "That moment when straight lines look slightly bent, or your central vision feels just a little off — your eye might be sending you an early warning signal. In this episode of Focus Cast, we break down two of the most critical structures in your visual system: the macula and the foveal reflex, and explain how subtle changes in these tiny regions can reveal serious eye disease before you even notice a problem.\n\nWe cover what the macula actually does, why the foveal reflex matters during a retinal examination, and how trained eye care professionals use it as one of the earliest indicators of disease. You'll learn how conditions like age-related macular degeneration, diabetic macular edema, macular holes, and central serous chorioretinopathy each leave their own distinct fingerprint on the macula — and why catching these signs early can make all the difference for your long-term vision.\n\nWe also walk you through how modern tools like optical coherence tomography (OCT) have transformed macular diagnosis, and what a thorough dilated eye exam actually involves. Plus, we share practical steps you can take right now — including how to use an Amsler grid at home — to monitor your central vision between appointments.\n\nWhether you have diabetes, a family history of macular disease, or simply want to understand your eye health better, this episode gives you the knowledge to take action early. Because when it comes to your macula, early detection isn't just helpful — it's everything.\n\nListen now, and visit Focuslinks.in for more eye care resources.\n\n---",
       "tags": "macula,drusen,amd,fovea",
-      "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-28.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7174f980-595b-4179-b304-d3bf176acda1",
+      "generatedAt": "2026-08-05T19:20:44.057Z"
     },
     {
       "episodeOrder": 29,

@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-05T19:35:42.430Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-05T19:36:42.700Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Corneal Edema: Striae, Folds, and the “Ground Glass” Cornea",
-      "description": "Distinguishing epithelial from stromal edema and tracing the cause to endothelium or IOP.",
+      "title": "Corneal Edema: Striae, Folds & Ground Glass Cornea Explained",
+      "description": "What do fine grayish lines in the posterior stroma, irregular folds in Descemet's membrane, and a hazy milky cornea all have in common? They are the telltale signs of corneal edema, and knowing how to recognize them can make the difference between a timely diagnosis and a missed emergency.\n\nIn this episode of Focus Cast, we take a deep dive into corneal edema, one of the most clinically significant findings in eye care. We break down exactly what striae are, why they appear even before your patient notices any visual symptoms, and what they reveal about corneal hydration and endothelial function. We then move into Descemet's membrane folds, explaining why they signal a more advanced and often urgent degree of swelling, and which conditions like acute angle closure glaucoma and Fuchs endothelial dystrophy are most commonly responsible. Finally, we explore the ground glass cornea, unpacking the optical science behind why disrupted collagen fibril spacing causes that characteristic hazy appearance and what it means for your patient's vision.\n\nWe also cover the full clinical picture, from epithelial bullae and bullous keratopathy to modern surgical solutions like DSAEK and DMEK, along with practical tips like hypertonic saline drops and the surprisingly effective hairdryer technique for morning vision relief.\n\nWhether you are an optometry or ophthalmology student preparing for exams, a clinician brushing up on corneal disease, or simply someone fascinated by how the eye works, this episode gives you the clarity you need.\n\nListen now and visit Focuslinks.in for more episodes and clinical resources to keep your knowledge sharp.\n\n---",
       "tags": "edema,striae,folds,iop",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-20.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "200a02c1-3ca8-4dfa-9167-dbcf6379ab7f",
+      "generatedAt": "2026-08-05T19:36:42.700Z"
     },
     {
       "episodeOrder": 21,

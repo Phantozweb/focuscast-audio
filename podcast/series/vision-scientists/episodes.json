@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T19:53:48.830Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T19:54:03.206Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,14 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Retinal Image Quality: The Eye as an Optical Instrument",
-      "description": "The modulation transfer function, the neural compensation, and the “neural blur” concept.",
+      "title": "Retinal Image Quality: How Your Eye Sees the World",
+      "description": "Your eye forms a real, physical image every second of every waking moment — but how good is that image, really? In this episode of Focus Cast, we explore the fascinating science of retinal image quality and what it truly means for the eye to function as an optical instrument.\n\nWe break down how light travels through the cornea, pupil, and lens before landing on the retina, and why the eye — despite being a marvel of biology — is far from a perfect optical system. You'll learn the difference between lower-order aberrations like myopia and astigmatism (the ones your glasses correct) and the lesser-known higher-order aberrations like coma, trefoil, and spherical aberration that affect your vision even with a perfect prescription. We also unpack why night driving causes halos and starbursts, how LASIK surgery can alter your aberration profile, and why pupil size is a constant optical trade-off.\n\nBut the story doesn't stop at imperfection. We explore the remarkable ways your visual system fights back — from the directional sensitivity of foveal photoreceptors in the Stiles-Crawford effect, to how the brain performs real-time image enhancement, to how chromatic aberration is quietly managed through retinal sensitivity. We also look at cutting-edge technologies like wavefront aberrometry and adaptive optics that are transforming how clinicians measure and correct retinal image quality.\n\nWhether you're a vision science enthusiast, an eye care professional, or someone who just picked up a new glasses prescription, this episode will change the way you think about sight. Listen now, and visit Focuslinks.in to explore more content on the science of vision.\n\n---",
       "tags": "mtf,image-quality,neural,blur",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-25.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "eda9c186-f46b-4fa5-9214-f2b8aac15fde",
+      "generatedAt": "2026-08-05T19:54:03.206Z"
     },
     {
       "episodeOrder": 26,

@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-05T18:08:31.938Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-05T18:12:09.130Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Keratoconus: The Ectatic Cone and Early Detection",
-      "description": "Topographic signs, fleischer ring, and the cross-linking referral that halts progression.",
+      "title": "Keratoconus Explained: Early Detection That Can Save Your Sight",
+      "description": "Is your glasses prescription constantly changing? Do lights look like they have halos or streaks at night? You might be dismissing these as ordinary vision problems — but they could be early warning signs of keratoconus, a progressive corneal condition that affects far more people than most realize.\n\nIn this episode of Focus Cast, we break down exactly what keratoconus is, why the cornea thins and bulges into a cone shape, and how that structural change quietly distorts your vision in ways that regular glasses can never fully fix. We explore who is most at risk, including those with a family history, frequent eye rubbers, and young people with rapidly shifting prescriptions, and why South Asian and Middle Eastern populations face a higher likelihood of developing this condition.\n\nMore importantly, we dive deep into why early detection is everything. From corneal topography and tomography to biomechanical testing that catches subclinical keratoconus before visible changes even appear, modern screening tools have transformed what is possible. We also cover corneal cross-linking, the procedure that can stop progression in its tracks when keratoconus is caught in time, along with specialty contact lenses, corneal ring segments, and what advanced cases may require.\n\nWhether you are a parent of a teenager with worsening astigmatism, someone considering LASIK, or simply curious about your corneal health, this episode gives you the knowledge to ask the right questions and take the right steps.\n\nDo not wait for your vision to deteriorate before acting. Visit Focuslinks.in to explore more episodes and eye health resources, and share this episode with anyone whose vision story sounds a little too familiar.",
       "tags": "keratoconus,ectasia,topography,cxl",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-13.mp3",
+      "duration": "10:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953528296",
+      "generatedAt": "2026-08-05T18:12:08.296Z"
     },
     {
       "episodeOrder": 14,

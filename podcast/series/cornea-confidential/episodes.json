@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-05T17:37:06.090Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-05T17:38:59.399Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Stroma: Collagen Architecture and Edema Mechanics",
-      "description": "How stromal lamellae maintain transparency and the osmotic forces that cause corneal swelling.",
+      "title": "Stroma & Collagen: The Science Behind Edema Explained",
+      "description": "What does pressing a wet sponge have in common with swollen ankles, heart failure, and the transparency of your cornea? More than you'd think. In this episode of Focus Cast, we unpack the hidden world of stroma — the connective tissue scaffolding that holds your body together — and explore how its collagen architecture governs everything from organ function to fluid balance.\n\nWe start with collagen itself, the most abundant protein in your body, diving deep into its triple-helix molecular structure, its 28 distinct types, and the remarkable way its fiber arrangements are tuned to the specific demands of each tissue. Parallel fibers in tendons, basket-weave patterns in skin, orthogonal layers in the cornea — the architecture is never random, and it is always functional.\n\nFrom there, we break down the mechanics of edema, walking through Starling forces, hydrostatic and oncotic pressure, and the role of proteoglycans in creating the subtle suction effect that keeps your tissues in fluid balance. You will learn why pre-edema is invisible, why a bee sting near your eye swells so dramatically, and how chronic swelling can permanently harden tissue through fibrosis.\n\nWe also explore the clinical side — how compression therapy, diuretics, and elevation work at a mechanical level — and look ahead at cutting-edge tissue engineering research trying to replicate stromal scaffolds for organ replacement.\n\nWhether you are a student, a healthcare professional, or simply someone curious about how your body works, this episode will change the way you think about swelling, connective tissue, and biological engineering.\n\nListen now and visit Focuslinks dot in for more episodes, articles, and science resources.",
       "tags": "stroma,collagen,edema,transparency",
       "category": "Cornea",
-      "audioUrl": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-04.mp3",
       "duration": "0:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951538818",
+      "generatedAt": "2026-08-05T17:38:58.818Z"
     },
     {
       "episodeOrder": 5,

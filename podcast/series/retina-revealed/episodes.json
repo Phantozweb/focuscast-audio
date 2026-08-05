@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-05T17:24:08.713Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-05T17:27:43.380Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Retinal Vasculature: Arteries, Veins, and the AV Crossing",
-      "description": "Distinguishing arteries from veins, grading AV nicking, and recognizing hypertensive and arteriolar changes.",
+      "title": "Retinal Vasculature: Arteries, Veins & AV Crossings Explained",
+      "description": "What does the back of your eye reveal about your heart, brain, and overall vascular health? More than you might think. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into the retinal vasculature — the intricate network of arteries and veins that keeps your retina alive and functioning.\n\nWe break down how the central retinal artery branches into four major divisions across the retina, how to visually distinguish arteries from veins using color, caliber, light reflex, and branching patterns, and why the artery-to-vein ratio matters so much in clinical diagnosis.\n\nThen we explore one of the most clinically significant phenomena in ophthalmology — the arteriovenous crossing. You will learn why arteries and veins share a connective tissue sheath at crossing points, how hypertension causes arterial thickening that compresses the underlying vein, and what signs like AV nipping, venous banking, and vessel deflection tell us about a patient's systemic health. We also cover how these changes connect directly to branch retinal vein occlusion, one of the leading causes of sudden vision loss in adults.\n\nAlong the way, we touch on the dual blood supply of the retina, the role of the choroidal circulation, and the fascinating fact that the fovea — the seat of your sharpest vision — contains no blood vessels at all.\n\nWhether you are a student, a clinician, or simply someone curious about how the human body works, this episode offers a clear and engaging look at why the retina is considered a window to systemic health.\n\nListen now and visit Focuslinks.in for more eye care content that educates, informs, and inspires.",
       "tags": "vasculature,av-crossing,hypertension,vessels",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-04.mp3",
+      "duration": "10:44",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785950862779",
+      "generatedAt": "2026-08-05T17:27:42.779Z"
     },
     {
       "episodeOrder": 5,

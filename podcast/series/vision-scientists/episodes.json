@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-05T17:28:20.485Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-05T17:31:37.278Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -40,13 +40,15 @@
     {
       "episodeOrder": 3,
       "title": "The Thin Lens Equation: Image Formation Made Simple",
-      "description": "Object distance, image distance, and focal length — the math behind every spectacle lens.",
+      "description": "Ever wondered how a magnifying glass makes things look bigger, how your glasses correct your vision, or how a camera captures the world in a single frame? The answer lies in one elegant formula — the thin lens equation. In this episode of Focus Cast by Focuslinks.in, we break down the thin lens equation (1/f = 1/do + 1/di) in plain, conversational language that anyone can understand and appreciate.\n\nWe explore what lenses actually are, how refraction bends light, and the key difference between convex and concave lenses. You will discover how changing the distance between an object and a lens produces dramatically different images — from the tiny inverted image inside a camera to the magnified virtual image seen through a magnifying glass. We also unpack the concept of magnification and show how it connects directly to the thin lens equation.\n\nFrom eyeglasses and projectors to telescopes, microscopes, and smartphone cameras, this episode reveals how a single physics formula governs nearly every optical device in your daily life. We even trace the surprisingly rich history of lenses, from ancient Roman fire-starters to the Latin word for lentil that gave lenses their name.\n\nWhether you are a student tackling optics for the first time, a science enthusiast, or a vision care professional, this episode will give you a fresh and intuitive understanding of how light and lenses work together. Tune in, and you will never look at a pair of glasses — or a bowl of lentil soup — quite the same way again.\n\nListen now and visit Focuslinks.in to explore more content where science and vision come into sharp focus.",
       "tags": "thin-lens,focal-length,optics,math",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-03.mp3",
+      "duration": "9:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951096871",
+      "generatedAt": "2026-08-05T17:31:36.872Z"
     },
     {
       "episodeOrder": 4,

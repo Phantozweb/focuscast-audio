@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-05T18:24:18.626Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-05T18:27:56.889Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Cornea: Epithelium, Stroma, and Endothelium Layer by Layer",
-      "description": "A repeatable corneal scan and the lesions that hide in each layer — abrasions, infiltrates, guttae.",
+      "title": "Cornea Explained: Epithelium, Stroma & Endothelium Layers",
+      "description": "What if the clearest thing you see every day depends on a structure thinner than a human hair? In this episode of Focus Cast by Focuslinks.in, we take a fascinating layer-by-layer journey through the cornea — the front window of your eye — and uncover the extraordinary biology that makes clear vision possible.\n\nWe start with the **corneal epithelium**, the outermost layer that renews itself every seven to ten days, heals minor scratches within hours, and houses the densest network of nerve endings in the entire human body. Then we move into the **corneal stroma**, which makes up 90% of the cornea's thickness and achieves optical transparency not through magic, but through the breathtakingly precise arrangement of collagen fibers that cancel out scattered light. Finally, we explore the **corneal endothelium** — a single layer of irreplaceable hexagonal cells that pump fluid out of the cornea around the clock, keeping your vision sharp from the moment you open your eyes.\n\nAlong the way, you'll discover why corneal diseases like Fuchs dystrophy cause blurry morning vision, how advanced surgeries like DMEK restore sight by transplanting just one cell-thick layer, and why losing endothelial cells is a one-way process your body cannot reverse.\n\nWhether you're a student of vision science, a curious patient, or simply someone who wants to understand how your eyes work, this episode will change the way you think about sight.\n\nListen now and visit **Focuslinks.in** for more episodes covering eye health, ophthalmology, and the science of vision.\n\n---",
       "tags": "cornea,epithelium,stroma,endothelium",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-20.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fee0d24f-a1a2-4ae7-830f-50490b0a9612",
+      "generatedAt": "2026-08-05T18:27:56.445Z"
     },
     {
       "episodeOrder": 21,

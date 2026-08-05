@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T18:19:37.948Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-05T18:22:59.325Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Vergence Movements: Convergence and Divergence Dynamics",
-      "description": "The AC/A ratio, convergence insufficiency, and the vision therapy that restores comfort.",
+      "title": "Vergence Movements: How Your Eyes Converge and Diverge",
+      "description": "Ever wonder what your eyes are actually doing when you shift focus from your phone to the wall across the room? The answer lies in vergence movements — one of the most hardworking and least appreciated functions of the human visual system. In this episode of Focus Cast, we break down exactly how convergence and divergence work, why they matter for your daily vision, and what happens when the vergence system starts to struggle.\n\nWe explore the fascinating neuroscience behind the accommodation-convergence reflex, the muscles and cranial nerves that power these precise eye movements, and how vergence is deeply tied to the way your brain processes depth and focus. You will also learn about vergence dysfunction, including convergence insufficiency, a surprisingly common condition that is frequently mistaken for learning disabilities or attention disorders in children.\n\nWe also tackle the very real impact of our screen-heavy modern lives on vergence health, why digital eye strain is so widespread, and how the vergence-accommodation conflict is one of the biggest unsolved challenges in virtual reality technology today.\n\nWhether you are a parent concerned about your child's reading struggles, someone who deals with chronic eye strain or headaches, or simply curious about the science of sight, this episode delivers clear, practical insights you can actually use.\n\nVisit Focuslinks dot in to explore more episodes, articles, and resources on vision and eye health. If today's episode opened your eyes, share it with someone who could benefit from understanding their vision better.",
       "tags": "vergence,convergence,ac-a,vision-therapy",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-17.mp3",
+      "duration": "10:07",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785954178510",
+      "generatedAt": "2026-08-05T18:22:58.510Z"
     },
     {
       "episodeOrder": 18,

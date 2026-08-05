@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T19:33:01.336Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-05T19:33:16.404Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -349,14 +349,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Peripheral Fundus: The Exam You Cannot Skip",
-      "description": "A systematic 360-degree sweep and the lesions — paving stone, snail track, white-with-pressure — you must identify.",
+      "title": "Peripheral Fundus Exam: The Eye Check You Can't Skip",
+      "description": "What if a routine eye exam missed a retinal tear that later became a full detachment? It happens more often than you think — and it's largely preventable. In this episode of Focus Cast, we dive deep into the peripheral fundus exam, the most overlooked yet critically important part of a comprehensive eye evaluation.\n\nWe start by breaking down what the peripheral retina actually is, why it's structurally unique, and why its sheer size makes it impossible to ignore. From the vitreous base to the ora serrata, this region holds a surprising amount of clinical information that never shows up in a standard posterior pole exam.\n\nYou'll learn about the conditions hiding in the periphery — retinal tears and holes, lattice degeneration, retinoschisis, choroidal nevi, peripheral diabetic changes, and even early choroidal melanomas — many of which are completely asymptomatic until it's too late. We also walk through the examination techniques that actually work, including binocular indirect ophthalmoscopy with scleral indentation, slit lamp biomicroscopy with contact lenses, and wide-field imaging systems, along with their real-world strengths and limitations.\n\nFinally, we cover which patients are at highest risk and why dilation is non-negotiable for a proper peripheral exam.\n\nWhether you're a student building clinical habits or a seasoned practitioner refining your approach, this episode will change how you think about every fundus exam you do.\n\nListen now and don't let the periphery become your blind spot. Visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "periphery,fundus,sweep,lesions",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-27.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d2a34383-f883-467e-a113-d266ce101743",
+      "generatedAt": "2026-08-05T19:33:16.404Z"
     },
     {
       "episodeOrder": 28,

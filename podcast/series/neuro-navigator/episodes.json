@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T20:27:08.076Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-05T20:27:08.352Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,16 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Papilledema Explained: Bilateral Disc Swelling & Raised ICP",
-      "description": "What if a routine eye exam could reveal a life-threatening problem inside your skull? In this episode of Focus Cast, we break down papilledema — the bilateral optic disc swelling caused by raised intracranial pressure — and explain why this single clinical finding can change everything about how a patient is managed.\n\nWe walk you through the anatomy of why it happens, tracing how elevated CSF pressure travels along the optic nerve sheath to cause visible swelling at the disc. You will learn what papilledema actually looks like on fundoscopy, how it is graded using the Frisén scale, and why vision can appear deceptively normal in the early stages — making it easy to miss and dangerous to ignore.\n\nWe cover the full spectrum of causes, from brain tumors and hydrocephalus to venous sinus thrombosis and idiopathic intracranial hypertension, including why young overweight women are disproportionately affected by the latter. We also explain the critical rule of always performing neuroimaging before a lumbar puncture, and walk through how treatment is guided entirely by the underlying cause.\n\nWhether you are a medical student preparing for exams, a clinician refreshing your neuro-ophthalmology knowledge, or simply a curious learner, this episode gives you a clear, structured understanding of one of the most important signs in clinical medicine.\n\nListen now and discover why the optic disc is the only part of the central nervous system visible to the naked eye — and what it can tell you when you know how to look. Visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
+      "title": "Papilledema: What Bilateral Disc Swelling Reveals About Your Brain",
+      "description": "What if a routine eye exam suddenly revealed a life-threatening problem inside your skull? That's the reality with papilledema — a critical medical finding that every student, clinician, and curious mind needs to understand. In this episode of Focus Cast, we break down exactly what papilledema is, why it happens, and why it demands immediate attention.\n\nWe start with the basics: how cerebrospinal fluid maintains intracranial pressure, and why a rise in that pressure causes the optic disc to swell in both eyes simultaneously. From there, we explore the major causes of raised intracranial pressure — including brain tumors, hydrocephalus, meningitis, venous sinus thrombosis, and idiopathic intracranial hypertension — and explain how each one sets off the chain of events visible at the back of the eye.\n\nYou'll learn how papilledema is identified using an ophthalmoscope, how it's graded on the Frisén scale, and why early-stage papilledema can exist with completely normal vision. We also cover the classic symptoms of raised intracranial pressure, including morning headaches and transient visual obscurations, and explain why ignoring these warning signs can lead to permanent vision loss.\n\nWe take a deep dive into idiopathic intracranial hypertension — its risk factors, diagnostic criteria, and treatment options including acetazolamide and surgical interventions. And we close with a powerful reminder: the optic disc is the only part of the central nervous system visible to the naked eye, making fundoscopy one of the most valuable skills in clinical medicine.\n\nWhether you're preparing for exams or expanding your medical knowledge, this episode delivers clarity on a complex topic. Listen now and visit focuslinks.in for more episodes like this one.\n\n---",
       "tags": "papilledema,icp,frisen,imaging",
       "category": "Optic Nerve",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-13.mp3",
-      "duration": "12:26",
+      "duration": "12:37",
       "imageUrl": "",
       "status": "generated",
-      "runId": "600c1f26-8bca-482d-bc88-d59fe1a99912",
-      "generatedAt": "2026-08-05T20:27:08.076Z"
+      "runId": "217aa4e5-0d75-44d6-bd47-e64955add81a",
+      "generatedAt": "2026-08-05T20:25:21.904Z"
     },
     {
       "episodeOrder": 14,
@@ -282,14 +282,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Myasthenia Gravis: The Fatigable Diplopia",
-      "description": "The variable ptosis, the ice pack test, and the acetylcholine receptor antibody workup.",
+      "title": "Myasthenia Gravis: Why Your Double Vision Gets Worse by Evening",
+      "description": "Ever noticed double vision that mysteriously disappears after a good night's sleep, only to return and worsen as the day goes on? That's not just tired eyes — that could be Myasthenia Gravis, one of the most fascinating and frequently missed autoimmune conditions in neurology.\n\nIn this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about Myasthenia Gravis — from the science of what goes wrong at the neuromuscular junction, to why the eyes are almost always the first to show symptoms. We explore the hallmark pattern of fatigable diplopia and ptosis, explain why this condition is known as the great imitator of ocular motility disorders, and walk you through the clever bedside tests doctors use to catch it — including the surprisingly simple ice pack test.\n\nWe also cover who is most at risk, the critical link between Myasthenia Gravis and the thymus gland, and why those seemingly minor eye symptoms can sometimes signal a life-threatening myasthenic crisis. From diagnostic tools like anti-AChR antibodies and single fiber EMG, to treatments ranging from pyridostigmine and immunosuppressants to cutting-edge therapies like efgartigimod — this episode gives you a complete, clear, and genuinely engaging picture of the condition.\n\nWhether you're a medical professional, a student, or someone experiencing unexplained double vision, this episode could change how you see things — literally.\n\nListen now, and if this episode helped you, share it with someone who needs to hear it. Visit Focuslinks.in for more episodes that make complex medicine easy to understand.\n\n---",
       "tags": "myasthenia,fatigable,ice-pack,achr",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-22.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bcebec1f-99a2-4ade-b6fe-0f3c512311c8",
+      "generatedAt": "2026-08-05T20:27:08.352Z"
     },
     {
       "episodeOrder": 23,

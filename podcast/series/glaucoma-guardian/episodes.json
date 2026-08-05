@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T19:48:06.195Z",
+  "lastUpdated": "2026-08-05T19:48:22.466Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -274,15 +274,15 @@
     {
       "episodeOrder": 21,
       "title": "Beta-Blockers & Alpha-2 Agonists: The Adjunct Ladder Explained",
-      "description": "Ever wondered why patients are sometimes on three different blood pressure medications at once? In this episode of Focus Cast by Focuslinks.in, we break down the pharmacology of beta-blockers and alpha-2 agonists and explain exactly how these two powerful drug classes work together as adjunct agents in clinical practice.\n\nWe start with the fundamentals of beta-adrenergic receptors, covering the critical difference between selective beta-1 blockers like metoprolol and bisoprolol and non-selective agents, and why that distinction can be life-saving in patients with asthma. From hypertension and heart failure to performance anxiety and opioid withdrawal, you will discover just how versatile beta-blockers really are beyond their reputation as heart drugs.\n\nThen we dive into the often-overlooked world of alpha-2 agonists, exploring how clonidine and dexmedetomidine quiet the sympathetic nervous system from the inside out. Whether it is managing withdrawal symptoms, providing cooperative sedation in the ICU, or supporting ADHD treatment, these drugs punch well above their weight.\n\nMost importantly, we bring it all together through the concept of the adjunct ladder, showing how rational polypharmacy works when clinicians layer complementary mechanisms to achieve results no single drug could deliver alone. We also cover the safety essentials, including why abrupt discontinuation of either drug class can be dangerous.\n\nIf you are a medical student, pharmacology enthusiast, or practicing clinician looking to sharpen your understanding of sympatholytic therapy, this episode is built for you.\n\nListen now and visit Focuslinks.in for more episodes and clinical pharmacology resources designed to help you think deeper and practice smarter.\n\n---",
+      "description": "Ever wondered why patients are sometimes on three different medications for the same condition? In this episode of Focus Cast by Focuslinks.in, we break down two of pharmacology's most versatile drug classes — beta-blockers and alpha-2 agonists — and explain exactly how they fit into the adjunct ladder used in hypertension, anxiety, pain management, and withdrawal syndromes.\n\nWe start with the core mechanisms: how beta-blockers silence the sympathetic nervous system at the receptor level, and how alpha-2 agonists like clonidine and dexmedetomidine turn down the signal at its source in the brain. From there, we explore why this difference matters clinically and how layering these two classes gives physicians a level of control that neither drug could achieve alone.\n\nYou will also hear the surprising stories behind these medications — propranolol's quiet role in performance anxiety among musicians and surgeons, clonidine's accidental discovery as a blood pressure drug, and how alpha-2 agonists became essential tools in managing opioid withdrawal and pediatric ADHD. We also cover the real risks — rebound hypertension, bradycardia, masking hypoglycemia — so you understand not just when to use these drugs, but when to be cautious.\n\nWhether you are a medical student preparing for exams, a clinician refreshing your pharmacology, or simply someone curious about how modern medicine actually works, this episode gives you a clear, logical framework for understanding adjunct therapy.\n\nListen now and walk away with a mental model that makes complex drug combinations finally make sense. Find more episodes and resources at Focuslinks.in.\n\n---",
       "tags": "beta-blocker,alpha-2,timolol,brimonidine",
-      "category": "Pharmacology",
+      "category": "Pediatric",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-21.mp3",
-      "duration": "12:32",
+      "duration": "12:13",
       "imageUrl": "",
       "status": "generated",
-      "runId": "7144f98c-fda3-4ebf-96d0-57c7627c8929",
-      "generatedAt": "2026-08-05T19:46:09.965Z"
+      "runId": "b2901c0f-1522-46b5-8804-26871e191735",
+      "generatedAt": "2026-08-05T19:48:22.466Z"
     },
     {
       "episodeOrder": 22,

@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T18:12:09.130Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-05T18:15:29.090Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Corneal Cross-Linking: Halting the Ectatic Slide",
-      "description": "The epi-off and epi-on protocols, what to expect during recovery, and post-CXL optometry care.",
+      "title": "Corneal Cross-Linking: How to Stop Keratoconus Progression",
+      "description": "What if your vision kept getting worse, and no one could stop it? For hundreds of thousands of people living with keratoconus, that was once the reality. In this episode of Focus Cast by Focuslinks.in, we break down one of the most significant advances in modern eye care: corneal cross-linking, the procedure that halts the progressive corneal damage caused by keratoconus before it becomes irreversible.\n\nWe start with the basics, explaining what keratoconus is, why the cornea loses its shape, and what the \"ectatic slide\" really means for your long-term vision. Then we dive into the science behind corneal cross-linking, how riboflavin eye drops and ultraviolet A light work together to create new collagen bonds and restore structural strength to a weakening cornea.\n\nYou will learn the difference between epithelium-off and epithelium-on cross-linking, who makes an ideal candidate for the procedure, and why timing matters more than most people realize. We also cover what cross-linking can and cannot do, how it fits alongside other treatments like scleral lenses and corneal ring segments, and the latest research into accelerated and topography-guided protocols pushing the field forward.\n\nWhether you have been recently diagnosed with keratoconus, have a prescription that keeps shifting without explanation, or simply want to understand a treatment that is changing lives, this episode gives you the full picture in plain language.\n\nEarly treatment makes a real difference. Do not wait for things to get worse.\n\nListen now and visit Focuslinks.in for more episodes, expert resources, and everything you need to stay informed about your eye health.",
       "tags": "cxl,cross-linking,ectasia,protocol",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-14.mp3",
+      "duration": "9:59",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953728261",
+      "generatedAt": "2026-08-05T18:15:28.261Z"
     },
     {
       "episodeOrder": 15,

@@ -9,7 +9,7 @@
   "order": 6,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T20:10:20.750Z",
+  "lastUpdated": "2026-08-05T20:11:18.413Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,16 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "CL Over-Refraction: Troubleshoot Contact Lens Vision at the Chair",
-      "description": "Ever had a contact lens patient squinting at the chart even though the fit looks perfect? You're not alone — and the answer might be simpler than you think. In this episode of Focus Cast by Focuslinks.in, we dive deep into contact lens over-refraction, one of the most practical yet underutilized clinical tools available to eye care professionals.\n\nWhether you're an optometrist, optician, or contact lens fitter, this episode walks you through exactly how to troubleshoot vision complaints at the chair with confidence. We cover the two core purposes of over-refraction — diagnostic and prescriptive — and why studies suggest up to 30% of contact lens wearers may not be in their optimal prescription power.\n\nYou'll learn how to perform a systematic over-refraction using a phoropter or trial lenses, how to interpret residual cylinder as a sign of toric lens rotation, and how to accurately convert your results into a new lens order without relying on mental math alone. We also tackle the trickier scenarios: multifocal contact lens over-refraction, when a plano result means you need to look at fit instead of power, and how dry eye can mimic a prescription problem entirely.\n\nBeyond the technique, we talk about the communication skills that make the whole process work — because a patient who feels heard is a patient who trusts your recommendations.\n\nIf you want to sharpen your contact lens troubleshooting skills and deliver genuinely better outcomes, this episode is your starting point. Listen now, share it with a colleague, and visit Focuslinks.in for more eye care resources and episodes of Focus Cast.\n\n---",
+      "title": "Contact Lens Over-Refraction: Troubleshoot Vision at the Chair",
+      "description": "When a patient says their vision is \"just not quite right,\" do you know exactly where to look? In this episode of Focus Cast, we break down everything you need to know about contact lens over-refraction — one of the most powerful and underutilized diagnostic tools in your clinical toolkit.\n\nWe cover how to perform an over-refraction confidently, what the results are actually telling you, and how to troubleshoot the tricky cases that don't follow the textbook. You'll learn how to interpret significant spherical findings that point to a lens power mismatch, how to manage residual astigmatism in spherical soft lens wearers, and when it's time to consider a toric lens. We also walk through the LARS rule for correcting toric lens rotation, explain how RGP lenses neutralize corneal astigmatism through the tear lens, and tackle the unique challenges of over-refracting patients in multifocal contact lenses.\n\nBut over-refraction is only part of the picture. We discuss why slit lamp findings, lens fit, centration, and ocular surface health — especially dry eye — are just as critical to solving your patient's vision complaints. Because sometimes the answer isn't optical at all.\n\nWhether you're a seasoned contact lens fitter or building your clinical confidence, this episode gives you a practical, chair-side framework for turning a vague vision complaint into a clear, actionable plan.\n\nListen now and start troubleshooting smarter. Visit Focuslinks.in for more episodes, clinical resources, and insights designed to help you grow in practice.\n\n---",
       "tags": "over-refraction,troubleshooting,power,rotation",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-27.mp3",
-      "duration": "12:41",
+      "duration": "12:21",
       "imageUrl": "",
       "status": "generated",
-      "runId": "71ce8919-5472-43fc-8ed6-7c3106820c73",
-      "generatedAt": "2026-08-05T20:08:46.533Z"
+      "runId": "c6c7366e-1da7-4efd-b2c9-4cbcfe19ce95",
+      "generatedAt": "2026-08-05T20:11:18.413Z"
     },
     {
       "episodeOrder": 28,

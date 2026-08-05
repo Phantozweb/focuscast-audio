@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-05T17:31:37.278Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-05T17:34:54.798Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Spherical Lenses: Plus, Minus, and the Focal Point",
-      "description": "How convex lenses converge and concave lenses diverge — the foundation of refractive correction.",
+      "title": "Spherical Lenses Explained: Plus, Minus & Focal Points",
+      "description": "Ever put on someone else's glasses and felt the world instantly blur or zoom in? That disorienting moment is actually a perfect introduction to one of the most fascinating concepts in vision science — the focal point. In this episode of Focus Cast, we break down exactly how spherical lenses work, why your eyeglass prescription carries a plus or minus sign, and what those diopter numbers really mean for your eyesight.\n\nWe start with the basics of convex and concave lenses, exploring how plus lenses converge light to correct farsightedness and how minus lenses diverge light to bring nearsighted eyes back into sharp focus. You'll learn how the focal point shifts depending on what you're looking at, why aging eyes lose their ability to accommodate, and how presbyopia quietly sneaks up on almost everyone past forty.\n\nWe also touch on the history of eyeglasses, from thirteenth-century Italian craftsmen grinding glass by instinct to seventeenth-century scientists like Kepler and Descartes formalizing the mathematics of optics. And we give you a clear, jargon-free explanation of diopters so you can finally decode your own prescription with confidence.\n\nWhether you wear glasses, contact lenses, or are simply curious about how light and the human eye work together, this episode gives you a genuinely new way to see the science behind clear vision.\n\nIf you found this episode useful, share it with someone who has ever squinted at their prescription and wondered what it all means. Explore more episodes, articles, and vision resources at focuslinks.in.",
       "tags": "spherical,plus,minus,focal-point",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-04.mp3",
+      "duration": "9:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951294204",
+      "generatedAt": "2026-08-05T17:34:54.204Z"
     },
     {
       "episodeOrder": 5,

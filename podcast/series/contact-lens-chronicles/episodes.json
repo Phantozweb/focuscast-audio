@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T20:05:57.429Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T20:06:07.994Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -284,14 +284,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "CL-Related Dry Eye: The Inflammation Loop",
-      "description": "Lens dehydration, the tear film disruption, and the inks and drops that keep patients comfortable.",
+      "title": "Contact Lens Dry Eye: Breaking the Inflammation Loop",
+      "description": "Why do your eyes feel fine in the morning but completely exhausted by afternoon? If you wear contact lenses, the answer might surprise you — and it goes far deeper than simple dryness. In this episode of Focus Cast, we unpack the science behind contact lens-related dry eye and the hidden biological cycle driving your discomfort: the inflammation loop.\n\nWe break down exactly what happens to your tear film the moment a contact lens touches your eye, why the lens disrupts that delicate three-layer structure, and how your body's own immune response can make dry eye symptoms progressively worse over time. You'll learn why contact lens wearers are especially vulnerable — from mechanical friction and oxygen deprivation to protein deposits and preservative damage — and how these triggers combine to keep the inflammation loop spinning.\n\nBut this episode isn't just about the problem. We cover real, evidence-backed solutions: prescription anti-inflammatory drops like cyclosporine and lifitegrast, the benefits of daily disposable lenses, preservative-free artificial tears, omega-3 supplementation, scleral lenses for severe cases, and treatments targeting meibomian gland dysfunction at the root level.\n\nIf you've been pushing through uncomfortable lenses or assuming dry, gritty eyes are just part of the deal, this episode will change how you think about your ocular surface health — and give you a clear path forward.\n\nVisit Focuslinks.in for more expert eye care content, and share this episode with anyone who's been struggling with their contact lenses. Comfortable wear isn't just possible — it's within reach.\n\n---",
       "tags": "dry-eye,dehydration,tear-film,inflammation",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-22.mp3",
+      "duration": "12:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b3106a72-d4c3-476f-a3b9-a7502c457ea7",
+      "generatedAt": "2026-08-05T20:06:07.994Z"
     },
     {
       "episodeOrder": 23,

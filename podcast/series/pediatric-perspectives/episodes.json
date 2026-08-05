@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-05T20:09:57.397Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-05T20:10:09.105Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "The Preschool Exam: When Cooperation Is the Challenge",
-      "description": "Matching acuity tests to age, the fix-and-follow technique, and the cycloplegic refraction that reveals truth.",
+      "title": "Preschool Exam: Why Cooperation Is the Real Challenge",
+      "description": "Think preschool exams are about ABCs and counting to twenty? Think again. In this eye-opening episode of Focus Cast, we dive deep into one of modern parenting's most surprisingly stressful experiences — the preschool assessment — and reveal why the biggest obstacle has nothing to do with what your child knows.\n\nWe explore why preschool exams exist in the first place, what early childhood assessments are actually measuring, and why cooperation becomes the true test for most young children. From stranger anxiety and the observer effect to the unpredictable role of mood and sleep, we break down the very real developmental reasons why a perfectly capable three or four year old might shut down completely in an assessment room — and why that's completely normal.\n\nYou'll also hear practical, research-backed advice for parents on how to prepare your child without adding pressure, how to build social confidence over time, and what to do on the day itself to set your child up for success. For educators and evaluators, we discuss what truly effective, child-centered assessment looks like and why creating safety always comes before creating tasks.\n\nWe also tackle the bigger question: are our current preschool assessment systems actually identifying potential, or simply rewarding privilege and pressure tolerance?\n\nWhether you're a parent navigating a competitive admissions process, a teacher working with young children, or simply someone curious about early childhood development, this episode will change how you think about what it means for a young child to be \"ready.\"\n\nListen now and share this episode with a parent who needs to hear it. Visit focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "preschool,acuity-tests,cycloplegic,cooperation",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-03.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "89f6d2f3-df58-4e26-a323-733329f4e236",
+      "generatedAt": "2026-08-05T20:10:09.105Z"
     },
     {
       "episodeOrder": 4,

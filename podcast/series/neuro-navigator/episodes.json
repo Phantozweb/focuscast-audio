@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-05T20:23:38.137Z",
+  "lastUpdated": "2026-08-05T20:24:05.598Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,16 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Giant Cell Arteritis: Start Steroids Before the Biopsy?",
-      "description": "Can starting steroids before a biopsy cost your patient their diagnosis — or could waiting cost them their sight? In this episode of Focus Cast, we tackle one of the most clinically urgent debates in medicine: whether to treat Giant Cell Arteritis before confirming it with a temporal artery biopsy.\n\nGiant Cell Arteritis, or GCA, is a large vessel vasculitis that predominantly affects adults over fifty and carries a devastating risk of permanent vision loss. The window to act is narrow, and the consequences of hesitation are irreversible. Yet many clinicians still pause, worried that starting high-dose steroids will invalidate the biopsy result.\n\nWe break down exactly why that concern, while understandable, should not delay treatment. You will learn how long histological changes actually persist after steroid initiation, what the recommended steroid dosing looks like for both uncomplicated GCA and cases with visual involvement, and why a negative biopsy does not close the diagnostic case. We also cover the role of skip lesions, the importance of biopsy length, and how emerging tools like temporal artery ultrasound and PET CT are reshaping the diagnostic pathway.\n\nWhether you are a medical student building your clinical reasoning skills, a junior doctor navigating a real-time emergency, or a seasoned clinician looking for a sharp refresher, this episode gives you the framework to act decisively when it matters most.\n\nListen now and share this episode with a colleague who manages patients at risk for GCA. For more evidence-based medical podcast episodes, visit Focuslinks dot in.\n\n---",
+      "title": "Giant Cell Arteritis: Why Steroids Come Before the Biopsy",
+      "description": "What if your doctor told you they wanted to start treatment before running the test to confirm your diagnosis? For most conditions, that would raise serious questions. But for Giant Cell Arteritis, it could be the decision that saves your sight.\n\nIn this episode of Focus Cast, we break down one of medicine's most urgent clinical dilemmas: should high-dose steroids be started before a temporal artery biopsy confirms Giant Cell Arteritis? The answer, backed by current evidence and major medical guidelines, is almost always yes — and understanding why reveals something profound about how good medicine actually works.\n\nWe cover who gets GCA and why older adults, particularly women over fifty, are most at risk. We walk through the classic symptoms — new headaches, jaw claudication, scalp tenderness, and the visual warning signs that demand immediate action. We explain why the temporal artery biopsy, despite being the gold standard diagnostic tool, has real limitations including false negatives and skip lesions. And we explore the critical evidence showing that biopsy results remain reliable for two to four weeks after steroids begin, dismantling the common fear that early treatment ruins the test.\n\nWe also discuss the very real risks of high-dose corticosteroids in elderly patients, how clinicians weigh those risks against the irreversible threat of permanent vision loss, and what long-term GCA management looks like — including the promising role of tocilizumab as a steroid-sparing therapy.\n\nThis episode is for anyone curious about clinical decision-making, vasculitis, or the moments in medicine when waiting for certainty costs more than acting on strong suspicion.\n\nListen now and visit Focuslinks.in to explore more episodes of Focus Cast.\n\n---",
       "tags": "gca,steroids,biopsy,blindness",
       "category": "Optic Nerve",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-12.mp3",
-      "duration": "12:41",
+      "duration": "12:24",
       "imageUrl": "",
       "status": "generated",
-      "runId": "00c031e0-19d2-459a-9868-40d3b1a8b736",
-      "generatedAt": "2026-08-05T20:23:14.920Z"
+      "runId": "6bebca8e-791e-488b-acc4-c252080dca5f",
+      "generatedAt": "2026-08-05T20:24:05.598Z"
     },
     {
       "episodeOrder": 13,

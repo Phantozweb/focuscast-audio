@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-05T17:50:33.539Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-05T18:01:18.127Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Ocular Hypertension: To Treat or Not to Treat",
-      "description": "The OHTS risk calculator, the 5-year probability, and the shared decision-making conversation.",
+      "title": "Ocular Hypertension: Should You Treat It or Wait?",
+      "description": "Your eye pressure is high — but does that actually mean you need treatment? In this episode of Focus Cast, we tackle one of the most debated questions in eye care: when it comes to ocular hypertension, should doctors treat it or simply monitor it?\n\nOcular hypertension affects millions of people worldwide, yet most don't even know they have it. With zero symptoms and no pain, elevated intraocular pressure is a silent condition that can only be detected through a routine eye exam. Left unmanaged in the wrong patient, it can quietly pave the way toward glaucoma — one of the leading causes of irreversible blindness globally.\n\nBut here's the twist: not everyone with high eye pressure will develop glaucoma. So how do eye doctors decide who needs treatment and who just needs careful monitoring?\n\nIn this episode, we break down exactly what ocular hypertension is, why it matters, and what the landmark Ocular Hypertension Treatment Study (OHTS) revealed about managing this condition. We also explore the key risk factors doctors weigh — including corneal thickness, optic nerve health, age, and family history — and walk you through the treatment options available today, from daily prescription eye drops to laser procedures like selective laser trabeculoplasty (SLT).\n\nWhether you've recently been told your eye pressure is elevated or you're simply curious about your eye health, this episode gives you the knowledge to have a more informed conversation with your eye doctor.\n\nDon't wait for symptoms that may never come. Listen now, then book your eye exam — because protecting your vision starts with knowing your numbers. Visit Focuslinks.in for more eye health resources and episodes.",
       "tags": "oht,ohts,risk-calculator,decision",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-08.mp3",
+      "duration": "10:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952877712",
+      "generatedAt": "2026-08-05T18:01:17.712Z"
     },
     {
       "episodeOrder": 9,

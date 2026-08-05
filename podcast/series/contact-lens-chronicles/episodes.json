@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T20:05:49.199Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-05T20:05:59.862Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -378,14 +378,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "The Unhappy CL Patient: A Diagnostic Framework",
-      "description": "A structured approach to discomfort, poor vision, and redness that turns frustration into retention.",
+      "title": "The Unhappy Contact Lens Patient: A Diagnostic Framework",
+      "description": "When a contact lens patient says \"my lenses just don't feel right,\" do you have a clear plan — or are you guessing? In this episode of Focus Cast by Focuslinks.in, we break down a practical, systematic framework for diagnosing and managing the unhappy contact lens patient.\n\nWhether your patient is struggling with discomfort, blurry vision, or a vague sense that something is off, this episode walks you through the exact clinical questions and examination steps that lead to real answers. We cover the three core complaint categories — comfort, vision, and general dissatisfaction — and explore the diagnostic logic behind each one.\n\nYou'll learn why contact lens-related dry eye is far more common than most practitioners realize, how to interpret fluctuating vision as a tear film sign, what end-of-day discomfort is really telling you, and how to spot conditions like giant papillary conjunctivitis, superior limbic keratoconjunctivitis, and solution toxicity before they derail your patient's lens-wearing experience. We also discuss corneal warpage, toric lens misrotation, and the often-overlooked role of fluorescein staining patterns in guiding your diagnosis.\n\nThis isn't about swapping lenses and hoping for the best. It's about building the clinical confidence to find the root cause every time.\n\nIf you're an optometrist, ophthalmologist, or optometry student looking to sharpen your contact lens troubleshooting skills, this episode is for you.\n\nListen now and take a smarter diagnostic approach back to your clinic. Visit Focuslinks.in for more episodes and clinical resources designed to help you grow as a practitioner.\n\n---",
       "tags": "unhappy,discomfort,framework,retention",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-30.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5545ffb0-cd99-4955-bbf5-bb1e6c23fb7c",
+      "generatedAt": "2026-08-05T20:05:59.862Z"
     }
   ]
 }

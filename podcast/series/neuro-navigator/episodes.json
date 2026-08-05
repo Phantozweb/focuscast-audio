@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-05T20:22:46.886Z",
+  "lastUpdated": "2026-08-05T20:23:04.441Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,16 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "The Edinger-Westphal Nucleus & Efferent Pupil Pathway Explained",
-      "description": "What really happens when a pupil constricts in response to light? The answer lies deep inside the midbrain, in a tiny but powerful cluster of neurons called the Edinger-Westphal nucleus. In this episode of Focus Cast, we take you on a detailed journey through the efferent pupillary pathway, breaking down the complex neuroscience into clear, clinically relevant concepts that students and practitioners alike will find immediately useful.\n\nWe start at the origin, exploring the anatomy and location of the Edinger-Westphal nucleus, its parasympathetic role, and how it connects to the oculomotor nerve, the ciliary ganglion, and ultimately the sphincter pupillae muscle. From there, we unpack why the position of parasympathetic fibers on the outside of the third nerve makes a dilated, unreactive pupil a potential neurological emergency, and how to distinguish a compressive third nerve palsy from an ischemic one based on pupil involvement alone.\n\nWe also explore the swinging flashlight test and how the efferent pathway helps explain the relative afferent pupillary defect, dive into the fascinating phenomenon of light-near dissociation and the Argyll Robertson pupil, and walk through how pharmacological agents like pilocarpine and atropine interact with this pathway to aid diagnosis, including the dilute pilocarpine test for Adie's tonic pupil.\n\nWhether you are preparing for clinical exams, brushing up on neuro-ophthalmology, or simply passionate about how the nervous system works, this episode gives you a thorough, engaging, and practical understanding of one of medicine's most elegant neural circuits. Listen now and visit Focuslinks dot in for more episodes and vision science resources.\n\n---",
+      "title": "Edinger-Westphal Nucleus: The Brain's Pupil Control Center",
+      "description": "What happens inside your brain the moment a bright light hits your eyes? The answer lies in a tiny but powerful cluster of neurons called the Edinger-Westphal nucleus — and understanding it could literally save a life. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into the brainstem's command center for pupil constriction and lens accommodation, breaking down the science in a way that's clear, clinically relevant, and genuinely fascinating.\n\nWe explore exactly where the Edinger-Westphal nucleus sits in the midbrain, how its parasympathetic fibers travel along the surface of the third cranial nerve, and why that anatomical detail makes it a critical marker for life-threatening conditions like posterior communicating artery aneurysms. You'll learn how the pupillary light reflex works, why both pupils respond when only one eye is exposed to light, and how the swinging flashlight test detects a relative afferent pupillary defect (RAPD) at the bedside.\n\nWe also cover the near triad, the difference between pupil-involving and pupil-sparing third nerve palsies, the pharmacology of pilocarpine and atropine, and the classic Argyll Robertson pupil seen in neurosyphilis. Whether you're a medical student, an eye care professional, or simply someone who loves understanding how the human body works, this episode gives you a complete picture of one of neuroscience's most elegant and diagnostically powerful pathways.\n\nThe pupil is a window into the brainstem, the cranial nerves, and the autonomic nervous system — and the Edinger-Westphal nucleus is its gatekeeper. Tune in, and never look at a pupil the same way again. Visit Focuslinks.in for more episodes and vision science content.\n\n---",
       "tags": "edinger-westphal,efferent,third-nerve,ganglion",
-      "category": "Retina",
+      "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-02.mp3",
-      "duration": "12:28",
+      "duration": "12:51",
       "imageUrl": "",
       "status": "generated",
-      "runId": "f2202d43-76a3-4fa8-993f-a677e3682056",
-      "generatedAt": "2026-08-05T20:19:45.956Z"
+      "runId": "9da235d0-5ff4-4fca-8545-d00b419ce6b4",
+      "generatedAt": "2026-08-05T20:23:04.441Z"
     },
     {
       "episodeOrder": 3,

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-05T18:08:25.616Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-05T18:12:36.768Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Tear Film and Ocular Surface Assessment",
-      "description": "TBUT, Schirmer, staining patterns, and meibography — a surface workup in under five minutes.",
+      "title": "Tear Film & Dry Eye Assessment: What Your Eyes Are Telling You",
+      "description": "Ever woken up with eyes that feel like sandpaper, or noticed your vision going blurry after hours at a screen? You might be dealing with dry eye disease — one of the most common yet underdiagnosed conditions in eye care today. In this episode of Focus Cast, we break down everything you need to know about the tear film and how eye care professionals assess the ocular surface to get to the root of your symptoms.\n\nWe start with the science: what the tear film actually is, why its three-layer structure matters, and what happens when any one of those layers breaks down. Then we walk you through the clinical tools and tests that optometrists and ophthalmologists use — from the classic Schirmer test and tear break-up time to meibomian gland expression, meibography, ocular surface staining, osmolarity testing, and advanced imaging technologies like the Keratograph.\n\nYou'll also discover why dry eye disease goes far beyond mild discomfort — affecting visual performance, contact lens wear, driving, screen use, and even serving as an early indicator of systemic conditions like Sjögren's syndrome or thyroid disease. And we talk honestly about the emotional toll chronic dry eye takes on people's daily lives, and why a thorough, validated assessment can be genuinely life-changing.\n\nWhether you're a patient looking for answers, a student studying ocular disease, or an eye care professional refreshing your knowledge, this episode gives you a clear, accessible, and clinically grounded look at tear film health. Don't just reach for the eye drops — understand what's really going on. Listen now, and visit Focuslinks.in for more eye care insights.",
       "tags": "tear-film,tbut,schirmer,dry-eye",
       "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-18.mp3",
+      "duration": "9:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953556112",
+      "generatedAt": "2026-08-05T18:12:36.112Z"
     },
     {
       "episodeOrder": 19,

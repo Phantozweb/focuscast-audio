@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-05T20:18:49.722Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-05T20:19:45.956Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -24,14 +24,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "The Edinger-Westphal Nucleus and the Efferent Pupil",
-      "description": "The parasympathetic output, the third nerve, and the ciliary ganglion that completes the reflex arc.",
+      "title": "The Edinger-Westphal Nucleus & Efferent Pupil Pathway Explained",
+      "description": "What really happens when a pupil constricts in response to light? The answer lies deep inside the midbrain, in a tiny but powerful cluster of neurons called the Edinger-Westphal nucleus. In this episode of Focus Cast, we take you on a detailed journey through the efferent pupillary pathway, breaking down the complex neuroscience into clear, clinically relevant concepts that students and practitioners alike will find immediately useful.\n\nWe start at the origin, exploring the anatomy and location of the Edinger-Westphal nucleus, its parasympathetic role, and how it connects to the oculomotor nerve, the ciliary ganglion, and ultimately the sphincter pupillae muscle. From there, we unpack why the position of parasympathetic fibers on the outside of the third nerve makes a dilated, unreactive pupil a potential neurological emergency, and how to distinguish a compressive third nerve palsy from an ischemic one based on pupil involvement alone.\n\nWe also explore the swinging flashlight test and how the efferent pathway helps explain the relative afferent pupillary defect, dive into the fascinating phenomenon of light-near dissociation and the Argyll Robertson pupil, and walk through how pharmacological agents like pilocarpine and atropine interact with this pathway to aid diagnosis, including the dilute pilocarpine test for Adie's tonic pupil.\n\nWhether you are preparing for clinical exams, brushing up on neuro-ophthalmology, or simply passionate about how the nervous system works, this episode gives you a thorough, engaging, and practical understanding of one of medicine's most elegant neural circuits. Listen now and visit Focuslinks dot in for more episodes and vision science resources.\n\n---",
       "tags": "edinger-westphal,efferent,third-nerve,ganglion",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-02.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f2202d43-76a3-4fa8-993f-a677e3682056",
+      "generatedAt": "2026-08-05T20:19:45.956Z"
     },
     {
       "episodeOrder": 3,

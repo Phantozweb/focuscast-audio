@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T17:59:19.621Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-05T18:02:42.173Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Myopia: The Elongated Eye and Its Consequences",
-      "description": "Axial elongation, the retinal risks, and why myopia control is now a standard of pediatric care.",
+      "title": "Myopia Explained: Why Your Eyes Are Growing Longer",
+      "description": "Did you know that nearly 42% of Americans are now nearsighted, and in parts of East Asia, that number climbs to a staggering 90%? Myopia isn't just about blurry distance vision — it's a structural change to your eye that carries serious long-term health risks, and it's spreading faster than ever before.\n\nIn this episode of Focus Cast, we break down exactly what myopia is and why the eyeball elongates, what's driving the global myopia epidemic including screen time and lack of outdoor exposure, and why high myopia significantly raises your risk of retinal detachment, glaucoma, and myopic macular degeneration. We also explore the latest evidence-based myopia management options — from orthokeratology and specially designed contact lenses to low-dose atropine eye drops — and share practical lifestyle strategies that parents and children can start using today.\n\nWhether you're already wearing glasses, raising a child who squints at the whiteboard, or simply curious about what's happening inside your eyes, this episode gives you the science, the context, and the actionable steps you need to protect your vision for the long term.\n\nDon't wait for your eyesight to get worse before taking it seriously. Visit Focuslinks.in for expert eye health resources, guidance, and more episodes of Focus Cast.",
       "tags": "myopia,elongation,retinal-risk,control",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-11.mp3",
+      "duration": "9:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952961027",
+      "generatedAt": "2026-08-05T18:02:41.027Z"
     },
     {
       "episodeOrder": 12,

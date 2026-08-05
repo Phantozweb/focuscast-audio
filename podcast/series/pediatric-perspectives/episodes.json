@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T20:17:10.210Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T20:17:12.754Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,29 +260,27 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Learning-Related Vision Problems: What the Evidence Says",
-      "description": "Could your child's reading struggles, attention issues, or school difficulties actually be a vision problem in disguise? In this eye-opening episode of Focus Cast, we dig into the real evidence behind learning-related vision problems — a category of conditions that affects roughly one in four children yet remains chronically underdiagnosed.\n\nWe break down the science behind convergence insufficiency, eye tracking problems, focusing difficulties, and visual processing deficits — and explain why the standard school eye screening misses nearly all of them. You'll learn how symptoms of these conditions are routinely mistaken for ADHD, dyslexia, or simply a lack of effort, and what landmark studies like the Convergence Insufficiency Treatment Trial reveal about the powerful connection between visual function and learning.\n\nWe also cover what vision therapy actually is, what the research says about its effectiveness, and why a comprehensive evaluation from a developmental optometrist is a completely different experience from a routine eye test.\n\nWhether you're a parent watching a child struggle in school, a teacher trying to understand a disengaged student, or an adult who has always found reading exhausting — this episode gives you the information you need to ask better questions and take meaningful action.\n\nThe gap between what the research shows and what happens in classrooms and clinics is still wide. This conversation is part of closing it.\n\nListen now, and if this episode resonates with you, share it with someone who needs to hear it. Visit us at focuslinks.in to learn more.\n\n---",
+      "title": "Learning-Related Vision Problems: The Evidence",
+      "description": "The reading difficulty referral, the vision therapy debate, and the multidisciplinary approach.",
       "tags": "learning,reading,vision-therapy,evidence",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-20.mp3",
-      "duration": "12:06",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "1c9a2cce-29cd-4e26-aa79-97a5d9594069",
-      "generatedAt": "2026-08-05T20:17:10.210Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 21,
-      "title": "Convergence Insufficiency: Why Your Eyes Struggle Up Close",
-      "description": "Do your eyes tire quickly when reading? Do you get headaches after screen time, or find it hard to focus on close work — even with \"perfect\" 20/20 vision? The problem might not be your eyesight at all. It could be convergence insufficiency, one of the most common yet overlooked vision conditions affecting millions of people worldwide.\n\nIn this episode of Focus Cast, we break down exactly what convergence insufficiency is — and why it almost never gets caught in a standard eye exam. We explore how this binocular vision disorder causes the eyes to struggle when turning inward for near tasks, leading to eye strain, blurred or double vision, headaches, and difficulty concentrating. We also uncover why so many children with convergence insufficiency are misdiagnosed with learning disabilities or ADHD, and what the landmark CITT study revealed about the dramatic improvements possible with proper treatment.\n\nYou'll learn about the most effective treatment options, including office-based vision therapy, home exercises like pencil push-ups, and when prism lenses might help. We also cover how concussions can trigger convergence insufficiency in adults, and how our screen-heavy lifestyles are making this condition harder to ignore than ever.\n\nWhether you're a parent concerned about a child's reading struggles, an adult dealing with unexplained digital eye strain, or simply someone who wants to understand how their visual system really works — this episode is for you.\n\nIf this sounds familiar, don't ignore the signs. Visit Focuslinks.in to explore more episodes and resources on eye health and vision care, and take the first step toward clearer, more comfortable vision today.\n\n---",
+      "title": "Convergence Insufficiency: Why Near Vision Struggles Go Undiagnosed",
+      "description": "Do your eyes feel exhausted after just a few minutes of reading? Do words blur, double, or seem to move on the page? You might be dealing with Convergence Insufficiency — a surprisingly common vision condition that affects up to 17% of the population, yet flies completely under the radar in most standard eye exams.\n\nIn this episode of Focus Cast, we break down exactly what Convergence Insufficiency (CI) is, how it disrupts the way your eyes work together during near tasks, and why so many people — especially children — go years without a proper diagnosis. We explore the full range of symptoms, from eyestrain and headaches to double vision and reading avoidance, and explain why CI is so often mistaken for ADHD or learning disabilities in kids.\n\nWe also walk you through how CI is properly diagnosed through a binocular vision evaluation, what the landmark CITT study revealed about treatment outcomes, and the most effective options available today — including vision therapy, pencil push-up exercises, prism glasses, and practical screen habits like the 20-20-20 rule.\n\nWhether you're a parent concerned about your child's reading struggles, or an adult who's quietly battled eye fatigue for years, this episode gives you the knowledge to take action. Because comfortable, effortless near vision isn't a luxury — it's something you deserve.\n\nIf this episode resonates with you, book a comprehensive binocular vision assessment and ask your eye doctor specifically about Convergence Insufficiency. Visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "ci,convergence,near,vt",
       "category": "Strabismus",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-21.mp3",
-      "duration": "12:26",
+      "duration": "12:57",
       "imageUrl": "",
       "status": "generated",
-      "runId": "d9564cda-cdf5-43f7-9dd5-aa1e810be69c",
-      "generatedAt": "2026-08-05T20:15:51.081Z"
+      "runId": "5aa8825e-d9f0-4b92-9362-15a14ac9b11b",
+      "generatedAt": "2026-08-05T20:17:12.753Z"
     },
     {
       "episodeOrder": 22,

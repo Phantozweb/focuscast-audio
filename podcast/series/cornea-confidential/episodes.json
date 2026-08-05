@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T19:41:18.910Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-05T19:41:45.297Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,14 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Specular Microscopy: Counting Endothelial Cells",
-      "description": "When cell counts matter — IOL candidacy, glaucoma drops, and the pre-cataract assessment.",
+      "title": "Specular Microscopy: How Doctors Count Your Endothelial Cells",
+      "description": "What if your eyes were silently losing irreplaceable cells — and you had no idea? In this episode of Focus Cast by Focuslinks.in, we explore the fascinating world of specular microscopy, the non-invasive technology that lets eye care professionals see, count, and analyze the corneal endothelial cells keeping your vision clear.\n\nYou'll learn why endothelial cells are so critical — and why losing them is permanent. We break down what a healthy endothelium looks like under a specular microscope, and what warning signs clinicians watch for, including changes in cell density, polymegethism, and pleomorphism. We also walk through the real-world applications that make this technology indispensable in modern eye care: monitoring long-term contact lens wearers, screening patients before cataract surgery, tracking the progression of Fuchs endothelial dystrophy, and evaluating donor corneal tissue before transplantation.\n\nWhether you're an optometry student, an ophthalmology professional, or simply someone curious about the science behind your vision, this episode offers a clear, engaging deep-dive into one of the most powerful diagnostic tools in corneal health. By the end, you'll never look at a slit-lamp or imaging instrument the same way again.\n\nTune in, and discover how counting a few thousand microscopic cells can make all the difference between clear vision and corneal failure. For more episodes and eye care resources, visit Focuslinks.in and subscribe to Focus Cast wherever you listen to podcasts.\n\n---",
       "tags": "specular,endothelium,cell-count,iol",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-27.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5d21b563-071a-4c31-9066-edb7481ea8f8",
+      "generatedAt": "2026-08-05T19:41:45.297Z"
     },
     {
       "episodeOrder": 28,

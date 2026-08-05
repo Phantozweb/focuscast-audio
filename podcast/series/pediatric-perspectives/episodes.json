@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-05T20:14:29.177Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-05T20:14:45.872Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Pediatric Uveitis: The Silent Inflammation of JIA",
-      "description": "The JIA screening schedule, the asymptomatic anterior uveitis, and the steroid-sparing escalation.",
+      "title": "Pediatric Uveitis & JIA: The Silent Inflammation Stealing Kids' Sight",
+      "description": "Your child has juvenile idiopathic arthritis — but did anyone warn you about their eyes? In this eye-opening episode of Focus Cast, we uncover one of the most overlooked complications of JIA: pediatric uveitis, a silent inflammation that can steal a child's vision without a single warning sign. No redness. No pain. No tears. Just quiet, irreversible damage happening deep inside the eye.\n\nWe break down exactly what JIA-associated uveitis is, why it affects up to 30% of children with juvenile idiopathic arthritis, and why it's so dangerously easy to miss. You'll learn which children are at highest risk — including those with oligoarticular JIA, early-onset diagnosis, and a positive ANA test — and why regular ophthalmologic screening is the single most powerful tool available to protect your child's vision.\n\nWe also walk through the full treatment landscape, from topical corticosteroid eye drops to methotrexate and FDA-approved biologics like adalimumab, explaining how early detection combined with modern therapies is dramatically improving outcomes for children with JIA-associated uveitis.\n\nWhether you're a parent navigating a JIA diagnosis, a pediatrician managing young patients, or a caregiver who simply wants to stay informed, this episode gives you the knowledge and the right questions to ask at your next appointment.\n\nBecause when it comes to a child's vision, what you don't know can cause irreversible harm — and what you do know can change everything.\n\nListen now, share with every JIA family you know, and visit Focuslinks dot in for more episodes and resources.\n\n---",
       "tags": "pediatric-uveitis,jia,screening,sparing",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-16.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "920274d6-9552-4ce9-acca-fcbd0fa6e458",
+      "generatedAt": "2026-08-05T20:14:45.872Z"
     },
     {
       "episodeOrder": 17,

@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-05T19:56:17.993Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-05T19:56:50.322Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -50,14 +50,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Sagittal Height Fitting: The SAG Revolution",
-      "description": "Why sagittal fitting beats base curve for soft lenses and how SAG guides scleral lens selection.",
+      "title": "Sagittal Height Fitting: The SAG Revolution in Contact Lenses",
+      "description": "What if the reason your contact lenses never felt quite right had nothing to do with your prescription — and everything to do with how your lenses were being fitted? In this eye-opening episode of Focus Cast, we dive deep into sagittal height fitting, the quietly transformative shift that's reshaping the contact lens industry from the ground up.\n\nFor decades, practitioners relied on base curve — a single number — to fit lenses to the complex, asymmetric surface of the human eye. It worked, until it didn't. Enter sagittal height, or SAG: a measurement-based approach that matches the depth of a lens to the actual geometry of the eye, delivering fits that are more precise, more comfortable, and more predictable than ever before.\n\nWe break down exactly what sagittal height means, why it matters for scleral lenses, soft lenses, and orthokeratology, and how cutting-edge tools like anterior segment OCT and scleral profilometers are making truly individualized lens fitting a reality. We also explore what this means for patients with keratoconus and other challenging conditions — people for whom a well-fitted lens isn't just convenient, it's life-changing.\n\nWhether you're an eye care professional looking to sharpen your clinical approach, a patient who's been told your eyes are \"difficult to fit,\" or simply someone curious about the science of vision, this episode will change how you think about contact lenses entirely.\n\nListen now and discover why the SAG revolution is one of the most meaningful advances in vision care today. For more episodes and resources, visit Focuslinks.in.\n\n---",
       "tags": "sagittal,sag,fitting,base-curve",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-04.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e48fe40f-d53a-4d72-936f-90507b922acb",
+      "generatedAt": "2026-08-05T19:56:50.322Z"
     },
     {
       "episodeOrder": 5,

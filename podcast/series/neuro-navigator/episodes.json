@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T20:23:19.261Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-05T20:23:36.620Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -215,14 +215,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Retrochiasmal Lesions: The Homonymous Hemianopia",
-      "description": "Tract, radiation, and occipital lesions — the congruity and the macular sparing that localize the stroke.",
+      "title": "Homonymous Hemianopia: Retrochiasmal Lesions Explained",
+      "description": "What does it feel like to lose half your visual world overnight? In this episode of Focus Cast, we dive deep into homonymous hemianopia, one of the most clinically significant visual field defects in neurology and ophthalmology. If you have ever wondered why a stroke or brain tumor can cause such a precise and predictable pattern of vision loss, this episode gives you the complete picture.\n\nWe walk through the entire retrochiasmal visual pathway, from the optic tract and lateral geniculate nucleus to Meyer's loop in the temporal lobe, the optic radiations, and the primary visual cortex in the occipital lobe. You will learn why lesions at different points along this pathway produce distinct field defects, including the classic pie in the sky and pie on the floor patterns, and why occipital lobe strokes often produce congruous hemianopia with macular sparing.\n\nWe also cover the real-world causes behind retrochiasmal lesions, including posterior cerebral artery strokes, brain tumors, and traumatic brain injury, and explain why patients often fail to notice their own field loss until it is formally tested. Finally, we discuss what management actually looks like, from urgent neuroimaging to vision rehabilitation, prism glasses, scanning strategies, and the critical conversation around driving restrictions.\n\nWhether you are a medical student, an ophthalmology resident, a neurologist, or simply someone passionate about vision science, this episode will sharpen your understanding of one of the most elegant localizing signs in clinical medicine.\n\nListen now and visit Focuslinks.in for more episodes, clinical resources, and everything you need to stay at the top of your game in eye care.\n\n---",
       "tags": "retrochiasmal,homonymous,congruity,macular-sparing",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-17.mp3",
+      "duration": "12:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ef620146-c233-4dc2-886b-d36450de5d99",
+      "generatedAt": "2026-08-05T20:23:36.620Z"
     },
     {
       "episodeOrder": 18,

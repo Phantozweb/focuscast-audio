@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T19:51:29.821Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-05T19:51:40.757Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -293,14 +293,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Color Vision: Trichromacy, Dichromacy, and the Cone Mosaic",
-      "description": "The three cone types, the genetic basis of color deficiency, and the acquired defects that differ.",
+      "title": "Color Vision Explained: Trichromacy, Dichromacy & Cone Mosaic",
+      "description": "Have you ever wondered why some people can't tell red from green, why dogs see a muted world, or why certain women can perceive colors the rest of us simply cannot? The answers lie deep inside your eye — in a microscopic, beautifully engineered structure called the cone mosaic.\n\nIn this episode of Focus Cast, we break down exactly how human color vision works, starting with the three types of cone cells — S, M, and L — that make trichromacy possible. You'll discover how your brain compares signals from these cones to construct every color you've ever seen, and why your phone screen can trick your eyes using just red, green, and blue pixels.\n\nWe then explore dichromacy — what happens when one cone type is missing — and unpack the real science behind color blindness, including why it affects far more men than women and why it doesn't mean seeing in black and white. You'll also learn about the surprising advantages some color-blind individuals have in detecting camouflage.\n\nFrom there, we venture into the remarkable world of tetrachromacy, where some women carry a fourth cone type and can perceive colors invisible to the rest of us — backed by real scientific research from Newcastle University.\n\nFinally, we zoom into the cone mosaic itself: the unique, fingerprint-like arrangement of cones across your retina that shapes your personal experience of color in ways you've never considered.\n\nWhether you're a science enthusiast, a designer, or simply someone curious about how perception works, this episode will change the way you see the world — literally.\n\nListen now and visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "color-vision,trichromacy,cones,genetics",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-23.mp3",
+      "duration": "13:02",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "541418e8-e83a-4269-aaa8-6c04e7f80566",
+      "generatedAt": "2026-08-05T19:51:40.757Z"
     },
     {
       "episodeOrder": 24,

@@ -9,7 +9,7 @@
   "order": 7,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-05T20:13:37.530Z",
+  "lastUpdated": "2026-08-05T20:13:46.942Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -144,15 +144,15 @@
     {
       "episodeOrder": 11,
       "title": "Congenital Cataract & the Red Reflex: A Vision Emergency",
-      "description": "What if a single smartphone photo could save your child's vision forever? In this eye-opening episode of Focus Cast, we dive deep into congenital cataract — a condition present at birth that is one of the leading causes of preventable childhood blindness worldwide — and why the red reflex is one of the most critical clinical signs in pediatric medicine.\n\nWe break down exactly what the red reflex is, why its absence or distortion signals a potential emergency, and why acting within weeks — not months — can mean the difference between a lifetime of functional vision and permanent visual impairment. You will learn about the brain's critical period of visual development, how amblyopia develops when a cloudy lens goes undetected, and why even a thirty-second eye check at every well-child visit can change a child's future.\n\nWe also cover the causes of congenital cataract, from hereditary factors and metabolic conditions like galactosemia to rubella infection during pregnancy, and walk through the full treatment journey — from infant cataract surgery and contact lens correction to the challenging but essential practice of eye patching. Plus, we explore how modern smartphone photography is becoming a surprisingly powerful tool for early detection.\n\nWhether you are a new parent, a pediatric healthcare provider, or simply someone who cares about child health, this episode gives you the knowledge to recognize the warning signs and take action early.\n\nVisit Focuslinks.in for more episodes and eye health resources. Because when it comes to a child's vision, every day counts.\n\n---",
+      "description": "Could a ten-second eye check save your child's vision forever? In this eye-opening episode of Focus Cast, we explore one of the most critical yet overlooked newborn health screenings: the red reflex test, and why an abnormal result is a true medical emergency.\n\nWe break down exactly what the red reflex is, why that familiar red-eye effect in photos is actually a sign of a healthy eye, and what it means when that glow is white, pale, or missing entirely. You'll learn how congenital cataracts silently rob a developing brain of the visual input it desperately needs during a narrow, irreversible window of early childhood, and how delayed detection can lead to permanent vision loss that no surgery can fully undo.\n\nWe cover the causes of congenital cataracts, from genetic factors and metabolic conditions like galactosemia to prenatal infections like rubella. We walk through what early diagnosis actually looks like, including surgery, contact lens fitting, and the intensive patching therapy that gives treated eyes a fighting chance. And we explain why timing is everything.\n\nWhether you're a parent, a pediatrician, a family doctor, or simply someone who loves a child, this episode gives you the knowledge to act fast when it matters most. Learn what questions to ask at well-child visits, why flash photographs deserve a second look, and when a white reflex in any child's eye demands an urgent referral.\n\nDon't let a preventable vision emergency go undetected. Listen now, then share this episode with every parent and healthcare provider you know.\n\nFor more eye health resources and episodes, visit Focuslinks dot in.\n\n---",
       "tags": "congenital-cataract,leukocoria,surgery,amblyopia",
       "category": "Cataract",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-11.mp3",
-      "duration": "12:32",
+      "duration": "12:13",
       "imageUrl": "",
       "status": "generated",
-      "runId": "31f8551d-f673-4394-873e-ab2c5256b6a7",
-      "generatedAt": "2026-08-05T20:12:58.200Z"
+      "runId": "d29973f4-77ee-4be3-9756-2d57d9d1516e",
+      "generatedAt": "2026-08-05T20:13:46.942Z"
     },
     {
       "episodeOrder": 12,

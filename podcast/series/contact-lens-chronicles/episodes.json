@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T20:06:41.063Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-05T20:06:38.420Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -323,16 +323,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Contact Lens Infections: Prevention & the Risk Lens",
-      "description": "Did you know that 45 million Americans wear contact lenses daily — and that most serious eye infections are almost entirely preventable? In this eye-opening episode of Focus Cast, we dive deep into contact lens related infections, what causes them, and how understanding risk can help you protect your vision for life.\n\nWe break down the science behind microbial keratitis and why your cornea is uniquely vulnerable to bacterial and fungal threats. You'll learn why sleeping in your contact lenses increases your infection risk by six to eight times, how dangerous organisms like Pseudomonas aeruginosa and Acanthamoeba can cause rapid, irreversible corneal damage, and why something as innocent as a quick swim can lead to months of painful treatment.\n\nBut this episode goes beyond the biology. We explore the psychology of risk — specifically why habitual contact lens wearers tend to underestimate danger over time, a phenomenon known as optimism bias, and how that mindset quietly sets the stage for serious complications.\n\nMost importantly, we give you a clear, practical prevention framework: proper hand hygiene, lens case care, replacement schedules, water exposure rules, and the warning signs that demand immediate attention. Whether you're a long-time lens wearer or just getting started, this episode will change how you think about your daily routine.\n\nYour vision is irreplaceable. The habits you build today are the protection your eyes deserve tomorrow.\n\nListen now, and share this episode with every contact lens wearer you know. For more episodes and resources, visit us at Focuslinks.in.\n\n---",
+      "title": "Contact Lens Infections: Prevention Through a Risk Lens",
+      "description": "Did you know that 140 million people worldwide wear contact lenses — and a surprising number of them are unknowingly putting their eyesight at serious risk every single day? In this eye-opening episode of Focus Cast, we break down everything you need to know about contact lens related infections, what causes them, how serious they can get, and most importantly, how to prevent them.\n\nWe explore the concept of the \"risk lens\" — a framework used in healthcare to understand the probability and severity of harm, and the specific behaviors that tip the odds against you. From the dangers of sleeping in your lenses and water exposure to neglected lens cases and stretched replacement schedules, we walk through the most common risk factors for microbial keratitis, Acanthamoeba infections, and other sight-threatening conditions that contact lens wearers face.\n\nBut this episode isn't about fear — it's about empowerment. You'll learn practical, science-backed prevention strategies including proper hand hygiene, choosing the right lens type for your lifestyle, maintaining lens case hygiene, sticking to replacement schedules, and knowing exactly when to seek professional help before a minor irritation becomes a major problem.\n\nWhether you're a long-time contact lens wearer, someone just starting out, or simply curious about eye health, this episode delivers clear, actionable guidance that could genuinely protect your vision. Share it with anyone in your life who wears contact lenses — it might make a real difference.\n\nListen now and visit Focuslinks.in for more episodes and resources on topics that truly matter to your health and wellbeing.\n\n---",
       "tags": "infection,extended-wear,hygiene,ulcer",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-25.mp3",
-      "duration": "12:36",
+      "duration": "12:33",
       "imageUrl": "",
       "status": "generated",
-      "runId": "540a72f9-e8ab-497d-84d4-314994840b96",
-      "generatedAt": "2026-08-05T20:05:49.199Z"
+      "runId": "cec3c33e-aea7-48d1-8359-9c308499990a",
+      "generatedAt": "2026-08-05T20:06:38.420Z"
     },
     {
       "episodeOrder": 26,
@@ -347,16 +347,14 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Contact Lens Over-Refraction: Troubleshoot Vision at the Chair",
-      "description": "Struggling to figure out why your contact lens patient's vision just isn't right? In this episode of Focus Cast by Focuslinks.in, we break down the clinical art of contact lens over-refraction and give you a practical, step-by-step framework for troubleshooting vision problems right at the chair.\n\nWe cover everything you need to know to move from confusion to clarity — starting with what an over-refraction actually tells you and why it's your diagnostic starting point, not your endpoint. You'll learn how to interpret significant spherical findings, when residual astigmatism means it's time to switch to a toric lens, and how to identify and correct toric lens rotation using the LARS rule. We also tackle the trickier scenarios — when the numbers look fine but the patient still isn't happy — and walk through how dry eye, corneal warpage, multifocal optics, and corneal molding from long-term RGP wear can all affect vision in ways a standard refraction won't fully capture.\n\nWhether you're an experienced optometrist, an optician expanding into contact lens fitting, or a student building your clinical foundation, this episode delivers real, chair-side tools you can apply immediately. We also touch on why proper documentation of your over-refraction findings protects you and streamlines every follow-up visit.\n\nIf you want to sharpen your contact lens troubleshooting skills and give your patients a better experience, this episode is essential listening.\n\nSubscribe to Focus Cast and visit Focuslinks.in for more clinical episodes, practice-building resources, and tools designed specifically for eye care professionals.\n\n---",
+      "title": "CL Over-Refraction: Troubleshooting Vision at the Chair",
+      "description": "The sphero-cyl over-refraction, the lens power adjustment, and the rotation compensation.",
       "tags": "over-refraction,troubleshooting,power,rotation",
-      "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-27.mp3",
-      "duration": "12:47",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "603faebf-987b-434e-8d8c-3ec2448452d1",
-      "generatedAt": "2026-08-05T20:06:41.063Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 28,

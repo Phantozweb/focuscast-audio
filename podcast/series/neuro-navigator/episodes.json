@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-05T20:27:08.043Z",
+  "lastUpdated": "2026-08-05T20:27:24.614Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,16 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Homonymous Hemianopia: When Half Your Vision Disappears",
-      "description": "What if half your visual world simply vanished — not because your eyes stopped working, but because your brain did? In this episode of Focus Cast, we take a deep dive into homonymous hemianopia, one of the most clinically significant yet underrecognized consequences of retrochiasmal lesions.\n\nWe start at the optic chiasm and trace the visual pathway through the optic tract, lateral geniculate nucleus, optic radiations, and all the way to the occipital cortex — unpacking exactly why damage anywhere along this retrochiasmal route causes the same half of the visual field to disappear in both eyes simultaneously. From there, we explore the most common causes, including stroke, traumatic brain injury, brain tumors, and demyelinating disease, and explain why the location of the lesion matters as much as its presence.\n\nYou will learn how concepts like congruity and macular sparing serve as powerful diagnostic clues, helping clinicians localize lesions with striking precision using nothing more than a visual field test. We also go beyond the clinical picture to explore what it actually feels like to live with this condition — the challenges with reading, driving, navigation, and the very real psychological toll it takes on patients and their families.\n\nFinally, we cover the latest in visual rehabilitation, from compensatory scanning training and prism glasses to visual restoration therapy and occupational support, offering a genuinely hopeful look at what modern care can achieve.\n\nWhether you are an eye care professional, a neurology student, or simply passionate about the science of vision, this episode will change the way you think about the brain's visual map.\n\nListen now, and visit focuslinks.in for more episodes and resources.\n\n---",
+      "title": "Homonymous Hemianopia: When the Brain Steals Half Your Vision",
+      "description": "What if half your visual world simply vanished — not because your eyes failed, but because your brain did? In this episode of Focus Cast, we take a deep dive into homonymous hemianopia, one of the most clinically revealing and personally devastating consequences of retrochiasmal lesions.\n\nWe start where vision begins — tracing the visual pathway from the retina through the optic chiasm, optic tract, lateral geniculate nucleus, optic radiations, and all the way to the occipital cortex. You will learn exactly why damage anywhere along this retrochiasmal route produces a paired, same-sided visual field loss in both eyes simultaneously, and why the eyes themselves are often completely healthy.\n\nFrom strokes and brain tumors to traumatic brain injury and demyelinating disease, we break down the most common causes of retrochiasmal lesions and explain how the precise pattern of visual field loss — congruous or incongruous, hemianopia or quadrantanopia — acts as a neurological map pointing clinicians toward the exact site of damage. Meyer's loop, macular sparing, optic tract lesions — it is all covered in plain, accessible language.\n\nWe also explore what it genuinely feels like to live with this condition: the challenges of reading, driving, navigating daily life, and coping with a disability that is invisible to everyone around you. And we walk through the full landscape of management and rehabilitation, from compensatory scanning training and prism glasses to visual restoration therapy and occupational support.\n\nWhether you are a clinician, a student, or simply passionate about how the brain and eye work together, this episode will sharpen your understanding of neuro-ophthalmology in a meaningful way. Listen now, and visit focuslinks.in for more episodes and resources.\n\n---",
       "tags": "retrochiasmal,homonymous,congruity,macular-sparing",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-17.mp3",
-      "duration": "12:28",
+      "duration": "12:44",
       "imageUrl": "",
       "status": "generated",
-      "runId": "0aa36449-aee6-4048-89ac-7f0caed082b6",
-      "generatedAt": "2026-08-05T20:27:08.043Z"
+      "runId": "f18bc07a-4fc4-4ada-b76d-e2a70fc93e02",
+      "generatedAt": "2026-08-05T20:27:24.614Z"
     },
     {
       "episodeOrder": 18,

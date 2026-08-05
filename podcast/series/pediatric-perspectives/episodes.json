@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T20:13:06.836Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-05T20:13:14.231Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Retinopathy of Prematurity: Screening and Staging",
-      "description": "The gestational age and weight criteria for screening, the zone and stage system, and the treatment thresholds.",
+      "title": "Retinopathy of Prematurity: Screening, Staging & Saving Sight",
+      "description": "Every year, thousands of premature babies silently face a condition that could steal their sight forever — and most parents never see it coming. In this episode of Focus Cast by Focuslinks.in, we break down Retinopathy of Prematurity (ROP), one of the leading yet most preventable causes of childhood blindness in the world.\n\nWe start with the basics — what ROP is, why premature babies are vulnerable, and how abnormal blood vessel growth in the retina can lead to permanent vision loss if left undetected. From there, we walk you through the critical risk factors, including gestational age, birth weight, and supplemental oxygen use, so you know exactly which babies need to be on your radar.\n\nThen we dive deep into ROP screening — who performs it, how it is done, and when the first examination should take place according to international guidelines. We also explore why the third epidemic of ROP is unfolding right now in countries like India, where neonatal survival rates are rising faster than screening programs can keep up.\n\nFinally, we unpack the International Classification of Retinopathy of Prematurity (ICROP), explaining zones, stages one through five, plus disease, and the aggressive form known as AP-ROP — giving you a clear picture of how ophthalmologists assess severity and urgency of treatment.\n\nWhether you are a parent of a premature baby, a healthcare professional, or simply someone who cares about children's health, this episode gives you the knowledge to advocate for timely ROP screening and early intervention.\n\nListen now, share with someone who needs to hear this, and visit Focuslinks.in for more eye health resources.\n\n---",
       "tags": "rop,prematurity,staging,screening",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-12.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b5993547-379d-4228-b7e8-3ddf4ff82906",
+      "generatedAt": "2026-08-05T20:13:14.231Z"
     },
     {
       "episodeOrder": 13,

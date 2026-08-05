@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-05T20:15:00.094Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-05T20:15:14.742Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Leukocoria: The Differential Beyond Cataract",
-      "description": "Retinoblastoma, Coats disease, persistent fetal vasculature — the sight- and life-threatening causes.",
+      "title": "Leukocoria: Critical Differentials Every Eye Doctor Must Know",
+      "description": "That eerie white glow in a child's eye photograph is not just a camera glitch — it could be a lifesaving warning sign. In this episode of Focus Cast by Focuslinks.in, we take a deep clinical dive into leukocoria, the white pupil reflex that demands your sharpest diagnostic thinking every single time.\n\nMost clinicians default to cataract when they see leukocoria. But what if it is retinoblastoma — the most common intraocular malignancy in children, with survival rates that plummet when diagnosis is delayed? What if it is persistent fetal vasculature, Coats disease, ocular toxocariasis, retinopathy of prematurity, or familial exudative vitreoretinopathy? Each condition carries its own clinical fingerprint, its own urgency, and its own management pathway — and confusing one for another can cost a child their vision or their life.\n\nIn this episode, we walk through the full differential diagnosis of leukocoria with practical clinical pearls, key distinguishing features, and a clear framework for workup and referral. We cover how smartphone photography is changing early detection, why ultrasound is your best diagnostic ally, and when to refer urgently to a pediatric ophthalmologist or ocular oncologist.\n\nWhether you are a resident building your clinical foundation or a seasoned practitioner refreshing your knowledge, this episode delivers the kind of focused, evidence-informed discussion that translates directly to better patient care.\n\nListen now, and the next time a worried parent slides a photo across your desk, you will know exactly what to do. Subscribe to Focus Cast on your favorite podcast platform and visit Focuslinks.in for more clinical ophthalmology content built by clinicians, for clinicians.\n\n---",
       "tags": "leukocoria,retinoblastoma,coats,pfv",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-17.mp3",
+      "duration": "12:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "829d2beb-0c8f-4d67-bfdd-f49fe18a683a",
+      "generatedAt": "2026-08-05T20:15:14.742Z"
     },
     {
       "episodeOrder": 18,

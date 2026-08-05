@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-05T20:02:32.515Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-05T20:02:44.300Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Post-Refractive CL Fitting: The Flat Cornea Problem",
-      "description": "Why standard base curves fail after LASIK and the reverse geometry RGP that restores vision.",
+      "title": "Fitting Contact Lenses on Post-LASIK Flat Corneas: Solutions That Work",
+      "description": "If you've ever stared at a post-LASIK topography map wondering how to fit a contact lens on that flat, oblate cornea, this episode is your answer. Millions of refractive surgery patients eventually return to contact lens practice dealing with residual myopia, presbyopia, regression, or irregular astigmatism — and standard lenses simply weren't designed for what their corneas have become.\n\nIn this episode of Focus Cast, we break down exactly why post-refractive surgery corneas are so challenging to fit. We explore the oblate corneal shape created by myopic LASIK and PRK, explain why standard soft and rigid lenses fail on these surfaces, and walk through the full range of fitting solutions available to you today — from custom soft lenses and reverse geometry corneal GPs to hybrid lenses and scleral lenses, which have become the gold standard for this patient population.\n\nYou'll learn how to optimise scleral lens vault on dramatically flat corneas, why anterior segment OCT is a game-changer for these fits, and how to navigate the optical challenges of higher-order aberrations that make refraction tricky in post-refractive patients. We also cover a real-world fitting scenario that brings all of these concepts together in a satisfying, practical way.\n\nWhether you're new to fitting post-refractive corneas or looking to sharpen your approach, this episode gives you the clinical frameworks and confidence to deliver results that genuinely transform your patients' vision.\n\nListen now and visit Focuslinks.in for more episodes, resources, and everything contact lens.\n\n---",
       "tags": "post-lasik,reverse-geometry,flat-cornea,rgp",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-18.mp3",
+      "duration": "12:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "acc4097f-548b-47ee-88d8-ac6d5729b0e3",
+      "generatedAt": "2026-08-05T20:02:44.300Z"
     },
     {
       "episodeOrder": 19,

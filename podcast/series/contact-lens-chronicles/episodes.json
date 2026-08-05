@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-05T20:07:31.546Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-05T20:07:38.094Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Prosthetic CL: The Cosmetic and Therapeutic Uses",
-      "description": "Color and opaque lenses for iris defects, aniridia, and the photophobia that follows trauma.",
+      "title": "Prosthetic Contact Lenses: Cosmetic & Therapeutic Uses",
+      "description": "What if a single lens, smaller than a coin, could give someone back their confidence, their comfort, and their sense of self? In this episode of Focus Cast, we explore the fascinating world of prosthetic contact lenses — a quietly revolutionary technology that sits at the crossroads of medicine, artistry, and human identity.\n\nMost people have never heard of prosthetic contact lenses, but for those living with eye injuries, corneal disfigurement, aniridia, or extreme light sensitivity, these custom-crafted lenses can be genuinely life-changing. We break down the difference between cosmetic and therapeutic prosthetic lenses, explaining how hand-painted, highly customized lenses are designed to restore the natural appearance of a damaged or altered eye — and how that restoration goes far deeper than aesthetics.\n\nOn the therapeutic side, we cover how prosthetic lenses help patients manage photophobia, double vision, and corneal irregularities — offering real clinical relief without invasive procedures. We also shine a light on the skilled ocularists and contact lens specialists who craft these lenses with extraordinary precision, blending optics, anatomy, and fine artistry into every single piece.\n\nWe also tackle the important questions around cost, insurance coverage, and accessibility — because understanding your options is the first step toward getting the care you or a loved one may need.\n\nWhether you're a healthcare professional, someone personally affected by an eye condition, or simply curious about the quieter innovations in modern medicine, this episode offers an eye-opening look at technology that truly transforms lives.\n\nListen now and discover how prosthetic contact lenses are changing the way people see themselves and the world around them. For more episodes and eye health resources, visit focuslinks.in.\n\n---",
       "tags": "prosthetic,cosmetic,aniridia,photophobia",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-20.mp3",
+      "duration": "12:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5bb3130f-6f85-4c8a-96d8-3f209bc2d027",
+      "generatedAt": "2026-08-05T20:07:38.094Z"
     },
     {
       "episodeOrder": 21,

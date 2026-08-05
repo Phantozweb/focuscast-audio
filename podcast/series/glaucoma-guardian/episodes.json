@@ -9,7 +9,7 @@
   "order": 4,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-05T19:47:50.004Z",
+  "lastUpdated": "2026-08-05T19:48:06.195Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -311,15 +311,15 @@
     {
       "episodeOrder": 24,
       "title": "SLT vs ALT: Laser Trabeculoplasty Indications Explained",
-      "description": "What if a ten-minute laser procedure could free your glaucoma patient from a lifetime of daily eye drops? In this episode of Focus Cast, we take a deep dive into laser trabeculoplasty, breaking down the science, clinical indications, and real-world decision-making behind two of ophthalmology's most important IOP-lowering tools: Selective Laser Trabeculoplasty (SLT) and Argon Laser Trabeculoplasty (ALT).\n\nWe explore how both procedures target the trabecular meshwork to improve aqueous outflow, and why the differences in their mechanisms matter enormously in clinical practice. You will learn how ALT works through thermal coagulation, why its permanent scarring limits repeatability, and where it still holds value today. We then unpack SLT's selective photothermolysis, its tissue-sparing advantage, and why the landmark LiGHT trial published in The Lancet has repositioned SLT as a compelling first-line treatment for primary open-angle glaucoma and ocular hypertension.\n\nWhether you are managing a newly diagnosed glaucoma patient anxious about lifelong drops, or looking to add IOP-lowering options for someone already on medications, this episode gives you a clear, evidence-based framework for choosing the right laser at the right time. We also cover key contraindications, the role of laser trabeculoplasty in pseudoexfoliative and pigmentary glaucoma, and practical tips for pre- and post-procedure management.\n\nPerfect for ophthalmology residents, optometrists, and practicing clinicians looking for a focused, practical refresher. Listen now and visit Focuslinks.in for more episodes, clinical resources, and updates from Focus Cast.\n\n---",
+      "description": "What if you could lower a glaucoma patient's eye pressure without a single drop of medication? In this episode of Focus Cast, we dive deep into laser trabeculoplasty, exploring two of its most clinically important forms: Selective Laser Trabeculoplasty (SLT) and Argon Laser Trabeculoplasty (ALT). Whether you are a resident building your foundational knowledge or a practicing clinician looking for a focused refresher, this episode breaks down everything you need to know in clear, practical terms.\n\nWe cover how ALT uses thermal energy to mechanically improve trabecular meshwork drainage, why its permanent tissue scarring limits retreatment, and which glaucoma subtypes respond best to it. We then explore how SLT revolutionized the field through selective photothermolysis, preserving tissue architecture and allowing for repeat treatments. We also unpack the landmark LiGHT trial and what its findings mean for positioning SLT as a first-line therapy in open-angle glaucoma and ocular hypertension.\n\nYou will also learn the key indications and contraindications for both procedures, how to choose between them in real clinical scenarios, what post-procedure care looks like, and how to counsel patients on realistic expectations for IOP reduction and treatment longevity. From pseudoexfoliative glaucoma to pigmentary glaucoma, we discuss which patients are most likely to benefit and why trabecular meshwork pigmentation plays such a critical role in treatment response.\n\nIf you want to sharpen your approach to glaucoma laser management and stay current with evidence-based practice, this episode is essential listening. Subscribe to Focus Cast, share this episode with a colleague, and visit Focuslinks dot in for more ophthalmology resources, clinical pearls, and upcoming episodes.\n\n---",
       "tags": "slt,alt,laser,trabeculoplasty",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-24.mp3",
-      "duration": "12:16",
+      "duration": "12:18",
       "imageUrl": "",
       "status": "generated",
-      "runId": "510dafef-e393-4637-b4e6-458c78bd3bad",
-      "generatedAt": "2026-08-05T19:47:50.004Z"
+      "runId": "5f46f6cf-20d1-4d15-80f5-2ca97e376a98",
+      "generatedAt": "2026-08-05T19:48:06.195Z"
     },
     {
       "episodeOrder": 25,

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T19:20:44.527Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-05T19:24:07.118Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -377,14 +377,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Refraction: Retinoscopy to Subjective in Under Ten Minutes",
-      "description": "A reproducible refraction flow from streak retinoscopy to Jackson cross cylinder and binocular balance.",
+      "title": "Retinoscopy to Subjective Refraction in Under 10 Minutes",
+      "description": "Ever watched an experienced clinician breeze through a full refraction in under ten minutes and wondered how they made it look so effortless? In this episode of Focus Cast, we break down the complete refraction workflow — from retinoscopy to subjective refraction — into a clear, step-by-step process you can actually apply in the exam room.\n\nWe start with the objective phase, covering how to perform retinoscopy efficiently, understand the working distance correction, detect astigmatism by reading two meridians, and arrive at a reliable sphere, cylinder, and axis in just two to three minutes per eye. Then we walk through the seamless transition into subjective refraction — the step where most clinicians lose unnecessary time — and explain why your retinoscopy result should already be close to the final prescription.\n\nFrom fogging and clearing to find the best sphere, to refining cylinder power and axis with the Jackson Cross Cylinder, to binocular balancing for comfortable binocular vision, every step is explained with the kind of clinical reasoning that makes the process stick. We also tackle the most common pitfalls, including over-minusing and treating retinoscopy and subjective as two disconnected procedures rather than one continuous workflow.\n\nWhether you are an optometry student picking up a retinoscope for the first time, a clinician looking to sharpen your technique, or simply curious about what happens during an eye exam, this episode gives you the mindset and the method to refract with speed, accuracy, and confidence.\n\nListen now and start building the fluency that turns a good refraction into a great one. Visit focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "refraction,retinoscopy,jcc,balance",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-29.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e51cb088-fc4c-45bc-aeff-54ed5a7eacb8",
+      "generatedAt": "2026-08-05T19:24:06.247Z"
     },
     {
       "episodeOrder": 30,

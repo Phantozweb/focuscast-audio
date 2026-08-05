@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-05T20:26:03.745Z",
+  "lastUpdated": "2026-08-05T20:26:14.700Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,16 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Optic Disc Drusen: The Eye Condition That Fakes a Brain Emergency",
-      "description": "What if a routine eye exam suddenly looked like a neurological emergency — but wasn't? In this episode of Focus Cast, we dive deep into optic disc drusen, the condition also known as pseudopapilledema, and explore why this fascinating structural finding is one of the most important mimics in all of ophthalmology.\n\nOptic disc drusen are small, calcified deposits that form within the optic nerve head, causing the disc to appear swollen and raised — closely resembling papilledema, a sign of dangerously raised intracranial pressure. The result? Anxious patients, urgent referrals, and a cascade of investigations that often turn out to be unnecessary.\n\nIn this episode, we break down exactly what optic disc drusen are, how they form, and why they look so convincingly like a serious problem. We walk through the key differences between drusen and true papilledema, and explain how modern diagnostic tools — including B-scan ultrasound, optical coherence tomography, fundus autofluorescence, and CT imaging — help clinicians make the right call with confidence.\n\nWe also cover who is most at risk, how drusen can run in families, what long-term complications to watch for including visual field defects and rare vascular events, and how patients should be monitored and counseled over time.\n\nWhether you are an ophthalmologist, an optometrist, a neurology trainee, a medical student, or simply someone curious about how the eye works, this episode offers clear, clinically grounded insights you can actually use.\n\nListen now and share this episode with a colleague or student who would benefit. For more ophthalmology content, visit us at Focuslinks dot in.\n\n---",
+      "title": "Optic Disc Drusen: Why Pseudopapilledema Fools Doctors",
+      "description": "Could your \"swollen\" optic nerve actually be something far less alarming? In this eye-opening episode of Focus Cast, we unravel one of ophthalmology's most deceptive conditions — optic disc drusen, also known as pseudopapilledema. These tiny, calcified deposits buried within the optic nerve head can look almost identical to true papilledema, a sign of dangerously raised intracranial pressure, sending patients through unnecessary MRIs, blood tests, and waves of anxiety — all for a condition that is, in most cases, completely benign.\n\nWe break down exactly what optic disc drusen are, how they form, who is most at risk, and why they are so frequently misdiagnosed. You will learn how experienced clinicians distinguish drusen from true papilledema using clinical clues, and how cutting-edge tools like optical coherence tomography (OCT), fundus autofluorescence, and B-scan ultrasound have transformed diagnosis — making it faster, safer, and far less stressful for patients.\n\nBut drusen are not entirely without consequence. We also cover the real, if uncommon, risks — including gradual peripheral vision loss, anterior ischemic optic neuropathy, and why children with buried drusen present an especially tricky diagnostic challenge. Whether you are a patient who has just received this diagnosis, a student of ophthalmology, or simply someone curious about how the eye can mimic serious disease, this episode gives you the clarity you need.\n\nIf you or someone you love has been told their optic nerves look swollen, do not panic — listen first. Visit Focuslinks.in for more episodes and expert eye health resources, and subscribe to Focus Cast so you never miss an episode.\n\n---",
       "tags": "drusen,pseudopapilledema,bscan,svp",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-15.mp3",
-      "duration": "12:42",
+      "duration": "12:36",
       "imageUrl": "",
       "status": "generated",
-      "runId": "58372a5e-6d68-46a0-acf1-9719bec2a7d4",
-      "generatedAt": "2026-08-05T20:25:30.032Z"
+      "runId": "da0beec6-22b5-4c67-aeea-fed9f6912852",
+      "generatedAt": "2026-08-05T20:26:14.349Z"
     },
     {
       "episodeOrder": 16,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T17:23:00.141Z",
+  "lastUpdated": "2026-08-05T17:23:56.533Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 6,
+  "generatedEpisodes": 7,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -59,10 +59,10 @@
       "category": "Glaucoma",
       "order": 4,
       "totalEpisodes": 30,
-      "generatedEpisodes": 0,
+      "generatedEpisodes": 1,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/episodes.json",
       "audioDir": "podcast/series/glaucoma-guardian/audio",
-      "lastUpdated": "2026-08-05T17:11:07.278Z"
+      "lastUpdated": "2026-08-05T17:23:43.600Z"
     },
     {
       "slug": "vision-scientists",

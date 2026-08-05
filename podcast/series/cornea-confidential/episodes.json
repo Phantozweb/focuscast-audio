@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-05T17:33:31.559Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-05T17:37:06.090Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Bowman’s Layer: Where Scars Begin",
-      "description": "Why superficial keratectomy matters and how trauma here leaves permanent opacities.",
+      "title": "Bowman's Layer: Why Corneal Scars Never Fully Heal",
+      "description": "What if a single microscopic layer in your eye held the secret to why some vision damage is permanent? In this episode of Focus Cast, we dive deep into Bowman's Layer — the thin, irreplaceable structure sitting just beneath the surface of your cornea that silently determines whether your eye heals cleanly or carries a scar forever.\n\nAt just eight to fourteen micrometers thick, Bowman's Layer is thinner than a fraction of a human hair. Yet it plays a critical role in corneal clarity, structural integrity, and long-term vision health. Unlike almost every other tissue in the human body, Bowman's Layer cannot regenerate. Once damaged, it scars — and that scar can mean permanent blurry vision, glare, and halos that no glasses or contact lenses can fix.\n\nWe explore the real causes of corneal scarring, from everyday eye injuries and recurrent corneal erosion to herpes simplex keratitis, genetic dystrophies like Reis-Bücklers, and even the lasting effects of LASIK and PRK surgery. You'll also discover the cutting-edge treatments giving patients new hope — including Bowman Layer Transplantation, phototherapeutic keratectomy, and emerging stem cell research that could one day change how we treat corneal damage entirely.\n\nWhether you wear glasses, have had laser eye surgery, or simply want to understand the remarkable complexity of your own vision, this episode will leave you seeing your eyes in a completely new way.\n\nListen now and share with anyone curious about eye health and vision science. Visit Focuslinks.in for more episodes, articles, and resources on everything related to your eyes.",
       "tags": "bowmans,scar,trauma,keratectomy",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-03.mp3",
+      "duration": "10:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951425677",
+      "generatedAt": "2026-08-05T17:37:05.677Z"
     },
     {
       "episodeOrder": 4,

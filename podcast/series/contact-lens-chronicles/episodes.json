@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-05T19:57:29.061Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-05T19:57:58.869Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -101,13 +101,15 @@
     {
       "episodeOrder": 8,
       "title": "Rigid Gas Permeable Lenses: The Clarity Advantage",
-      "description": "Why RGPs outperform soft lenses on irregular corneas, the fitting philosophy, and the adaptation curve.",
+      "description": "What if the clearest vision of your life was hiding in a contact lens most people have never seriously considered? In this episode of Focus Cast, we pull back the curtain on rigid gas permeable lenses, also known as RGP or GP lenses, and explore why eye care professionals quietly consider them one of the best-kept secrets in vision correction.\n\nWe break down exactly how RGP lenses work, why their firm, shape-retaining design delivers sharper, more precise vision than most soft contact lenses, and who stands to benefit the most. Whether you have astigmatism, keratoconus, or simply demand the best optical performance your eyes can get, this episode covers why RGP lenses might be the upgrade your vision has been waiting for.\n\nWe also tackle the big comfort question head-on. Yes, there is an adaptation period, but we explain what to realistically expect and why so many long-term wearers say they would never go back to soft lenses. Plus, we dig into the long-term eye health benefits of superior oxygen flow to the cornea, and why RGP lenses can actually be more cost-effective over time than daily disposable soft lenses.\n\nIf you have been wearing soft lenses for years without ever asking your eye doctor about RGP lenses, this episode gives you every reason to start that conversation at your next appointment.\n\nListen now and discover why sometimes the best vision solution is the one most people overlook. For more episodes, resources, and expert eye care insights, visit us at Focuslinks dot in.\n\n---",
       "tags": "rgp,rigid,clarity,irregular",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-08.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "644205c2-79c2-447d-8156-3a4c9b4d0411",
+      "generatedAt": "2026-08-05T19:57:58.869Z"
     },
     {
       "episodeOrder": 9,

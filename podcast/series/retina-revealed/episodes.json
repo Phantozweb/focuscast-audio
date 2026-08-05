@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-05T18:11:19.009Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-05T18:14:55.662Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Dry AMD: Drusen, Pigment, and the AREDS2 Decision",
-      "description": "Classifying drusen, stratifying risk, and counseling on supplements, diet, and Amsler monitoring.",
+      "title": "Dry AMD Explained: Drusen, Pigment Changes & AREDS2",
+      "description": "Have you been told you have drusen and aren't sure what that means for your vision? In this episode of Focus Cast, we break down everything you need to know about dry age-related macular degeneration in plain, straightforward language. Dry AMD is the most common form of AMD, accounting for up to 90% of all cases, and it starts with tiny yellow deposits under the retina called drusen. But not all drusen are the same, and understanding the difference could change how you and your doctor approach your eye care.\n\nWe walk you through exactly what drusen are, why pigment changes in the retinal pigment epithelium matter, and how dry AMD can progress to geographic atrophy if left unmonitored. We also cover the key risk factors, including age, genetics, smoking, and diet, so you know what's within your control.\n\nThen we tackle the question so many patients have: should you be taking AREDS2 supplements? We explain what the landmark Age-Related Eye Disease Study found, why the original formula was updated, what the current AREDS2 formula contains, and most importantly, who it's actually recommended for. Spoiler: it's not for everyone with AMD, and knowing the difference matters.\n\nWhether you've recently received a diagnosis, have a family history of AMD, or simply want to be proactive about your long-term vision health, this episode gives you the clarity to have a more informed conversation with your eye doctor.\n\nVisit Focuslinks.in for more eye health resources and episodes from Focus Cast. If this episode helped you, share it with someone who needs to hear it.",
       "tags": "amd,drusen,areds2,dry-amd",
       "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-14.mp3",
+      "duration": "11:02",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953695047",
+      "generatedAt": "2026-08-05T18:14:55.047Z"
     },
     {
       "episodeOrder": 15,

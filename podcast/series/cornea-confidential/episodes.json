@@ -9,7 +9,7 @@
   "order": 3,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T19:46:25.883Z",
+  "lastUpdated": "2026-08-05T19:46:46.730Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,16 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Khodadoust Line & Corneal Graft Rejection: Act Fast",
-      "description": "What does it mean when your ophthalmologist spots a Khodadoust line after a corneal transplant — and why does treatment need to start *right now*? In this episode of Focus Cast, we break down one of the most urgent scenarios in corneal medicine: endothelial graft rejection.\n\nWe start with the basics of corneal transplantation and why the eye's immune-privileged status isn't a guaranteed shield against rejection. From there, we explore the different types of graft rejection — epithelial, stromal, and endothelial — and explain why endothelial rejection is the most clinically dangerous. You'll learn exactly what the Khodadoust line is, how it was first described by ophthalmologist Ali Reza Khodadoust, and why its wave-like march across the donor cornea is a visual emergency that demands immediate steroid therapy.\n\nWe also cover the critical role of endothelial cell counts, why every hour of delayed treatment can mean permanent cell loss, and how intensive topical corticosteroids like prednisolone acetate are used to halt rejection in its tracks. Plus, we discuss long-term prevention strategies, the classic four R's of rejection warning signs — redness, reduced vision, photosensitivity, and pain — and how modern surgical techniques like DMEK have transformed rejection risk profiles.\n\nWhether you're a medical student, ophthalmology resident, or clinician managing post-keratoplasty patients, this episode gives you the clinical clarity you need to recognize and respond to corneal graft rejection with confidence.\n\nListen now and share this episode with a colleague who works in corneal or anterior segment medicine. Visit Focuslinks dot in for more focused, clinically relevant medical conversations.\n\n---",
+      "title": "Corneal Graft Rejection: The Khodadoust Line Explained",
+      "description": "What happens when your body turns against a corneal transplant — and how do doctors fight back in time? In this episode of Focus Cast, we dive deep into corneal graft rejection, one of the most urgent and visually dramatic threats facing transplant patients today. You'll learn about the Khodadoust line, a striking wavefront of immune cells that marches across the back of the cornea during active endothelial rejection, first described by ophthalmologist Ali Reza Khodadoust in the 1960s. This single clinical finding transformed how doctors diagnose and respond to rejection in real time.\n\nWe break down why endothelial rejection is the most feared type, why every lost endothelial cell is gone forever, and why the phrase \"time is endothelium\" carries the same life-or-death weight as \"time is brain\" in stroke medicine. We also cover the critical role of urgent steroid therapy, the RSVP warning signs every transplant patient must know, and the risk factors that make certain corneas more vulnerable to rejection than others.\n\nWhether you're an ophthalmologist, an optometrist, a medical student, or a patient navigating life after a corneal transplant, this episode gives you the clinical clarity and human context to understand why rapid recognition and aggressive treatment can mean the difference between saving a graft and losing it permanently.\n\nListen now and visit Focuslinks.in for more episodes that bring complex medicine into sharp focus.\n\n---",
       "tags": "rejection,khodadoust,steroid,graft",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-30.mp3",
-      "duration": "12:16",
+      "duration": "12:43",
       "imageUrl": "",
       "status": "generated",
-      "runId": "c466e289-322b-4761-ab37-1342f833dce4",
-      "generatedAt": "2026-08-05T19:45:00.513Z"
+      "runId": "bfb75c18-3d69-4bc2-bcc7-0f44a544dfee",
+      "generatedAt": "2026-08-05T19:46:46.730Z"
     }
   ]
 }

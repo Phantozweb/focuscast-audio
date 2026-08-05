@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-05T20:02:17.025Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-05T20:02:32.515Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Ortho-K Fitting: Topography, Sag, and the Treatment Zone",
-      "description": "Reading the bullseye topography, adjusting the return zone, and the centration that matters.",
+      "title": "Ortho-K Fitting: Topography, Sag & the Treatment Zone Explained",
+      "description": "What if you could wake up every morning seeing clearly — no glasses, no contacts, no surgery? That's the promise of orthokeratology, and in this episode of Focus Cast, we pull back the curtain on exactly how it works.\n\nOrtho-K lenses reshape your cornea overnight, but the fitting process behind them is a precise science. We break down the three pillars that make or break a successful Ortho-K fit: corneal topography, sagittal depth, and the treatment zone.\n\nFirst, we explore how corneal topography maps the unique geometry of your eye, including eccentricity values that determine how your cornea flattens from center to edge, and why two patients with identical prescriptions can need completely different lens designs. Then we dive into sagittal depth, explaining how matching lens sag to corneal sag is the difference between a lens that works beautifully and one that causes discomfort or corneal damage. You'll also learn how modern sag-based fitting software has transformed what used to be a lengthy trial-and-error process into a far more precise science.\n\nFinally, we unpack the treatment zone — the area of the cornea that actually gets reshaped — and why its size and centration directly affect vision quality, halos, and most importantly, myopia control in children. We explain the science of peripheral defocus and why a well-fitted Ortho-K lens may be one of the most powerful tools available for slowing myopia progression in young eyes.\n\nWhether you're a curious patient, a parent exploring options for your child, or a vision care professional looking to sharpen your knowledge, this episode gives you a clear, thorough understanding of what great Ortho-K fitting actually looks like.\n\nListen now and visit Focuslinks.in for more episodes on the science of vision.\n\n---",
       "tags": "ortho-k,topography,treatment-zone,centration",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-14.mp3",
+      "duration": "13:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a1bb0cc1-77e0-475d-88d8-bdbf777784a0",
+      "generatedAt": "2026-08-05T20:02:32.515Z"
     },
     {
       "episodeOrder": 15,

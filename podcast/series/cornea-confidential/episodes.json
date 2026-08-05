@@ -8,19 +8,21 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-05T17:11:04.711Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-05T17:29:07.568Z",
   "episodes": [
     {
       "episodeOrder": 1,
       "title": "Corneal Anatomy: The Five Layers and Why Each Matters",
-      "description": "From epithelium to endothelium — how each layer contributes to clarity and where disease strikes.",
+      "description": "What if the clearest thing in your body is also the most complex? In this episode of Focus Cast, we take a deep dive into the cornea, the transparent, dome-shaped structure at the front of your eye that accounts for two-thirds of your total focusing power. And we are not just scratching the surface.\n\nWe break down all five distinct layers of the cornea, from the self-renewing epithelium that rebuilds itself every seven days, to the precisely organized stroma that makes transparency physically possible, to the endothelium, a single layer of irreplaceable cells working around the clock to keep your vision clear. Along the way, we explore Bowman's layer and why LASIK permanently alters it, the remarkable resilience of Descemet's membrane, and the fascinating story behind Dua's layer, a fifth corneal layer that scientists only formally identified in 2013.\n\nWhether you wear contact lenses, have ever considered laser eye surgery, or simply want to understand the biology behind everyday vision, this episode gives you a front-row seat to one of the most extraordinary structures in the human body.\n\nBy the end, you will never think about blinking the same way again.\n\nListen now and share this episode with anyone who loves exploring the science of the human body. For more content on eye health and vision science, visit us at focuslinks.in.",
       "tags": "anatomy,cornea,layers,clarity",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-01.mp3",
+      "duration": "10:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785950946954",
+      "generatedAt": "2026-08-05T17:29:06.954Z"
     },
     {
       "episodeOrder": 2,

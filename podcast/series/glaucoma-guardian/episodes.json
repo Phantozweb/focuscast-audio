@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-05T18:01:18.127Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-05T18:04:53.002Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Primary Angle-Closure Suspect: Anatomy and Risk",
-      "description": "Shallow chamber, plateau iris, and the laser peripheral iridotomy that prevents the acute attack.",
+      "title": "Narrow Angles & Glaucoma Risk: Primary Angle-Closure Suspect",
+      "description": "Could your eyes be silently setting the stage for vision loss — without a single warning sign? In this eye-opening episode of Focus Cast, we break down everything you need to know about being a Primary Angle-Closure Suspect, one of the most underrecognized risk categories in eye health today.\n\nWe start with the basics: how your eye manages fluid and pressure, and why the drainage angle — that tiny junction where the iris meets the cornea — is so critical to keeping your optic nerve safe. From there, we explore the specific anatomical features that create narrow angles, including shorter eye length, a thickening natural lens, iris configuration, and the lesser-known plateau iris variant.\n\nYou will learn why Primary Angle-Closure disease accounts for nearly half of all glaucoma-related blindness worldwide, why people of East Asian descent face a significantly higher risk, and why women over forty with farsighted prescriptions deserve particular attention. We also cover the situational triggers — dim lighting, certain medications, even a trip to the movies — that can push a narrow angle into a dangerous closure event.\n\nMost importantly, we explain what it actually means to carry this label. Being a Primary Angle-Closure Suspect is not a glaucoma diagnosis. It is critical information that empowers you to monitor, prevent, and protect your vision before any damage occurs.\n\nIf you have ever been told your angles are narrow, or if you simply want to understand your eye health at a deeper level, this episode is essential listening.\n\nVisit Focuslinks.in for more episodes and eye health resources. Share this episode with someone whose vision is worth protecting.",
       "tags": "pacg,suspect,iridotomy,anatomy",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-09.mp3",
+      "duration": "10:44",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953092543",
+      "generatedAt": "2026-08-05T18:04:52.543Z"
     },
     {
       "episodeOrder": 10,

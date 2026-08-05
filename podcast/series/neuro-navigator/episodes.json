@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:28:26.975Z",
+  "lastUpdated": "2026-08-05T20:29:12.845Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -246,15 +246,15 @@
     {
       "episodeOrder": 19,
       "title": "Amaurosis Fugax: Transient Vision Loss Workup Explained",
-      "description": "A patient loses vision in one eye for two minutes, then it returns completely. Reassuring? Absolutely not. In this episode of Focus Cast, we break down amaurosis fugax, the transient monocular vision loss that serves as one of medicine's most critical warning signs for impending stroke.\n\nWe walk through a real clinical scenario involving a 67-year-old woman whose brief \"curtain drop\" episode turned out to be caused by significant carotid stenosis, and explore exactly how a systematic, urgent workup saved her from a devastating outcome.\n\nYou will learn how to take a targeted history that distinguishes embolic causes from giant cell arteritis, vasospasm, and cardiac sources. We cover the essential physical examination findings, including how to spot Hollenhorst plaques on fundoscopy, and walk through every layer of the investigation pathway, from ESR and ECG to carotid Doppler ultrasound, echocardiography, MRI brain, and thrombophilia screening.\n\nWe also discuss why timing is everything, with stroke risk peaking in the first 48 to 72 hours after an ocular TIA, and how rapid assessment can reduce that risk by up to 80 percent. Management principles including antiplatelet therapy, anticoagulation for atrial fibrillation, statin use, and the urgent approach to suspected giant cell arteritis are all covered in practical, clinical detail.\n\nWhether you are a clinician, a medical student, or simply someone who wants to understand how vascular emergencies are approached, this episode gives you a clear, actionable framework you can apply immediately.\n\nListen now and visit Focuslinks dot in for more clinical episodes designed to sharpen your practice.\n\n---",
+      "description": "That sudden dark curtain falling over one eye and lifting just as fast? It is not nothing. It is amaurosis fugax — and it could be the most important warning sign your body ever sends. In this episode of Focus Cast, we break down everything clinicians and curious minds need to know about transient monocular vision loss, from the classic curtain description patients report to the urgent, systematic workup that can prevent a devastating stroke.\n\nWe cover why amaurosis fugax is classified as a TIA and why the stroke risk in the days that follow can be as high as ten percent. You will learn how to take a focused history, what to look for on fundoscopic exam including the telltale Hollenhorst plaque, and how to interpret findings like carotid stenosis, atrial fibrillation, and hypercoagulable states. We also walk through the full investigation pathway — carotid Doppler ultrasound, MRI brain, echocardiogram, ECG, and targeted blood tests — and explain how each finding shapes your management decisions, from carotid endarterectomy to anticoagulation to antiplatelet therapy.\n\nWhether you are a medical student, a clinician refreshing your approach, or simply someone who wants to understand what that frightening visual symptom really means, this episode gives you a clear, practical framework you can actually use.\n\nVisit Focuslinks dot in to explore more episodes of Focus Cast and keep building your clinical knowledge one conversation at a time.\n\n---",
       "tags": "tvl,amaurosis,carotid,embolus",
-      "category": "Retina",
+      "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-19.mp3",
-      "duration": "12:02",
+      "duration": "12:21",
       "imageUrl": "",
       "status": "generated",
-      "runId": "041c4226-a6fa-4c88-a382-22cae528f151",
-      "generatedAt": "2026-08-05T20:26:25.150Z"
+      "runId": "aa07248a-513d-47a4-8f1a-683d6ec4f0e1",
+      "generatedAt": "2026-08-05T20:29:12.845Z"
     },
     {
       "episodeOrder": 20,

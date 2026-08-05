@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-05T18:16:18.529Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-05T18:19:37.948Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Panum’s Fusional Area: The Tolerance for Disparity",
-      "description": "The retinal correspondence zone, the diplopia threshold, and the vergence reserves that protect fusion.",
+      "title": "Panum's Fusional Area: How Your Brain Tolerates Disparity",
+      "description": "What keeps you from seeing double every waking moment? The answer lies inside one of the most overlooked marvels of human vision — Panum's Fusional Area. In this episode of Focus Cast, we break down exactly what this zone is, how it works, and why it matters far more than most people realize.\n\nYour two eyes see the world from slightly different angles, creating what scientists call binocular disparity. Panum's Fusional Area is the precise range of disparity your brain can accept and still fuse into a single, seamless, three-dimensional image. Step outside that zone, and you see double. Stay within it, and your depth perception works like magic — helping you catch a ball, read a page, or navigate a crowded room without a second thought.\n\nIn this episode, we explore how this fusional zone shifts across your visual field, why it is smaller at the center and more forgiving at the edges, and how you can actually feel its boundaries with a simple finger exercise. We also cover how Panum's Fusional Area connects to real-world conditions like convergence insufficiency and amblyopia, why VR headsets and 3D movies are engineered around its limits, and how vision therapy can actually train and expand your fusional range over time.\n\nWhether you are curious about the science of binocular vision, dealing with eye strain or headaches from screen use, or simply fascinated by how the human brain constructs reality, this episode will change the way you think about seeing.\n\nVisit Focuslinks dot in to explore more episodes on vision, eye health, and the extraordinary science behind how we see the world.",
       "tags": "panum,fusion,disparity,vergence",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-16.mp3",
+      "duration": "9:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785953977506",
+      "generatedAt": "2026-08-05T18:19:37.506Z"
     },
     {
       "episodeOrder": 17,

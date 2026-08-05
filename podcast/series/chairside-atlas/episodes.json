@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-05T18:27:56.889Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-05T18:31:20.604Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -273,14 +273,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Anterior Chamber: Depth, Cells, and Flare",
-      "description": "Van Herick grading, cell/flare estimation, and recognizing the shallow chamber that changes everything.",
+      "title": "Anterior Chamber: Depth, Cells & Flare Explained",
+      "description": "What can a tiny fluid-filled space at the front of your eye reveal about your overall eye health? More than you might think. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into the anterior chamber, one of the most clinically significant structures in ophthalmology, and break down exactly what eye care professionals look for during a slit lamp examination.\n\nWe start with anterior chamber depth, exploring why a shallow chamber raises red flags for angle-closure glaucoma and what a deep chamber might signal about myopia or lens displacement. You will learn how the Van Herick technique gives clinicians a quick, reliable way to estimate drainage angle width right at the slit lamp.\n\nFrom there, we move into aqueous humor, the clear fluid that nourishes the eye and maintains intraocular pressure, and explain why its transparency is so critical to eye health. Then comes the heart of the episode: cells and flare. We break down how inflammatory white blood cells appear in the anterior chamber during uveitis, how protein leakage creates the characteristic Tyndall effect seen as flare, and how both findings are graded in clinical practice. We also cover hypopyon and hyphema, two dramatic anterior chamber findings that demand urgent clinical attention.\n\nWhether you are a student learning slit lamp examination for the first time or a clinician revisiting the fundamentals, this episode gives you a clear, structured understanding of anterior chamber assessment and its real-world diagnostic value.\n\nListen now and sharpen your clinical eye. Visit Focuslinks.in for more episodes, study resources, and everything eye care.\n\n---",
       "tags": "anterior-chamber,van-herick,cells,flare",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-21.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d1d4095f-d478-4ed6-a6c6-2bc978dffd05",
+      "generatedAt": "2026-08-05T18:31:19.330Z"
     },
     {
       "episodeOrder": 22,

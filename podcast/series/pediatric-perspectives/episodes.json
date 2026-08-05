@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-05T20:15:17.860Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-05T20:15:15.581Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -183,15 +183,15 @@
     {
       "episodeOrder": 14,
       "title": "Nasolacrimal Duct Obstruction: Why Is My Baby's Eye Always Watery?",
-      "description": "Is your newborn's eye constantly tearing up, even when they're perfectly happy? You're not alone — and there's a very good chance it's nasolacrimal duct obstruction, one of the most common conditions affecting newborns worldwide. In this episode of Focus Cast, we break down everything you need to know about blocked tear ducts in infants, in plain language that actually makes sense.\n\nWe start with a quick, fascinating look at how the tear drainage system works — from the tiny puncta in your eyelids all the way down to the nasolacrimal duct — and explain exactly why that system sometimes fails to open properly at birth. You'll learn what nasolacrimal duct obstruction looks like in a real baby, how to tell it apart from more serious conditions like dacryocystitis and congenital glaucoma, and why the vast majority of cases resolve completely on their own within the first year of life.\n\nWe also walk through practical management strategies, including how to perform Crigler massage at home, when topical antibiotics are appropriate, and what happens if conservative treatment isn't enough. From probing to silicone tube intubation to dacryocystorhinostomy, we cover the full treatment pathway in a way that's easy to follow whether you're a worried parent, a medical student, or a clinician looking for a quick refresher.\n\nIf a baby in your life has a persistently watery or crusty eye, this episode will give you the clarity and confidence to understand what's happening and what to do next. Listen now, and visit Focuslinks.in for more episodes designed for curious minds in medicine.\n\n---",
+      "description": "Is your newborn's eye constantly watering, crusty, or goopy — even when they're perfectly happy? You're not alone, and chances are it's nasolacrimal duct obstruction, one of the most common eye conditions in infants. In this episode of Focus Cast, we break down everything you need to know about this surprisingly misunderstood condition — in plain, clear language that actually makes sense.\n\nWe start with the anatomy of the tear drainage system, explaining exactly how tears travel from your eye to your nose and what happens when that pathway gets blocked. You'll learn about the valve of Hasner, the tiny membrane at the end of the nasolacrimal duct that fails to open in up to 20% of newborns, and why that causes the classic tearing infant picture.\n\nWe also clear up one of the biggest points of confusion — the difference between nasolacrimal duct obstruction and conjunctivitis — and explain when secondary infections like dacryocystitis become a concern and what to watch for.\n\nMost importantly, we walk through the full management approach, from lacrimal sac massage techniques parents can do at home, to nasolacrimal duct probing, silicone stenting, and dacryocystorhinostomy for more complex cases. You'll come away knowing exactly what to expect at every stage.\n\nWhether you're a worried parent, a medical student studying pediatric ophthalmology, or a healthcare provider looking for a quick, reliable refresher, this episode gives you the full picture — from anatomy to treatment.\n\nListen now, and visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "nldo,tearing,massage,probing",
-      "category": "Glaucoma",
+      "category": "Pediatric",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-14.mp3",
-      "duration": "12:54",
+      "duration": "12:48",
       "imageUrl": "",
       "status": "generated",
-      "runId": "9e589a01-b107-4820-af7b-dfba4f668310",
-      "generatedAt": "2026-08-05T20:15:17.860Z"
+      "runId": "a846ae26-8468-4b50-8da2-67e1485e0490",
+      "generatedAt": "2026-08-05T20:15:14.341Z"
     },
     {
       "episodeOrder": 15,
@@ -221,16 +221,14 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Leukocoria: Critical Differentials Every Eye Doctor Must Know",
-      "description": "That eerie white glow in a child's eye photograph is not just a camera glitch — it could be a lifesaving warning sign. In this episode of Focus Cast by Focuslinks.in, we take a deep clinical dive into leukocoria, the white pupil reflex that demands your sharpest diagnostic thinking every single time.\n\nMost clinicians default to cataract when they see leukocoria. But what if it is retinoblastoma — the most common intraocular malignancy in children, with survival rates that plummet when diagnosis is delayed? What if it is persistent fetal vasculature, Coats disease, ocular toxocariasis, retinopathy of prematurity, or familial exudative vitreoretinopathy? Each condition carries its own clinical fingerprint, its own urgency, and its own management pathway — and confusing one for another can cost a child their vision or their life.\n\nIn this episode, we walk through the full differential diagnosis of leukocoria with practical clinical pearls, key distinguishing features, and a clear framework for workup and referral. We cover how smartphone photography is changing early detection, why ultrasound is your best diagnostic ally, and when to refer urgently to a pediatric ophthalmologist or ocular oncologist.\n\nWhether you are a resident building your clinical foundation or a seasoned practitioner refreshing your knowledge, this episode delivers the kind of focused, evidence-informed discussion that translates directly to better patient care.\n\nListen now, and the next time a worried parent slides a photo across your desk, you will know exactly what to do. Subscribe to Focus Cast on your favorite podcast platform and visit Focuslinks.in for more clinical ophthalmology content built by clinicians, for clinicians.\n\n---",
+      "title": "Leukocoria: The Differential Beyond Cataract",
+      "description": "Retinoblastoma, Coats disease, persistent fetal vasculature — the sight- and life-threatening causes.",
       "tags": "leukocoria,retinoblastoma,coats,pfv",
-      "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-17.mp3",
-      "duration": "12:04",
+      "category": "Retina",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "829d2beb-0c8f-4d67-bfdd-f49fe18a683a",
-      "generatedAt": "2026-08-05T20:15:14.742Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 18,

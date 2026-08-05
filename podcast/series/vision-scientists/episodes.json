@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 5,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-05T17:34:54.798Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-05T17:38:36.375Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Cylindrical Lenses: Correcting Astigmatism",
-      "description": "The meridians of a cylinder, the axis, and how toric lenses restore a point image.",
+      "title": "Cylindrical Lenses: How They Correct Astigmatism",
+      "description": "Ever noticed streetlights stretching into strange streaks at night, or text that looks sharp in one direction but blurry in another? You might have astigmatism — and in this episode of Focus Cast, we're breaking down exactly what that means and how a remarkable optical invention called the cylindrical lens fixes it.\n\nWe start with the basics: what astigmatism actually is, why your cornea's rugby-ball shape causes light to focus in two different places instead of one, and why that leads to the distorted, blurry vision so many people experience. From there, we dive into how cylindrical lenses work — why they're fundamentally different from regular spherical lenses, how they bend light along just one axis, and why the axis angle in your glasses prescription matters more than most people realize.\n\nWe also explore where cylindrical lenses show up beyond eyeglasses — from laser systems and barcode scanners to cinema projectors and telescopes. Plus, we cover toric contact lenses, wavefront-guided LASIK, and the fascinating history behind astigmatism correction, including the scientist who first identified it in his own eyes back in the early 1800s.\n\nWhether you've just been told you have astigmatism, you're curious about how your glasses prescription actually works, or you simply love understanding the science behind everyday things, this episode is for you.\n\nVisit us at Focuslinks.in for more articles and resources on eye health, vision science, and optical technology. Don't forget to share this episode with someone who's always wondered what astigmatism really means.",
       "tags": "cylinder,astigmatism,axis,toric",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-05.mp3",
+      "duration": "10:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951515968",
+      "generatedAt": "2026-08-05T17:38:35.968Z"
     },
     {
       "episodeOrder": 6,

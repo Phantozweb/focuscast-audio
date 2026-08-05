@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 4,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-05T17:28:47.481Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-05T17:32:09.542Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Intraocular Pressure: The Number and Its Fluctuations",
-      "description": "Diurnal variation, the value of multiple readings, and why a single “normal” IOP can mislead.",
+      "title": "Intraocular Pressure Explained: What That Number Really Means",
+      "description": "Your eye doctor reads out a number at every exam, says \"looks good,\" and moves on — but do you actually know what intraocular pressure is, why it matters, and why it's never quite the same twice? In this episode of Focus Cast, we break down everything you need to know about IOP in plain, everyday language.\n\nWe start with the basics — what intraocular pressure is, how the eye maintains it through a fluid called aqueous humor, and what the normal range actually looks like. Then we get into the part most people never hear about: IOP fluctuates constantly. Time of day, body position, exercise, caffeine, even your sleeping habits can all shift that number in ways that matter, especially if you're at risk for glaucoma.\n\nSpeaking of glaucoma — we explain why elevated intraocular pressure is one of its biggest risk factors, why it's often called the silent thief of sight, and why catching it early through regular eye exams can make all the difference between preserved vision and permanent damage.\n\nWe also walk you through how IOP is actually measured, from the familiar air puff test to the gold standard Goldmann applanation tonometry, and touch on exciting new technologies on the horizon.\n\nBy the end of this episode, that number your eye doctor mentions won't just be background noise — it'll be something you understand, something you can ask smart questions about, and something you can actively help manage through everyday lifestyle choices.\n\nIf you care about protecting your vision for the long haul, this episode is for you. Visit us at Focuslinks.in to explore more eye health content from Focus Cast.",
       "tags": "iop,diurnal,fluctuation,tonometry",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-03.mp3",
+      "duration": "9:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785951129103",
+      "generatedAt": "2026-08-05T17:32:09.103Z"
     },
     {
       "episodeOrder": 4,

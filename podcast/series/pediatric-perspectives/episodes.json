@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-05T20:09:29.125Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-05T20:09:47.909Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -61,14 +61,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Amblyopia: The Lazy Eye and the Critical Period",
-      "description": "The sensitive period, anisometropic versus strabismic amblyopia, and why early intervention is everything.",
+      "title": "Amblyopia & Lazy Eye: The Brain, Critical Period & Cures",
+      "description": "What if the biggest threat to your child's vision had nothing to do with their eyes? In this episode of Focus Cast, we dive deep into amblyopia — commonly known as lazy eye — one of the most widespread yet underdiagnosed vision conditions affecting millions of children worldwide. Spoiler: it's not really a lazy eye problem. It's a brain problem. And the window to fix it is smaller than most parents realize.\n\nWe break down exactly what amblyopia is, why the brain learns to ignore one eye, and the three main causes — strabismic, refractive, and deprivation amblyopia — each with its own story and urgency. Then we explore the science of the critical period, that remarkable developmental window in early childhood when the visual brain is still plastic enough to be rewired. We trace this discovery back to the Nobel Prize-winning research of Hubel and Wiesel, whose kitten experiments changed everything we know about vision and neuroscience.\n\nFrom classic eye patching and atropine drops to cutting-edge dichoptic training and amblyopia video games, we cover what treatment looks like today — and what the future might hold for adults who were never treated as children. Because yes, new research suggests the story may not be over for grown-ups either.\n\nWhether you're a parent, a caregiver, a teacher, or someone who has always wondered why one eye just never saw quite right, this episode will change the way you think about vision, brain development, and the lifelong impact of early eye care.\n\nDon't wait for symptoms that may never come. Visit Focuslinks.in to learn more and find trusted eye care resources near you.\n\n---",
       "tags": "amblyopia,critical-period,anisometropic,strabismic",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-05.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "361c4b17-3ccb-444c-94a0-704a85936eba",
+      "generatedAt": "2026-08-05T20:09:47.909Z"
     },
     {
       "episodeOrder": 6,

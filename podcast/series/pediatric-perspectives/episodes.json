@@ -9,7 +9,7 @@
   "order": 7,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T20:21:46.954Z",
+  "lastUpdated": "2026-08-05T20:22:00.195Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -391,15 +391,15 @@
     {
       "episodeOrder": 30,
       "title": "Pediatric to Adult Care Transition: The Handoff Guide",
-      "description": "What happens when a teenager who has spent their entire life in pediatric care suddenly has to navigate the adult healthcare system alone? The shift is more than just a change of doctors — it is one of the most vulnerable moments in a young patient's medical journey, and far too often, it goes wrong.\n\nIn this episode of Focus Cast, we break down the pediatric handoff: the complex process of transitioning young patients with chronic and complex conditions from pediatric to adult care. We explore why this transition is so difficult, why nearly half of young adults with congenital heart disease drop out of specialist care during this period, and who is most at risk — from those living with Type 1 diabetes and epilepsy to young people with autism spectrum disorder and cerebral palsy.\n\nWe also cover what a successful transition actually looks like, including structured transition programs like Got Transition, the power of the warm handoff, and the six-core-element model that healthcare teams can use to guide patients safely through this critical period.\n\nWhether you are a young person approaching this milestone, a parent learning when to step back, or a healthcare provider looking to improve your transition process, this episode gives you practical, actionable guidance to make the pediatric to adult care transition smoother, safer, and more human.\n\nListen now and share this episode with anyone navigating this important healthcare moment. For more episodes like this, visit Focus Cast at Focuslinks.in.\n\n---",
+      "description": "What really happens when a child with a chronic illness grows up and has to leave their pediatric care team behind? In this eye-opening episode of Focus Cast, we explore one of the most overlooked and high-risk moments in modern healthcare — the transition from pediatric to adult care.\n\nThrough the story of Maya, a teenager with Type 1 diabetes, we uncover why this handoff so often goes wrong — and what the consequences can look like. From spiking ER visits to patients with congenital heart disease falling out of care entirely, the data is clear: this transition is a critical vulnerability in the healthcare journey of millions of young adults.\n\nWe break down exactly why this shift is so difficult, including the fundamental differences between family-centered pediatric medicine and the patient-driven expectations of adult care, the emotional weight of leaving a trusted care team, and the gaps that exist on both sides of the handoff. More importantly, we walk through what actually works — structured transition programs, dedicated transition clinics, the growing role of transition coordinators, and how digital tools are helping a new generation stay engaged in their own health.\n\nWhether you are a parent of a child with a chronic condition, a young adult approaching this transition, or a healthcare provider looking to do better by your patients, this episode gives you practical, actionable guidance you can use right now.\n\nStart the conversation early, build independence gradually, and make sure no one walks into adult care unprepared. The pediatric handoff does not have to be a cliff edge — it can be a bridge.\n\nListen now and share this episode with someone who needs to hear it. Find more episodes and resources at Focuslinks dot in.\n\n---",
       "tags": "transition,adult-care,chronic,continuity",
       "category": "Pediatric",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-30.mp3",
-      "duration": "12:21",
+      "duration": "12:30",
       "imageUrl": "",
       "status": "generated",
-      "runId": "f2a72508-1142-43fc-b62b-0bd6072f9ddd",
-      "generatedAt": "2026-08-05T20:20:40.151Z"
+      "runId": "579a4438-13fc-40c8-8c68-585eca5f81a2",
+      "generatedAt": "2026-08-05T20:22:00.195Z"
     }
   ]
 }

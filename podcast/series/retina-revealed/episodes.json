@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-05T17:54:00.479Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-05T17:57:36.516Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -131,13 +131,15 @@
     {
       "episodeOrder": 10,
       "title": "ICG Angiography: Seeing Choroidal Lesions Fluorescein Misses",
-      "description": "When to reach for ICG — occult CNV, polypoidal choroidal vasculopathy, and choroidal tumors.",
+      "description": "Ever stared at a fluorescein angiogram that looked almost normal while your patient's symptoms told a completely different story? You're not alone — and the answer might be hiding in the choroid. In this episode of Focus Cast by Focuslinks.in, we dive deep into ICG angiography and explore why this powerful imaging tool reveals choroidal pathology that fluorescein simply cannot see.\n\nWe break down exactly how indocyanine green dye works — its near-infrared fluorescence, its protein-binding properties, and why these characteristics allow it to penetrate the RPE and illuminate the choroidal circulation like no other modality can. From there, we walk through the four key clinical categories where ICG changes everything: polypoidal choroidal vasculopathy (PCV), chronic central serous chorioretinopathy, choroidal tumors including hemangiomas and melanomas, and the white dot syndromes and inflammatory choroidopathies.\n\nYou'll learn why misdiagnosing PCV as neovascular AMD can lead to suboptimal treatment, how ICG-guided photodynamic therapy transforms outcomes in chronic central serous, and why ICG lesion burden in birdshot chorioretinopathy correlates more closely with visual function than fluorescein ever could. We also address the practical realities of adding ICG to your imaging workflow and how it complements — not competes with — OCT angiography.\n\nIf you want to truly understand what's happening beneath the RPE and make more confident, better-informed treatment decisions, this episode is essential listening. Visit Focuslinks.in for more episodes, resources, and updates — and share this with a colleague who needs to look a little deeper.",
       "tags": "icg,cnv,pcv,choroid",
       "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-10.mp3",
+      "duration": "10:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952656035",
+      "generatedAt": "2026-08-05T17:57:36.036Z"
     },
     {
       "episodeOrder": 11,

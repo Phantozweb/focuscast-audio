@@ -9,7 +9,7 @@
   "order": 5,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-05T19:53:10.348Z",
+  "lastUpdated": "2026-08-05T19:53:29.151Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,16 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Chromatic Aberration: How Your Eyes Use Color to Focus",
-      "description": "What if the biggest \"flaw\" in your eye's optics is actually one of its most powerful features? In this episode of Focus Cast, we explore the fascinating science of chromatic aberration and how your visual system secretly relies on it to focus accurately every single day.\n\nMost people know chromatic aberration as those annoying color fringes in old photographs or cheap camera lenses — something optical engineers work hard to eliminate. But your eye never fully corrected for it, and researchers now believe that was no accident. Because different colors of light bend at slightly different angles through your lens, the subtle color fringing around objects actually tells your eye which direction to adjust its focus. It's a built-in directional compass, hidden inside what looks like an imperfection.\n\nWe break down how the eye's accommodation system works, why the \"sign of defocus\" problem is trickier than it sounds, and what happens when scientists deliberately reverse the chromatic signal — spoiling the eye's focusing cues entirely. We also connect this to the global myopia epidemic, exploring why outdoor light may protect children's eyesight, and what modern LED screens might be doing to your eye's natural feedback system.\n\nThis episode will change the way you think about vision, light, and the surprising intelligence built into your biology. Whether you're a science enthusiast, a parent concerned about screen time, or someone who's been squinting at their phone a little too long, this one is for you.\n\nListen now and discover why the imperfection is the information. For more episodes on the science of vision and eye health, visit Focuslinks dot in.\n\n---",
+      "title": "Chromatic Aberration: How Your Eyes Turn a Flaw Into a Feature",
+      "description": "What if one of your eye's biggest imperfections is actually one of its most powerful tools? In this episode of Focus Cast, we explore chromatic aberration — the optical phenomenon where different colors of light focus at slightly different depths inside your eye — and reveal how your visual system has evolved to use this quirk as a built-in focusing compass.\n\nWe break down the science of accommodation and explain how your brain reads subtle color signals to guide your eye's lens in the right direction, all without you ever thinking about it. You'll discover why camera designers work hard to eliminate chromatic aberration while your brain treats it as valuable data, and what that difference tells us about the remarkable sophistication of human vision.\n\nWe also explore the real-world implications: how corrective lenses like high-index glasses can alter your eye's chromatic aberration profile, why some people feel their glasses never quite match natural vision, and the compelling emerging research linking chromatic aberration to the global rise of myopia in children. Could the color composition of indoor versus outdoor light actually be shaping how young eyes grow? The science is fascinating — and surprisingly practical.\n\nWhether you're curious about eye health, the biology of vision, or just love discovering how the human body turns limitations into elegant solutions, this episode will change the way you see the world — literally.\n\nVisit Focuslinks.in to explore more episodes and dive deeper into the science of vision and eye health.\n\n---",
       "tags": "chromatic-aberration,lca,accommodation,cue",
       "category": "Refraction",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/audio/ep-20.mp3",
-      "duration": "12:19",
+      "duration": "12:35",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a0d7085d-964b-4ec2-b34f-742568698cfa",
-      "generatedAt": "2026-08-05T19:53:02.001Z"
+      "runId": "0c91c73d-e0fa-4abd-b1a8-7bb999d96714",
+      "generatedAt": "2026-08-05T19:53:28.343Z"
     },
     {
       "episodeOrder": 21,

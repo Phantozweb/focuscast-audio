@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T20:18:15.838Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-05T20:18:28.727Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -365,13 +365,15 @@
     {
       "episodeOrder": 28,
       "title": "Stargardt Disease: The Inherited Macular Dystrophy of Youth",
-      "description": "The pisciform flecks, the dark choroid on FA, and the genetic counseling and low vision support.",
+      "description": "What does it feel like to lose your central vision as a teenager — not from an accident, not from a screen, but from a gene you were born with? In this episode of Focus Cast, we take a deep dive into Stargardt disease, the most common inherited macular dystrophy affecting young people worldwide. Caused by a faulty ABCA4 gene, this autosomal recessive condition silently damages the cone cells at the center of the retina, stealing sharp, detailed vision from children and young adults — often during the most formative years of their lives.\n\nWe break down the science in plain language: how the retina works, why lipofuscin buildup destroys photoreceptor cells, and how two parents with perfect vision can pass this condition to their child. We also explore what living with Stargardt disease actually feels like — the central blind spot, the photophobia, the emotional weight of an invisible disability, and the unique challenges faced by teenagers navigating school, identity, and independence with progressive vision loss.\n\nBut this episode is not just about loss. We cover the most promising advances in Stargardt disease research, including ABCA4 gene therapy clinical trials, stem cell therapy, deuterated vitamin A compounds like ALK-001, and the rapidly evolving world of AI-powered assistive technology that is transforming daily life for people with low vision right now.\n\nWhether you are newly diagnosed, supporting someone who is, or simply curious about inherited eye conditions, this episode will leave you informed, hopeful, and better equipped to understand a condition that affects hundreds of thousands of people worldwide. Listen now and visit Focuslinks.in for more episodes on eye health and vision science.\n\n---",
       "tags": "stargardt,pisciform,flecks,genetics",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-28.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "82fa0ee4-1467-444c-8317-a9b3f99abc34",
+      "generatedAt": "2026-08-05T20:18:28.727Z"
     },
     {
       "episodeOrder": 29,

@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T20:16:26.389Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-05T20:16:47.750Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -308,14 +308,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Myopia Control: Atropine, Ortho-K, and Dual-Focus CLs",
-      "description": "The low-dose atropine trials, the optical interventions, and the combined approach evidence.",
+      "title": "Myopia Control: Atropine, Ortho-K & Dual-Focus Lenses Explained",
+      "description": "Is your child's eyesight getting worse every year? You are not alone — and more importantly, you are not powerless. In this episode of Focus Cast, we dive deep into the world of myopia control, exploring the three most effective, research-backed strategies available today to slow down nearsightedness progression in children.\n\nWe break down exactly how low-dose atropine eye drops work, why a concentration as small as 0.01 percent can reduce myopia progression by up to 60 percent, and what parents need to know before starting treatment. Then we explore orthokeratology, the remarkable overnight lens therapy that reshapes the cornea while your child sleeps, delivering glasses-free days and meaningful long-term vision protection. Finally, we walk through dual-focus contact lenses like MiSight, explaining the clever optical science behind peripheral defocus and what six years of clinical data actually shows.\n\nWhether your child was just diagnosed with myopia or has been wearing glasses for years, this episode gives you the knowledge to ask better questions and make more confident decisions alongside your eye care provider. We also cover why starting myopia control early matters, how combination therapies are showing promising results, and why myopia is far more than just a prescription number — it is a long-term eye health concern worth taking seriously.\n\nIf you found this episode valuable, share it with a parent, teacher, or caregiver who needs to hear it. Visit Focuslinks dot in for more episodes, expert resources, and everything you need to stay informed about your eye health.\n\n---",
       "tags": "myopia-control,atropine,ortho-k,dual-focus",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-24.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1cb85f0f-1116-4010-89db-c39988bea54c",
+      "generatedAt": "2026-08-05T20:16:47.750Z"
     },
     {
       "episodeOrder": 25,

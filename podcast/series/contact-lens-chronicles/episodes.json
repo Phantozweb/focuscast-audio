@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-05T19:55:38.853Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-05T19:56:17.993Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Soft Lens Designs: Spherical, Toric, and Multifocal",
-      "description": "Matching the design to the prescription, the stabilizing prism in torics, and the multifocal concentric logic.",
+      "title": "Soft Contact Lens Designs: Spherical, Toric & Multifocal",
+      "description": "Ever wondered how a tiny, transparent disc can completely transform the way you see the world? In this episode of Focus Cast by Focuslinks.in, we break down the three most important soft contact lens designs — spherical, toric, and multifocal — and explain exactly what makes each one unique, who they are designed for, and why choosing the right lens design matters more than most people realize.\n\nWe start with spherical lenses, the most widely used contact lenses in the world, designed to correct nearsightedness and farsightedness with uniform optical power. Then we dive into toric lenses, the precision-engineered solution for astigmatism, exploring how clever stabilization systems keep these lenses correctly oriented on a constantly moving eye. Finally, we explore multifocal contact lenses, the sophisticated answer to presbyopia, and how simultaneous vision technology allows people over forty to see clearly at near, intermediate, and far distances — all without reaching for reading glasses.\n\nWhether you are a first-time contact lens wearer trying to understand your prescription, an optometry student looking to strengthen your foundational knowledge, or someone curious about upgrading your current lenses, this episode gives you a clear, jargon-free guide to soft lens design. You will walk away knowing the difference between spherical, toric, and multifocal lenses, and feeling more confident in conversations with your eye care professional.\n\nListen now and see the world of contact lenses in a whole new way. For more vision care resources, articles, and episodes, visit Focuslinks.in.\n\n---",
       "tags": "soft,spherical,toric,multifocal",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-02.mp3",
+      "duration": "12:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "aa93d373-da79-4447-a7ee-38c05494e7c4",
+      "generatedAt": "2026-08-05T19:56:17.993Z"
     },
     {
       "episodeOrder": 3,

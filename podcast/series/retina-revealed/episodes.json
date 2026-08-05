@@ -9,7 +9,7 @@
   "order": 2,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:16.693Z",
+  "lastUpdated": "2026-08-05T17:11:02.280Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -18,7 +18,7 @@
       "tags": "anatomy,retina,layers,bruchs",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -29,7 +29,7 @@
       "tags": "optic-disc,isnt,cup,glaucoma",
       "category": "Optic Nerve",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -40,7 +40,7 @@
       "tags": "macula,fovea,reflex,early-disease",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -51,7 +51,7 @@
       "tags": "vasculature,av-crossing,hypertension,vessels",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -62,7 +62,7 @@
       "tags": "oct,macula,layers,fluid",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -73,7 +73,7 @@
       "tags": "oct,rnfl,glaucoma,progression",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -84,7 +84,7 @@
       "tags": "fundus-photo,montage,fields,stereo",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -95,7 +95,7 @@
       "tags": "faf,lipofuscin,stargardt,toxicity",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -106,7 +106,7 @@
       "tags": "fa,angiography,leakage,phases",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -117,7 +117,7 @@
       "tags": "icg,cnv,pcv,choroid",
       "category": "Ocular Imaging",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -128,7 +128,7 @@
       "tags": "diabetes,npdr,pdr,staging",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -139,7 +139,7 @@
       "tags": "dme,csme,anti-vegf,oct",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -150,7 +150,7 @@
       "tags": "prp,laser,pdr,treatment",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -161,7 +161,7 @@
       "tags": "amd,drusen,areds2,dry-amd",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -172,7 +172,7 @@
       "tags": "wet-amd,cnv,anti-vegf,conversion",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -183,7 +183,7 @@
       "tags": "ga,atrophy,complement,late-amd",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -194,7 +194,7 @@
       "tags": "csr,csr,serous-detachment,stress",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -205,7 +205,7 @@
       "tags": "erm,membrane,metamorphopsia,vitrectomy",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -216,7 +216,7 @@
       "tags": "macular-hole,staging,vitrectomy,gas",
       "category": "Macula",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -227,7 +227,7 @@
       "tags": "brvo,vein-occlusion,ischemia,anti-vegf",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -238,7 +238,7 @@
       "tags": "crvo,nvi,nvg,anti-vegf",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -249,7 +249,7 @@
       "tags": "crao,cherry-red,emergency,carotid",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -260,7 +260,7 @@
       "tags": "oao,ischemia,choroid,emergency",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -271,7 +271,7 @@
       "tags": "tears,lattice,hole,laser",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -282,7 +282,7 @@
       "tags": "rds,photopsia,floaters,curtain",
       "category": "Emergency Eye Care",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -293,7 +293,7 @@
       "tags": "serous,tractional,detachment,exudative",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -304,7 +304,7 @@
       "tags": "periphery,fundus,sweep,lesions",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -315,7 +315,7 @@
       "tags": "nevus,melanoma,suspicion,surveillance",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -326,7 +326,7 @@
       "tags": "melanoma,collar-button,bscan,oncology",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     },
@@ -337,7 +337,7 @@
       "tags": "rp,dystrophy,genetics,scotoma",
       "category": "Retina",
       "audioUrl": "",
-      "duration": "",
+      "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
     }

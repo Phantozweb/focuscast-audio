@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-05T17:20:43.285Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-05T17:24:08.713Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Macula and Fovea: The High-Resolution Zone",
-      "description": "Locating the fovea, reading the foveal reflex, and spotting the subtle distortions of early disease.",
+      "title": "Macula & Fovea: The Secret Behind Your Sharp Vision",
+      "description": "What makes human vision so remarkably sharp and detailed? The answer lies in a tiny patch of tissue at the back of your eye — the macula and fovea. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into the high-resolution zone of the human eye and uncover the extraordinary biology that lets you read, recognize faces, and experience the world in vivid detail.\n\nWe explore exactly what the macula is, why it's called the \"yellow spot,\" and how the pigments lutein and zeaxanthin act as your eye's built-in UV filter. Then we zoom into the fovea — a tiny pit just one and a half millimeters wide — packed with the highest density of cone cells in the entire retina, making it the center of your sharpest, most color-rich vision.\n\nYou'll also discover why your true zone of sharp vision is only about the size of your thumbnail at arm's length, how your eyes stitch together a complete picture through rapid movements called saccades, and why looking slightly away from a faint star actually helps you see it better.\n\nWe also cover macular degeneration — one of the leading causes of vision loss worldwide — including the difference between dry and wet forms, current treatment options, and the lifestyle choices that can genuinely protect your macula over time.\n\nWhether you're curious about eye health, human biology, or simply want to understand the incredible machinery behind your everyday vision, this episode delivers clear, science-backed insights in an engaging and accessible way.\n\nListen now and visit Focuslinks.in for more episodes dedicated to keeping your eyes and your knowledge sharp.",
       "tags": "macula,fovea,reflex,early-disease",
       "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-03.mp3",
+      "duration": "9:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785950648119",
+      "generatedAt": "2026-08-05T17:24:08.119Z"
     },
     {
       "episodeOrder": 4,

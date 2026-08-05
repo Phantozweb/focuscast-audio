@@ -8,8 +8,8 @@
   "category": "Pediatric",
   "order": 7,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-05T20:20:23.090Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-05T20:20:40.151Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -388,14 +388,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Transitioning to Adult Care: The Pediatric Handoff",
-      "description": "The transition planning for chronic pediatric eye disease — the records, the adherence, the continuity.",
+      "title": "Pediatric to Adult Care Transition: The Handoff Guide",
+      "description": "What happens when a teenager who has spent their entire life in pediatric care suddenly has to navigate the adult healthcare system alone? The shift is more than just a change of doctors — it is one of the most vulnerable moments in a young patient's medical journey, and far too often, it goes wrong.\n\nIn this episode of Focus Cast, we break down the pediatric handoff: the complex process of transitioning young patients with chronic and complex conditions from pediatric to adult care. We explore why this transition is so difficult, why nearly half of young adults with congenital heart disease drop out of specialist care during this period, and who is most at risk — from those living with Type 1 diabetes and epilepsy to young people with autism spectrum disorder and cerebral palsy.\n\nWe also cover what a successful transition actually looks like, including structured transition programs like Got Transition, the power of the warm handoff, and the six-core-element model that healthcare teams can use to guide patients safely through this critical period.\n\nWhether you are a young person approaching this milestone, a parent learning when to step back, or a healthcare provider looking to improve your transition process, this episode gives you practical, actionable guidance to make the pediatric to adult care transition smoother, safer, and more human.\n\nListen now and share this episode with anyone navigating this important healthcare moment. For more episodes like this, visit Focus Cast at Focuslinks.in.\n\n---",
       "tags": "transition,adult-care,chronic,continuity",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pediatric-perspectives/audio/ep-30.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f2a72508-1142-43fc-b62b-0bd6072f9ddd",
+      "generatedAt": "2026-08-05T20:20:40.151Z"
     }
   ]
 }

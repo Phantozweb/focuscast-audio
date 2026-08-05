@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-05T19:37:33.674Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-05T19:39:05.200Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Recurrent Corneal Erosion: The Morning Tear-Out Syndrome",
-      "description": "The history that clinches the diagnosis, hypertonic saline, and the bandage lens that breaks the cycle.",
+      "title": "Recurrent Corneal Erosion: Why Your Eyes Hurt Every Morning",
+      "description": "Do you wake up with sudden, searing eye pain the moment you try to open your eyes? You might be experiencing Recurrent Corneal Erosion — a condition more common than most people realize, yet rarely talked about. In this episode of Focus Cast by Focuslinks.in, we break down exactly what Recurrent Corneal Erosion is, why mornings trigger that sharp, sandpaper-like pain, and what is actually happening on the surface of your eye while you sleep.\n\nWe explore the science behind the corneal epithelium, the tiny anchoring structures called hemidesmosomes, and why a sticky tear film combined with weakened cell attachments can literally tear the surface of your eye open when your eyelid lifts. We also cover the most common causes — from past corneal injuries to Anterior Basement Membrane Dystrophy — and the everyday factors like dry eye and low humidity that can make episodes worse.\n\nMost importantly, we walk you through the full range of treatment options, from preservative-free lubricating drops and hypertonic saline ointments to clinical procedures like superficial keratectomy, anterior stromal puncture, and phototherapeutic keratectomy. Plus, we share simple daily habits that can help reduce how often erosions occur and make mornings far less painful.\n\nIf you or someone you know dreads opening their eyes each morning, this episode could be the turning point toward real relief. Listen now, and visit Focuslinks.in for more eye health episodes, articles, and resources.\n\n---",
       "tags": "rce,erosion,hypertonic,bandage-lens",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-23.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "044f1a16-cce6-4b33-b99d-080884cff13a",
+      "generatedAt": "2026-08-05T19:39:05.200Z"
     },
     {
       "episodeOrder": 24,

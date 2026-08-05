@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-05T20:29:20.224Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-05T20:29:44.689Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -349,14 +349,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Neuro-Ophthalmic Emergencies: The Referral Triage",
-      "description": "The conditions that demand same-day imaging — aneurysm, GCA, pituitary apoplexy, and raised ICP.",
+      "title": "Neuro-Ophthalmic Emergencies: How to Triage Referrals Fast",
+      "description": "When a patient walks in with a headache and a \"funny-feeling\" eye, how do you know if you have minutes to act or weeks to wait? In this episode of Focus Cast, we break down one of the highest-stakes decisions in eye care: triaging neuro-ophthalmic emergencies in real time, in a busy clinic, with incomplete information.\n\nWe walk through the conditions that demand same-day emergency action, including sudden vision loss and pupil-involving third nerve palsy, which could signal a life-threatening posterior communicating artery aneurysm. We cover the urgent 24 to 48-hour referrals you cannot afford to delay, from giant cell arteritis and Horner syndrome to optic neuritis and its link to multiple sclerosis. And we clarify which stable but concerning findings can be managed with a timely scheduled referral, so you are not over-triaging every case.\n\nBeyond the diagnoses, this episode gives you practical clinical anchors: how to assess onset, which associated symptoms are red flags, why the pupil exam is non-negotiable, and how to communicate a confident, clear referral that actually gets your patient seen quickly.\n\nWhether you are an optometrist, ophthalmologist, or any eye care professional navigating the intersection of vision and neurology, this episode will sharpen your clinical instincts and help you act decisively when it matters most.\n\nListen now, and share this episode with a colleague who needs it. Visit Focuslinks.in for more clinical insights, resources, and episodes of Focus Cast designed specifically for eye care professionals.\n\n---",
       "tags": "emergency,triage,aneurysm,apoplexy",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-27.mp3",
+      "duration": "12:49",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "dbabd6f3-eedd-41cc-bbc9-b6e780cf7b62",
+      "generatedAt": "2026-08-05T20:29:44.689Z"
     },
     {
       "episodeOrder": 28,

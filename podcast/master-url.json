@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-05T20:27:44.584Z",
+  "lastUpdated": "2026-08-05T20:28:29.813Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 232,
+  "generatedEpisodes": 233,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -119,10 +119,10 @@
       "category": "Neuro-Ophthalmology",
       "order": 8,
       "totalEpisodes": 30,
-      "generatedEpisodes": 22,
+      "generatedEpisodes": 23,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/episodes.json",
       "audioDir": "podcast/series/neuro-navigator/audio",
-      "lastUpdated": "2026-08-05T20:27:25.800Z"
+      "lastUpdated": "2026-08-05T20:28:12.548Z"
     },
     {
       "slug": "dry-eye-dialogues",

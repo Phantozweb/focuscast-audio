@@ -8,8 +8,8 @@
   "category": "Contact Lens",
   "order": 6,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-05T19:59:22.448Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-05T19:59:37.404Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -128,14 +128,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Scleral Lenses: Vaulting the Cornea",
-      "description": "The scleral fitting revolution — sagittal depth, limbal clearance, and landing zone alignment.",
+      "title": "Scleral Lenses Explained: How Vaulting the Cornea Changes Vision",
+      "description": "What if a contact lens never touched your cornea at all? In this episode of Focus Cast, we explore the fascinating world of scleral lenses — large-diameter rigid gas-permeable lenses that vault completely over the cornea and rest on the white of the eye, creating a fluid-filled reservoir that transforms vision and comfort for people who thought clear eyesight was out of reach.\n\nWe break down exactly how scleral lenses work, why that saline layer between the lens and cornea is such a game-changer, and who stands to benefit most — from people living with keratoconus and corneal irregularities to those battling severe dry eye disease. You'll also hear about the fitting process, what corneal topography involves, and why getting sclerals right takes skill, patience, and a specialist who knows what they're doing.\n\nWe also dive into the technology powering modern scleral lenses, including oxygen-permeable materials, wavefront correction for higher-order aberrations, custom scleral mapping, and even emerging drug-delivery applications built right into the lens design.\n\nWhether you've been told your eyes are \"too irregular\" for contacts, you're struggling with keratoconus, or you're simply curious about one of the most innovative tools in modern eye care, this episode gives you a clear, jargon-free look at how scleral lenses are genuinely changing lives.\n\nIf you found this episode helpful, share it with someone who might need to hear it — and visit Focuslinks.in for more eye care resources, episodes, and expert insights. Your vision is worth understanding.\n\n---",
       "tags": "scleral,vault,sagittal,landing-zone",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/audio/ep-10.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4cbdb779-fb22-4655-9915-129cfaa80408",
+      "generatedAt": "2026-08-05T19:59:37.404Z"
     },
     {
       "episodeOrder": 11,

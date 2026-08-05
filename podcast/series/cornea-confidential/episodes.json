@@ -9,7 +9,7 @@
   "order": 3,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-05T19:47:02.242Z",
+  "lastUpdated": "2026-08-05T19:47:03.695Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -365,28 +365,28 @@
     {
       "episodeOrder": 28,
       "title": "Anterior Segment OCT: Imaging What the Slit Lamp Misses",
-      "description": "What if your slit lamp has been leaving critical clinical information on the table? In this episode of Focus Cast by Focuslinks.in, we explore the transformative power of anterior segment OCT and why it has become one of the most important diagnostic tools in modern eye care.\n\nWe break down how anterior segment OCT goes far beyond what the slit lamp can offer, delivering micron-level, cross-sectional imaging of the cornea, anterior chamber angle, iris, and crystalline lens without ever touching the eye. From detecting subclinical keratoconus through epithelial thickness mapping to non-contact angle imaging for glaucoma and narrow-angle risk assessment, this episode covers the clinical applications that are genuinely changing patient outcomes.\n\nWe also dive into how anterior segment OCT is reshaping contact lens practice, including scleral lens vault assessment and tear meniscus measurement for dry eye diagnosis, as well as its growing role in cataract surgery planning and intraoperative imaging during corneal transplant procedures like DMEK and DSAEK.\n\nWhether you are a comprehensive ophthalmologist, a glaucoma specialist, a corneal surgeon, or an optometrist building out your diagnostic capabilities, this episode gives you a clear, practical framework for understanding where anterior segment OCT fits into your workflow and where to start if you are just getting started.\n\nIf you want to see more, diagnose earlier, and document with confidence, this is the episode for you. Listen now, share it with a colleague who would find it valuable, and visit Focuslinks.in for more episodes and eye care resources.\n\n---",
+      "description": "What if your slit lamp has been leaving critical diagnoses on the table? In this episode of Focus Cast, we explore the transformative power of Anterior Segment OCT (AS-OCT) and why it has become an indispensable tool for modern eye care clinicians.\n\nWe start with the cornea, where AS-OCT moves you from estimation to measurement. From precise pachymetry maps for keratoconus screening to determining the exact depth of corneal scars for surgical planning, the difference between seeing and understanding has never been clearer. We then dive into Fuchs endothelial dystrophy, where objective corneal thickness monitoring can sharpen your decision-making for DMEK and DSAEK procedures.\n\nNext, we tackle the anterior chamber angle, a structure the slit lamp simply cannot show you directly. Discover how AS-OCT detects appositional angle closure without contact or pressure artifact, and how it can reveal the subtle but critical findings of plateau iris syndrome that even gonioscopy can miss.\n\nWe also cover post-surgical assessment, including LASIK flap evaluation, DMEK graft apposition monitoring, and bleb architecture analysis after trabeculectomy. Finally, we explore the growing role of AS-OCT in epithelial thickness mapping for early ectasia detection, scleral lens fitting, and ocular surface disease management.\n\nThe slit lamp remains the cornerstone of anterior segment care, but AS-OCT completes it by answering the questions it raises but cannot resolve alone. If you want to see beneath the surface and make more confident clinical decisions, this episode is for you.\n\nListen now and visit Focuslinks.in for more eye care content designed for clinicians who never stop looking closer.\n\n---",
       "tags": "as-oct,angle,scleral,imaging",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-28.mp3",
-      "duration": "12:17",
+      "duration": "12:33",
       "imageUrl": "",
       "status": "generated",
-      "runId": "3575ad71-982d-4b43-8879-165ae62cb010",
-      "generatedAt": "2026-08-05T19:47:02.242Z"
+      "runId": "136bd889-e07b-4e6b-8910-c358efca519a",
+      "generatedAt": "2026-08-05T19:46:59.147Z"
     },
     {
       "episodeOrder": 29,
       "title": "Corneal Transplant Explained: PKP, DSAEK & DMEK for Optometrists",
-      "description": "When a patient's cornea fails, what happens next can define their vision for life — and as their optometrist, you play a critical role in that journey. In this episode of Focus Cast, we break down the three corneal transplant procedures you are most likely to encounter in co-management practice: PKP, DSAEK, and DMEK.\n\nWe start with the fundamentals — why the corneal endothelium matters, why it fails, and which conditions like Fuchs endothelial dystrophy, bullous keratopathy, and advanced keratoconus lead patients to the operating room. From there, we walk through each surgical technique in plain clinical language. You will learn how penetrating keratoplasty differs from the newer endothelial keratoplasty procedures, why DSAEK transformed corneal surgery in the mid-2000s, and why DMEK has become the gold standard for endothelial disease at leading corneal centers — delivering 20/20 outcomes with lower rejection rates and faster recovery.\n\nBut this episode is not just about surgery. It is about your role before, during, and after. We cover what to watch for in the post-operative period, how to recognize early graft rejection and respond urgently, why long-term steroid monitoring matters, and how scleral lens fitting after PKP can be genuinely life-changing for your patients.\n\nWhether you are new to co-managing corneal transplant patients or looking to sharpen your clinical knowledge, this episode gives you the framework to communicate confidently with surgical colleagues and deliver better care at every stage.\n\nListen now, and visit Focuslinks.in for more episodes and eye care resources. If this episode helped you, share it with a colleague and leave us a review.\n\n---",
+      "description": "What happens after you refer a corneal transplant patient — and are you truly prepared for their post-op care? In this episode of Focus Cast, we break down everything an optometrist needs to know about the three most important corneal transplant procedures: PKP, DSAEK, and DMEK.\n\nWe start with Penetrating Keratoplasty (PKP), the full-thickness gold standard for complex corneal disease, and explore why managing post-PKP astigmatism with scleral or RGP lenses is one of your most critical clinical skills. Then we move into DSAEK, the go-to endothelial keratoplasty for conditions like Fuchs' dystrophy and bullous keratopathy, covering what to expect on refraction, why a hyperopic shift occurs, and how to monitor for graft detachment. Finally, we dive into DMEK, the most refined endothelial transplant available today, delivering near 20/20 outcomes, lower rejection rates, and a smoother co-management experience for you and your patient.\n\nAlong the way, you will learn how to recognize the early warning signs of graft rejection on the slit lamp, when to make a same-day referral, and how to monitor long-term complications like steroid-induced glaucoma and posterior subcapsular cataracts in transplant patients on chronic topical steroids.\n\nWhether you are co-managing your first corneal transplant patient or looking to sharpen your existing knowledge, this episode gives you the clinical confidence to be a true partner in your patient's visual recovery.\n\nListen now and visit Focuslinks.in for more episodes and resources designed to help you grow as an eye care professional.\n\n---",
       "tags": "transplant,pkp,dsaek,dmek",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-29.mp3",
-      "duration": "12:10",
+      "duration": "12:24",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a6dae87e-82bb-4af0-a424-ce461ff8ce3c",
-      "generatedAt": "2026-08-05T19:45:32.791Z"
+      "runId": "9b8034d5-ec31-4a9e-91ca-ffd30dcbc660",
+      "generatedAt": "2026-08-05T19:47:03.695Z"
     },
     {
       "episodeOrder": 30,

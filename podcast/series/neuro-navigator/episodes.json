@@ -9,7 +9,7 @@
   "order": 8,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T20:30:14.351Z",
+  "lastUpdated": "2026-08-05T20:30:20.687Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -284,16 +284,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Myasthenia Gravis: Understanding Fatigable Diplopia & Eye Symptoms",
-      "description": "Why does your vision double by evening but seem almost normal in the morning? The answer might be Myasthenia Gravis — a fascinating autoimmune condition that silently attacks the neuromuscular junction, leaving muscles weaker with every use and recovering only with rest.\n\nIn this episode of Focus Cast, we break down everything you need to know about Myasthenia Gravis, from the microscopic biology of the neuromuscular junction to the classic clinical presentation of fatigable diplopia and ptosis. We explore why the eyes are almost always the first to show symptoms, how the hallmark pattern of worsening double vision in the evening serves as a critical diagnostic clue, and why this condition is so frequently misunderstood or missed entirely.\n\nWe walk through the diagnostic workup, including the surprisingly elegant ice pack test, acetylcholine receptor antibody testing, single fiber electromyography, and the important connection between Myasthenia Gravis and the thymus gland. We also cover the full treatment landscape, from pyridostigmine and immunosuppressants to plasma exchange, thymectomy, and the exciting newer complement inhibitors and FcRn inhibitors that are transforming patient outcomes.\n\nWhether you are a clinician looking to sharpen your differential diagnosis skills, a medical student building your neurology foundation, or simply someone curious about how the immune system can turn against itself, this episode delivers clear, clinically relevant insights you can actually use.\n\nListen now and never miss fatigable diplopia again. Visit Focuslinks.in for more episodes and medical learning resources.\n\n---",
+      "title": "Myasthenia Gravis: Understanding Fatigable Diplopia & Double Vision",
+      "description": "Why does your vision get worse the more you use your eyes — and better after rest? That single pattern could be the key to diagnosing Myasthenia Gravis, a misunderstood neuromuscular condition that affects thousands of people, often going undetected for months or even years.\n\nIn this episode of Focus Cast by Focuslinks.in, we take a deep dive into Myasthenia Gravis and its most striking ocular feature: fatigable diplopia, or double vision that worsens with use and improves with rest. We break down exactly how the immune system attacks the neuromuscular junction, why the eyes are almost always the first muscles affected, and what the classic progression from morning clarity to evening ptosis really means clinically.\n\nYou'll learn about the ice pack test, a simple bedside diagnostic trick that feels like a magic trick. We also cover who gets Myasthenia Gravis, the role of the thymus gland and thymoma, the difference between ocular and generalized myasthenia, and what a myasthenic crisis actually looks like. From acetylcholine receptor antibodies and repetitive nerve stimulation to pyridostigmine, thymectomy, plasmapheresis, and the newest complement inhibitor therapies, we walk through the full diagnostic and treatment landscape in plain, accessible language.\n\nWhether you're a medical professional, a student, or someone experiencing unexplained intermittent drooping eyelids or double vision, this episode gives you the clarity you need to understand this condition and take the right next step.\n\nListen now and visit Focuslinks.in for more episodes that bring sharp focus to the topics that matter most in medicine and eye health.\n\n---",
       "tags": "myasthenia,fatigable,ice-pack,achr",
       "category": "Neuro-Ophthalmology",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-22.mp3",
-      "duration": "12:46",
+      "duration": "12:44",
       "imageUrl": "",
       "status": "generated",
-      "runId": "dc871798-54c1-46e7-9bf3-1691d0590616",
-      "generatedAt": "2026-08-05T20:28:26.974Z"
+      "runId": "50353154-1683-4074-b9da-3f103c470132",
+      "generatedAt": "2026-08-05T20:30:20.687Z"
     },
     {
       "episodeOrder": 23,

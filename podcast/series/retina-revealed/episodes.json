@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-05T17:57:36.516Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-05T18:00:56.906Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Diabetic Retinopathy: Staging from Mild NPDR to PDR",
-      "description": "The ETDRS-derived severity scale, what each stage looks like at the slit lamp, and what it means for the patient.",
+      "title": "Diabetic Retinopathy Stages: Mild NPDR to PDR Explained",
+      "description": "Could diabetes be silently stealing your vision right now? In this eye-opening episode of Focus Cast, we break down diabetic retinopathy from its earliest, invisible beginnings all the way to its most dangerous and vision-threatening stage — and what you can do to stop it in its tracks.\n\nWe follow Rajan, a 45-year-old with type 2 diabetes who feels completely fine — yet has no idea what is already happening inside his eyes. His story is more common than most people realize, and it is exactly why understanding the stages of diabetic retinopathy could be one of the most important things you do today.\n\nIn this episode, you will learn how mild NPDR begins with tiny microaneurysms that cause zero symptoms, how moderate and severe NPDR progressively cut off blood supply to the retina, what the clinical four-two-one rule means and why severe NPDR carries a 50 percent risk of progression within just one year, and how proliferative diabetic retinopathy triggers dangerous new blood vessel growth that can lead to vitreous hemorrhage and permanent vision loss.\n\nWe also cover the landmark Diabetes Control and Complications Trial, which showed that intensive blood sugar management can reduce the risk of diabetic retinopathy by a remarkable 76 percent, and we walk through the modern treatments that are genuinely saving sight around the world.\n\nWhether you have diabetes, love someone who does, or simply want to understand how this disease works, this episode delivers the clarity you need.\n\nDo not wait for symptoms — they may never come until it is too late. Listen now, then visit Focuslinks dot in for more expert eye health resources.",
       "tags": "diabetes,npdr,pdr,staging",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-11.mp3",
+      "duration": "9:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "agent-1785952856290",
+      "generatedAt": "2026-08-05T18:00:56.290Z"
     },
     {
       "episodeOrder": 12,

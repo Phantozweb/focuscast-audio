@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T08:56:43.396Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T08:57:58.279Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -166,14 +166,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Fuchs’ Endothelial Dystrophy: Guttae, Edema, and the Transplant Threshold",
-      "description": "Morning blur, confluent guttae, and monitoring corneal thickness until DSAEK or DMEK becomes necessary.",
+      "title": "Fuchs' Dystrophy: Guttae, Edema & the Transplant Threshold",
+      "description": "Morning blur that clears by afternoon. A beaten-metal sheen on retroillumination. Corneal thickness creeping upward visit after visit. If you recognize this clinical picture, this episode is built for you.\n\nIn this focused 10-minute episode of Focus Cast, we break down Fuchs' Endothelial Dystrophy from the ground up — covering the pathophysiology of endothelial pump failure, the progression from early guttae to confluent edema and bullous keratopathy, and the precise slit lamp findings that distinguish Fuchs' from pseudophakic bullous keratopathy, PPCD, and ICE syndrome.\n\nWe walk through the full clinical management framework: serial pachymetry thresholds, anterior segment OCT monitoring, hypertonic saline as a temporizing measure, and the refraction challenges posed by irregular astigmatism in edematous corneas. You will also get clear, practical guidance on the surgical referral decision — when conservative management is no longer enough, what your referral letter should include, and how DSAEK and DMEK differ in outcomes and recovery.\n\nWhether you are managing a newly diagnosed patient with mild central guttae or co-managing a post-DMEK case and monitoring for graft rejection, this episode gives you a sharp, evidence-based clinical framework you can apply immediately in practice.\n\nDesigned exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners, Focus Cast delivers the kind of cornea-focused, terminology-rich content your CE modules wish they had time for.\n\nListen now and sharpen your approach to one of the most common corneal dystrophies in your chair. Visit Focuslinks dot in for more clinically focused episodes built specifically for eye care professionals.\n\n---",
       "tags": "fuchs,guttae,edema,dsaek",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-12.mp3",
+      "duration": "12:49",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "55061c16-19b6-4456-8ee0-65798985df63",
+      "generatedAt": "2026-08-09T08:57:58.279Z"
     },
     {
       "episodeOrder": 13,

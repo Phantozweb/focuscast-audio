@@ -8,19 +8,21 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:57:02.224Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T06:33:39.677Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Clinical Reasoning: The Bayesian Approach to the Eye",
-      "description": "How pretest probability, the history, and the exam shift the odds and guide the workup.",
+      "title": "Clinical Reasoning in Eye Care: The Bayesian Approach",
+      "description": "What's really happening in a clinician's mind when a patient walks in with a red eye? In this episode of Focus Cast by Focuslinks.in, we break down the Bayesian approach to clinical reasoning and show you exactly how great ophthalmologists think their way to the right diagnosis.\n\nStarting with a deceptively simple scenario, a 45-year-old with a red eye, we unpack how prior probability, likelihood ratios, and posterior probability work together in real clinical settings. You'll learn how experienced eye care professionals unconsciously update their diagnostic thinking with every new symptom, sign, and test result, and how you can do the same, consciously and systematically.\n\nWe walk through practical examples including the red eye differential, suspicious optic disc evaluation, and choroidal lesion assessment, showing how Bayesian reasoning applies at the slit lamp, in the clinic, and during referral triage. We also tackle two of the most dangerous cognitive traps in clinical practice: anchoring bias and base rate neglect, and explain how a structured reasoning framework helps you avoid both.\n\nWhether you're a trainee building your diagnostic instincts or an experienced clinician looking to sharpen your thinking, this episode offers a clear, jargon-free framework that will immediately improve how you approach every patient encounter.\n\nListen now and transform the way you reason through eye disease. Visit Focuslinks.in for more episodes, clinical resources, and everything eye care.\n\n---",
       "tags": "reasoning,bayesian,probability,workup",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-01.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0238eda0-2770-4de9-981d-e3367de0b548",
+      "generatedAt": "2026-08-09T06:33:39.677Z"
     },
     {
       "episodeOrder": 2,

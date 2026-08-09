@@ -9,7 +9,7 @@
   "order": 19,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-09T06:33:26.730Z",
+  "lastUpdated": "2026-08-09T06:34:35.338Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,16 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Keith-Wagener-Barker Classification: Hypertension & the Eye",
-      "description": "What can a doctor learn just by looking into your eyes? More than you might think. In this episode of Focus Cast, we break down one of clinical medicine's most enduring diagnostic tools — the Keith-Wagener-Barker classification of hypertensive retinopathy — and explain why it still matters over eighty years after it was first published.\n\nHypertension affects more than a billion people worldwide and earns its nickname, the silent killer, because most people feel nothing while it quietly damages their blood vessels, heart, kidneys, and brain. But the retina tells a different story. It is the only place in the human body where blood vessels can be observed directly, without any surgical intervention, making it an extraordinary window into cardiovascular health.\n\nWe walk you through all four grades of the Keith-Wagener-Barker classification in plain language. Grade one covers mild arterial narrowing and silver wiring. Grade two introduces arteriovenous nipping. Grade three brings flame-shaped hemorrhages, cotton wool spots, and hard exudates. And grade four, the most severe stage, includes papilledema and signals hypertensive encephalopathy — a life-threatening emergency.\n\nWe also explore the fascinating history behind the three physicians named Norman who created this system at the Mayo Clinic in 1939, discuss how modern imaging has evolved the field, and explain why this classification remains a cornerstone of medical education and clinical practice today.\n\nWhether you are a medical student preparing for exams, a healthcare professional refreshing your knowledge, or simply a curious learner, this episode delivers real clinical insight in a clear and engaging format.\n\nListen now and visit Focuslinks.in for more episodes designed to make medicine approachable, one topic at a time.\n\n---",
+      "title": "Keith-Wagener-Barker Classification: Reading Hypertension in the Eye",
+      "description": "Did you know a doctor can detect years of silent high blood pressure damage simply by looking into your eyes? In this episode of Focus Cast, we break down the Keith-Wagener-Barker Classification, a powerful four-grade system developed in the 1930s that uses retinal changes to reveal the true severity of hypertension.\n\nHypertension affects hundreds of millions of people worldwide, yet most never feel a single symptom. While the damage quietly accumulates in arteries, the heart, and kidneys, it also leaves visible traces in the tiny blood vessels at the back of the eye. These retinal vessels are the only blood vessels in the human body that can be observed directly, making them an extraordinary window into your cardiovascular health.\n\nWe walk you through each grade of the Keith-Wagener-Barker system in plain language. Grade one reveals subtle arterial narrowing. Grade two introduces arteriovenous nipping, a sign of arterial wall thickening. Grade three brings flame-shaped hemorrhages, cotton wool spots, and hard exudates, signaling serious tissue damage. Grade four, the most critical, includes papilledema and marks a life-threatening hypertensive emergency requiring immediate intervention.\n\nWe also explore why this nearly century-old classification remains clinically relevant today, how it compares to modern diagnostic tools, and how artificial intelligence is now being trained to read retinal photographs for cardiovascular risk prediction.\n\nWhether you are a medical student, a healthcare professional, or simply someone who wants to understand their health better, this episode delivers clear, accurate, and genuinely fascinating insights.\n\nListen now and discover why your next routine eye exam could be one of the most important health checks you ever get. Visit Focuslinks.in for more episodes.\n\n---",
       "tags": "hypertension,kwb,av-nicking,cotton-wool",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-04.mp3",
-      "duration": "12:25",
+      "duration": "12:16",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a6c5b9ee-eda9-4c9b-b243-1dd4e26f3a61",
-      "generatedAt": "2026-08-09T06:27:27.529Z"
+      "runId": "ccde1b89-19a3-4c8f-9ca5-2119e28444b6",
+      "generatedAt": "2026-08-09T06:34:35.338Z"
     },
     {
       "episodeOrder": 5,

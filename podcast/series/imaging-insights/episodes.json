@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T06:18:53.282Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T06:19:11.478Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Microperimetry: The Functional Macular Map",
-      "description": "The threshold sensitivity linked to the fundus, and the AMD and geographic atrophy monitoring.",
+      "title": "Microperimetry: Mapping Macular Function Beyond the Eye Chart",
+      "description": "What if your retina looks damaged on a scan but still functions well — or looks fine but is quietly failing? Standard imaging and visual acuity tests can't always tell the difference. That's where microperimetry changes everything.\n\nIn this episode of Focus Cast, we take a deep dive into microperimetry — the powerful diagnostic tool that creates a precise, point-by-point functional map of the macula. We break down exactly how it works, why it goes far beyond what an OCT scan or letter chart can reveal, and what it means for patients living with conditions like age-related macular degeneration, diabetic macular edema, Stargardt disease, and more.\n\nYou'll learn what fixation stability really means, why the concept of a preferred retinal locus matters so much for low vision rehabilitation, and how microperimetry is becoming a critical outcome measure in cutting-edge clinical trials for gene therapies and stem cell treatments targeting the retina.\n\nThrough a relatable real-world patient example, we show how this technology doesn't just diagnose — it guides personalized, precision rehabilitation in ways no other tool currently can.\n\nWhether you're an eye care professional looking to deepen your understanding of macular function testing, a researcher following emerging retinal therapies, or simply someone curious about the science of vision, this episode offers clear, engaging insights you won't want to miss.\n\nStructure tells you what the retina looks like. Microperimetry tells you what it can actually do. Tune in and discover why that distinction matters more than ever.\n\nVisit us at focuslinks.in for more episodes, resources, and the latest in retinal care.\n\n---",
       "tags": "microperimetry,sensitivity,fundus,ga",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-23.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bb429ddc-5277-4c9b-9dce-8e2c65e0467d",
+      "generatedAt": "2026-08-09T06:19:11.478Z"
     },
     {
       "episodeOrder": 24,

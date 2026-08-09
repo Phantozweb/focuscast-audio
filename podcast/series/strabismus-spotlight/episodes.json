@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T06:00:26.247Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T06:00:37.204Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Infantile Esotropia: The Surgery Before Age Two",
-      "description": "The large angle, the cross-fixation, and the early surgery for binocular potential.",
+      "title": "Infantile Esotropia: Why Surgery Before Age Two Matters",
+      "description": "Could a family photo reveal a vision problem that changes your child's future? In this eye-opening episode of Focus Cast, we dive deep into infantile esotropia, one of the most common yet underrecognized conditions affecting babies in their first six months of life. If you've noticed your baby's eye turning inward, or if a grandparent has pointed something out that you've been brushing off, this episode is essential listening.\n\nWe break down exactly what infantile esotropia is, why it happens, and why the timing of treatment, specifically surgery before age two, can make the difference between a child who develops full depth perception and one who never quite gets there. You'll learn how the developing brain suppresses signals from a misaligned eye, how that leads to amblyopia or lazy eye, and why the brain's early plasticity is both the problem and the opportunity.\n\nWe walk through the full treatment journey, from diagnosis and glasses trials to strabismus surgery, what the procedure actually involves, and what recovery looks like for infants. We also share a real-world story that illustrates just how powerful early intervention can be, and what can be lost when detection comes too late.\n\nWhether you're a parent, grandparent, pediatric nurse, or simply curious about how vision develops in early childhood, this episode gives you the knowledge to act quickly and confidently if something ever seems off with a baby's eyes.\n\nDon't wait and wonder. Trust your instincts, ask for that referral, and give your child the best possible start for a lifetime of clear, three-dimensional vision. Listen now, and visit Focuslinks dot in for more eye health resources.\n\n---",
       "tags": "infantile,surgery,angle,cross-fixation",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-06.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "66fa81a2-ec56-4e2d-90b4-b92d6a993463",
+      "generatedAt": "2026-08-09T06:00:37.204Z"
     },
     {
       "episodeOrder": 7,

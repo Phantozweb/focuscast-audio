@@ -9,7 +9,7 @@
   "order": 2,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T08:50:48.622Z",
+  "lastUpdated": "2026-08-09T08:52:16.924Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -109,16 +109,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fundus Photography: How to Compose a Perfect Diagnostic Image",
-      "description": "What does it take to capture a fundus photograph that can change the course of someone's life? In this episode of Focus Cast, we break down the art and science of composing a diagnostic fundus image — from understanding what makes a retinal photograph clinically useful to the hands-on techniques that separate a good image from a great one.\n\nWe explore why the fundus is one of the most diagnostically rich areas in the human body, capable of revealing not just eye conditions like diabetic retinopathy and glaucoma, but systemic diseases including diabetes, hypertension, and cardiovascular disease. You will learn what sharpness, illumination, centering, and field of view actually mean in practice, and why each decision you make before pressing the shutter matters.\n\nWe also cover the often-overlooked human side of ophthalmic imaging — how patient preparation, pupil dilation, gaze direction, and clear communication directly impact image quality. Then we walk through the technical craft of composing the image itself, including focus adjustment, camera alignment, timing your capture, and reviewing for artifacts.\n\nFinally, we look at where fundus photography is headed — AI-powered retinal analysis, teleophthalmology, and ultra-widefield imaging — and why skilled human technique remains the essential foundation that all of this technology depends on.\n\nWhether you are an ophthalmic technician, an optometry student, or simply curious about what happens inside an eye clinic, this episode gives you a clear, practical, and genuinely fascinating look at retinal imaging done right.\n\nListen now and visit focuslinks.in for more episodes and eye care resources.\n\n---",
+      "title": "Fundus Photography: How to Compose a Diagnostic Image",
+      "description": "What separates a technically adequate fundus photograph from one that actually changes a patient's outcome? In this episode of Focus Cast, we break down the art and science of composing a truly diagnostic fundus image — the kind that gives clinicians everything they need to make confident, accurate decisions.\n\nWe start with the basics: what the fundus is, why it is one of the most information-rich surfaces in the human body, and why fundus photography demands far more than simply pointing a camera at the back of the eye. From there, we dive deep into the three pillars of great fundus imaging — focus and clarity, framing and field selection, and managing the real-world challenges that come with every patient encounter.\n\nYou will learn why autofocus is not always enough, how media opacity affects image interpretation, and why centering on the right anatomical landmark can make or break a clinical image. We also explore field protocols like the ETDRS seven-field standard, the rise of wide-field imaging systems, and practical techniques for handling small pupils, poor fixation, blink timing, and corneal glare.\n\nWhether you are a student entering optometry or ophthalmology, a clinical photographer refining your technique, or a practitioner who wants to better understand the images you rely on every day, this episode gives you a clear, practical framework for thinking about fundus photography as a clinical skill — not just a technical one.\n\nTune in, take notes, and raise your standard for what a diagnostic image should look like. Visit focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "fundus-photo,montage,fields,stereo",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-07.mp3",
-      "duration": "12:38",
+      "duration": "12:48",
       "imageUrl": "",
       "status": "generated",
-      "runId": "01ed8e85-406f-42d0-bbbf-d4ee3d69f097",
-      "generatedAt": "2026-08-09T08:49:57.129Z"
+      "runId": "ce934604-383f-4b79-83c3-64fcb3711337",
+      "generatedAt": "2026-08-09T08:52:15.677Z"
     },
     {
       "episodeOrder": 8,

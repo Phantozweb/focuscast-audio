@@ -9,7 +9,7 @@
   "order": 20,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T08:24:02.464Z",
+  "lastUpdated": "2026-08-09T08:25:11.298Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,16 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "The 40-Year Doctor-Patient Relationship: Why It Saves Lives",
-      "description": "What happens when a doctor and patient grow old together? In this deeply human episode of Focus Cast, we explore the longitudinal patient relationship — a bond built over decades that goes far beyond diagnoses and prescriptions. From the first nervous appointment to a forty-year history of shared milestones, this kind of continuity in healthcare is quietly one of the most powerful forces in medicine.\n\nWe break down why long-term primary care relationships lead to measurably better health outcomes, including lower hospitalization rates, earlier detection of serious conditions, and stronger treatment compliance. We also get honest about the challenges — diagnostic blind spots that come from familiarity, the emotional weight doctors carry across a career, and a healthcare system that too often rewards speed over depth.\n\nYou will hear how telemedicine, wearable health technology, and AI are reshaping what longitudinal care can look like in the modern world — and why none of it can replace the irreplaceable value of a physician who truly knows you. We also look at real-world models from Denmark and Japan where continuity of care is built into the system by design, producing better outcomes at lower costs.\n\nWhether you are a patient, a caregiver, or a healthcare professional, this episode will change how you think about the doctor-patient relationship and why protecting it matters more than ever.\n\nListen now and discover why the most radical thing in modern medicine might simply be a doctor who remembers your name. Subscribe to Focus Cast and visit Focuslinks.in for more episodes worth your time.\n\n---",
+      "title": "The 40-Year Doctor-Patient Relationship: Why It Matters",
+      "description": "What happens when a doctor and patient walk alongside each other for forty years? In this deeply human episode of Focus Cast, we explore the concept of the longitudinal patient — and why long-term doctor-patient relationships are one of the most powerful, and most endangered, forces in modern medicine.\n\nWe follow the story of Margaret, a patient whose physician witnesses her life unfold across four decades — through pregnancies, grief, chronic illness, and quiet moments of vulnerability that no electronic health record could ever fully capture. Along the way, we unpack the science behind continuity of care, including why patients with long-term GP relationships are significantly more likely to disclose sensitive health concerns, and how therapeutic alliance directly improves outcomes in chronic disease, mental health, and recovery.\n\nWe also ask the harder questions: What does it cost a physician emotionally to carry forty years of a patient's life? What forces — burnout, insurance changes, healthcare system design — are quietly dismantling these relationships? And what would it take to protect and rebuild them?\n\nWhether you are a patient, a caregiver, or simply someone who has ever felt unseen in a ten-minute appointment, this episode will change the way you think about what good medicine really looks like.\n\nListen now and discover why the most powerful diagnostic tool in healthcare is not a machine — it is a physician who has been paying attention for decades. Visit Focuslinks.in for more episodes and conversations that matter.\n\n---",
       "tags": "longitudinal,records,rapport,decades",
       "category": "General",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-27.mp3",
       "duration": "12:38",
       "imageUrl": "",
       "status": "generated",
-      "runId": "aec7ac69-cc8a-446c-abf7-16049a09f60e",
-      "generatedAt": "2026-08-09T08:24:02.105Z"
+      "runId": "51663e6d-bbb9-40d7-94ff-2f8c01e6b13a",
+      "generatedAt": "2026-08-09T08:25:10.934Z"
     },
     {
       "episodeOrder": 28,

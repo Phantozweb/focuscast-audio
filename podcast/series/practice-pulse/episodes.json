@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T05:00:14.829Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T05:00:30.577Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Pre-Testing: The Technician Workflow",
-      "description": "What to delegate, the order of tests, and the handoff that keeps the doctor on schedule.",
+      "title": "Pre-Testing Technician Workflow: Eye Care Done Right",
+      "description": "What separates a good eye exam from a great one? It all starts before the doctor walks in the room. In this episode of Focus Cast, we take a deep dive into the pre-testing technician workflow — the critical foundation of every successful clinical encounter in eye care.\n\nWhether you're a new ophthalmic technician building your skills, a seasoned professional looking to refine your process, or a practice manager who wants to understand why pre-testing deserves more attention, this episode breaks it all down in a way that's practical, clear, and immediately useful.\n\nWe walk through each step of the pre-testing workflow — from patient greeting and history-taking to visual acuity, autorefraction, keratometry, intraocular pressure measurement, visual field screening, pupil testing, and beyond. Along the way, we explore the small but significant details that separate rushed, unreliable data from accurate, clinically meaningful results.\n\nYou'll learn why patient communication during testing is just as important as the measurements themselves, how proper documentation protects both the patient and the provider, and why the technician's role is not just technical — it's genuinely human. Pre-testing done well is the beginning of patient trust, and that trust is what keeps people coming back year after year.\n\nIf you've ever wondered how much your workflow really matters, this episode will give you a clear, compelling answer.\n\nListen now and bring something valuable back to your next shift. For more episodes and resources, visit Focuslinks dot in.\n\n---",
       "tags": "pre-testing,technician,delegate,handoff",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-03.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fd8b54a5-2d42-46bc-bed3-a759588d0993",
+      "generatedAt": "2026-08-09T05:00:30.577Z"
     },
     {
       "episodeOrder": 4,

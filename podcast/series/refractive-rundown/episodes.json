@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T04:40:26.592Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T04:40:35.785Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Refractive Lens Exchange: The Cataract Before the Cataract",
-      "description": "When RLE beats corneal surgery, the IOL options, and the retinal risk counseling for high myopes.",
+      "title": "Refractive Lens Exchange: Fix Vision & Prevent Cataracts",
+      "description": "What if you could correct your vision *and* eliminate the risk of cataracts — all in a single procedure? In this episode of Focus Cast, we explore Refractive Lens Exchange (RLE), the transformative eye surgery that's changing the game for people in their 40s and 50s who've been told they're not candidates for LASIK.\n\nWe break down exactly how RLE works, why it's often called \"the cataract surgery you choose before you need it,\" and what makes it fundamentally different from laser vision correction. You'll learn about the natural aging of the crystalline lens, how presbyopia and cataracts develop over time, and why replacing your natural lens with a premium intraocular lens (IOL) can address nearsightedness, farsightedness, and astigmatism — while permanently preventing cataracts from ever forming.\n\nWe also walk you through the different IOL options available today, including monofocal, multifocal, extended depth of focus (EDOF), and toric lenses, so you understand how surgeons personalize the procedure to match your vision goals and lifestyle. Plus, we get honest about who makes an ideal candidate, what recovery looks like, and how to think about the cost versus long-term value.\n\nWhether you've been struggling with progressive lenses, frustrated by high prescriptions, or simply curious about what modern ophthalmology can offer beyond LASIK, this episode gives you the clarity you need to have an informed conversation with your eye doctor.\n\nReady to explore whether RLE is right for you? Visit [focuslinks.in](http://focuslinks.in) for more expert eye health resources, and don't forget to subscribe to Focus Cast for new episodes on vision science and modern ophthalmology.\n\n---",
       "tags": "rle,exchange,iol,high-myopia",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-09.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1a3ddfd7-67ee-4f79-913e-8ca22ebaf4f5",
+      "generatedAt": "2026-08-09T04:40:35.785Z"
     },
     {
       "episodeOrder": 10,

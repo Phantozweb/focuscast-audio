@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T05:28:21.242Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T05:28:29.724Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -258,14 +258,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Orientation and Mobility: The White Cane and the Guide Dog",
-      "description": "The O&M specialist referral, the cane techniques, and the independence that specialized training restores.",
+      "title": "White Cane & Guide Dog: Tools for Blind Independence",
+      "description": "What does it truly take to navigate the world without sight? In this eye-opening episode of Focus Cast, we explore the fascinating world of orientation and mobility — the science and skill behind independent travel for people who are blind or have low vision.\n\nWe trace the remarkable history of the white cane, from a British photographer painting his walking stick white for safety to the global recognition of White Cane Safety Day on October 15th. You will discover how this deceptively simple tool works as a sophisticated sensory instrument, helping users detect obstacles, curbs, and surface changes with extraordinary precision through techniques like the touch technique and constant contact method.\n\nThen we dive into the world of guide dogs — from the first guide dog school opened in Germany in 1916 to the legendary partnership between Morris Frank and his dog Buddy that helped launch The Seeing Eye. We break down what intelligent disobedience really means, how guide dogs are trained, and why the human-dog partnership is built on far more than utility.\n\nWe also tackle the big question: white cane or guide dog — which is better? The honest, nuanced answer might surprise you. Whether you are someone navigating vision loss, a family member, a healthcare professional, or simply curious about accessibility and human resilience, this episode offers genuine insight into tools that represent far more than mobility — they represent dignity, freedom, and belonging.\n\nListen now and share this episode with someone who would find it meaningful. For more content on vision, accessibility, and the incredible adaptability of the human spirit, visit us at Focuslinks dot in.\n\n---",
       "tags": "mobility,cane,guide-dog,om",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-20.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "959f46b9-7c83-4665-81c0-2068565d1afa",
+      "generatedAt": "2026-08-09T05:28:29.724Z"
     },
     {
       "episodeOrder": 21,

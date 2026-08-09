@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T04:45:56.153Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T04:46:45.418Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -297,14 +297,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Topography-Guided PRK for Irregular Corneas",
-      "description": "The customized ablation for post-graft and post-RK irregularity and the visual gain.",
+      "title": "Topography-Guided PRK: Fixing Irregular Corneas With Laser",
+      "description": "Were you told your cornea is too irregular for laser eye surgery? You may have more options than you think. In this episode of Focus Cast, we take a deep dive into topography-guided PRK, a cutting-edge procedure that is transforming outcomes for patients with irregular corneas who were once considered untreatable.\n\nWe break down exactly how topography-guided PRK differs from standard laser eye surgery, why that difference matters, and who stands to benefit the most. Whether you are living with keratoconus, dealing with the aftermath of a previous LASIK procedure gone wrong, or struggling with corneal scarring that has left your vision distorted and unpredictable, this episode explains how a detailed corneal map can guide a fully customized laser treatment designed specifically for your eye, not just your glasses prescription.\n\nWe also cover the recovery process honestly, discuss the critical role of corneal thickness in surgical planning, and explore the exciting combination of topography-guided PRK with corneal cross-linking, known as the Athens Protocol, which is showing remarkable results for keratoconus patients worldwide. Along the way, we share real-world case examples that illustrate just how dramatically this technology can improve quality of life.\n\nIf you or someone you love has been turned away from laser vision correction due to an irregular cornea, this episode could genuinely change the conversation you have with your eye doctor. Listen now, and then visit Focuslinks dot in for more expert insights on eye health, vision science, and the latest advances in ophthalmology.\n\n---",
       "tags": "topography-guided,irregular,post-graft,rk",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-23.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d1dec784-d477-45d6-8b6c-3d3a207cbd42",
+      "generatedAt": "2026-08-09T04:46:45.418Z"
     },
     {
       "episodeOrder": 24,

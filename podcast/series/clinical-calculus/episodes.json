@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T06:43:08.650Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T06:47:04.376Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "The Incidentaloma: The Finding You Were Not Looking For",
-      "description": "The disc drusen, the choroidal nevus, the optic pit — the approach to the unexpected.",
+      "title": "Incidentaloma: When Doctors Find What They Weren't Looking For",
+      "description": "What happens when a routine scan reveals something unexpected — something no one was even searching for? Welcome to the world of the incidentaloma, one of modern medicine's most fascinating and emotionally charged dilemmas. In this episode of Focus Cast, we unpack exactly what an incidentaloma is, why these accidental findings are far more common than most people realize, and why their discovery can set off a chain of tests, decisions, and anxiety that changes a patient's life — even when the finding turns out to be completely harmless.\n\nFrom adrenal masses discovered during back pain scans to thyroid nodules spotted on routine neck ultrasounds, incidentalomas are being found every single day in imaging centers around the world. But here's the uncomfortable truth: seeing something and knowing what to do about it are two very different things. We explore the cascade effect that follows an unexpected finding, the psychological burden that comes with uncertain medical news, and the evolving strategies doctors are using — including risk stratification and shared decision-making — to navigate this gray zone more responsibly.\n\nWe also tackle the deeper ethical question that is quietly reshaping medical practice: should every incidental finding always be disclosed to the patient? There are no easy answers, but the conversation is one every patient and healthcare professional needs to hear.\n\nWhether you are a curious listener, a healthcare professional, or someone who has personally received an unexpected diagnosis, this episode will give you a clearer, calmer way to think about medical uncertainty. Listen now, and visit Focuslinks dot in for more episodes that make complex medicine genuinely understandable.\n\n---",
       "tags": "incidentaloma,drusen,nevus,unexpected",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-18.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "be6ef496-c7d1-409b-b6d8-3339620b0bcf",
+      "generatedAt": "2026-08-09T06:47:03.576Z"
     },
     {
       "episodeOrder": 19,

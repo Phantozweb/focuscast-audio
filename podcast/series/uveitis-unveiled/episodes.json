@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T05:33:59.274Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T05:34:16.515Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Acute Anterior Uveitis: The HLA-B27 Connection",
-      "description": "The sudden onset, the pain and photophobia, the ankylosing spondylitis link, and the steroid and cycloplegia.",
+      "title": "HLA-B27 & Acute Anterior Uveitis: The Eye-Immune Connection",
+      "description": "Ever woken up with a red, painful eye so sensitive to light that even a cloudy morning feels blinding? That experience could be acute anterior uveitis — and a tiny genetic marker called HLA-B27 might be at the center of it all.\n\nIn this episode of Focus Cast, we break down everything you need to know about acute anterior uveitis (AAU), the most common form of uveitis, and explore its powerful connection to the HLA-B27 gene. We explain what HLA proteins actually do in your body, why this specific genetic variant dramatically raises your risk of eye inflammation, and what researchers currently understand about the underlying immune mechanisms driving that inflammation.\n\nBut the story goes far beyond the eye. We unpack the family of systemic diseases linked to HLA-B27 — including ankylosing spondylitis, reactive arthritis, psoriatic arthritis, and inflammatory bowel disease — and explain why a single episode of uveitis could be your body's first signal that something bigger is happening beneath the surface. You will also learn about the characteristic recurrence patterns of HLA-B27 associated uveitis, the serious complications that can arise without prompt treatment, and the treatment approaches that help patients manage both the eye inflammation and the underlying systemic disease.\n\nWhether you are a patient, a caregiver, or simply someone curious about how genetics and immunity shape our health, this episode offers clear, accessible answers to genuinely complex questions.\n\nDo not ignore a red, painful eye. Listen now, and visit Focuslinks dot in for more episodes dedicated to keeping your vision and your overall health in sharp focus.\n\n---",
       "tags": "hla-b27,acute,as,cycloplegia",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-03.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "93963cfc-5872-4d3f-a4d4-7d031c00949b",
+      "generatedAt": "2026-08-09T05:34:16.515Z"
     },
     {
       "episodeOrder": 4,

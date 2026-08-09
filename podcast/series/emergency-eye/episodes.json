@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T04:51:04.186Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T04:51:28.600Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Endophthalmitis: The Post-Op and Post-Trauma Nightmare",
-      "description": "The hypopyon, the pain, the vitreous tap, and the intravitreal antibiotics that race the clock.",
+      "title": "Endophthalmitis: The Post-Op & Trauma Eye Infection Crisis",
+      "description": "What happens when a routine cataract surgery leads to a sight-threatening infection? In this episode of Focus Cast, we uncover the truth about endophthalmitis — one of the most feared and urgent complications in ophthalmology. Whether it strikes after surgery or follows a traumatic eye injury, this condition can destroy vision within hours if left untreated, and understanding it could make all the difference.\n\nWe break down exactly what endophthalmitis is, how infection takes hold inside the eye, and why the stakes are so high. You'll learn the critical differences between post-operative endophthalmitis and post-traumatic endophthalmitis, including why penetrating eye injuries carry a risk up to 150 times higher than elective surgery. We walk through the warning signs to watch for — pain, redness, hypopyon, and rapidly declining vision — and explain why every hour truly counts when symptoms appear.\n\nOn the treatment side, we cover intravitreal antibiotic injections, the role of vitrectomy, and the landmark Endophthalmitis Vitrectomy Study that still shapes clinical decisions today. We also explore practical, evidence-based prevention strategies, from povidone-iodine prep and intracameral antibiotics in the OR to first-response steps for eye trauma in the real world.\n\nThis episode is essential listening for patients recovering from eye surgery, caregivers, and anyone working in eye care or general healthcare. Knowledge of this condition isn't just academic — it can genuinely save someone's sight.\n\nListen now and share this episode with someone who needs to hear it. For more eye care education, visit us at focuslinks.in.\n\n---",
       "tags": "endophthalmitis,hypopyon,tap,antibiotics",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-08.mp3",
+      "duration": "12:01",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4adb8526-f616-4732-b1f9-2a5f0a70974c",
+      "generatedAt": "2026-08-09T04:51:28.600Z"
     },
     {
       "episodeOrder": 9,

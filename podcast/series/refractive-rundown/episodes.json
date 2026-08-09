@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T04:44:51.677Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T04:45:56.153Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -284,14 +284,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Small Incision Lenticule Extraction: The SMILE Complications",
-      "description": "The lenticule tear, the incomplete extraction, and the cap perforation management.",
+      "title": "SMILE Eye Surgery Complications: What You Need to Know",
+      "description": "Thinking about SMILE laser eye surgery? Before you book that consultation, make sure you understand the full picture. In this episode of Focus Cast by Focuslinks.in, we break down the real complications of Small Incision Lenticule Extraction (SMILE) — from what can go wrong on the operating table to issues that may surface months or even years after your procedure.\n\nWe cover intraoperative risks like suction loss and lenticule tears, early postoperative concerns including diffuse lamellar keratitis and dry eye, and longer-term complications such as corneal ectasia, regression, and higher-order aberrations. We also explain how SMILE compares to LASIK when it comes to risk, recovery, and re-treatment options — so you can make a truly informed decision.\n\nThe good news? Serious SMILE complications are rare, and the procedure has an impressive safety record backed by global data. But rare does not mean impossible, and knowing what to watch for — and when to call your surgeon — can make all the difference in your outcome.\n\nWhether you are actively considering SMILE surgery or simply doing your research, this episode gives you the honest, jargon-free breakdown you deserve. Because the smartest thing you can do before any eye surgery is ask the right questions.\n\nListen now and share this episode with anyone weighing their laser vision correction options. For more expert insights on eye health and refractive surgery, visit Focus Cast at Focuslinks.in.\n\n---",
       "tags": "smile,complications,lenticule,cap",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-22.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4fe6986e-a668-4a1e-8255-aa1386e05629",
+      "generatedAt": "2026-08-09T04:45:56.153Z"
     },
     {
       "episodeOrder": 23,

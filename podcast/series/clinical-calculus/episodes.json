@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T06:34:59.986Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T06:35:15.519Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "The Equivocal Disc: When Cup-to-Disc Is Borderline",
-      "description": "The asymmetric and the suspicious — the OCT, the field, the family history, and the threshold to treat.",
+      "title": "Borderline Cup-to-Disc Ratio: What an Equivocal Disc Means",
+      "description": "Your eye doctor just told you your optic nerve looks \"a little large\" — and now you're walking out of the clinic with more questions than answers. What does a borderline cup-to-disc ratio actually mean? Do you have glaucoma? Should you be worried? In this episode of Focus Cast, we break down exactly what an equivocal disc is, why it sits in that uncomfortable grey zone between normal and abnormal, and what happens next when your CDR raises a red flag without confirming a diagnosis.\n\nWe cover the anatomy of the optic disc and cup-to-disc ratio, what makes a disc look suspicious even without a clear glaucoma diagnosis, and the key clinical features clinicians assess — including neuroretinal rim integrity, disc hemorrhages, and peripapillary atrophy. We also explore how risk factors like age, family history, elevated intraocular pressure, and corneal thickness shift the picture significantly.\n\nMost importantly, we walk through how eye care professionals manage borderline cases using structured monitoring, OCT nerve fiber layer imaging, visual field testing, and the critical concept of detecting change over time. We also touch on how advances in technology, including AI-based disc analysis, are reshaping how equivocal discs are evaluated.\n\nWhether you've personally received a borderline finding or you simply want to understand glaucoma screening better, this episode gives you the clarity and context to ask the right questions and take the right steps. Don't ignore a borderline optic nerve — but don't panic either. Listen now, and visit Focuslinks.in for more eye health content that brings specialist knowledge straight to you.\n\n---",
       "tags": "equivocal-disc,borderline,oct,threshold",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-05.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3a2ca014-78b0-4fde-9642-7a771150ed5c",
+      "generatedAt": "2026-08-09T06:35:15.519Z"
     },
     {
       "episodeOrder": 6,

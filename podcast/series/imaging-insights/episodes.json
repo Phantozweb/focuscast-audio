@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T06:22:04.917Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T06:22:33.936Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,14 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "The Imaging Report: Writing What You See",
-      "description": "The structured report, the measurements, the interpretation, and the communication to the referral.",
+      "title": "The Imaging Report: Writing What Radiologists See",
+      "description": "What does it really take to write a radiology report that saves lives? In this episode of Focus Cast by Focuslinks.in, we pull back the curtain on one of medicine's most critical yet overlooked skills — writing the imaging report. Far more than a clerical task, a well-crafted radiology report is a clinical communication tool that directly shapes patient care, treatment decisions, and diagnostic outcomes.\n\nWe break down the anatomy of a great imaging report, walking through the clinical indication, technique, findings, and impression sections — and explaining why each one matters. You will learn how structured reporting improves accuracy, why the language radiologists choose carries real consequences for real patients, and how ambiguous phrasing can lead to missed follow-ups and delayed diagnoses.\n\nWe also explore the radiologist as a storyteller — someone who synthesizes complex visual data into a coherent, actionable narrative for the clinician on the other side. From calibrating certainty in uncertain findings to knowing what to leave out of a report, we cover the craft behind the science.\n\nFinally, we look at where radiology reporting is headed — from AI-generated draft reports and the evolving role of the radiologist as interpreter, to the growing movement toward patient-friendly reports written in plain language.\n\nWhether you are a radiologist refining your reporting skills, a clinician who reads these reports daily, or simply someone curious about how medical imaging works, this episode offers practical insight and a fresh perspective on a document that carries enormous responsibility.\n\nListen now and discover why the best imaging reports are not just accurate — they are clear, human, and genuinely useful. Find more episodes and resources at Focuslinks.in.\n\n---",
       "tags": "report,structured,interpretation,communication",
       "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-30.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e1a16ebe-dd92-4b2e-a232-80efefab8767",
+      "generatedAt": "2026-08-09T06:22:33.935Z"
     }
   ]
 }

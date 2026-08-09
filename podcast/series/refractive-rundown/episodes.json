@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T04:37:37.914Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T04:38:58.717Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Wavefront-Guided Versus Topography-Guided LASIK",
-      "description": "The higher-order aberration data, the customized ablation, and when each approach wins.",
+      "title": "Wavefront vs Topography-Guided LASIK: Which Is Right for You?",
+      "description": "Not all LASIK is created equal — and the type you choose could make a significant difference in the quality of your vision. In this episode of Focus Cast, we break down two of the most advanced laser eye surgery technologies available today: wavefront-guided LASIK and topography-guided LASIK.\n\nWe start by exploring why traditional LASIK, while groundbreaking, couldn't address the subtle optical imperfections known as higher-order aberrations — and how next-generation technologies changed everything. You'll learn how wavefront-guided LASIK uses an aberrometer to create a detailed optical fingerprint of your eye, capturing over sixty types of aberrations to deliver a truly personalized laser treatment. We then dive into topography-guided LASIK, which maps the physical surface of your cornea with remarkable precision, making it especially powerful for patients with irregular astigmatism, corneal irregularities, or a history of previous eye surgery.\n\nWe also cover who each procedure is best suited for, what the FDA clinical trial results revealed about topography-guided LASIK outcomes, and why some surgeons are now combining both approaches for even better results. Whether you're just beginning to research LASIK or preparing for a consultation, this episode will help you ask smarter questions and make a more informed decision about your vision correction options.\n\nIf you've ever wondered whether LASIK could give you better vision than glasses or contacts ever did, this episode is essential listening.\n\nVisit Focuslinks.in for more expert content on vision correction, eye health, and the latest advances in ophthalmology.\n\n---",
       "tags": "wavefront,topography-guided,customized,aberrations",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-06.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "68a0441e-c6b9-41ea-a385-1ec50d17bd3a",
+      "generatedAt": "2026-08-09T04:38:58.717Z"
     },
     {
       "episodeOrder": 7,

@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T05:21:39.455Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T05:25:01.550Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -295,14 +295,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Hydroxychloroquine Toxicity: The Screening Protocol",
-      "description": "The cumulative dose risk, the OCT and visual field surveillance, and the dose-by-weight rule.",
+      "title": "Hydroxychloroquine Toxicity: The Screening Protocol Explained",
+      "description": "Could a medication you've taken for years be silently damaging your vision without you even knowing it? In this episode of Focus Cast, we break down everything you need to know about hydroxychloroquine toxicity and the critical screening protocol designed to protect your eyesight before irreversible harm occurs.\n\nHydroxychloroquine, commonly prescribed for lupus and rheumatoid arthritis, is a highly effective long-term medication — but cumulative use carries a real risk of retinal toxicity. The damage is permanent, progressive, and often symptom-free until it's too late. That's exactly why early detection matters so much.\n\nWe walk you through the American Academy of Ophthalmology's evidence-based screening guidelines, including when baseline and annual eye exams should begin, which patients face higher risk, and why proper weight-based dosing is one of the most impactful ways to reduce toxicity risk. We also explore the advanced diagnostic tools driving modern screening — spectral domain OCT, 10-2 visual field testing, multifocal electroretinography, and fundus autofluorescence imaging — and explain why a standard eye exam simply isn't enough.\n\nWhether you're a patient on hydroxychloroquine, a rheumatologist, or an ophthalmologist, this episode offers clear, practical insights into why coordinated care and consistent monitoring can genuinely preserve vision and quality of life.\n\nDon't skip your eye appointments — they're not a formality, they're a safeguard. Listen now and share this episode with anyone who needs to hear it. Visit Focuslinks.in for more focused, clinically grounded conversations just like this one.\n\n---",
       "tags": "hydroxychloroquine,toxicity,screening,dose",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-23.mp3",
+      "duration": "12:51",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "aaef025f-6a5a-4c4b-8eb6-78e4b8317c6d",
+      "generatedAt": "2026-08-09T05:25:01.550Z"
     },
     {
       "episodeOrder": 24,

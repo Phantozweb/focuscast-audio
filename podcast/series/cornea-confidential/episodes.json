@@ -8,19 +8,21 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-09T08:27:33.000Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T08:37:28.992Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Corneal Anatomy: The Five Layers and Why Each Matters",
-      "description": "From epithelium to endothelium — how each layer contributes to clarity and where disease strikes.",
+      "title": "Corneal Anatomy: Five Layers Every Optometrist Must Know",
+      "description": "How well do you really know the cornea you examine every single day? In this clinical deep-dive, Focus Cast breaks down the five layers of the corneal anatomy — epithelium, Bowman's layer, stroma, Descemet's membrane, and endothelium — and connects each one directly to the diseases, exam findings, and chairside decisions that define modern optometric practice.\n\nYou'll learn why epithelial staining patterns at the slit lamp point to specific diagnoses, why Bowman's layer scarring in keratoconus makes early cross-linking so critical, and how stromal infiltrates demand immediate clinical action rather than a watch-and-wait approach. We cover the clinical significance of Descemet's membrane in acute hydrops and Haab's striae, and explain why the endothelium — a single, non-regenerating cell layer — is arguably the most important structure in the entire cornea for maintaining long-term visual clarity.\n\nThis episode also walks through key conditions including superficial punctate keratitis, recurrent corneal erosion syndrome, infectious keratitis, HSV disciform keratitis, Fuchs' endothelial dystrophy, and contact lens-related endothelial changes — with practical guidance on specular microscopy, anterior segment OCT, corneal sensation testing, and appropriate referral thresholds for corneal specialists.\n\nWhether you're a seasoned clinician refining your diagnostic framework or an optometry resident building your corneal foundation, this episode delivers evidence-based, clinically applicable content you can use at your very next slit lamp exam. Visit Focuslinks.in to explore more episodes and clinical resources built exclusively for eye care professionals.\n\n---",
       "tags": "anatomy,cornea,layers,clarity",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-01.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "26cb3334-3ce0-4a68-81d1-c43afb2112fb",
+      "generatedAt": "2026-08-09T08:37:28.992Z"
     },
     {
       "episodeOrder": 2,

@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T05:01:09.076Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T05:01:37.428Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Lens Designs: Single Vision, Progressive, and Office",
-      "description": "The progressive corridor, the computer lens, and the occupational design that earns the premium.",
+      "title": "Single Vision, Progressive & Office Lenses Explained",
+      "description": "Ever put on someone else's glasses and felt the world go blurry? That moment reveals a simple truth — not all lenses are the same. In this episode of Focus Cast by Focuslinks.in, we break down the three most common lens designs so you can walk into any optical store feeling informed and confident.\n\nWe start with single vision lenses, the straightforward, one-prescription solution that works beautifully for anyone with a single vision need — whether that's seeing clearly at distance or up close. Then we dive into progressive lenses, the remarkable optical engineering feat that delivers seamless vision at all distances without a visible line, making them the go-to choice for anyone navigating presbyopia. Finally, we explore office lenses, the often-overlooked specialist lens designed specifically for screen users and desk workers who need wider, more comfortable intermediate and near vision throughout the workday.\n\nAlong the way, you'll learn how progressive lens corridors affect comfort, why digital eye strain is pushing more people toward occupational lenses, and how your lifestyle — not just your prescription — should shape the lens you choose.\n\nWhether you're a first-time glasses wearer, someone frustrated with their current lenses, or just curious about how eyewear actually works, this episode gives you the clarity you need to make smarter choices for your vision.\n\nVisit Focuslinks.in to explore more episodes and resources on eyewear, vision health, and the science of seeing clearly.\n\n---",
       "tags": "progressive,office,design,corridor",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-06.mp3",
+      "duration": "12:51",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9482489e-16d0-4971-9ff4-c3216e2a8cf3",
+      "generatedAt": "2026-08-09T05:01:37.428Z"
     },
     {
       "episodeOrder": 7,

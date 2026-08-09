@@ -9,7 +9,7 @@
   "order": 9,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T04:33:36.446Z",
+  "lastUpdated": "2026-08-09T04:33:38.541Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -339,27 +339,27 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Dry Eye Disease & Contact Lenses: The Chicken-and-Egg Truth",
-      "description": "Do your eyes feel dry, gritty, and exhausted by the end of a long day in contact lenses? You're not alone — and there's a reason for it. In this episode of Focus Cast, we dive deep into one of the most common yet misunderstood challenges in eye care: the complex relationship between dry eye disease (DED) and contact lens wear.\n\nIs it your contact lenses causing dry eye, or was the dry eye already there before you ever put in a lens? The answer might surprise you — because it's actually both. We break down exactly how contact lenses disrupt the tear film, why long-term lens wear can damage goblet cells and meibomian glands, and how dry eye disease can quietly exist beneath the surface until a contact lens brings it into sharp, uncomfortable focus.\n\nBut this episode isn't just about the problem — it's about real, practical solutions. We cover the latest in contact lens technology designed for dry eye-prone eyes, including silicone hydrogel lenses, daily disposables, moisture-infused lenses, and scleral lenses. We also explore how lubricating eye drops, lid hygiene, omega-3 supplements, environmental adjustments, and smarter wearing habits can dramatically improve your comfort.\n\nWhether you're a contact lens wearer struggling with dryness or someone with dry eye disease wondering if contacts are still an option for you, this episode gives you the clarity and confidence to take the next step.\n\nListen now and discover why dry, uncomfortable eyes don't have to be your normal. Then visit Focuslinks.in for more expert eye care episodes and resources to help you see the world more clearly.\n\n---",
+      "title": "DED and Contact Lenses: The Chicken-and-Egg",
+      "description": "How CL wear worsens DED, the modality selection, and the rewetting and replacement strategy.",
       "tags": "contact-lens,worsens,modality,rewetting",
-      "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-27.mp3",
-      "duration": "12:04",
-      "imageUrl": "",
-      "status": "generated",
-      "runId": "a0ef8ecc-7a11-45bb-8193-9b91e67dbb0c",
-      "generatedAt": "2026-08-09T04:33:36.446Z"
-    },
-    {
-      "episodeOrder": 28,
-      "title": "Computer Vision Syndrome: The Digital Age DED",
-      "description": "The blink rate collapse, the environmental factors, and the 20-20-20 and blink training interventions.",
-      "tags": "cvs,digital,blink,20-20-20",
-      "category": "Dry Eye",
+      "category": "Contact Lens",
       "audioUrl": "",
       "duration": "",
       "imageUrl": "",
       "status": "draft"
+    },
+    {
+      "episodeOrder": 28,
+      "title": "Computer Vision Syndrome: The Digital Age Dry Eye Crisis",
+      "description": "Are your eyes feeling tired, gritty, or strained after a long day of screen time? You're not alone — and there's a name for what you're experiencing. In this episode of Focus Cast, we dive deep into Computer Vision Syndrome (CVS), the rapidly growing eye condition that's affecting up to 90% of people who work in front of digital screens.\n\nWe break down exactly what CVS is, why eye doctors are now linking it directly to Dry Eye Disease, and how something as simple as not blinking enough can quietly damage your eye health over time. You'll learn what's really happening inside your eyes during those long hours of screen use — from fatigued ciliary muscles and disrupted tear films to the effects of blue light exposure and poor screen ergonomics.\n\nMost importantly, we walk you through practical, science-backed strategies you can start using today — including the 20-20-20 rule, intentional blinking habits, proper screen setup, artificial tear options, and smarter screen settings — so you can protect your vision without giving up your digital lifestyle.\n\nWhether you're a remote worker, a student, a gamer, or just someone who can't put their phone down, this episode gives you the knowledge and tools to take better care of your eyes in a screen-dominated world.\n\nListen now and take the first step toward healthier, more comfortable vision. For more eye health tips and resources, visit us at focuslinks.in.\n\n---",
+      "tags": "cvs,digital,blink,20-20-20",
+      "category": "Dry Eye",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-28.mp3",
+      "duration": "12:22",
+      "imageUrl": "",
+      "status": "generated",
+      "runId": "ab339f2e-0033-4e73-8854-4e1db1935e69",
+      "generatedAt": "2026-08-09T04:33:38.541Z"
     },
     {
       "episodeOrder": 29,

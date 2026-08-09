@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T05:34:25.221Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T05:35:25.560Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Intermediate Uveitis: The Snowballs and the Snowbank",
-      "description": "The vitreous cells, the pars plana snowbank, and the multiple sclerosis and Lyme associations.",
+      "title": "Intermediate Uveitis: Snowballs, Snowbanks & Hidden Eye Inflammation",
+      "description": "What do snowballs and snowbanks have to do with your eyes? More than you might think. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into intermediate uveitis, one of the most fascinating and underrecognized forms of eye inflammation affecting young adults today.\n\nIntermediate uveitis sits in the middle of the eye, targeting the vitreous, pars plana, and peripheral retina. It is bilateral in roughly 80% of cases, often silent in its early stages, and capable of quietly stealing vision through cystoid macular edema before a patient even suspects something is wrong. We break down the iconic snowball and snowbank findings that define this condition, explain why they matter clinically, and walk through how ophthalmologists diagnose and grade disease severity using these hallmark signs.\n\nWe also explore the critical systemic connections every clinician should know, including the strong association between intermediate uveitis and multiple sclerosis, sarcoidosis, tuberculosis, and Lyme disease. You will learn why a young patient presenting with unexplained floaters and a quiet-looking eye deserves a thorough workup, and why an MRI of the brain may be part of that conversation.\n\nFrom first-line corticosteroid therapy and periocular injections to immunosuppressive agents, biologics, and pars plana vitrectomy, we cover the full treatment landscape in a clear, clinically grounded way.\n\nWhether you are a medical student, an ophthalmology resident, or a curious clinician looking to sharpen your uveitis knowledge, this episode delivers everything you need in one focused listen.\n\nVisit Focuslinks.in for more episodes, resources, and eye health content. Do not forget to share this episode with a colleague who would find it valuable.\n\n---",
       "tags": "intermediate,snowball,snowbank,ms",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-05.mp3",
+      "duration": "12:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bd0d813d-f79a-4900-905d-3d1e19314e97",
+      "generatedAt": "2026-08-09T05:35:25.560Z"
     },
     {
       "episodeOrder": 6,

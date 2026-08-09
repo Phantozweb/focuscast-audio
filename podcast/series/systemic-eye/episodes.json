@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T06:26:42.609Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T06:26:51.969Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -165,14 +165,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Multiple Sclerosis: The Optic Neuritis and the Long View",
-      "description": "The ONTT, the MRI decision, the disease-modifying therapy era, and the optometric surveillance.",
+      "title": "Multiple Sclerosis & Optic Neuritis: The Long View on MS",
+      "description": "What if a blurry eye was your body's first warning about multiple sclerosis? In this episode of Focus Cast, we explore the powerful and often overlooked connection between optic neuritis and MS — and what an early diagnosis can mean for your long-term health.\n\nWe break down exactly how multiple sclerosis affects the central nervous system, why the immune system attacks myelin, and how that damage leads to such a wide and unpredictable range of symptoms. You'll learn what optic neuritis actually feels like, why it affects roughly one in four people before their MS diagnosis, and what the statistics really say about your risk of developing MS after a first episode.\n\nBut this episode isn't just about the science — it's about the long view. We talk honestly about how dramatically MS treatment has evolved over the past three decades, with more than twenty disease-modifying therapies now available that can reduce relapse rates by eighty percent or more. We also look at the exciting research happening right now in neuroprotection and remyelination, and what it could mean for the future of MS care.\n\nPerhaps most importantly, we don't shy away from the emotional weight of living with a chronic neurological condition. Anxiety, depression, and cognitive changes are real parts of the MS experience — and they deserve real attention alongside the physical symptoms.\n\nWhether you're newly diagnosed, supporting a loved one, or simply trying to understand what MS really means today, this episode offers clarity, compassion, and genuine reason for hope.\n\nListen now and share this episode with someone who needs to hear it. For more episodes like this, visit Focuslinks dot in.\n\n---",
       "tags": "ms,ontt,mri,dmt",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-13.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "aba9aa22-f33a-48f8-a62e-d28866bc404e",
+      "generatedAt": "2026-08-09T06:26:51.969Z"
     },
     {
       "episodeOrder": 14,

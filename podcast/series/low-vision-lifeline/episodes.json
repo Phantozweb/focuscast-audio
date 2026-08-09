@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T05:21:20.092Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T05:21:25.599Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -37,14 +37,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Causes of Low Vision: AMD, Glaucoma, Diabetic Retinopathy",
-      "description": "The three leading causes in adults and the very different visual profiles each produces.",
+      "title": "AMD, Glaucoma & Diabetic Retinopathy: Causes of Low Vision",
+      "description": "Did you know that millions of people worldwide are losing their vision silently, without any pain or warning signs? In this eye-opening episode of Focus Cast by Focuslinks.in, we break down the three most common causes of low vision: Age-related Macular Degeneration (AMD), Glaucoma, and Diabetic Retinopathy.\n\nWe start with AMD, the leading cause of severe vision loss in adults over 50, explaining how it quietly destroys your central vision and what early warning signs to watch for. Next, we uncover why Glaucoma is called the silent thief of sight, how rising eye pressure damages the optic nerve without any symptoms, and why the vision it steals can never be recovered. Finally, we dive into Diabetic Retinopathy, the leading cause of blindness among working-age adults, and explain exactly how uncontrolled blood sugar silently damages the delicate blood vessels in your retina.\n\nThese three conditions share one critical thing in common: they are all largely symptom-free in the early stages, yet all significantly more manageable when detected early. Whether you have diabetes, a family history of eye disease, or are simply over the age of 40, this episode gives you the knowledge you need to take action before it is too late.\n\nYour vision is irreplaceable. Do not wait for symptoms to appear. Schedule a comprehensive dilated eye exam today and share this episode with someone who needs to hear it.\n\nVisit Focuslinks.in for more expert insights, resources, and episodes dedicated to protecting your vision and eye health.\n\n---",
       "tags": "causes,amd,glaucoma,diabetes",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-03.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9c867083-3fda-4752-9193-611449899d51",
+      "generatedAt": "2026-08-09T05:21:25.599Z"
     },
     {
       "episodeOrder": 4,

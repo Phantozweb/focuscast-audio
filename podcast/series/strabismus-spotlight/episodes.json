@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T06:01:56.324Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T06:02:06.952Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -180,14 +180,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Möbius Syndrome: The Congenital Facial and Abducens Palsy",
-      "description": "The mask-like face, the absent abduction, and the multidisciplinary care.",
+      "title": "Möbius Syndrome: Living With Congenital Facial Palsy",
+      "description": "What would life be like if your face could never show a smile, surprise, or sadness — not because of how you feel, but because of how your nerves were formed before you were even born? In this episode of Focus Cast, we explore Möbius Syndrome, a rare congenital neurological condition that affects the sixth and seventh cranial nerves, resulting in facial palsy and the inability to move the eyes laterally.\n\nWe break down the science behind why this happens, tracing the condition back to abnormal brainstem development during fetal growth, possible genetic mutations, disrupted blood flow, and even links to medication use during pregnancy. We also unpack the fascinating and still-unresolved questions researchers are working to answer.\n\nBut this episode goes far beyond the clinical. We explore what daily life genuinely looks like for people with Möbius Syndrome — the social misunderstandings, the emotional resilience, and the remarkable ways individuals adapt and thrive. We cover how the condition is diagnosed, why it is often missed, and what current treatments look like, including speech therapy, specialized eye care, and the extraordinary smile surgery that has transformed lives by giving people the ability to express joy for the very first time.\n\nWhether you are a medical professional, a curious listener, a caregiver, or someone personally connected to this condition, this episode offers a compassionate and scientifically grounded look at one of neurology's most compelling rare disorders.\n\nListen now and discover how Möbius Syndrome challenges everything we assume about human connection, facial expression, and identity. Share this episode with someone who loves learning about the science and stories behind rare conditions, and visit Focuslinks dot in for more episodes from Focus Cast.\n\n---",
       "tags": "mobius,facial,abducens,multidisciplinary",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-14.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1ebe6acf-53c7-4a02-ad65-ee6b5fa10064",
+      "generatedAt": "2026-08-09T06:02:06.952Z"
     },
     {
       "episodeOrder": 15,

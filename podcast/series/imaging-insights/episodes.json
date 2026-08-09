@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T06:15:54.163Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T06:16:20.948Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -206,14 +206,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "IOL Power Calculation: The Formulas and the Surprise",
-      "description": "The modern formulas, the myopic and hyperopic shift after refractive surgery, and the adjustments.",
+      "title": "IOL Power Calculation: Formulas, AI & the Big Surprise",
+      "description": "How does a surgeon know exactly which lens to implant during cataract surgery? The answer lies in IOL power calculation — a fascinating science that has evolved over five decades and is still being refined today. In this episode of Focus Cast by Focuslinks.in, we break down the full story of intraocular lens power calculation in a way that's clear, engaging, and genuinely surprising.\n\nWe trace the journey from the earliest theoretical formulas of the 1970s, through the landmark SRK regression formula of the 1980s, to the third-generation formulas like SRK/T, Holladay 1, and Hoffer Q. Then we explore why post-LASIK eyes became such a challenge for traditional IOL formulas — and how the field responded with specialized tools like the Barrett True-K and the ASCRS online calculator. Finally, we look at today's AI-powered formulas like Hill-RBF and the Kane formula, which use machine learning and massive outcome datasets to push accuracy to levels once thought impossible.\n\nAlong the way, we cover the shift from ultrasound to optical biometry, the role of corneal topography, and why the A-constant matters. And we reveal the one surprising limitation that even the most advanced IOL calculation methods still haven't fully solved.\n\nWhether you're an ophthalmology student, an eye care professional, or simply someone curious about the science behind cataract surgery, this episode will change how you think about what happens in the operating room. Listen now, and share it with anyone who loves the intersection of medicine, physics, and technology. For more ophthalmology content, visit Focuslinks.in.\n\n---",
       "tags": "iol-formula,surprise,post-refractive,adjustment",
       "category": "Cataract",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-16.mp3",
+      "duration": "12:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7410e9c5-d3c4-48b8-948e-43d7f2acf0fb",
+      "generatedAt": "2026-08-09T06:16:20.948Z"
     },
     {
       "episodeOrder": 17,

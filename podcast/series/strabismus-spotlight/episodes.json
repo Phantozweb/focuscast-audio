@@ -9,7 +9,7 @@
   "order": 17,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-09T06:21:40.672Z",
+  "lastUpdated": "2026-08-09T06:23:08.418Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,16 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Diplopia Workup: Beyond the Cover Test | FocusCast",
-      "description": "When a patient says \"I'm seeing double,\" the cover test is just the beginning. In this episode of FocusCast by Focuslinks.in, we take a deep dive into the complete clinical workup for diplopia — the kind of systematic, methodical approach that separates a good clinician from a great one.\n\nWe start where it matters most: distinguishing monocular from binocular diplopia and understanding why that single question changes everything about your management. From there, we walk through the three cranial nerves that drive your differential — the third, fourth, and sixth — breaking down their classic presentations, the subtle clues each one leaves behind, and the red flags you absolutely cannot afford to miss. A dilated pupil in a third nerve palsy? That is a neurosurgical emergency until proven otherwise. A patient tilting their head in every old photograph? That fourth nerve palsy may have been there for years.\n\nWe also cover the history questions that sharpen your diagnosis, including how fluctuating diplopia at the end of the day could point to myasthenia gravis, and why the ice pack test belongs in every clinician's toolkit. You will learn when to image, what to image, and which blood tests to order — from thyroid panels and acetylcholine receptor antibodies to ESR and CRP when giant cell arteritis enters the picture.\n\nFinally, we discuss practical management strategies including prisms, patching, and when surgery becomes the right conversation to have.\n\nWhether you are a trainee building your clinical framework or a seasoned practitioner looking for a sharp refresher, this episode delivers real, applicable insight into one of ophthalmology's most neurologically rich presentations.\n\nListen now and visit Focuslinks.in for more episodes and eye care resources.\n\n---",
+      "title": "Diplopia Workup: Beyond the Cover Test | Eye Care Deep Dive",
+      "description": "Double vision is never just an alignment problem — it's a symptom that demands a thorough, systematic workup. In this episode of Focus Cast by Focuslinks.in, we go far beyond the cover test to explore the complete clinical approach to diplopia that every eye care professional needs to master.\n\nWe start with the critical distinction between monocular and binocular diplopia, then walk through how a well-taken history — covering onset, direction, variability, and associated symptoms — can point you toward the right diagnosis before you even reach for a prism bar. You'll learn why sudden-onset diplopia is a red flag, how fatigable double vision signals myasthenia gravis, and why a drooping lid with a dilated pupil is a neurosurgical emergency until proven otherwise.\n\nFrom there, we cover the full examination toolkit: nine-position motility testing, the Maddox rod, the Parks-Bielschowsky three-step test, and the all-important pupil assessment. We break down the major diagnostic categories — cranial nerve palsies, thyroid eye disease, myasthenia gravis, internuclear ophthalmoplegia, and restrictive versus paretic causes — and give you a clear framework for deciding when and what to image.\n\nWhether you're a seasoned clinician or building your neuro-ophthalmology confidence, this episode gives you the clinical reasoning tools to distinguish a benign decompensated phoria from a life-threatening aneurysm. Because in diplopia, being thorough isn't optional — it's everything.\n\nListen now and sharpen your approach to one of eye care's most consequential presentations. Visit Focuslinks.in for more episodes and clinical resources.\n\n---",
       "tags": "diplopia,workup,imaging,screen",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-23.mp3",
-      "duration": "12:38",
+      "duration": "11:57",
       "imageUrl": "",
       "status": "generated",
-      "runId": "ffe58777-35e3-4baa-9717-df166e70c861",
-      "generatedAt": "2026-08-09T06:19:33.418Z"
+      "runId": "60d6f0be-b516-48ee-9997-4d070b0e16af",
+      "generatedAt": "2026-08-09T06:23:08.418Z"
     },
     {
       "episodeOrder": 24,

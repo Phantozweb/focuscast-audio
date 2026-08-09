@@ -9,7 +9,7 @@
   "order": 19,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T06:30:42.770Z",
+  "lastUpdated": "2026-08-09T06:31:18.477Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,16 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Sarcoidosis and the Eye: When Granulomas Threaten Your Vision",
-      "description": "What if blurry eyes and persistent redness were signs of a systemic disease silently attacking your body from the inside? In this eye-opening episode of Focus Cast, we explore sarcoidosis — the granulomatous disease that affects up to 50% of patients in the eyes — and why it remains one of medicine's most underrecognized threats to vision.\n\nWe break down exactly what sarcoidosis is, how the immune system forms granulomas, and why the eyes are so frequently caught in the crossfire. You will learn about the most common ocular manifestations, including uveitis, mutton fat keratic precipitates, Koeppe and Busacca nodules, and the striking candle wax drippings seen on the retina. We also cover how sarcoidosis can damage the optic nerve, trigger neurosarcoidosis, and silently steal vision before a patient even suspects something is wrong.\n\nFrom diagnosis — including slit lamp findings, serum ACE levels, chest imaging, and biopsy — to treatment strategies involving corticosteroids, immunosuppressants, and biologic agents like infliximab, this episode gives you a comprehensive, clinically grounded understanding of ocular sarcoidosis. Whether you are a medical professional, a student, or a patient navigating this diagnosis, this episode delivers the clarity you need.\n\nSarcoidosis has earned its nickname as the great imitator, and the eyes may hold the key to catching it early. Do not miss this essential conversation about protecting your vision and understanding your body as one connected system.\n\nListen now and visit Focuslinks dot in for more episodes, articles, and resources on eye health and medicine.\n\n---",
+      "title": "Sarcoidosis and the Eye: Uveitis, Symptoms & Treatment",
+      "description": "What if your blurry vision was actually a sign of a disease affecting your entire body? In this eye-opening episode of Focus Cast, we dive deep into sarcoidosis — the granulomatous disease that silently targets multiple organs and frequently makes its first appearance in the eyes. Affecting the eyes in up to 50% of cases, sarcoidosis is far more connected to your vision than most people realize, and understanding that connection could make all the difference in catching it early.\n\nWe break down exactly what sarcoidosis is, how the immune system creates granulomas, and why the eyes are such a critical site of involvement. You will learn about the most common eye manifestation — uveitis — including anterior, posterior, and panuveitis, and what symptoms to watch for, from redness and light sensitivity to floaters and vision loss. We also cover lesser-known but important findings like mutton fat keratic precipitates, Busacca nodules, lacrimal gland involvement, and optic nerve damage that can threaten sight if left untreated.\n\nBeyond the clinical picture, we walk through how ocular sarcoidosis is diagnosed, what blood tests and imaging are involved, and how treatment ranges from corticosteroid eye drops to immunosuppressive therapy for chronic cases. We also touch on the emotional toll this unpredictable disease takes on patients and why early detection through a thorough eye exam can be life-changing.\n\nWhether you are a patient, caregiver, student, or healthcare professional, this episode offers clear, practical insights into a condition that reminds us the eyes are truly a window into the body. Visit Focuslinks dot in for more episodes and resources on eye health. Do not wait — your vision is worth protecting.\n\n---",
       "tags": "sarcoid,granuloma,ace,pulmonary",
-      "category": "Glaucoma",
+      "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-14.mp3",
-      "duration": "12:24",
+      "duration": "12:21",
       "imageUrl": "",
       "status": "generated",
-      "runId": "764bd1e0-fd27-4fd8-8e13-80fbb91e39e5",
-      "generatedAt": "2026-08-09T06:28:38.545Z"
+      "runId": "081b0e59-4a5a-4ea8-a5ec-6360934e419d",
+      "generatedAt": "2026-08-09T06:31:17.698Z"
     },
     {
       "episodeOrder": 15,

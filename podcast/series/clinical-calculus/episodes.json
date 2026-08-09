@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T06:37:45.330Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T06:37:55.133Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "The Second Opinion: When the Patient Doubts",
-      "description": "The chart review, the repeat exam, and the confirmation or correction that builds trust.",
+      "title": "Second Opinion: When & Why You Should Question Your Diagnosis",
+      "description": "What happens when your doctor hands you a life-changing diagnosis and something just doesn't feel right? In this episode of Focus Cast, we explore the power of the second medical opinion and why doubting your diagnosis might be the smartest health decision you ever make.\n\nStudies show that diagnostic errors affect roughly 12 million Americans every year, and a landmark Mayo Clinic study found that 88% of patients who sought a second opinion left with a new or refined diagnosis. That's not a small statistic. That's a wake-up call.\n\nWe break down why patient doubt is completely normal, how cultural pressure and fear keep people from questioning their doctors, and what actually happens when you do seek another perspective. You'll learn how to approach a second opinion strategically, what specific questions to ask a specialist, and how to tell the difference between healthy skepticism and counterproductive doctor shopping.\n\nWe also explore the concept of patient activation and why engaged, questioning patients consistently achieve better health outcomes than those who passively accept every answer they receive.\n\nWhether you're facing a serious diagnosis, supporting a loved one through a medical decision, or simply want to become a more informed patient, this episode gives you the clarity and confidence to advocate for yourself without guilt.\n\nYour questions are not an inconvenience. Your doubt is not a weakness. It's your health, and you deserve to get it right.\n\nListen now and share this episode with someone who needs the reminder. Visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "second-opinion,chart-review,repeat,trust",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-12.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "aa37a67f-b451-48b5-943a-90777347ac0e",
+      "generatedAt": "2026-08-09T06:37:55.133Z"
     },
     {
       "episodeOrder": 13,

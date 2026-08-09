@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T06:00:56.480Z",
+  "lastUpdated": "2026-08-09T06:01:03.290Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 489,
+  "generatedEpisodes": 490,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -254,10 +254,10 @@
       "category": "Strabismus",
       "order": 17,
       "totalEpisodes": 30,
-      "generatedEpisodes": 9,
+      "generatedEpisodes": 10,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/episodes.json",
       "audioDir": "podcast/series/strabismus-spotlight/audio",
-      "lastUpdated": "2026-08-09T06:00:47.481Z"
+      "lastUpdated": "2026-08-09T06:00:58.620Z"
     },
     {
       "slug": "imaging-insights",

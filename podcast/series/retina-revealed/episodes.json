@@ -9,18 +9,20 @@
   "order": 2,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T08:33:51.234Z",
+  "lastUpdated": "2026-08-09T08:33:52.967Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Anatomy of the Posterior Pole: From Bruch’s to Photoreceptors",
-      "description": "A layered tour of the retina that makes every future OCT and fundus finding click into place.",
+      "title": "Retinal Layers Explained: Bruch's to Photoreceptors for ODs",
+      "description": "Ever stared at an OCT B-scan and felt like you were reading a map in a language you almost understand? You're not alone — and this episode is the fix. In this clinically focused episode of Focus Cast by Focuslinks.in, we take licensed optometrists and eye care professionals on a precise, layer-by-layer tour of the posterior pole, from Bruch's membrane through the RPE, ellipsoid zone, outer nuclear layer, outer plexiform layer, and all the way to the inner retinal complex.\n\nThis isn't textbook anatomy for its own sake. Every layer we cover is tied directly to what you see in practice — drusenoid and fibrovascular PEDs, ellipsoid zone integrity as a visual prognosis marker, cystoid spaces in diabetic macular edema, RNFL thinning in glaucoma, and the OCT signatures that separate watchful waiting from urgent retinal referral.\n\nWe walk through two real-world clinical scenarios involving age-related macular degeneration — one guiding you toward AREDS2 counseling and structured follow-up, the other toward same-week retinal specialist referral — showing exactly how anatomical fluency drives confident, evidence-based chairside decision-making.\n\nBy the end of this episode, your OCT scans will speak to you differently. You'll know which bands to interrogate, which disruptions demand urgency, and why understanding retinal microanatomy is the single most transferable skill in posterior segment care.\n\nThis episode is designed exclusively for optometrists, optometry residents, and clinical eye care practitioners. If you're ready to make every fundus finding and every OCT report click into place, hit play now. Visit Focuslinks.in for more episodes and CE content built specifically for eye care professionals.\n\n---",
       "tags": "anatomy,retina,layers,bruchs",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-01.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c3c84c6c-add9-4e57-9db8-6078aa476f2b",
+      "generatedAt": "2026-08-09T08:33:52.967Z"
     },
     {
       "episodeOrder": 2,
@@ -81,16 +83,14 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fundus Photography: Fields, Stereo Pairs & Montage Techniques",
-      "description": "Are you capturing fundus images or building true clinical documents? In this episode of Focus Cast, we break down the diagnostic art and science behind fundus photography composition — a skill every optometrist needs to master to catch the pathology a single frame can miss.\n\nWe start with ETDRS field definitions, the standardized anatomical zones that form the foundation of every meaningful posterior segment image. You will learn why field selection is a clinical decision, not a default setting, and how choosing the wrong fields in a diabetic patient can leave peripheral hemorrhages completely undocumented.\n\nFrom there, we move into fundus montage construction — how overlapping fields by twenty to thirty percent eliminates blind spots and creates the panoramic view essential for detecting lattice degeneration, peripheral retinal breaks, and retinoschisis in high myopes and at-risk patients. We walk through real clinical scenarios, including a high myope with a horseshoe tear hiding beyond the posterior pole, to show exactly what is at stake when peripheral imaging is skipped.\n\nWe also cover stereo fundus photography, an underutilized technique that restores the depth perception critical for evaluating glaucomatous disc cupping, choroidal nevi elevation, and subretinal fluid — clinical distinctions that flat images simply cannot reliably convey.\n\nFinally, we tie it all together with a practical chairside decision-making framework: how to let your clinical question drive your imaging protocol, how to document methodology for co-management, and when peripheral findings cross the threshold from watch-and-educate to urgent retinal referral.\n\nIf you are ready to stop taking snapshots and start creating diagnostic records that protect your patients and elevate your practice, this episode is for you. Visit Focuslinks dot in for more clinical resources built exclusively for eye care professionals.\n\n---",
+      "title": "Fundus Photography: Composing a Diagnostic Image",
+      "description": "Field definitions, stereo pairs, and the montage that captures the peripheral pathology a single frame misses.",
       "tags": "fundus-photo,montage,fields,stereo",
-      "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-07.mp3",
-      "duration": "12:30",
+      "category": "Ocular Imaging",
+      "audioUrl": "",
+      "duration": "0:00",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "44d6b0a8-8658-4c3d-a053-a40668211e0b",
-      "generatedAt": "2026-08-09T08:33:51.234Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 8,

@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T04:56:29.199Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T04:56:56.020Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -297,14 +297,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Burns: Thermal and Radiation at the Eye",
-      "description": "The welder’s flash, the thermal lid burn, and the treatment and follow-up for each.",
+      "title": "Eye Burns: Thermal & Radiation Damage Explained | FocusCast",
+      "description": "Have you ever glanced at a welding arc or felt intense heat radiating toward your face? That instinctive blink might be doing more work than you realize. In this episode of FocusCast by Focuslinks.in, we dive deep into one of the most underestimated eye health risks: thermal and radiation burns to the eye.\n\nWe break down exactly what happens when extreme heat or harmful radiation meets one of the most delicate organs in your body. From corneal epithelial loss caused by flames, hot oil, and sparks, to the silent, delayed agony of photokeratitis — better known as snow blindness or welder's flash — this episode covers it all in plain, accessible language.\n\nYou will learn why UV radiation is just as dangerous to your eyes as it is to your skin, how chronic sun exposure contributes to cataracts, and why staring at a solar eclipse even briefly can permanently destroy your central vision through solar retinopathy. We also walk you through the right protective eyewear for every situation, from certified UV-blocking sunglasses to proper welding helmets and glacier goggles.\n\nWhether you work in an industrial setting, love the outdoors, or simply want to protect your family from everyday hazards like kitchen steam and fireworks, this episode gives you the knowledge to act fast and stay safe.\n\nYour vision is irreplaceable. Tune in, stay informed, and share this episode with someone who needs to hear it.\n\nVisit FocusCast at Focuslinks.in for more eye health episodes and resources.\n\n---",
       "tags": "burn,thermal,radiation,welder",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-23.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ffc83cdb-2119-428a-b8c5-ba44429299e6",
+      "generatedAt": "2026-08-09T04:56:56.020Z"
     },
     {
       "episodeOrder": 24,

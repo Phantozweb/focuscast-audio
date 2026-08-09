@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T05:01:01.740Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T05:01:09.076Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Lens Materials: Index, Polycarbonate, and Trivex",
-      "description": "Matching the material to the prescription, the lifestyle, and the safety demands of the patient.",
+      "title": "Lens Materials Explained: High Index, Polycarbonate & Trivex",
+      "description": "What are your eyeglass lenses actually made of — and does it even matter? It matters more than you think. In this episode of Focus Cast, we break down three of the most important lens materials in eyewear today: high index lenses, polycarbonate lenses, and Trivex lenses. Whether you're dealing with a strong prescription, shopping for kids' glasses, or just tired of nodding along at the optician's office, this episode gives you the knowledge to make a genuinely informed decision.\n\nWe cover what the refractive index really means and why it determines how thin your lenses can be. We explore why polycarbonate — originally engineered for bulletproof glass and riot shields — became the gold standard for safety eyewear. And we introduce Trivex, the military-grade material that quietly delivers some of the best optical clarity available, yet rarely gets the attention it deserves.\n\nYou'll also learn about Abbe values, chromatic aberration, UV protection, and why lens coatings are just as important as the material itself. By the end of this episode, you'll know exactly which lens material suits your prescription, lifestyle, and budget — and you'll have the right questions ready for your next eye care appointment.\n\nBecause choosing the right lenses isn't just about seeing clearly. It's about comfort, safety, and getting real value from every pair of glasses you own.\n\nListen now and start seeing the difference. For more eye health insights, eyewear guides, and expert resources, visit us at focuslinks.in.\n\n---",
       "tags": "materials,index,poly,trivex",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-05.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e9c4a66b-602e-439f-854c-94b00c27b099",
+      "generatedAt": "2026-08-09T05:01:09.076Z"
     },
     {
       "episodeOrder": 6,

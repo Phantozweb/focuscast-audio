@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T06:19:11.478Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T06:19:19.286Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -312,14 +312,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Electroretinography: The Photoreceptor Function",
-      "description": "The full-field and multifocal ERG, the a-wave and b-wave, and the retinal dystrophy diagnosis.",
+      "title": "Electroretinography Explained: How ERGs Test Your Retina",
+      "description": "What if doctors could actually listen to the electrical activity inside your eye? That is exactly what electroretinography, or ERG, makes possible. In this episode of Focus Cast, we break down one of the most powerful yet underappreciated diagnostic tools in eye care, and explore how it is changing the way vision disorders are detected and treated.\n\nWe start with the fundamentals, walking you through how photoreceptors, rods and cones, convert light into electrical signals inside the retina. From there, we dive deep into how an ERG test works, what the a-wave and b-wave waveforms actually reveal, and why measuring retinal function is just as critical as examining retinal structure.\n\nYou will learn about the different types of ERG protocols, including full-field ERG, pattern ERG, and multifocal ERG, and discover how each one targets specific aspects of retinal health. We also explore the real-world clinical impact of electroretinography across conditions like retinitis pigmentosa, diabetic retinopathy, macular degeneration, and inherited retinal diseases. Plus, we look at the exciting role ERG played in the development of approved gene therapies for conditions like Leber congenital amaurosis.\n\nWhether you are a patient trying to understand your diagnosis, a student studying optometry or ophthalmology, or simply someone fascinated by the science of vision, this episode offers a clear, engaging, and thorough look at how ERG bridges the gap between structure and function in eye care.\n\nListen now and discover why early functional detection could be the key to preserving sight. For more vision science content, visit us at focuslinks.in.\n\n---",
       "tags": "erg,photoreceptor,dystrophy,multifocal",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-24.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4e76bb2c-85bc-4a57-b368-7a7fc217df2e",
+      "generatedAt": "2026-08-09T06:19:19.286Z"
     },
     {
       "episodeOrder": 25,

@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T06:16:20.948Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T06:16:32.319Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Biometry: The IOL Calculation and the Axial Length",
-      "description": "The immersion and optical, the SRK/T and Hoffer Q, and the post-refractive challenge.",
+      "title": "IOL Calculation & Axial Length: The Science of Biometry",
+      "description": "What does it take to restore someone's vision after cataract surgery? The answer lies in a single, extraordinarily precise measurement — the axial length of the eye. In this episode of Focus Cast, we dive deep into the world of ocular biometry and IOL calculation, unpacking the science that makes modern cataract surgery one of the most successful procedures in all of medicine.\n\nWe start with the basics: what axial length is, why a difference of just one millimeter can shift lens power by nearly three diopters, and how eye size connects to conditions like myopia and hyperopia. From there, we trace the evolution of measurement technology — from contact-based A-scan ultrasound to the touchless precision of optical biometry devices like the IOLMaster and Lenstar, which measure to within micrometers.\n\nThen we get into the formulas. From the early SRK and SRK-II to third-generation workhorses like the Holladay 1, SRK-T, and Hoffer Q, all the way to modern AI-powered tools like the Hill-RBF and Kane formula — we break down how IOL calculation has evolved and why it matters for real patient outcomes. We also tackle the tricky challenges of post-LASIK eyes, effective lens position prediction, and what happens when things go wrong with a refractive surprise.\n\nWhether you're an ophthalmology student, an optometrist, or simply someone fascinated by the intersection of physics, mathematics, and medicine, this episode will change how you think about cataract surgery.\n\nListen now and share with anyone who loves the science of vision. Visit focuslinks.in to explore more episodes and resources from Focus Cast.\n\n---",
       "tags": "biometry,axial-length,iol,calculation",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-15.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "eabdda1e-abab-4d0a-8f79-d2564aa4685e",
+      "generatedAt": "2026-08-09T06:16:32.319Z"
     },
     {
       "episodeOrder": 16,

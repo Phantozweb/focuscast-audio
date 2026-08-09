@@ -1,0 +1,180 @@
+{
+  "slug": "strabismus-spotlight",
+  "name": "Strabismus Spotlight",
+  "tagline": "Alignment & Binocular Vision",
+  "description": "Esotropia, exotropia, vertical deviations, incomitant strabismus, amblyopia treatment, vergence disorders, convergence insufficiency, and vision therapy principles.",
+  "icon": "Split",
+  "accent": "#4f46e5",
+  "category": "Strabismus",
+  "order": 17,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:54.013Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Eye Movements: The Six Muscles and Their Actions",
+      "description": "The cardinal positions of gaze and the primary, secondary, and tertiary actions of each muscle.",
+      "tags": "muscles,cardinal,actions,gaze",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Tropia Versus Phoria: The Manifest and the Latent",
+      "description": "The cover-uncover and the alternate cover, the manifest versus latent, and the control that distinguishes.",
+      "tags": "tropia,phoria,cover-test,control",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Comitant Versus Incomitant: The Deviation That Changes",
+      "description": "The same deviation in all gazes versus the direction-dependent — and the palsy and restriction causes.",
+      "tags": "comitant,incomitant,palsy,restriction",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Esotropia: The Inward Turn and the Subtypes",
+      "description": "Infantile, accommodative, acquired — the age of onset and the refractive error that guide the workup.",
+      "tags": "esotropia,infantile,accommodative,acquired",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Accommodative Esotropia: The High Plus and the Bifocal",
+      "description": "The AC/A ratio, the full plus correction, and the bifocal that reduces the near deviation.",
+      "tags": "accommodative,ac-a,plus,bifocal",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Infantile Esotropia: The Surgery Before Age Two",
+      "description": "The large angle, the cross-fixation, and the early surgery for binocular potential.",
+      "tags": "infantile,surgery,angle,cross-fixation",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Exotropia: The Outward Turn and the Intermittent",
+      "description": "The intermittent XT that decompensates in fatigue and distance and the surgical threshold.",
+      "tags": "exotropia,intermittent,distance,surgical",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Convergence Insufficiency: The Near Exophoria",
+      "description": "The near point of convergence, the exophoria at near, and the office-based vision therapy evidence.",
+      "tags": "ci,convergence,near,vt",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Vertical Deviations: Hyper and Hypotropia",
+      "description": "The dissociated vertical deviation, the superior oblique overaction, and the thyroid and restriction.",
+      "tags": "vertical,hyper,hypotropia,dvd",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Superior Oblique Palsy: The Head Tilt and the Parks Three-Step",
+      "description": "The compensatory head tilt, the three-step test, and the congenital versus acquired distinction.",
+      "tags": "so-palsy,head-tilt,parks,three-step",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Inferior Oblique Overaction: The V-Pattern and the Surgery",
+      "description": "The elevation in adduction, the V-pattern, and the weakening procedure that aligns.",
+      "tags": "io-overaction,v-pattern,weakening,alignment",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Duane Syndrome: The Congenital Miswiring",
+      "description": "The limited abduction, the narrowing of the palpebral fissure, and the head turn compensation.",
+      "tags": "duane,miswiring,abduction,fissure",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Brown Syndrome: The Superior Oblique Tightness",
+      "description": "The inability to elevate in adduction, the click, and the congenital versus acquired causes.",
+      "tags": "brown,so-tightness,click,acquired",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Möbius Syndrome: The Congenital Facial and Abducens Palsy",
+      "description": "The mask-like face, the absent abduction, and the multidisciplinary care.",
+      "tags": "mobius,facial,abducens,multidisciplinary",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Restrictive Strabismus: Thyroid and Post-Trauma",
+      "description": "The forced duction test, the restrictive versus paretic, and the surgery that addresses the mechanism.",
+      "tags": "restrictive,thyroid,forced-duction,mechanism",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

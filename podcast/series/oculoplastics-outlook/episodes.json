@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T05:49:22.596Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T05:49:35.800Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Entropion: The In-Turned Lid and the Trichiasis",
-      "description": "The involutional and cicatricial forms, the lashes that abrade, and the surgical repair.",
+      "title": "Entropion & Trichiasis: When Eyelids Turn Against You",
+      "description": "What if your own eyelashes were slowly scratching your eyes with every single blink — thousands of times a day? That's the painful reality for millions of people living with entropion and trichiasis, two serious yet often overlooked eye conditions. In this episode of Focus Cast, we break down exactly what happens when your eyelid turns inward or your lashes grow in the wrong direction, and why ignoring it can lead to permanent vision loss.\n\nWe explore the surprising causes behind these conditions — from the natural aging process and eyelid scarring to trachoma, the world's leading infectious cause of blindness, which affects communities across Africa, Asia, and Latin America. You'll learn how doctors diagnose entropion and trichiasis, what treatment options are available ranging from lubricating drops and botulinum toxin injections to corrective surgery and laser follicle destruction, and why so many people live with these conditions for years without ever getting the right diagnosis.\n\nWe also shine a light on the WHO-backed SAFE strategy, a global public health initiative bringing trichiasis surgery to underserved communities and preventing blindness at scale.\n\nWhether you've been experiencing persistent eye irritation, redness, or that nagging sensation of something stuck in your eye, this episode gives you the knowledge to take action. Because when it comes to your eye health, awareness is the first step toward relief.\n\nListen now, and if this episode helped you, share it with someone who needs to hear it. For more eye health content and resources, visit us at focuslinks.in.\n\n---",
       "tags": "entropion,trichiasis,involutional,cicatricial",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-07.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fc6128a3-8a45-4876-8aa1-1fce3e659171",
+      "generatedAt": "2026-08-09T05:49:35.800Z"
     },
     {
       "episodeOrder": 8,

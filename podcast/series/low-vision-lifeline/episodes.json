@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T05:26:15.256Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T05:27:00.533Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -219,14 +219,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Pediatric Low Vision: The Classroom and the IEP",
-      "description": "The assessment, the magnifier and CCTV, the large-print and braille, and the advocacy role.",
+      "title": "Pediatric Low Vision: IEP, Classroom Support & Child Rights",
+      "description": "What happens when a child with low vision sits in a classroom and cannot see the board — and nobody around them even realizes it? In this eye-opening episode of Focus Cast, we explore the real educational challenges faced by children with low vision and the powerful tools available to support them.\n\nWe break down exactly what low vision means, how it differs from blindness, and why so many visually impaired children go unidentified in schools for far too long. You will learn how the Individualized Education Program, or IEP, works as a legally binding roadmap for a child's educational success — covering everything from preferential seating and large print materials to assistive technology and extended test time.\n\nWe also dive into the critical role of the Functional Vision Assessment, why it must be the foundation of every IEP for a child with low vision, and how Teachers of the Visually Impaired help children not just access tools but truly use them. Plus, we talk about assistive technology — from screen readers to smart glasses — and why teaching self-advocacy early can shape a child's entire future.\n\nWhether you are a parent stepping into your first IEP meeting, a teacher looking to better support a student, or simply someone who wants to understand pediatric low vision better, this episode gives you practical knowledge and real perspective.\n\nListen, learn, and share this episode with every educator and parent who needs to hear it. Visit Focuslinks.in for more resources, episodes, and conversations about vision and learning.\n\n---",
       "tags": "pediatric,classroom,iep,advocacy",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Macula",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-17.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "50a5352f-8ad2-4eb5-8a89-2c01f756e3bb",
+      "generatedAt": "2026-08-09T05:27:00.533Z"
     },
     {
       "episodeOrder": 18,

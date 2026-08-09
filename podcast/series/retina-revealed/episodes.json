@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T08:49:06.411Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T08:49:57.984Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -106,14 +106,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fundus Photography: Composing a Diagnostic Image",
-      "description": "Field definitions, stereo pairs, and the montage that captures the peripheral pathology a single frame misses.",
+      "title": "Fundus Photography: How to Compose a Perfect Diagnostic Image",
+      "description": "What does it take to capture a fundus photograph that can change the course of someone's life? In this episode of Focus Cast, we break down the art and science of composing a diagnostic fundus image — from understanding what makes a retinal photograph clinically useful to the hands-on techniques that separate a good image from a great one.\n\nWe explore why the fundus is one of the most diagnostically rich areas in the human body, capable of revealing not just eye conditions like diabetic retinopathy and glaucoma, but systemic diseases including diabetes, hypertension, and cardiovascular disease. You will learn what sharpness, illumination, centering, and field of view actually mean in practice, and why each decision you make before pressing the shutter matters.\n\nWe also cover the often-overlooked human side of ophthalmic imaging — how patient preparation, pupil dilation, gaze direction, and clear communication directly impact image quality. Then we walk through the technical craft of composing the image itself, including focus adjustment, camera alignment, timing your capture, and reviewing for artifacts.\n\nFinally, we look at where fundus photography is headed — AI-powered retinal analysis, teleophthalmology, and ultra-widefield imaging — and why skilled human technique remains the essential foundation that all of this technology depends on.\n\nWhether you are an ophthalmic technician, an optometry student, or simply curious about what happens inside an eye clinic, this episode gives you a clear, practical, and genuinely fascinating look at retinal imaging done right.\n\nListen now and visit focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "fundus-photo,montage,fields,stereo",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-07.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "01ed8e85-406f-42d0-bbbf-d4ee3d69f097",
+      "generatedAt": "2026-08-09T08:49:57.129Z"
     },
     {
       "episodeOrder": 8,

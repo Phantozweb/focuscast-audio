@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T05:44:50.059Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T05:46:11.825Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -388,14 +388,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Chronic Uveitis: The Partnership and the Long View",
-      "description": "The adherence, the side-effect monitoring, the quality-of-life conversation, and the shared decision.",
+      "title": "Chronic Uveitis: Managing the Long Game With Your Doctor",
+      "description": "What does it really mean to live with a condition that keeps coming back? In this episode of Focus Cast by Focuslinks.in, we take an honest, compassionate look at chronic uveitis — the persistent eye inflammation that affects millions worldwide and accounts for up to 15% of preventable blindness in developed countries.\n\nChronic uveitis is not a single disease but a complex category of conditions tied to autoimmune disorders, infections, and often no identifiable cause at all. That complexity makes it one of the most challenging conditions to manage — not just medically, but emotionally and practically.\n\nWe explore what chronic uveitis actually looks like in everyday life, from the frustration of recurring flares to the difficult decisions around long-term immunosuppressive therapy and biologic treatments. We dig into why the patient-doctor partnership is not just helpful but essential, how treatment adherence becomes a real struggle when you are feeling well, and why mental health remains a critically underserved part of uveitis care.\n\nWe also look ahead at the evolving treatment landscape — from sustained-release drug delivery systems to targeted biologic therapies — and why there is genuine reason for hope.\n\nWhether you are a patient navigating a recent diagnosis, a caregiver supporting someone with chronic eye disease, or a clinician looking to strengthen how you communicate with your patients, this episode offers perspective, practical insight, and a reminder that the long view is not about endurance alone — it is about building care that truly holds up over time.\n\nListen now and visit Focuslinks.in for more conversations on eye health that matter.\n\n---",
       "tags": "chronic,adherence,side-effects,quality-of-life",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-30.mp3",
+      "duration": "11:59",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fe567fd8-b221-46e3-a1a4-bcebf471dd5f",
+      "generatedAt": "2026-08-09T05:46:11.825Z"
     }
   ]
 }

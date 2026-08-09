@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T06:30:34.621Z",
+  "lastUpdated": "2026-08-09T06:30:52.682Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 562,
+  "generatedEpisodes": 564,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -284,10 +284,10 @@
       "category": "General",
       "order": 19,
       "totalEpisodes": 30,
-      "generatedEpisodes": 22,
+      "generatedEpisodes": 24,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/episodes.json",
       "audioDir": "podcast/series/systemic-eye/audio",
-      "lastUpdated": "2026-08-09T06:30:19.425Z"
+      "lastUpdated": "2026-08-09T06:30:42.770Z"
     },
     {
       "slug": "clinical-calculus",

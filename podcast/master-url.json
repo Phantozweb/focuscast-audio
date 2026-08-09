@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:28:58.107Z",
+  "lastUpdated": "2026-08-09T05:29:07.733Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 407,
+  "generatedEpisodes": 408,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -194,10 +194,10 @@
       "category": "Pharmacology",
       "order": 13,
       "totalEpisodes": 30,
-      "generatedEpisodes": 28,
+      "generatedEpisodes": 29,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/episodes.json",
       "audioDir": "podcast/series/pharmacology-focus/audio",
-      "lastUpdated": "2026-08-09T05:28:41.947Z"
+      "lastUpdated": "2026-08-09T05:28:51.850Z"
     },
     {
       "slug": "low-vision-lifeline",

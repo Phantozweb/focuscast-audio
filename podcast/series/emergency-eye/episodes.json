@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T04:58:31.057Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T04:58:56.030Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -377,14 +377,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "The Eye in the ER: Co-Management With Emergency Medicine",
-      "description": "The communication, the shared protocol, and the follow-up that closes the loop.",
+      "title": "Eye Emergencies in the ER: Ophthalmology Co-Management Guide",
+      "description": "What happens when a patient with a red, painful eye walks into a packed emergency department at two in the morning? In this episode of Focus Cast, we explore one of medicine's most underappreciated collaborations — the co-management of ophthalmic emergencies between emergency medicine physicians and ophthalmologists.\n\nEye complaints make up two to three percent of all ER visits globally, and many of them are genuinely vision-threatening. Yet studies show that emergency physicians consistently feel underprepared to handle them. From chemical burns and open globe injuries to acute angle-closure glaucoma and central retinal artery occlusion, the stakes are high and the treatment windows are narrow.\n\nWe break down what effective co-management actually looks like in practice — how ER teams can quickly identify true ophthalmic emergencies, when to call the on-call ophthalmologist and when not to, and how structured communication between specialties can dramatically improve patient outcomes. We also explore cutting-edge approaches like stroke pathways for retinal artery occlusion, telemedicine slit lamp consultations, and simulation-based cross-specialty training.\n\nWhether you're an emergency physician wanting to sharpen your eye for ocular emergencies, or an ophthalmologist looking to build stronger relationships with your ER colleagues, this episode gives you practical, actionable insights grounded in real clinical scenarios.\n\nBecause behind every red eye in that waiting room is a person wondering if they'll ever see clearly again. The answer often depends on how well two specialties work together.\n\nListen now and visit Focuslinks.in for more episodes, resources, and focused medical conversations that help you deliver better care.\n\n---",
       "tags": "er,co-management,protocol,follow-up",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-29.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "820b3d62-8f29-469c-ae5a-c9fd619ce5f0",
+      "generatedAt": "2026-08-09T04:58:56.030Z"
     },
     {
       "episodeOrder": 30,

@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T05:39:12.381Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T05:39:24.707Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -239,14 +239,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Steroids in Uveitis: The Route and the Risk",
-      "description": "Topical, periocular, intravitreal, systemic — the choice by location and severity and the IOP risk.",
+      "title": "Steroids in Uveitis: Routes, Risks & What You Must Know",
+      "description": "What does a speck of dust in your eye have to do with one of the most complex inflammatory diseases in ophthalmology? More than you might think. In this episode of Focus Cast, we break down everything you need to know about corticosteroids in uveitis management — one of the most nuanced and high-stakes treatment decisions an ophthalmologist makes.\n\nWe walk through every major route of steroid delivery, from topical eye drops and oral prednisolone to periocular injections, intravitreal triamcinolone, and sustained-release implants like the fluocinolone acetonide implant that can control inflammation for up to three years. You will understand exactly why the route of administration matters, what each option can and cannot do, and how clinicians match the right treatment to the right patient.\n\nWe also take a close look at the two most critical steroid-related complications in uveitis — posterior subcapsular cataracts and steroid-induced glaucoma — and explain why regular intraocular pressure monitoring is non-negotiable for anyone on steroid therapy. Plus, we touch on the growing role of steroid-sparing agents like methotrexate and biologics such as adalimumab in long-term uveitis care.\n\nWhether you are a patient trying to understand your treatment plan or a clinician looking for a clear, engaging refresher, this episode delivers real clinical insight in plain language.\n\nDo not miss your follow-up appointments, and do not miss this episode. Listen now, and visit Focuslinks dot in for more ophthalmology content, resources, and episodes of Focus Cast.\n\n---",
       "tags": "steroids,route,iop,severity",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-19.mp3",
+      "duration": "12:07",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a69d37ba-ace9-40c9-b6c7-ac626132427e",
+      "generatedAt": "2026-08-09T05:39:24.707Z"
     },
     {
       "episodeOrder": 20,

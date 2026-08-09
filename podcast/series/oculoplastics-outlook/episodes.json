@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:52.892Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T05:46:42.922Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -24,14 +24,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Ptosis: The MRD and the Levator Function",
-      "description": "The margin-reflex distance, the levator excursion, and the congenital versus aponeurotic distinction.",
+      "title": "Ptosis Explained: MRD and Levator Function Demystified",
+      "description": "Ever wondered what's really going on behind a droopy eyelid? In this episode of Focus Cast, we break down ptosis — the clinical condition where the upper eyelid falls lower than it should — and explore the two essential measurements every eye care professional must master: the Marginal Reflex Distance (MRD) and levator function.\n\nWe start with the MRD, walking you through exactly how to measure MRD1 and MRD2 using a simple penlight, what normal values look like, and how this objective measurement helps clinicians pinpoint whether the upper or lower eyelid is the true source of the problem. Then we dive into levator function — the test that reveals how well the muscle responsible for lifting the eyelid is actually performing — and why this single measurement can completely change the surgical plan.\n\nAlong the way, we cover the grading of ptosis from mild to severe, the critical difference between true ptosis and pseudoptosis, and a real-world case involving a child with congenital ptosis that shows exactly how these two measurements work together to guide clinical decision-making. Whether the right approach is a levator advancement or a frontalis sling procedure, it all comes down to knowing your numbers.\n\nWhether you're an optometry or ophthalmology student, a practicing clinician refreshing your fundamentals, or simply someone curious about how eye doctors think, this episode delivers clear, practical insight into a condition that affects both vision and quality of life.\n\nListen now and sharpen your clinical eye. For more episodes and resources, visit Focuslinks.in.\n\n---",
       "tags": "ptosis,mrd,levator,aponeurotic",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-02.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "48ee605c-94d6-4cb9-8859-19dbd2fe14ed",
+      "generatedAt": "2026-08-09T05:46:42.922Z"
     },
     {
       "episodeOrder": 3,

@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T08:35:40.792Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T08:35:51.455Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -161,14 +161,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Panretinal Photocoagulation: What the Optometrist Must Know",
-      "description": "Understanding PRP indications, post-laser appearance, and the visual side effects your patient will describe.",
+      "title": "Panretinal Photocoagulation: What Every Optometrist Must Know",
+      "description": "If a post-laser diabetic patient walks into your exam room and you're not sure what you're looking at, this episode is your clinical reset. In this focused 10-minute episode of Focus Cast by Focuslinks.in, we break down everything optometrists need to know about Panretinal Photocoagulation (PRP) — from the retinal physiology driving the treatment to the funduscopic findings you'll encounter at the slit lamp and beyond.\n\nWe cover the primary indications for PRP, including high-risk proliferative diabetic retinopathy, central retinal vein occlusion with neovascularization, and ocular ischemic syndrome, using evidence-based thresholds from landmark clinical trials. You'll learn exactly what PRP scars look like on fundus exam, widefield imaging, and OCT, and how to confidently differentiate them from toxoplasmosis scars, histoplasmosis spots, laser retinopexy burns, and retinitis pigmentosa.\n\nWe also walk through the visual side effects your patients will describe after PRP — peripheral field loss, reduced dark adaptation, glare, and photophobia — and explain why these are expected outcomes, not complications. You'll know when reduced post-PRP visual acuity signals macular edema requiring urgent re-referral, and how neovascular glaucoma with rubeosis iridis demands immediate action.\n\nWhether you're co-managing diabetic retinopathy, counseling a confused post-laser patient, or sharpening your retinal literacy, this episode delivers practical, chairside-ready clinical knowledge.\n\nListen now and bring greater confidence to every dilated exam. Visit Focuslinks.in for more episodes and continuing education content built exclusively for eye care professionals.\n\n---",
       "tags": "prp,laser,pdr,treatment",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-13.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c228253d-5baa-4eda-9bfa-835d253987dd",
+      "generatedAt": "2026-08-09T08:35:51.455Z"
     },
     {
       "episodeOrder": 14,

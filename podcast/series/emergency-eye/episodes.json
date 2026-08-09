@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T04:50:11.960Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T04:50:41.906Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Giant Cell Arteritis: The Same-Day Steroid",
-      "description": "The jaw claudication, the ESR/CRP, and the immediate high-dose steroid before the biopsy.",
+      "title": "Giant Cell Arteritis: Why Same-Day Steroids Save Sight",
+      "description": "What if a simple, inexpensive steroid could prevent permanent blindness — but only if you act fast enough? In this episode of Focus Cast, we break down Giant Cell Arteritis (GCA), one of the most time-sensitive diagnoses in medicine and one of the most underrecognized threats to vision in adults over fifty.\n\nWe cover everything you need to know: what Giant Cell Arteritis actually is, why it targets the temporal arteries and beyond, and how to recognize its classic warning signs — from new-onset headache and scalp tenderness to jaw claudication and sudden vision changes. We walk through the diagnostic workup, including ESR, CRP, temporal artery biopsy, and the increasingly important role of ultrasound and imaging. Most critically, we explain the same-day steroid principle: why high-dose prednisone must be started immediately when clinical suspicion is high, without waiting for biopsy results.\n\nWe also discuss long-term management, the real burden of prolonged steroid therapy, bone protection strategies, and the newer IL-6 inhibitor tocilizumab — a genuine game changer for patients who struggle with steroid side effects or frequent relapses.\n\nWhether you are a clinician, a caregiver, or someone over fifty yourself, this episode gives you the knowledge to act quickly when it matters most. Because with Giant Cell Arteritis, the difference between acting today and waiting until tomorrow can be the difference between sight and permanent vision loss.\n\nListen now, and share this episode with anyone who needs to hear it. For show notes and more episodes, visit Focuslinks dot in.\n\n---",
       "tags": "gca,steroid,biopsy,blindness",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-05.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "87378218-9eec-40fd-9cbd-a732a37395d4",
+      "generatedAt": "2026-08-09T04:50:41.906Z"
     },
     {
       "episodeOrder": 6,

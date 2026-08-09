@@ -1,0 +1,180 @@
+{
+  "slug": "neuro-navigator",
+  "name": "Neuro Navigator",
+  "tagline": "When the Eye Signals the Brain",
+  "description": "Pupillary pathways, cranial nerves, optic neuropathies, visual field defects, transient vision loss, headache workup, papilledema, and when to image.",
+  "icon": "Brain",
+  "accent": "#9333ea",
+  "category": "Neuro-Ophthalmology",
+  "order": 8,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:39.934Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "The Afferent Pupillary Pathway: From Retina to Midbrain",
+      "description": "Tracing the light reflex through the optic nerve, chiasm, and pretectal nucleus — and where lesions break it.",
+      "tags": "afferent,pupil,pathway,midbrain",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "The Edinger-Westphal Nucleus and the Efferent Pupil",
+      "description": "The parasympathetic output, the third nerve, and the ciliary ganglion that completes the reflex arc.",
+      "tags": "edinger-westphal,efferent,third-nerve,ganglion",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Anisocoria in the Light: The Parasympathetic Problem",
+      "description": "When the larger pupil is the abnormal one — Adie’s tonic pupil, pharmacologic, and third nerve palsy.",
+      "tags": "anisocoria,light,adies,third-nerve",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Anisocoria in the Dark: The Sympathetic Problem",
+      "description": "When the smaller pupil is the abnormal one — Horner syndrome and the cocaine and apraclonidine tests.",
+      "tags": "anisocoria,dark,horner,aprclonidine",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Horner Syndrome: The Triad and the Lesion Localization",
+      "description": "Ptosis, miosis, and anhidrosis — central, preganglionic, and postganglionic localization by history and imaging.",
+      "tags": "horner,ptosis,miosis,anhidrosis",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Adie’s Tonic Pupil: The Light-Near Dissociation",
+      "description": "The vermiform movements, the sectoral palsy, and the Ross syndrome that extends beyond the eye.",
+      "tags": "adie,tonic,light-near,ross",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Third Nerve Palsy: The Pupil-Sparing Rule and Its Exceptions",
+      "description": "When to image urgently, the aneurysm versus microvascular distinction, and the aberrant regeneration signs.",
+      "tags": "third-nerve,pupil-sparing,aneurysm,aberrant",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Fourth Nerve Palsy: The Head Tilt and the Parks Three-Step",
+      "description": "The superior oblique palsy, the compensatory head tilt, and the three-step test that localizes it.",
+      "tags": "fourth-nerve,head-tilt,parks,oblique",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Sixth Nerve Palsy: The Abducens and Its Long Path",
+      "description": "The elevated intracranial pressure link, the microvascular cause, and the recovery timeline.",
+      "tags": "sixth-nerve,abducens,icp,microvascular",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Optic Neuritis: The ONTT and the MRI Decision",
+      "description": "The acute vision loss, the pain on eye movement, and the high-dose steroid and MS workup protocol.",
+      "tags": "optic-neuritis,ontt,mri,ms",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Ischemic Optic Neuropathy: Arteritic Versus Non-Arteritic",
+      "description": "The GCA emergency, the ESR/CRP, and the temporal artery biopsy pathway that follows.",
+      "tags": "aion,naion,gca,esr",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Giant Cell Arteritis: The Steroids Before the Biopsy",
+      "description": "The jaw claudication, the scalp tenderness, and the immediate high-dose steroid that prevents bilateral blindness.",
+      "tags": "gca,steroids,biopsy,blindness",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Papilledema: The Bilateral Disc Swelling of Raised ICP",
+      "description": "The Frisén grading, the headache and pulsatile tinnitus, and the urgent neuroimaging that follows.",
+      "tags": "papilledema,icp,frisen,imaging",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Pseudotumor Cerebri: The Idiopathic Intracranial Hypertension",
+      "description": "The young obese woman, the empty sella, and the weight loss and acetazolamide that manage it.",
+      "tags": "iih,pseudotumor,acetazolamide,weight",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Optic Disc Drusen: The Pseudopapilledema",
+      "description": "The buried calcification, the spontaneous venous pulsations, and the B-scan and OCT that confirm.",
+      "tags": "drusen,pseudopapilledema,bscan,svp",
+      "category": "Optic Nerve",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

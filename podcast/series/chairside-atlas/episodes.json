@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T08:37:20.244Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T08:37:22.692Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Medication Reconciliation: Ocular Side Effects You Cannot Miss",
-      "description": "Building a mental library of drugs that threaten the retina, optic nerve, and surface.",
+      "title": "Ocular Drug Side Effects Optometrists Must Know",
+      "description": "Every medication your patient takes is a potential variable in their ocular health — and you are the specialist best positioned to catch what no one else is looking for. In this clinical episode of Focus Cast, we dive deep into medication reconciliation as a core optometric skill, building your mental library of drugs that threaten the retina, optic nerve, and ocular surface.\n\nWe break down hydroxychloroquine toxicity and why the bull's eye maculopathy you see on fundus exam means damage is already done — and how spectral domain OCT, 10-2 visual fields, and fundus autofluorescence help you catch it earlier. We cover phenothiazine-induced pigmentary retinopathy, vigabatrin's irreversible visual field constriction, and the critical window for reversing ethambutol toxic optic neuropathy before permanent damage sets in. We also explore amiodarone-induced optic neuropathy, its clinical overlap with NAION, and the slit lamp finding that points you toward the diagnosis.\n\nOn the ocular surface, we examine how antihistamines, tricyclic antidepressants, isotretinoin, and benzalkonium chloride-preserved glaucoma drops silently drive dry eye disease — and what your slit lamp and meibography findings should be telling you.\n\nYou will leave this episode with a practical three-filter framework you can apply to any medication list in under thirty seconds, directly at the chair, starting with your very next patient.\n\nThis episode is designed exclusively for licensed optometrists, optometry residents, and clinical eye care professionals. If you are ready to make medication reconciliation a genuine clinical strength, this is your episode.\n\nVisit Focuslinks.in for more evidence-based clinical content built specifically for eye care professionals.\n\n---",
       "tags": "pharmacology,side-effects,medications,toxicity",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-05.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a8cf0844-e744-440c-a451-5c23f595ca03",
+      "generatedAt": "2026-08-09T08:37:22.692Z"
     },
     {
       "episodeOrder": 6,

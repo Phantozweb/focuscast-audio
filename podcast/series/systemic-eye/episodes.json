@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T06:31:29.357Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T06:31:46.811Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -336,14 +336,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Pregnancy and the Eye: The Physiologic and the Pathologic",
-      "description": "The refractive shift, the contact lens intolerance, the diabetic and hypertensive change, and the postpartum.",
+      "title": "Pregnancy and Your Eyes: What Every Mother Should Know",
+      "description": "Did you know your eyes go through dramatic changes during pregnancy? Most people focus on the obvious signs of pregnancy, but your eyes are quietly telling a much bigger story. In this eye-opening episode of Focus Cast, we explore the fascinating and sometimes urgent connection between pregnancy and eye health, covering everything from normal physiologic changes to serious warning signs you should never ignore.\n\nWe break down why your vision prescription may shift during pregnancy and why you should wait before updating it, how hormonal changes affect your cornea, tear film, and intraocular pressure, and why contact lens discomfort is completely normal during this time. We also dive deep into the pathologic side, including how preeclampsia can cause dangerous visual symptoms like flashing lights and sudden vision loss, how pregnancy can accelerate diabetic retinopathy, and what central serous chorioretinopathy means for expecting mothers. Plus, we cover what happens to your eyes during the postpartum period and throughout breastfeeding, a phase that is rarely discussed but equally important.\n\nWhether you are an expecting mother, a healthcare professional, or simply someone curious about the human body, this episode will change the way you think about pregnancy and eye care. Visual symptoms during pregnancy are never something to dismiss, and this episode explains exactly why.\n\nListen now and share this episode with an expecting mother or healthcare provider who needs to hear it. Visit Focuslinks dot in for more expert eye care content.\n\n---",
       "tags": "pregnancy,refractive,diabetic,postpartum",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-26.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f27b6a48-1dc5-4c35-a396-6ff5cbec4379",
+      "generatedAt": "2026-08-09T06:31:46.811Z"
     },
     {
       "episodeOrder": 27,

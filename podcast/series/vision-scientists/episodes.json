@@ -1,0 +1,180 @@
+{
+  "slug": "vision-scientists",
+  "name": "Vision Scientists",
+  "tagline": "Optics & Physiological Optics",
+  "description": "The physics and physiology of vision — refraction, optics, accommodation, binocular vision, wavefront, aberrations, contrast sensitivity, color vision, and visual pathways.",
+  "icon": "FlaskConical",
+  "accent": "#0d9488",
+  "category": "Refraction",
+  "order": 5,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:35.738Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "The Nature of Light: Waves, Photons, and the Eye",
+      "description": "How electromagnetic radiation becomes vision — wavelength, energy, and the visible spectrum.",
+      "tags": "light,waves,photons,spectrum",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Geometric Optics: Snell’s Law and the Refracting Surface",
+      "description": "How light bends at interfaces — the principle behind every lens, tear film, and cornea.",
+      "tags": "snells-law,refraction,optics,geometric",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "The Thin Lens Equation: Image Formation Made Simple",
+      "description": "Object distance, image distance, and focal length — the math behind every spectacle lens.",
+      "tags": "thin-lens,focal-length,optics,math",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Spherical Lenses: Plus, Minus, and the Focal Point",
+      "description": "How convex lenses converge and concave lenses diverge — the foundation of refractive correction.",
+      "tags": "spherical,plus,minus,focal-point",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Cylindrical Lenses: Correcting Astigmatism",
+      "description": "The meridians of a cylinder, the axis, and how toric lenses restore a point image.",
+      "tags": "cylinder,astigmatism,axis,toric",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Prisms: Bending Light Without Changing Focus",
+      "description": "Prism diopters, base direction, and how prisms relieve diplopia and measure deviations.",
+      "tags": "prism,diopter,base,diplopia",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Vertex Distance: Why the Refraction and the Glasses Differ",
+      "description": "The vertex conversion formula and why a contact lens power is not the spectacle power.",
+      "tags": "vertex,conversion,contact-lens,spectacle",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Accommodation: The Crystalline Lens at Work",
+      "description": "The ciliary muscle, zonules, and the amplitude of accommodation that declines with age.",
+      "tags": "accommodation,ciliary,zonules,amplitude",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Presbyopia: The Inevitable Decline of Near Focus",
+      "description": "The physiology of aging accommodation, the add progression, and the onset that surprises patients.",
+      "tags": "presbyopia,aging,add,near",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Emmetropization: How the Eye Grows to Perfect Focus",
+      "description": "The developmental process that shapes the axial length and the visual feedback that guides it.",
+      "tags": "emmetropization,axial-length,development,myopia",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Myopia: The Elongated Eye and Its Consequences",
+      "description": "Axial elongation, the retinal risks, and why myopia control is now a standard of pediatric care.",
+      "tags": "myopia,elongation,retinal-risk,control",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Hyperopia: The Short Eye and the Accommodative Burden",
+      "description": "Latent hyperopia, the accommodative spasm, and why children with high plus present with headaches.",
+      "tags": "hyperopia,accommodation,latency,headache",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Astigmatism: The Football-Shaped Cornea",
+      "description": "Corneal and lenticular astigmatism, the irregular variety, and the correction options.",
+      "tags": "astigmatism,corneal,lenticular,irregular",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Anisometropia: When the Two Eyes Differ",
+      "description": "The aniseikonia problem, the contact lens advantage, and the amblyopia risk in children.",
+      "tags": "anisometropia,aniseikonia,amblyopia,contact-lens",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Binocular Vision: Fusion, Stereopsis, and the Cyclopean Eye",
+      "description": "How two retinal images become one percept and the cortical machinery that makes it possible.",
+      "tags": "binocular,fusion,stereopsis,cortical",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

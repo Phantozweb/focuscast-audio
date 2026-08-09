@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T06:07:31.035Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T06:07:58.832Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -343,14 +343,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Nystagmus and Strabismus: The Combined Challenge",
-      "description": "The infantile nystagmus, the null point, and the abnormal head posture and surgery.",
+      "title": "Nystagmus and Strabismus: Managing Both Conditions Together",
+      "description": "What happens when two complex eye conditions collide? In this episode of Focus Cast by Focuslinks.in, we dive deep into the combined challenge of nystagmus and strabismus — two conditions that, when present together, create a reality far more complicated than either one alone.\n\nWe break down what nystagmus actually is, why those involuntary, rhythmic eye movements happen, and how strabismus — the misalignment of the eyes — develops and affects vision. More importantly, we explore why these two conditions so frequently appear together, how they interact with each other, and why that interaction makes diagnosis and treatment significantly more complex.\n\nYou will learn about the null point in nystagmus and why finding a comfortable head position becomes a daily puzzle when strabismus is also in the picture. We cover the real impact on children in classrooms, the critical importance of early detection, and the range of treatments available — from surgical procedures like the Kestenbaum technique to prism lenses, contact lenses, and emerging biofeedback therapies.\n\nWe also take time to address the emotional and social side of living with these conditions, because the human experience behind the diagnosis matters just as much as the clinical details. Whether you are a parent navigating a new diagnosis, someone living with these conditions, or a professional seeking to better understand your patients or students, this episode offers clarity, compassion, and genuine insight.\n\nListen now and share this episode with someone who needs to hear it. Visit Focuslinks.in for more eye health resources and episodes of Focus Cast.\n\n---",
       "tags": "nystagmus,null-point,head-posture,surgery",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-27.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5e2698f2-c140-4708-bd88-e29f43e16496",
+      "generatedAt": "2026-08-09T06:07:58.832Z"
     },
     {
       "episodeOrder": 28,

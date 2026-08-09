@@ -9,7 +9,7 @@
   "order": 9,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T04:33:47.853Z",
+  "lastUpdated": "2026-08-09T04:33:45.034Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -302,16 +302,14 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Scleral Lenses for Severe Dry Eye: The Reservoir Solution",
-      "description": "What if the answer to debilitating dry eye disease wasn't another eye drop — but a lens that keeps your cornea bathed in moisture all day long? In this episode of Focus Cast, we explore how scleral lenses are transforming life for people with severe dry eye disease (DED) — and why they're being called one of the most powerful tools in modern eye care.\n\nWe break down exactly how scleral lenses work, including the science behind the fluid reservoir that vaults over the cornea to deliver continuous hydration, protecting the eye from wind, screens, air conditioning, and everything in between. You'll learn who benefits most — from patients with Sjögren's syndrome and keratoconus to those living with Stevens-Johnson syndrome or graft-versus-host disease — and why, for many of these individuals, scleral lenses aren't just comfortable, they're life-changing.\n\nWe also cover the fitting process, what to expect as a new wearer, the role of autologous serum in the reservoir, emerging research on scleral lenses as drug delivery systems, and practical considerations like cost, insurance, and managing midday fogging.\n\nWhether you're a patient who hasn't found relief through conventional dry eye treatments, a caregiver, or an eye care professional looking to deepen your understanding, this episode gives you a clear, honest, and genuinely hopeful look at what scleral lenses can do.\n\nIf severe dry eye has been limiting your life, this conversation could change everything. Listen now, and visit Focuslinks.in for more eye care resources and episodes of Focus Cast.\n\n---",
+      "title": "Scleral Lenses for Severe DED: The Reservoir Solution",
+      "description": "When drops and plugs fail, the fluid reservoir and the visual and comfort restoration.",
       "tags": "scleral,severe,reservoir,restoration",
-      "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-24.mp3",
-      "duration": "12:34",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "82ad30e7-3a08-42d5-a321-cbb2e7564cbc",
-      "generatedAt": "2026-08-09T04:33:47.853Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 25,
@@ -365,14 +363,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Pediatric Dry Eye: The Unrecognized Condition",
-      "description": "The screen-time link, the atopic and allergic overlap, and the pediatric-specific management.",
+      "title": "Pediatric Dry Eye: The Hidden Condition Affecting Your Child",
+      "description": "Did you know that up to 30% of school-age children may be suffering from dry eye disease — and almost no one is talking about it? In this eye-opening episode of Focus Cast, we dive deep into pediatric dry eye, the underrecognized condition quietly affecting millions of kids worldwide and getting mistaken for laziness, behavioral problems, or learning difficulties.\n\nWe break down exactly what dry eye is, how the tear film works, and why children are increasingly at risk — from excessive screen time and low-humidity classrooms to allergies and certain medications. You'll learn how dry eye in children shows up differently than in adults, why kids can't always describe what they're feeling, and how a simple missed diagnosis can impact a child's ability to read, focus, and thrive in school.\n\nWhether you're a parent, teacher, pediatrician, or eye care professional, this episode gives you the knowledge to recognize the warning signs early — things like constant eye rubbing, avoiding reading, squinting, or unexplained eye redness. We also cover practical, proven solutions including preservative-free artificial tears, the 20-20-20 rule, omega-3 supplements, warm compresses, and when to seek professional care.\n\nThe bottom line: pediatric dry eye is real, it's measurable, and it's treatable — but only if the adults around these children know what to look for.\n\nIf a child in your life has been complaining about tired or uncomfortable eyes, don't brush it off. Listen to this episode, then talk to an eye care professional. Share this episode with every parent and teacher you know, because awareness is the first step toward helping kids see — and learn — comfortably. Visit Focuslinks.in for more resources on children's eye health.\n\n---",
       "tags": "pediatric,screens,atopic,management",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Refraction",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-29.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6003c13e-dbb2-4c49-bf87-1e6ff61ea58f",
+      "generatedAt": "2026-08-09T04:33:45.034Z"
     },
     {
       "episodeOrder": 30,

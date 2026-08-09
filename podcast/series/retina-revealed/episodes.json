@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T08:34:59.730Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T08:35:23.399Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Retinal Vasculature: Arteries, Veins, and the AV Crossing",
-      "description": "Distinguishing arteries from veins, grading AV nicking, and recognizing hypertensive and arteriolar changes.",
+      "title": "Retinal Vasculature: AV Crossings & Hypertensive Retinopathy",
+      "description": "Every fundus tells a story — are you reading it correctly? In this clinical episode of Focus Cast by Focuslinks.in, we take a deep dive into retinal vasculature assessment for optometrists and eye care professionals who want to sharpen their diagnostic precision at the posterior pole. Whether you're distinguishing arteries from veins, grading arteriovenous nicking, or recognizing the spectrum of hypertensive retinopathy, this episode gives you a practical, evidence-based framework you can apply directly in the exam lane.\n\nWe cover how to accurately assess the AV ratio and what a dropping ratio signals about your patient's cardiovascular health, how to grade AV nicking from Grade 1 through Grade 3 using established clinical criteria, the significance of Salus sign and distal venous dilation as hemodynamically meaningful findings, arteriolar changes including copper wiring and silver wiring and what they indicate about long-term arteriosclerotic remodeling, the Keith-Wagener-Barker classification of hypertensive retinopathy and how to apply it clinically, and clear chairside decision-making guidance on when to monitor, when to co-manage, and when to refer same-day.\n\nYou'll also learn how fundus photography and OCT fit into your documentation workflow, and how your retinal findings may represent the earliest clinical evidence of systemic vascular disease in patients who haven't yet been diagnosed.\n\nThis episode is designed exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners. If you're ready to look at the fundus with greater confidence and communicate your findings with clinical authority, this episode is your starting point.\n\nListen now and visit Focuslinks.in for more episodes built specifically for eye care professionals.\n\n---",
       "tags": "vasculature,av-crossing,hypertension,vessels",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-04.mp3",
+      "duration": "12:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "329f9500-3fde-447a-b004-892752bb6074",
+      "generatedAt": "2026-08-09T08:35:23.399Z"
     },
     {
       "episodeOrder": 5,

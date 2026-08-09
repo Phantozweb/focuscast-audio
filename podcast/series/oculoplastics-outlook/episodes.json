@@ -8,19 +8,21 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T05:46:42.922Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T05:46:46.730Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Eyelid Anatomy: The Seven Layers and the Surgical Planes",
-      "description": "From skin to tarsus to conjunctiva — the layers that guide every lid surgery and injection.",
+      "title": "Eyelid Anatomy: 7 Layers & Surgical Planes Explained",
+      "description": "What if one of the most complex structures in the human body could fit under your thumb? In this episode of Focus Cast, we take a deep dive into the anatomy of the eyelid, breaking down all seven distinct layers and the critical surgical planes that oculoplastic surgeons must master to operate safely and effectively.\n\nStarting from the outermost skin, the thinnest in the entire human body, and working inward through the subcutaneous areolar tissue, orbicularis oculi muscle, orbital septum, preaponeurotic fat, tarsal plate, and finally the conjunctiva, we explore what each layer does, why it matters clinically, and what can go wrong when it is mishandled. Along the way, you will learn why the facial nerve is every eyelid surgeon's constant concern, how a weakening orbital septum causes under-eye bags, why the tarsal plate is the structural backbone of eyelid reconstruction, and how surgeons use the preaponeurotic fat pad as a reliable intraoperative landmark.\n\nWe also walk through the key surgical planes of the eyelid, explaining how choosing the right plane determines the difference between a clean dissection and a dangerous one. Whether you are a medical student encountering this anatomy for the first time, a resident preparing for blepharoplasty or ptosis surgery, or a clinician brushing up on your fundamentals, this episode delivers clear, clinically grounded insights you can actually use.\n\nIf you found this episode valuable, share it with a colleague or classmate and help us grow the Focus Cast community. Visit Focuslinks dot in for more episodes, resources, and updates on ophthalmology and eye care.\n\n---",
       "tags": "anatomy,lid,layers,tarsus",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-01.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "17a69e9f-f55b-4bf7-adbf-5d09f632ef28",
+      "generatedAt": "2026-08-09T05:46:46.730Z"
     },
     {
       "episodeOrder": 2,

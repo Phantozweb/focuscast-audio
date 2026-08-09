@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T05:01:49.410Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T05:01:56.410Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -118,13 +118,15 @@
     {
       "episodeOrder": 9,
       "title": "ICD-10 Coding: The Diagnosis That Drives the Claim",
-      "description": "Common eye codes, the specificity requirement, and the linking that makes the claim payable.",
+      "description": "What if a single code — just a few letters and numbers — could mean the difference between a paid claim and a denial? That's the reality of medical billing, and it all comes down to ICD-10 coding. In this episode of Focus Cast, we break down everything you need to know about ICD-10-CM diagnosis codes and why they are the true engine behind every healthcare claim.\n\nWe start with the basics — what ICD-10 is, how it works, and why the system contains over 70,000 codes designed to capture every possible diagnosis with remarkable precision. From there, we explore the critical relationship between diagnosis codes and procedure codes, and why a mismatched code can sink an otherwise perfect claim.\n\nYou'll learn how ICD-10 codes are structured, what coding to the highest level of specificity really means, and why using unspecified codes when more detailed options exist can cost your practice real money. We also walk through the four most common ICD-10 coding mistakes that lead to claim denials — including using outdated codes, missing secondary diagnoses, and defaulting to symptom codes when a confirmed diagnosis is already documented.\n\nWe also dig into the powerful connection between clinical documentation and accurate coding, and why strong documentation isn't just an administrative task — it's the foundation of a clean claim and proper reimbursement.\n\nWhether you're a medical biller, coder, practice manager, or clinician, this episode gives you practical, actionable insight into one of the most important skills in healthcare revenue cycle management.\n\nListen now and visit Focuslinks.in for more episodes, resources, and tools to keep your billing sharp and your claims clean.\n\n---",
       "tags": "icd-10,diagnosis,specificity,linking",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-09.mp3",
+      "duration": "12:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "157815cd-bddb-455c-a07e-1f64bcd7590b",
+      "generatedAt": "2026-08-09T05:01:56.410Z"
     },
     {
       "episodeOrder": 10,

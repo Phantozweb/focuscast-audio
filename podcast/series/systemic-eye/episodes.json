@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T06:26:35.046Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T06:26:42.609Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -141,14 +141,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Thyroid Eye Disease: The Grave’s Connection",
-      "description": "The orbitopathy, the restrictive myopathy, and the endocrine and orbital co-management.",
+      "title": "Thyroid Eye Disease & Graves' Connection Explained",
+      "description": "What does your thyroid have to do with your eyes? More than you might think. In this eye-opening episode of Focus Cast, we dive deep into Thyroid Eye Disease (TED) — a condition that affects thousands of people yet remains widely misunderstood and underdiagnosed. If you or someone you love has been diagnosed with Graves' Disease, this episode could genuinely change how you approach your care.\n\nWe break down exactly how Graves' Disease, an autoimmune condition that sends the thyroid into overdrive, triggers the same destructive immune response behind the eyes. You'll learn why the eyeball gets pushed forward, what symptoms to watch for, and why so many patients go months or even years without a proper diagnosis.\n\nWe also cover the two critical phases of Thyroid Eye Disease — the active phase and the stable phase — and why catching TED early during the active phase makes such a significant difference in outcomes. We discuss the surprising and powerful link between smoking and TED severity, and we walk through the full landscape of treatment options, including the landmark FDA-approved drug teprotumumab (Tepezza) that is changing lives by actually reversing proptosis rather than just managing symptoms.\n\nWhether you're a patient, a caregiver, or simply someone who wants to understand how deeply connected our body systems truly are, this episode gives you the clarity and knowledge you need to take action.\n\nListen now, and if this episode resonates with you, share it with someone navigating Graves' Disease or unexplained eye changes. Visit Focuslinks.in for more episodes and resources to help you stay focused on what matters most.\n\n---",
       "tags": "ted,graves,orbitopathy,endocrine",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-11.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "adcfb23d-8bd7-4dbe-8443-f03a6020ecf4",
+      "generatedAt": "2026-08-09T06:26:42.609Z"
     },
     {
       "episodeOrder": 12,

@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T05:56:42.809Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T05:56:56.327Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -364,14 +364,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Cosmetic Injectables: Botox and Fillers Around the Eye",
-      "description": "The glabellar lines, the periocular filler, and the complications — migration and blindness — to avoid.",
+      "title": "Botox & Fillers Around the Eyes: What You Must Know",
+      "description": "Ever wondered why the area around your eyes seems to age faster than the rest of your face? In this episode of Focus Cast by Focuslinks.in, we take a deep, honest look at cosmetic injectables around the eye — including Botox and dermal fillers — so you can make informed decisions before ever sitting in a treatment chair.\n\nWe break down exactly how Botox works to smooth crow's feet and lift drooping brows by relaxing the underlying muscles, and why it has decades of safety data behind it. Then we dive into dermal fillers, particularly hyaluronic acid-based treatments for the tear trough — that hollow under-eye groove that makes you look tired no matter how much sleep you get. You will learn why this area delivers some of the most dramatic cosmetic results, and why it also demands the highest level of skill and caution from your provider.\n\nWe cover the real risks, including vascular occlusion and the Tyndall effect, what questions to ask before choosing an injector, how to spot natural-looking results, and why reversibility matters more around the eyes than anywhere else on your face. We also talk about the emotional side of cosmetic treatments and why grounded expectations lead to the best outcomes.\n\nWhether you are seriously considering a treatment or simply curious about how these procedures work, this episode gives you the knowledge to move forward with confidence. Listen now and visit Focuslinks.in for more expert content on eye health, vision care, and cosmetic eye treatments.\n\n---",
       "tags": "botox,filler,complications,blindness",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-28.mp3",
+      "duration": "12:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5828668e-6221-4ddc-a1c4-01f6ca184b7a",
+      "generatedAt": "2026-08-09T05:56:56.327Z"
     },
     {
       "episodeOrder": 29,

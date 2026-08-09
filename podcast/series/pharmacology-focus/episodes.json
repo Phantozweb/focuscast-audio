@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T05:18:07.144Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T05:18:32.972Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -304,14 +304,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Ethambutol and the Optic Nerve",
-      "description": "The TB drug toxicity, the dose-dependent risk, and the baseline and follow-up vision and field testing.",
+      "title": "Ethambutol & Optic Nerve Damage: What TB Patients Must Know",
+      "description": "Could the medication saving your life be quietly stealing your sight? In this eye-opening episode of Focus Cast, we explore one of medicine's most sobering trade-offs — ethambutol-induced optic neuropathy. Ethambutol is a frontline antibiotic used in tuberculosis treatment, taken by millions of people worldwide every year. But beneath its life-saving power lies a serious risk: the potential to damage the optic nerve, the critical pathway that carries visual information from your eyes to your brain.\n\nWe break down exactly how ethambutol harms the optic nerve at a cellular level, disrupting zinc metabolism and triggering demyelination of nerve fibers. You will learn to recognize the earliest warning signs, including subtle color vision changes, reduced visual acuity, and central blind spots, symptoms that are easy to dismiss but dangerous to ignore. We also cover who faces the highest risk, including patients with kidney disease, elderly individuals, and those on higher doses or longer treatment durations.\n\nMost importantly, this episode is about action. We walk through why regular eye monitoring before and during ethambutol treatment is non-negotiable, what tests your doctor should be performing, and why stopping the drug early at the first sign of optic neuropathy can mean the difference between partial recovery and permanent vision loss.\n\nWhether you are a TB patient, a caregiver, or simply someone who wants to understand how medications can affect eye health, this episode gives you the knowledge you need to protect your vision. If you or someone you love is taking ethambutol, do not wait for symptoms to worsen. Talk to your doctor today. Visit Focuslinks dot in for more episodes and eye health resources.\n\n---",
       "tags": "ethambutol,tb,toxicity,screening",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-24.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a37a12d3-bac5-44d9-968b-c0fdae1b7df3",
+      "generatedAt": "2026-08-09T05:18:32.972Z"
     },
     {
       "episodeOrder": 25,

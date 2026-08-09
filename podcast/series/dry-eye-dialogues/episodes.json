@@ -9,7 +9,7 @@
   "order": 9,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T04:30:12.396Z",
+  "lastUpdated": "2026-08-09T04:30:13.375Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -200,14 +200,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Preservative-Free Drops: When and Why",
-      "description": "The BAK toxicity, the dosing threshold, and the unit-dose and multidose preservative-free options.",
+      "title": "Preservative-Free Eye Drops: When and Why You Need Them",
+      "description": "That burning sensation after using eye drops? It might not be the medicine working — it could be the preservatives causing harm. In this episode of Focus Cast by Focuslinks.in, we uncover the truth about preservatives in eye drops, why they exist, and when they start doing more damage than good.\n\nWe break down benzalkonium chloride (BAK), the most common preservative found in eye drops, and explain how repeated exposure can disrupt your tear film, irritate the ocular surface, and actually worsen dry eye symptoms over time. You'll learn exactly who needs to make the switch to preservative-free drops — including people with chronic dry eye disease, glaucoma patients on long-term medication, contact lens wearers, and anyone with preservative sensitivities.\n\nWe also walk you through how preservative-free drops work, from single-use vials to innovative multi-dose preservative-free bottle systems, and weigh the real pros and cons including cost, convenience, and effectiveness. Whether you use eye drops occasionally or multiple times a day, this episode gives you the practical knowledge to make smarter, more informed choices about your eye care routine.\n\nIf your eyes have felt persistently irritated despite using drops regularly, this episode could be the turning point you've been looking for. Sometimes the solution isn't adding something new — it's removing what's quietly causing harm.\n\nListen now and share this episode with anyone who relies on eye drops daily. For more expert eye health content, visit Focuslinks.in.\n\n---",
       "tags": "preservative-free,bak,toxicity,multidose",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-16.mp3",
+      "duration": "12:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5cc8a142-087c-499d-b1be-36f8db050aad",
+      "generatedAt": "2026-08-09T04:30:13.375Z"
     },
     {
       "episodeOrder": 17,
@@ -222,16 +224,14 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Omega-3 Supplements: Real Evidence, Right Dosing Explained",
-      "description": "Are you taking omega-3 supplements but unsure if they're actually working? In this episode of Focus Cast, we cut through the confusion and give you a science-backed breakdown of everything you need to know about omega-3 fatty acids — from the research to the right dosage for your goals.\n\nWe start with the basics: what EPA and DHA actually are, why your body can't produce them on its own, and why the modern Western diet leaves most people dangerously deficient. Then we dive deep into the cardiovascular evidence, including the landmark REDUCE-IT trial that showed a 25% reduction in major heart events using high-dose EPA — and why that changes everything about how we think about fish oil dosing.\n\nWe also explore omega-3's powerful role in brain health, cognitive function, and depression, backed by peer-reviewed meta-analyses that reveal exactly which EPA-to-DHA ratios deliver real mental health benefits.\n\nBut the most practical part? The dosing breakdown. We explain why that \"1000 mg\" fish oil capsule on your pharmacy shelf may only be delivering 300 mg of actual EPA and DHA — and what therapeutic doses really look like depending on your health goals. We also cover the differences between ethyl ester, triglyceride, krill oil, and algae-based omega-3 forms, plus tips on absorption, avoiding rancid oil, and choosing third-party tested products.\n\nWhether you're optimizing for heart health, mental clarity, or general wellness, this episode gives you the tools to supplement smarter.\n\nListen now and visit Focuslinks.in for more episodes on focus, performance, and evidence-based wellbeing.\n\n---",
+      "title": "Omega-3 Supplementation: The Evidence and the Dosing",
+      "description": "The DREAM study, the EPA/DHA ratio, and the patient selection that defines success.",
       "tags": "omega-3,dream,epa,dha",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-18.mp3",
-      "duration": "12:12",
+      "category": "Dry Eye",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "4941e27e-21fb-4aa5-9cb1-d004c6a90b02",
-      "generatedAt": "2026-08-09T04:30:12.396Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 19,

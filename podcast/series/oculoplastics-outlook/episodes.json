@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T05:50:51.156Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T05:51:09.366Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Squamous Cell Carcinoma of the Lid",
-      "description": "The scaling lesion, the faster growth, and the wider excision and lymph node surveillance.",
+      "title": "Eyelid Cancer: Squamous Cell Carcinoma Signs & Treatment",
+      "description": "Could that persistent bump on your eyelid be something more serious than a stye? In this eye-opening episode of Focus Cast, we dive deep into Squamous Cell Carcinoma of the eyelid — the second most common eyelid cancer — and why catching it early could save your vision and your life.\n\nYour eyelids are constantly exposed to harmful UV radiation, making them surprisingly vulnerable to skin cancer. Yet most people never think to check them. We break down exactly what Squamous Cell Carcinoma is, how it differs from the more common Basal Cell Carcinoma, and why its aggressive nature makes awareness so critical. You will learn who is most at risk, what the warning signs actually look like — from non-healing sores and scaly lesions to unexplained eyelash loss — and why the lower eyelid is the most common site.\n\nWe also walk you through how doctors diagnose eyelid SCC using biopsies and imaging, and explore the full range of treatment options, including surgical excision, the precision of Mohs micrographic surgery, oculoplastic reconstruction, radiation therapy, and the latest advances in immunotherapy. Plus, we cover practical, actionable sun protection strategies you can start using today to significantly lower your risk.\n\nWhether you are someone who spends a lot of time outdoors, has a history of skin cancer, or simply wants to be more proactive about your eye health, this episode gives you the knowledge you need to act early and act smart.\n\nListen now and share this episode with someone who deserves to know. For more expert eye health content, visit us at Focuslinks dot in.\n\n---",
       "tags": "scc,scaling,excision,lymph-node",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-14.mp3",
+      "duration": "12:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f9ce27f8-994d-46b0-ba33-ad12b32b8dff",
+      "generatedAt": "2026-08-09T05:51:09.366Z"
     },
     {
       "episodeOrder": 15,

@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T04:35:21.339Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T04:36:26.437Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Aqueous-Deficient DED: The Lacrimal Gland Failure",
-      "description": "Sjögren’s, age, and radiation — when the gland cannot make enough aqueous.",
+      "title": "Aqueous-Deficient Dry Eye: When Your Lacrimal Gland Fails",
+      "description": "Do your eyes burn, sting, or feel like sandpaper no matter how many drops you use? The problem might run deeper than you think. In this episode of Focus Cast, we explore Aqueous-Deficient Dry Eye Disease, one of the most misunderstood and underdiagnosed forms of dry eye, and the critical role the lacrimal gland plays in keeping your eyes healthy.\n\nWe break down exactly how the tear film works, why lacrimal gland failure leads to insufficient tear production, and what separates aqueous-deficient dry eye from the more commonly discussed evaporative type. You will learn about the two major causes, Sjogren's syndrome and non-Sjogren's lacrimal gland dysfunction, and how factors like aging, hormonal changes, nerve damage, medications, and autoimmune disease can quietly shut down your eye's natural water supply.\n\nWe also cover the surprising symptoms that catch patients off guard, including why severe dry eye can actually cause excessive tearing, and how an unstable tear film leads to fluctuating vision. From diagnostic tools like the Schirmer test and tear osmolarity testing to treatments ranging from cyclosporine drops and punctal plugs to cutting-edge neurostimulation and stem cell therapies, this episode gives you a complete, clear picture of where dry eye science stands today.\n\nWhether you are a patient searching for answers or a healthcare professional looking for a well-rounded refresher, this episode will change how you think about dry eye disease.\n\nListen now and visit Focuslinks.in for more eye health resources, expert insights, and future episodes of Focus Cast.\n\n---",
       "tags": "aqueous-deficient,sjogren,age,radiation",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-03.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5ee23c33-be5f-4930-beb4-12451e4e40d9",
+      "generatedAt": "2026-08-09T04:36:25.099Z"
     },
     {
       "episodeOrder": 4,

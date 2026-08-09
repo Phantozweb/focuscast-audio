@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T05:03:48.561Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T05:03:55.093Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Staff Meetings: The Weekly Rhythm That Aligns",
-      "description": "The agenda, the metrics review, and the patient story that keeps the team patient-centered.",
+      "title": "Staff Meetings That Actually Work: Align Your Team Weekly",
+      "description": "Are your staff meetings draining energy instead of building it? In this episode of Focus Cast, we break down why the weekly staff meeting, when done right, is one of the most powerful alignment tools a team can have. If you've ever walked into a Monday feeling scattered, unsure of priorities, or disconnected from your teammates, this episode is for you.\n\nWe explore the real purpose behind effective staff meetings, moving beyond vague check-ins to intentional gatherings that share critical information, surface problems early, and build genuine team cohesion. Drawing on research from McKinsey on team communication and productivity, we make the case that a well-run weekly meeting isn't just a nice-to-have. It's a competitive advantage.\n\nYou'll hear a real-world story of a marketing agency that transformed a chaotic ninety-minute meeting into a focused, energizing forty-five-minute ritual, simply by adding structure, purpose, and a wins round. We also dig into the psychology of temporal landmarks, why meeting rhythm creates psychological safety, and how the round-robin check-in technique ensures every voice gets heard before the real conversation begins.\n\nPlus, we tackle the biggest meeting mistake leaders make, treating it as a broadcast, and share the sixty-forty rule for designing meetings that are lean on updates and rich on real-time problem-solving and decision-making.\n\nWhether you're a team leader looking to redesign your weekly rhythm or an employee tired of meetings that could have been emails, this episode gives you practical, actionable strategies to make your staff meetings worth every minute.\n\nListen now and visit Focuslinks.in for more episodes on working smarter, communicating better, and building teams that truly thrive.\n\n---",
       "tags": "meetings,agenda,metrics,culture",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-13.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d2ba36b8-eaac-471a-8299-ee1415cc7884",
+      "generatedAt": "2026-08-09T05:03:55.093Z"
     },
     {
       "episodeOrder": 14,

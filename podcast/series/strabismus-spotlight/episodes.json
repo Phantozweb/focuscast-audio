@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T06:00:35.659Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T06:00:47.481Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -128,14 +128,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Superior Oblique Palsy: The Head Tilt and the Parks Three-Step",
-      "description": "The compensatory head tilt, the three-step test, and the congenital versus acquired distinction.",
+      "title": "Superior Oblique Palsy & Parks Three-Step Test Explained",
+      "description": "Why does someone tilt their head to one side without even realizing it? The answer might lie deep within the eye's most unusual muscle. In this episode of Focus Cast, we unravel the fascinating neuroscience and clinical elegance behind Superior Oblique Palsy — the most common cause of vertical strabismus — and the diagnostic masterpiece known as the Parks Three-Step Test.\n\nWe start with the anatomy of the superior oblique muscle, its unique path through the trochlea, and why the fourth cranial nerve's long intracranial course makes it so vulnerable to injury. You'll learn exactly how a weakened superior oblique causes hypertropia and double vision, and why the brain instinctively compensates by tilting the head — a survival strategy hiding in plain sight.\n\nThen we walk step by step through the Parks Three-Step Test, the brilliant bedside method developed by Marshall Parks in 1958 that narrows twelve possible muscle culprits down to one using nothing more than careful observation. We break down each step clearly, including the Bielschowsky head tilt test, so you can understand not just what to do, but why it works.\n\nWe also cover the limitations of the test, how to distinguish Superior Oblique Palsy from conditions like skew deviation and myasthenia gravis, and what treatment options — from prism glasses to surgery — look like for patients.\n\nWhether you're a medical student, ophthalmology resident, or simply someone who loves clinical reasoning, this episode will change the way you look at a tilted head forever.\n\nListen now and visit Focuslinks.in for more episodes where complex clinical concepts are made clear, compelling, and unforgettable.\n\n---",
       "tags": "so-palsy,head-tilt,parks,three-step",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-10.mp3",
+      "duration": "12:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ebecc160-51de-436c-b1f2-b3d9268c1cee",
+      "generatedAt": "2026-08-09T06:00:47.481Z"
     },
     {
       "episodeOrder": 11,

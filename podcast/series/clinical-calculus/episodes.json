@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T07:05:12.239Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T08:09:19.393Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -312,14 +312,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "End-of-Life Care and the Eye: The Comfort Focus",
-      "description": "The vision that matters, the environment, the family, and the dignity that defines the care.",
+      "title": "End-of-Life Eye Care: Comfort, Dignity & the Final Days",
+      "description": "When we think about end-of-life care, we think about pain management, breathing, and emotional support — but almost no one thinks about the eyes. In this deeply human episode of Focus Cast, we explore why end-of-life eye care deserves a place in every palliative and hospice care conversation.\n\nAs the body winds down, the eyes undergo real, often painful changes — from incomplete eyelid closure and severe dryness to swelling and corneal exposure. These conditions can cause significant discomfort, especially for someone who can no longer communicate what they are feeling. The good news? Simple, gentle interventions like lubricating eye drops, protective ointments, and careful cleaning can make an enormous difference in a person's comfort and dignity during their final days.\n\nThis episode covers the biology behind end-of-life eye changes, practical comfort care techniques that caregivers and families can use right away, and the profound role the eyes play in human connection — even when words are no longer possible. We also discuss why eye care is still missing from many standard hospice protocols and how both families and healthcare professionals can advocate for more complete, whole-person comfort care.\n\nWhether you are a caregiver sitting beside a loved one, a hospice nurse looking to expand your comfort care practice, or simply someone who wants to be prepared, this episode offers compassionate, actionable guidance rooted in both clinical insight and human dignity.\n\nListen now and discover how one small act of care — tending to the eyes — can speak volumes about love, presence, and respect in life's final chapter. Visit Focuslinks.in for more episodes and resources on vision and health that truly matter.\n\n---",
       "tags": "end-of-life,comfort,dignity,family",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-24.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c3a5fa64-e321-4cb7-a78a-1b6ddc2b6449",
+      "generatedAt": "2026-08-09T08:09:18.568Z"
     },
     {
       "episodeOrder": 25,

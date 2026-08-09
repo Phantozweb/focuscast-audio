@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T06:28:19.131Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T06:28:38.545Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Sarcoidosis: The Granulomatous Disease and the Eye",
-      "description": "The uveitis, the conjunctival biopsy, the ACE, and the pulmonary and systemic coordination.",
+      "title": "Sarcoidosis and the Eye: When Granulomas Threaten Your Vision",
+      "description": "What if blurry eyes and persistent redness were signs of a systemic disease silently attacking your body from the inside? In this eye-opening episode of Focus Cast, we explore sarcoidosis — the granulomatous disease that affects up to 50% of patients in the eyes — and why it remains one of medicine's most underrecognized threats to vision.\n\nWe break down exactly what sarcoidosis is, how the immune system forms granulomas, and why the eyes are so frequently caught in the crossfire. You will learn about the most common ocular manifestations, including uveitis, mutton fat keratic precipitates, Koeppe and Busacca nodules, and the striking candle wax drippings seen on the retina. We also cover how sarcoidosis can damage the optic nerve, trigger neurosarcoidosis, and silently steal vision before a patient even suspects something is wrong.\n\nFrom diagnosis — including slit lamp findings, serum ACE levels, chest imaging, and biopsy — to treatment strategies involving corticosteroids, immunosuppressants, and biologic agents like infliximab, this episode gives you a comprehensive, clinically grounded understanding of ocular sarcoidosis. Whether you are a medical professional, a student, or a patient navigating this diagnosis, this episode delivers the clarity you need.\n\nSarcoidosis has earned its nickname as the great imitator, and the eyes may hold the key to catching it early. Do not miss this essential conversation about protecting your vision and understanding your body as one connected system.\n\nListen now and visit Focuslinks dot in for more episodes, articles, and resources on eye health and medicine.\n\n---",
       "tags": "sarcoid,granuloma,ace,pulmonary",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-14.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "764bd1e0-fd27-4fd8-8e13-80fbb91e39e5",
+      "generatedAt": "2026-08-09T06:28:38.545Z"
     },
     {
       "episodeOrder": 15,

@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T05:52:45.119Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T05:52:55.954Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -243,14 +243,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Dacryocystitis: The Infected Sac",
-      "description": "The painful swelling, the discharge, the antibiotics, and the DCR after the infection clears.",
+      "title": "Dacryocystitis Explained: Causes, Symptoms & Treatments",
+      "description": "Ever wake up with mysterious swelling, redness, and tenderness near the inner corner of your eye? It might not be a bug bite or a bad night's sleep — it could be dacryocystitis, an infection of the lacrimal sac that affects far more people than most realize. In this episode of Focus Cast, we break down everything you need to know about this surprisingly common eye condition in plain, easy-to-understand language.\n\nWe start with the basics — how your tear drainage system actually works and why a blocked nasolacrimal duct can quickly turn into a painful bacterial infection. From there, we explore the two main forms of dacryocystitis: acute, which strikes suddenly with swelling and fever, and chronic, which quietly lingers for weeks or months with subtle symptoms that are easy to dismiss. We also cover who is most at risk, including newborns with congenital duct blockages and older women with naturally narrower tear ducts.\n\nYou will learn how doctors diagnose dacryocystitis, which bacteria are typically responsible, and what happens when the infection spreads to surrounding tissue. We walk through treatment options ranging from oral antibiotics and warm compresses to surgical procedures like dacryocystorhinostomy, or DCR, and explain why early intervention matters. Parents of infants will also find practical guidance on nasolacrimal massage and when probing may be necessary.\n\nWhether you are dealing with a persistently watery eye, recurring discharge, or unexplained swelling near your nose, this episode gives you the knowledge to recognize the warning signs and take action. Do not ignore what your eyes are trying to tell you. Listen now and visit Focuslinks dot in for more eye health episodes from Focus Cast.\n\n---",
       "tags": "dacryocystitis,sac,antibiotics,dcr",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Pediatric",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-19.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ee80d578-492c-4113-9b91-f141e218f929",
+      "generatedAt": "2026-08-09T05:52:55.954Z"
     },
     {
       "episodeOrder": 20,

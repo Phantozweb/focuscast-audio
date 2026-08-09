@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T04:30:26.512Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T04:32:01.115Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -314,14 +314,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "DED and Refractive Surgery: The Pre-Op Screen",
-      "description": "Why DED patients are high-risk for LASIK and the surface and scleral lens alternatives.",
+      "title": "Dry Eye & Refractive Surgery: What Your Pre-Op Screen Reveals",
+      "description": "Thinking about LASIK, SMILE, or PRK? Before you book that laser eye surgery, there's one critical conversation most patients never have — and it could make or break your results. In this episode of Focus Cast, we dive deep into dry eye disease (DED) and why it plays a defining role in your pre-operative screening process.\n\nStudies show that up to 50% of refractive surgery candidates have some degree of pre-existing dry eye — and many don't even know it. Left undetected, dry eye disease can distort the precise corneal measurements surgeons depend on, slow down healing after surgery, and significantly impact your long-term satisfaction with the results.\n\nWe break down exactly why an unstable tear film throws off surgical planning, how disrupted corneal nerves can worsen dryness post-operatively, and why so many unhappy surgical outcomes trace back to an ocular surface problem that was missed before the procedure.\n\nYou'll also learn what a thorough dry eye screen actually looks like — from symptom questionnaires like the OSDI and SPEED to advanced diagnostics like meibography, tear osmolarity testing, and corneal topography. Plus, we cover the treatment options that can optimize your ocular surface before surgery, so you can still move forward with confidence.\n\nWhether you're a patient exploring your options or a clinician refining your pre-op protocol, this episode gives you the knowledge to make smarter, safer decisions about refractive surgery.\n\nListen now, and share this episode with anyone considering laser eye surgery — it could be the most important thing they hear before their consultation. Visit Focuslinks.in for more eye health resources and episodes.\n\n---",
       "tags": "refractive,lasik,screen,high-risk",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-26.mp3",
+      "duration": "12:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "80b08b67-f92f-41ab-979f-b77d7258b985",
+      "generatedAt": "2026-08-09T04:32:01.115Z"
     },
     {
       "episodeOrder": 27,

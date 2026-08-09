@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T06:02:15.382Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T06:03:51.416Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -217,14 +217,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Prism for Strabismus: The Relief and the Limit",
-      "description": "Fresnel and ground-in, the adaptation test, and the threshold for surgical referral.",
+      "title": "Prism Lenses for Strabismus: Real Relief and Real Limits",
+      "description": "What if a tiny wedge of glass could make double vision disappear? For millions of people living with strabismus, prism lenses do exactly that — and the results can feel life-changing. But prism is not a cure, and understanding where it helps and where it falls short could make all the difference in your treatment journey.\n\nIn this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about prism lenses and strabismus. We explain what strabismus actually is, why misaligned eyes cause double vision (diplopia), and how the brain responds when the two eyes stop working as a team. We then dive into how prism lenses work, how they are measured in prism diopters, and how they are prescribed — from permanent ground-in lenses to temporary Fresnel prism films.\n\nBut we don't stop at the good news. We take an honest look at the real limitations of prism: why high deviations push prism beyond its practical range, why incomitant strabismus resists a single prism correction, what prism adaptation means for long-term wearers, and why prism does nothing for the cosmetic appearance of a turned eye. We also explore when strabismus surgery or vision therapy may be the better path forward.\n\nWhether you are newly diagnosed, managing a long-standing condition, or supporting someone who is, this episode gives you the clear, grounded information you need to ask the right questions and make informed decisions.\n\nVisit Focuslinks.in to explore more eye health and vision care content, and share this episode with anyone who deserves to see the world in clear, comfortable focus.\n\n---",
       "tags": "prism,fresnel,adaptation,surgical",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-17.mp3",
+      "duration": "11:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c03ef7e0-0b50-4a41-869d-2f7d512265ec",
+      "generatedAt": "2026-08-09T06:03:51.416Z"
     },
     {
       "episodeOrder": 18,

@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T06:19:19.286Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T06:19:45.368Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,14 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "VEP and EOG: The Visual Pathway and the RPE",
-      "description": "The visual evoked potential in optic neuritis and the EOG in Best disease.",
+      "title": "VEP and EOG Explained: Visual Pathway & RPE Function",
+      "description": "What actually happens between the moment light enters your eye and the moment your brain registers an image? The answer involves electrical signals, a hidden layer of cells, and two powerful diagnostic tests that can detect disease before symptoms even appear.\n\nIn this episode of Focus Cast, we break down the Visual Evoked Potential (VEP) and the Electro-Oculogram (EOG), two electrophysiological tests that give clinicians an extraordinary window into the health of the visual system. We walk you through the complete visual pathway, from the retina all the way to the visual cortex, and explain how the VEP measures the speed and integrity of that entire journey. You will learn why a delayed P100 wave can be an early warning sign of optic neuritis and multiple sclerosis, and why VEP is so valuable even in patients who cannot describe what they see.\n\nThen we turn to the EOG and introduce one of the most underappreciated structures in the eye, the Retinal Pigment Epithelium, or RPE. This single layer of cells sustains your photoreceptors, recycles visual pigments, and generates the electrical light rise that the EOG measures. We explore how an abnormal Arden ratio can signal RPE dysfunction in conditions like Best disease and age-related macular degeneration, often before any visible damage appears.\n\nWhether you are a student, a clinician, or simply someone fascinated by the science of vision, this episode will change the way you think about how we see and how we protect sight.\n\nListen now and visit Focuslinks.in to explore more episodes of Focus Cast.\n\n---",
       "tags": "vep,eog,best,optic-neuritis",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-25.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f2d2343a-3d16-41f1-88d5-a861f6cd9ac2",
+      "generatedAt": "2026-08-09T06:19:45.368Z"
     },
     {
       "episodeOrder": 26,

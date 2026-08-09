@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T04:26:10.044Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T04:26:18.446Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -59,14 +59,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Mixed Mechanism DED: The Most Common Presentation",
-      "description": "Why most patients have both components and why treating only one fails.",
+      "title": "Mixed Mechanism Dry Eye: The Most Common DED Explained",
+      "description": "Do your eyes feel like sandpaper in the morning, or burn and water after hours at a screen? You might be dealing with mixed mechanism dry eye disease — and it's far more common than most people realize. In this episode of Focus Cast, we break down why dry eye disease rarely fits neatly into a single category and why most patients actually experience both aqueous deficiency and evaporative dry eye at the same time, each one making the other worse in a relentless cycle.\n\nWe explore how the tear film works as a three-layer system, what happens when meibomian gland dysfunction and lacrimal gland failure overlap, and why treating only one component often leaves patients frustrated with incomplete relief. We also cover who is most at risk — from postmenopausal women and aging adults to younger people whose screen habits have quietly reshaped their eye health — and how systemic conditions like Sjögren's syndrome, rosacea, and rheumatoid arthritis connect to this mixed presentation.\n\nYou'll learn how eye care professionals diagnose mixed mechanism dry eye using tools like meibography, tear film breakup time testing, and ocular surface staining, and what a truly comprehensive treatment plan looks like — from warm compresses and omega-3s to prescription anti-inflammatories and in-office procedures like thermal pulsation and intense pulsed light therapy.\n\nIf your dry eye symptoms haven't fully responded to basic treatments, this episode could change how you approach your care. Listen now, and visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "mixed,mechanism,both,treatment",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-05.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "81e843f6-e25d-469d-9b80-64763539da2c",
+      "generatedAt": "2026-08-09T04:26:18.446Z"
     },
     {
       "episodeOrder": 6,

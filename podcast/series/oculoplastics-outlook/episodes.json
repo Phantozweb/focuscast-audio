@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T05:56:32.647Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T05:56:42.809Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,14 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Dry Eye and the Lacrimal System: The Paradox",
-      "description": "When tearing signals dry eye — the reflex hypersecretion and the diagnostic and treatment puzzle.",
+      "title": "Dry Eye Paradox: Why Watery Eyes Mean You're Dehydrated",
+      "description": "Ever been told you have dry eye while your eyes are literally streaming with tears? It sounds impossible — but it's one of the most common and misunderstood conditions in eye health today. In this episode of Focus Cast by Focuslinks.in, we unpack the fascinating paradox of dry eye disease and the lacrimal system, and explain exactly why watery eyes can actually be a sign that your tear film is failing.\n\nWe break down how your tear film works as a precise three-layer system, what the lacrimal gland actually does, and why the reflex tears your eyes produce in response to irritation are not the same as the healthy baseline tears your eyes need to stay comfortable and clear. We also explore the two main types of dry eye — aqueous deficient and evaporative — and why meibomian gland dysfunction, fueled by screen time and reduced blinking, is quietly becoming an epidemic in younger people.\n\nFrom the hormonal connection linking dry eye to menopause, to the latest treatments including omega-3 supplements, intense pulsed light therapy, and punctal plugs, this episode gives you a genuinely complete picture of a condition that affects an estimated 300 to 340 million people worldwide.\n\nWhether you spend long hours in front of a screen, experience burning or blurry vision, or have simply wondered why your eyes water so much, this episode will change the way you think about your eye health.\n\nListen now and share this episode with anyone who lives on screens — which is basically everyone. For more eye health insights, visit us at Focuslinks.in.\n\n---",
       "tags": "dry-eye,tearing,reflex,paradox",
       "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-27.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "997133b0-7ce4-4d10-a410-80521f4dfd07",
+      "generatedAt": "2026-08-09T05:56:42.809Z"
     },
     {
       "episodeOrder": 28,

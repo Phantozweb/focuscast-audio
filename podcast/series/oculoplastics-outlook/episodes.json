@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T05:47:55.872Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T05:48:11.321Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Myasthenia Gravis: The Variable Ptosis",
-      "description": "The fatigability, the ice test, and the systemic workup that the lid sign triggers.",
+      "title": "Myasthenia Gravis & Variable Ptosis: The Drooping Eyelid Clue",
+      "description": "Have you ever noticed your eyelid drooping by evening, only to look perfectly normal the next morning? That flickering, shifting droop might not be tiredness — it could be a hallmark sign of Myasthenia Gravis. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into variable ptosis, one of the most diagnostically powerful and clinically fascinating features of this autoimmune neuromuscular disease.\n\nWe break down exactly how Myasthenia Gravis disrupts the neuromuscular junction, why the eyelid is almost always the first muscle affected, and what makes the ptosis in MG so uniquely different from other causes of eyelid drooping. You'll learn about fatigable ptosis, the simple but elegant ice pack test, and the Cogan's lid twitch sign — bedside tools that can point directly to a diagnosis that is all too often missed or delayed for months.\n\nWe also cover how MG is diagnosed through blood tests for anti-AChR and anti-MuSK antibodies, repetitive nerve stimulation, single fiber electromyography, and thymus imaging — plus a clear overview of treatment options including pyridostigmine, immunosuppression, plasmapheresis, and thymectomy.\n\nWhether you're a medical student, a healthcare professional, or simply someone who loves understanding the human body at a deeper level, this episode will change the way you look at a drooping eyelid forever.\n\nListen now and share this episode with anyone who loves sharp, focused medical learning. Visit us at Focuslinks.in for more episodes and resources.\n\n---",
       "tags": "myasthenia,fatigability,ice-test,workup",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-06.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6968152f-1eb5-4863-9d3e-2f4249cd0bf4",
+      "generatedAt": "2026-08-09T05:48:11.321Z"
     },
     {
       "episodeOrder": 7,

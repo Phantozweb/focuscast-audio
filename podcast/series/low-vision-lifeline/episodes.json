@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T05:32:12.524Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T05:32:17.498Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -362,14 +362,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "The Low Vision Follow-Up: The Long Relationship",
-      "description": "The annual reassessment, the progression adaptation, and the trust that sustains the plan.",
+      "title": "Low Vision Follow-Up: Why the Long Relationship Matters",
+      "description": "What if the most important appointment in low vision care isn't the first one? In this episode of Focus Cast, we explore the often-overlooked power of the low vision follow-up — the ongoing, evolving relationship between patients and their care team that makes real rehabilitation possible.\n\nVision loss is rarely static. Conditions progress, life circumstances shift, and the strategies that worked at sixty-five may not serve someone at seventy-five. We break down why consistent follow-up care is essential for anyone living with low vision conditions like macular degeneration, glaucoma, diabetic retinopathy, or retinitis pigmentosa — and what a truly effective follow-up appointment should look like.\n\nWe also dig into the concept of therapeutic alliance and why trust between a patient and their low vision specialist directly improves outcomes. Through a relatable patient story, we show how honest, ongoing communication can unlock breakthroughs that a single evaluation simply cannot achieve.\n\nPlus, we tackle the real barriers keeping patients from returning — transportation, cost, and the common misconception that one visit is enough — and highlight how telehealth and community-based programs are helping close that gap. We also discuss why including family members and caregivers in the follow-up process strengthens the entire support system.\n\nWhether you're living with low vision, supporting someone who is, or a practitioner dedicated to this work, this episode is a reminder that the first appointment is just the starting line.\n\nListen now, and visit Focuslinks.in for more episodes and resources built for the low vision community.\n\n---",
       "tags": "follow-up,annual,progression,trust",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-28.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c37370f7-9f37-4794-9014-165ebd756e46",
+      "generatedAt": "2026-08-09T05:32:17.498Z"
     },
     {
       "episodeOrder": 29,

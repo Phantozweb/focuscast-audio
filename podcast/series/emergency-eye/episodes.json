@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T04:58:57.901Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T04:59:10.852Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -388,14 +388,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Follow-Up After Ocular Trauma: The Long View",
-      "description": "The delayed complications — glaucoma, cataract, retinal break — and the surveillance schedule.",
+      "title": "Ocular Trauma Follow-Up: Protecting Your Vision Long-Term",
+      "description": "Think your eye injury healed because the pain went away? Think again. In this eye-opening episode of Focus Cast, we explore why follow-up care after ocular trauma is one of the most overlooked yet critical steps in protecting your long-term vision health.\n\nEye injuries are far more common than most people realize, and the real danger often isn't what happens immediately after the trauma. It's what develops silently in the months and years that follow. From traumatic glaucoma and angle recession to traumatic cataracts, lens subluxation, and retinal detachment, this episode breaks down the delayed complications that can steal your sight without warning, and explains exactly why the absence of symptoms never means the absence of damage.\n\nWe walk through how blunt trauma can quietly damage the eye's drainage system, leading to glaucoma that may not appear until decades after the original injury. We discuss how the lens can gradually cloud over years, how the retina can develop tears long after healing seems complete, and why regular dilated eye exams and intraocular pressure monitoring are non-negotiable for anyone with a history of eye trauma.\n\nWe also explore the psychological impact of vision loss and how a consistent relationship with your eye care provider can be just as healing as any medical treatment.\n\nWhether your injury happened last month or ten years ago, this episode gives you the knowledge to take action before a manageable condition becomes a permanent one.\n\nIf you or someone you love has experienced an eye injury, don't wait for symptoms to return. Visit Focuslinks.in to find more episodes and resources, and schedule that follow-up appointment today. Your vision is worth the long view.\n\n---",
       "tags": "follow-up,trauma,delayed,surveillance",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-30.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9c99503c-082e-43b8-b450-da74414a1730",
+      "generatedAt": "2026-08-09T04:59:10.852Z"
     }
   ]
 }

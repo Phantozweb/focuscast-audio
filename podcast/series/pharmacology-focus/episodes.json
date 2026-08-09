@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T05:11:39.011Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T05:12:08.878Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -89,14 +89,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Topical Steroids: The Power and the Peril",
-      "description": "Prednisolone, loteprednol, fluorometholone — the potency ladder and the IOP and infection risks.",
+      "title": "Topical Steroids: The Hidden Risks You Need to Know",
+      "description": "That small tube of cream in your medicine cabinet might be more powerful — and more dangerous — than you think. In this eye-opening episode of Focus Cast, we break down everything you need to know about topical steroids: what they are, how they work, and why millions of people are using them in ways that can cause serious, lasting harm.\n\nWe start with the basics — the difference between corticosteroids and anabolic steroids, how topical steroids calm inflammation, and why they were considered a revolutionary breakthrough in dermatology when first introduced in the 1950s. Then we get into the risks that most people never hear about: skin thinning, tachyphylaxis, and the increasingly recognized condition known as Topical Steroid Withdrawal, or TSW, which can cause intense burning, widespread redness, and debilitating discomfort when long-term users suddenly stop.\n\nWe also shine a light on a deeply troubling trend in countries like India, where potent steroids are hidden inside fairness creams and skin-lightening products — leaving unsuspecting users vulnerable to serious skin damage without ever knowing what they were applying to their face.\n\nBut this episode is not just a warning. It is a practical guide. You will walk away knowing exactly how to use topical steroids safely — the right potency for the right body part, how long is too long, how to taper off responsibly, and when it is time to see a dermatologist instead of reaching for the same old cream.\n\nYour skin is your largest organ. It deserves informed, thoughtful care. Listen now and give it exactly that. Visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "steroids,prednisolone,loteprednol,iop",
       "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-07.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d4e3b5d7-9571-4757-b9c4-887ffb438c5a",
+      "generatedAt": "2026-08-09T05:12:08.878Z"
     },
     {
       "episodeOrder": 8,

@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T05:15:49.093Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T05:16:01.030Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Dry Eye Drugs: Cyclosporine and Lifitegrast",
-      "description": "The immunomodulatory mechanism, the onset of weeks, and the stinging and adherence conversation.",
+      "title": "Dry Eye Drugs Explained: Cyclosporine vs Lifitegrast",
+      "description": "If artificial tears have stopped cutting it, your dry eye disease might need more than just moisture — it might need real treatment. In this episode of Focus Cast, we break down two prescription medications that have transformed how doctors treat chronic dry eye disease: cyclosporine (Restasis, Cequa) and lifitegrast (Xiidra).\n\nDry eye is not simply about dryness. It is an inflammatory condition where your immune system quietly damages the very cells responsible for keeping your eyes lubricated. We explain exactly how cyclosporine works as a calcineurin inhibitor to calm that immune response, and how lifitegrast takes a completely different approach by blocking the LFA-1 and ICAM-1 interaction that allows immune cells to attack the eye's surface.\n\nWe cover how long each drug takes to work, what side effects to expect, and why some patients end up using both medications together. You will also learn why the FDA approval of cyclosporine in 2003 was a landmark moment in ophthalmology, and how lifitegrast built on that foundation with purpose-built precision medicine.\n\nWhether you are a dry eye patient who has been struggling for years, a healthcare student studying ocular pharmacology, or simply someone curious about how modern medicine targets inflammation at the molecular level, this episode gives you a clear and honest look at what these drugs can and cannot do.\n\nIf chronic dry eye is affecting your quality of life, this episode is your starting point. Listen now, then visit your eye care professional to ask whether a prescription anti-inflammatory treatment is right for you. For more eye health content, visit us at focuslinks.in.\n\n---",
       "tags": "cyclosporine,lifitegrast,ded,onset",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Dry Eye",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-17.mp3",
+      "duration": "12:08",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0bfd482e-c90a-4703-bdff-b71d9b1c89b7",
+      "generatedAt": "2026-08-09T05:16:01.030Z"
     },
     {
       "episodeOrder": 18,

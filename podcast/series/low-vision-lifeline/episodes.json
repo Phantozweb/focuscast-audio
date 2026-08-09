@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T05:27:14.716Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T05:28:21.242Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Driving Cessation: The Conversation and the Alternative",
-      "description": "The legal duty, the empathy, the transportation planning, and the grief that follows the keys.",
+      "title": "Driving Cessation: The Conversation Every Family Needs",
+      "description": "What happens when it's time to take the keys away from an aging parent? Driving cessation is one of the most emotionally charged transitions an older adult can face — and most families have no idea how to handle it. In this episode of Focus Cast, we break down everything you need to know about navigating this critical life moment with compassion, clarity, and confidence.\n\nWe explore why giving up driving is about far more than transportation — it's about identity, independence, and the fear of losing control. You'll learn practical, proven strategies for starting the driving cessation conversation without triggering defensiveness, including when to bring in a third party like a doctor or occupational therapist and how to frame the discussion as a team effort rather than an ultimatum.\n\nBut the conversation is only half the story. We also dive deep into the real-world alternatives that keep older adults mobile, connected, and living full lives — from ride-hailing apps designed for seniors and volunteer driver programs to non-emergency medical transportation benefits and the growing movement of age-friendly communities across India and beyond.\n\nWhether you're a family member trying to figure out where to begin, or an older adult wondering what life looks like after driving stops, this episode gives you the tools, the language, and the perspective to move forward with grace and dignity.\n\nListen now and share this episode with anyone who needs to hear it — because the best conversations are the ones we have before we have to. Visit us at focuslinks.in for more.\n\n---",
       "tags": "driving,cessation,empathy,transport",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-18.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "04258932-ac5a-480c-9aa9-faa07fec403e",
+      "generatedAt": "2026-08-09T05:28:21.242Z"
     },
     {
       "episodeOrder": 19,

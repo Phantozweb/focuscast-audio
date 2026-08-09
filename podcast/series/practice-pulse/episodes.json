@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T05:07:47.716Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T05:08:02.462Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -321,14 +321,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Medical Versus Vision Plans: The Plan Triage",
-      "description": "When to bill medical, when to bill vision, and the patient conversation that explains the difference.",
+      "title": "Medical vs Vision Plans: Which One Should You Prioritize?",
+      "description": "Staring at a pile of benefits paperwork and wondering what actually matters? In this episode of Focus Cast, we cut through the confusion and break down the real differences between medical insurance and vision insurance — what each plan covers, where they overlap, and how to decide which one deserves your attention first.\n\nThink of it as a plan triage. Just like an emergency room prioritizes patients by urgency, we help you assess your benefits with the same clarity and intention. You will learn why vision care is far more than a routine checkup — it is a powerful diagnostic tool that can reveal early signs of diabetes, high blood pressure, and other serious conditions before symptoms appear elsewhere in your body.\n\nWe walk through the critical distinction between routine eye care covered by vision plans and medically necessary eye care handled by your medical plan, and explain exactly where that line blurs. We also share a relatable story about how a skipped vision exam nearly cost one woman her long-term health.\n\nWhether you are navigating open enrollment, working with a tight budget, or simply trying to make smarter decisions about your coverage, this episode gives you a practical framework for understanding both plans and using them together effectively.\n\nKey topics include how to evaluate your personal health needs, why children's vision coverage matters more than most parents realize, and the one question you should always ask your eye doctor to avoid surprise bills.\n\nDo not leave benefits on the table that you have already paid for. Listen now and visit Focuslinks dot in for more episodes and resources to help you take control of your health decisions.\n\n---",
       "tags": "medical-plan,vision-plan,triage,billing",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-25.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a929b5fb-a0e8-4d90-b5d7-119b57cbea60",
+      "generatedAt": "2026-08-09T05:08:02.462Z"
     },
     {
       "episodeOrder": 26,

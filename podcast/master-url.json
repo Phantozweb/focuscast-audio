@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:19:58.261Z",
+  "lastUpdated": "2026-08-09T05:20:03.406Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 384,
   "series": [
@@ -197,7 +197,7 @@
       "generatedEpisodes": 24,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/episodes.json",
       "audioDir": "podcast/series/pharmacology-focus/audio",
-      "lastUpdated": "2026-08-09T05:19:49.407Z"
+      "lastUpdated": "2026-08-09T05:19:46.988Z"
     },
     {
       "slug": "low-vision-lifeline",

@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T05:54:44.065Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T05:54:57.328Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -312,14 +312,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Blepharoplasty: The Functional and the Cosmetic",
-      "description": "The dermatochalasis that obstructs vision, the visual field test, and the surgery that restores.",
+      "title": "Blepharoplasty Explained: Functional vs. Cosmetic Eyelid Surgery",
+      "description": "Have you ever looked in the mirror and wondered why your eyes always look tired, even after a full night of sleep? Or noticed your upper eyelids drooping in a way that's actually starting to affect your vision? In this episode of Focus Cast, we break down everything you need to know about blepharoplasty, the eyelid surgery that's transforming lives both medically and aesthetically.\n\nWe explore the two sides of this widely performed procedure. On the functional side, we discuss how excess eyelid skin and drooping can obstruct peripheral vision, cause daily physical strain, and qualify as a medically necessary surgery covered by insurance. On the cosmetic side, we unpack why blepharoplasty consistently ranks among the top five most performed aesthetic procedures worldwide, from upper eyelid surgery that corrects hooded eyes to lower eyelid surgery that eliminates under-eye bags and puffiness.\n\nWe also walk you through exactly what the procedure involves, from incision techniques and anesthesia options to recovery timelines and what results to realistically expect. Plus, we cover the critical importance of choosing a qualified oculoplastic surgeon and what to look for during your consultation.\n\nWhether you're exploring blepharoplasty for vision improvement, a refreshed appearance, or simply want to understand what this procedure is all about, this episode gives you a clear, honest, and comprehensive picture.\n\nTune in and discover why blepharoplasty sits at the fascinating intersection of medicine and aesthetics, and why for so many patients, it truly is life-changing. Visit focuslinks.in for more expert insights on eye health and vision care.\n\n---",
       "tags": "blepharoplasty,dermatochalasis,field-test,functional",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Dry Eye",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-24.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "555d9048-a3dd-48bc-b0f6-1a575846f7e2",
+      "generatedAt": "2026-08-09T05:54:57.328Z"
     },
     {
       "episodeOrder": 25,

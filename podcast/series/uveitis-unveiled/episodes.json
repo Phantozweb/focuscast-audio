@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T05:44:16.959Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T05:44:26.208Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -360,14 +360,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Lyme Disease and the Eye: The Endemic Challenge",
-      "description": "The tick exposure, the ELISA and Western blot, and the uveitis and neuro-ophthalmic manifestations.",
+      "title": "Lyme Disease and Your Eyes: The Hidden Vision Threat",
+      "description": "Did you know Lyme disease can silently steal your vision? Most people recognize the bullseye rash and joint pain, but the eye complications of Lyme disease remain dangerously overlooked — even as tick populations spread into new regions and infection rates climb. In this eye-opening episode of Focus Cast, we uncover the surprising and serious ways Lyme disease affects your eyes and vision.\n\nWe break down exactly how the Borrelia burgdorferi bacterium crosses the blood-eye barrier and triggers inflammation throughout the eye's delicate structures. From uveitis and optic neuritis to scleritis, conjunctivitis, and cranial nerve palsies causing double vision, we walk you through the full spectrum of Lyme-related ocular complications — what they look and feel like, why they're so often misdiagnosed, and what's at stake when treatment is delayed.\n\nWe also tackle the diagnostic challenge head-on, explaining why standard Lyme disease blood tests can miss the infection and why collaboration between eye doctors, neurologists, and infectious disease specialists is critical. You'll learn how early antibiotic treatment can protect your vision, what additional therapies help manage eye inflammation, and why delayed diagnosis can lead to permanent damage including retinal scarring, glaucoma, and vision loss.\n\nPlus, we share practical, actionable tick bite prevention tips so you can protect yourself before exposure ever happens.\n\nWhether you're an outdoor enthusiast, a concerned parent, or someone searching for answers about unexplained eye symptoms, this episode gives you the knowledge to act early and advocate for yourself.\n\nVisit us at focuslinks.in for more expert eye health insights, and share this episode with anyone who deserves to know the full story of Lyme disease — eyes included.\n\n---",
       "tags": "lyme,tick,elisa,blot",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-28.mp3",
+      "duration": "12:01",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cabc5d49-60cd-40a4-86c8-a993d575b05d",
+      "generatedAt": "2026-08-09T05:44:26.208Z"
     },
     {
       "episodeOrder": 29,

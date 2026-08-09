@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T08:54:30.800Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T08:54:38.687Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fungal Keratitis: Feathery Edges and Satellite Lesions",
-      "description": "Recognizing fungal morphology, the risk factors of trauma and contact lens wear, and the referral threshold.",
+      "title": "Fungal Keratitis: Feathery Edges & Satellite Lesions Explained",
+      "description": "Fungal keratitis is one of the most sight-threatening diagnoses an optometrist can encounter at the slit lamp — and recognizing it early is the difference between saving and losing a patient's vision. In this clinically focused episode of Focus Cast, we break down everything eye care professionals need to know about fungal keratitis, from the characteristic feathery-edged infiltrates and satellite lesions to the viscous hypopyon that won't shift with head position.\n\nWe walk through the two major fungal categories — filamentous organisms like Fusarium and Aspergillus versus yeast-like Candida — and explain why their presentations differ. You'll learn how to identify high-risk patients, including agricultural workers with vegetative trauma history and soft contact lens wearers with non-resolving ulcers failing fluoroquinolone therapy. We cover the full slit lamp examination approach, the role of anterior segment OCT and confocal microscopy, and how to work through a tight differential that includes bacterial keratitis, Acanthamoeba, and stromal herpetic disease.\n\nMost importantly, this episode gives you a clear, practical framework for chairside decision-making — including why corticosteroids are absolutely contraindicated, what your referral threshold should look like, and how to document findings to support seamless handoff to a corneal specialist. Whether you're a seasoned clinician or an optometry resident building your corneal confidence, this episode delivers evidence-based, immediately applicable guidance for your practice.\n\nNew episodes of Focus Cast drop regularly for licensed optometrists, residents, and clinical eye care practitioners. Visit Focuslinks.in to explore the full library and stay sharp between patient encounters.\n\n---",
       "tags": "fungal,satellite,feathery,keratitis",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-07.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e3840301-c258-41f9-9111-9563649e3cc5",
+      "generatedAt": "2026-08-09T08:54:38.687Z"
     },
     {
       "episodeOrder": 8,

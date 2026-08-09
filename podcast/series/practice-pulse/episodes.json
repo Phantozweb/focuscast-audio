@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T05:07:17.586Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T05:07:47.716Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -308,14 +308,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Contact Lens Practice: The Fitting and the Reorder",
-      "description": "The fitting fee structure, the auto-reorder, and the annual contact lens exam that sustains revenue.",
+      "title": "Contact Lens Fitting & Reorder: Build Patient Loyalty",
+      "description": "What happens when a patient slides a crumpled prescription across your desk and says, \"just give me the same lenses as last time\"? That moment is more important than you think. In this episode of Focus Cast by Focuslinks.in, we dive deep into the two pillars of a thriving contact lens practice: the fitting process and the reorder journey.\n\nWe explore why a truly effective contact lens fitting goes far beyond base curves and trial lenses. From pre-fitting consultations that uncover a patient's real lifestyle needs to slit-lamp evaluations after proper lens settling time, we walk through the clinical and conversational steps that lead to better outcomes and happier patients.\n\nThen we tackle the part where most practices quietly lose ground: the reorder. Discover why the contact lens reorder is not just a transaction but a powerful touchpoint for patient retention, early clinical intervention, and long-term practice growth. We cover how to build seamless online reorder systems, set up proactive reminder workflows, and use annual supply conversations to improve both patient compliance and your bottom line.\n\nWe also discuss the role of ongoing patient education in reducing contact lens complications, from proper insertion technique to recognizing warning signs that demand immediate attention.\n\nWhether you are an experienced optometrist refining your systems or a student building your clinical philosophy from the ground up, this episode gives you practical, actionable insights you can apply right away.\n\nVisit Focuslinks.in for more tools and resources designed specifically for eye care professionals. If this episode added value to your practice, share it with a colleague and leave us a review.\n\n---",
       "tags": "contact-lens,fitting,reorder,annual",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-24.mp3",
+      "duration": "12:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "de8f542e-e5e6-4526-b6bb-3835becb6b75",
+      "generatedAt": "2026-08-09T05:07:47.716Z"
     },
     {
       "episodeOrder": 25,

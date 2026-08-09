@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T06:05:37.275Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T06:05:44.440Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -304,14 +304,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Convergence Excess: The Near Esotropia",
-      "description": "The high AC/A, the near deviation, and the bifocal and surgery decision.",
+      "title": "Convergence Excess & Near Esotropia: Why Your Eyes Struggle Up Close",
+      "description": "Do you get headaches after reading? Do words blur or double when you stare at a screen too long? You might be dealing with convergence excess — a surprisingly common but widely misunderstood vision condition where the eyes converge too much at near distances. In this episode of Focus Cast by Focuslinks.in, we break down exactly what convergence excess and near esotropia are, why they happen, and why so many people — especially children — go years without the right diagnosis.\n\nWe explore the fascinating neurological link between the eye's focusing system (accommodation) and its convergence system, and what happens when that connection becomes overactive. You will learn how a high AC/A ratio drives excessive inward eye turning, what symptoms to watch for beyond just blurry vision, and why standard school eye screenings often miss this condition entirely.\n\nWe also cover how eye care professionals diagnose convergence excess through binocular vision assessments, cover tests, and stereopsis testing — and why a routine eye exam alone may not be enough. Most importantly, we walk through the treatment options that actually work: bifocal or progressive lenses, prism correction, and vision therapy programs designed to retrain the visual system for lasting comfort and clarity.\n\nWhether you are a parent concerned about a child who avoids reading, an adult struggling with screen fatigue, or simply someone curious about how vision really works, this episode gives you the knowledge to take the next step. If near vision symptoms are affecting your daily life, ask your eye care provider specifically about a full binocular vision evaluation. Visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "convergence-excess,ac-a,esotropia,bifocal",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-24.mp3",
+      "duration": "12:00",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "82e467c0-0e12-418c-8a60-0dcddb6c4f94",
+      "generatedAt": "2026-08-09T06:05:44.440Z"
     },
     {
       "episodeOrder": 25,

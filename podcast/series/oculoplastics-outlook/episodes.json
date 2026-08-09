@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T05:53:06.909Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T05:53:09.406Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Nasolacrimal Duct Obstruction: The Adult Epiphora",
-      "description": "The dye disappearance, the irrigation, and the DCR that resolves the chronic tearing.",
+      "title": "Watery Eyes in Adults: Nasolacrimal Duct Obstruction Explained",
+      "description": "Does someone you know seem to be constantly crying — but not from sadness? Those persistently watery eyes could be a sign of nasolacrimal duct obstruction, a surprisingly common and very treatable condition in adults. In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about adult epiphora — the medical term for excessive tearing — in a way that is clear, engaging, and genuinely useful.\n\nWe start with a fascinating look at how your tear drainage system actually works, from the tiny puncta in the corner of your eye all the way down to your nasal cavity. Then we explore the most common causes of blockage in adults, including primary acquired nasolacrimal duct obstruction (PANDO), facial trauma, chronic sinus issues, certain medications, and inflammatory conditions. We also cover a surprising twist — sometimes watery eyes are actually caused by dry eye disease triggering reflex tears, not a blocked duct at all.\n\nFrom there, we walk through how ophthalmologists diagnose the problem using tools like the fluorescein dye disappearance test, lacrimal irrigation, and dacryocystograms. Finally, we cover the full range of treatment options, from simple probing and irrigation to the gold-standard surgical procedure known as DCR (dacryocystorhinostomy), including both external and endoscopic approaches.\n\nIf you or someone you love has been living with persistent watery eyes, this episode will help you understand what is happening and what to do next. Do not ignore it — real solutions exist.\n\nVisit Focuslinks.in for more eye health episodes, articles, and resources. Your eyes deserve the best care possible.\n\n---",
       "tags": "nldo,epiphora,irrigation,dcr",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-18.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9e887fb2-9bf4-4986-b7e0-0e0ba080eecb",
+      "generatedAt": "2026-08-09T05:53:09.406Z"
     },
     {
       "episodeOrder": 19,

@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T05:47:44.766Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T05:47:55.872Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Congenital Ptosis: The Levator Dysgenesis",
-      "description": "The poor levator function, the lid lag, and the amblyopia risk and surgical timing in infants.",
+      "title": "Congenital Ptosis & Levator Dysgenesis: What Parents Must Know",
+      "description": "Did you know a drooping eyelid in a newborn could permanently affect your child's vision if left untreated? In this eye-opening episode of Focus Cast, we take a deep dive into congenital ptosis, one of the most underrecognized conditions in pediatric eye health, and uncover the root cause behind it: levator dysgenesis.\n\nWe break down exactly what the levator palpebrae superioris muscle does, why it fails to develop properly in some children, and how this leads to the characteristic eyelid droop present from birth. You'll learn why congenital ptosis is far more than a cosmetic concern, including its serious links to amblyopia (lazy eye), astigmatism, and abnormal head posture that can have lasting consequences if not caught early.\n\nWe also walk you through how pediatric ophthalmologists evaluate the condition using key clinical measurements like margin reflex distance and levator function, and explain the two primary surgical approaches, levator resection and frontalis suspension, in clear, accessible language that anyone can understand.\n\nWhether you're a parent who noticed something different about your child's eyes, a healthcare professional looking for a concise clinical overview, or simply someone curious about how the human eye works, this episode delivers real, actionable knowledge grounded in ophthalmology.\n\nEarly detection saves vision. The more awareness we build around congenital ptosis, the better the outcomes for children everywhere. Listen now, share this episode with someone who needs to hear it, and visit Focuslinks.in for more expert content on eye health and vision science.\n\n---",
       "tags": "congenital,dysgenesis,lid-lag,amblyopia",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-04.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d6aefbec-b733-47a0-b1c4-f80f4b98ba0c",
+      "generatedAt": "2026-08-09T05:47:55.872Z"
     },
     {
       "episodeOrder": 5,

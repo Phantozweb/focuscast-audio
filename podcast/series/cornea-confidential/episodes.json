@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T08:56:31.327Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T08:56:43.396Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -116,14 +116,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Acanthamoeba Keratitis: The Ring and the Agony",
-      "description": "The ring infiltrate, disproportionate pain, and why early diagnosis is the only chance to save the eye.",
+      "title": "Acanthamoeba Keratitis: The Ring Infiltrate & Early Diagnosis",
+      "description": "One of the most devastating corneal infections in contact lens wearers walks into your clinic looking like a routine bacterial or viral keratitis — and every day of misdiagnosis costs your patient irreplaceable corneal tissue. In this episode of Focus Cast by Focuslinks.in, we go deep on Acanthamoeba Keratitis: the clinical presentation that fools even experienced clinicians, the slit lamp findings you cannot afford to miss, and the chairside decision-making framework that separates early diagnosis from catastrophic outcomes.\n\nWe cover the full clinical picture — from early pseudodendrites and radial keratoneuritis to the hallmark ring infiltrate and the disproportionate pain that should stop you in your tracks. You will learn how to differentiate Acanthamoeba Keratitis from herpes simplex keratitis, fungal keratitis, and bacterial keratitis using key clinical clues, understand the role of confocal microscopy and corneal scraping in definitive diagnosis, and know exactly when and why urgent referral to a corneal specialist is non-negotiable.\n\nWe also break down the treatment landscape — biguanide and diamidine combination therapy, the controversy around corticosteroids, pain management strategies, and the long-term prognosis including penetrating keratoplasty when medical therapy falls short.\n\nWhether you are a practicing optometrist, an optometry resident, or a clinical eye care professional, this episode gives you the evidence-based, practical knowledge to recognize this infection earlier, refer faster, and protect your patients from permanent vision loss.\n\nVisit Focuslinks.in for more clinical episodes and eye care professional resources. New episodes available now.\n\n---",
       "tags": "acanthamoeba,ring,contact-lens,pain",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-08.mp3",
+      "duration": "12:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e0e5489b-6b78-49e4-aefc-460bb82fa0aa",
+      "generatedAt": "2026-08-09T08:56:43.396Z"
     },
     {
       "episodeOrder": 9,

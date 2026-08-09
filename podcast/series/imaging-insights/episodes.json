@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T06:14:42.552Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T06:15:12.295Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -154,14 +154,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Corneal Topography: The Axial, Tangential, and Elevation",
-      "description": "Reading the color map, the bowtie of astigmatism, and the inferior steepening of keratoconus.",
+      "title": "Corneal Topography: Axial, Tangential & Elevation Maps Explained",
+      "description": "What if you could map the human eye the same way a satellite maps the Earth's terrain? That's exactly what corneal topography does — and in this episode of Focus Cast, we break down the three essential maps every eye care professional and curious learner needs to understand: axial, tangential, and elevation.\n\nWe start with the **axial map**, the most widely used in clinical practice, and explore why its smooth, averaged view of corneal curvature makes it perfect for spotting overall patterns like regular astigmatism and the general shape of a keratoconus cone. Then we dive into the **tangential map**, the more sensitive, detail-oriented counterpart that picks up subtle local irregularities the axial map can miss — a critical tool for early keratoconus detection and post-surgical evaluation. Finally, we unpack the **elevation map**, a fundamentally different approach that measures actual corneal height relative to a best-fit reference sphere, giving clinicians a true three-dimensional picture of the corneal surface — including those all-important posterior elevation changes that can signal ectasia before it's even visible on the front surface.\n\nWhether you're a student trying to make sense of topography reports, a clinician looking to sharpen your diagnostic skills, or simply someone fascinated by the science of vision, this episode gives you a clear, practical framework for understanding how these three maps work together to reveal the full story of corneal health.\n\nNo jargon overload. No confusion. Just clear, engaging explanations that actually stick.\n\nListen now and transform the way you read corneal topography maps. Visit **focuslinks.in** for more episodes and eye care resources.\n\n---",
       "tags": "topography,axial,tangential,elevation",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-12.mp3",
+      "duration": "13:08",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ce25e761-2c4d-4f30-9ddd-c3f6d02d8b47",
+      "generatedAt": "2026-08-09T06:15:12.295Z"
     },
     {
       "episodeOrder": 13,

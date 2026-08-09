@@ -1,0 +1,180 @@
+{
+  "slug": "contact-lens-clinic",
+  "name": "Contact Lens Clinic",
+  "tagline": "Fitting and Managing Contact Lens Patients",
+  "description": "A 15-episode series on contact lens practice — soft and GP fitting, multifocal and scleral lenses, orthokeratology, and the complications every optometrist must recognise.",
+  "icon": "Disc3",
+  "accent": "#ea580c",
+  "category": "Contact Lens",
+  "order": 7,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T10:02:08.049Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Soft Contact Lens Materials: HEMA, Silicone Hydrogel, and Water Content",
+      "description": "The Dk/t values of modern materials, the water-content paradox, and choosing a material based on wearing schedule and tear film.",
+      "tags": "soft-lens,materials,silicone-hydrogel,dk-t",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "RGP Materials and Fitting Philosophy: When to Choose Rigid Over Soft",
+      "description": "The indications for RGP (irregular cornea, high astigmatism, presbyopia), the fluorescein pattern interpretation, and the base curve selection.",
+      "tags": "rgp,fluorescein,fitting,base-curve",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Spherical Soft Lens Fitting: Base Curve, Diameter, and Centration",
+      "description": "The fit assessment (centration, movement, lag), when to steepen or flatten the base curve, and the push for daily disposables.",
+      "tags": "spherical,fit-assessment,centration,daily-disposable",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Toric Soft Lens Fitting: Stabilisation Designs and Cylinder Axis",
+      "description": "The prism-ballast, double slab-off, and peri-ballast designs, the LARS and SAM rules for axis rotation, and when to adjust.",
+      "tags": "toric,stabilisation,lars,sam,rotation",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Multifocal Contact Lenses: Simultaneous vs Alternating Vision Designs",
+      "description": "The centre-distance vs centre-near designs, the add power selection, and the compromise between distance and near vision.",
+      "tags": "multifocal,simultaneous,centre-distance,presbyopia",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Monovision Fitting: Patient Selection and the Near Eye Choice",
+      "description": "The monovision success rate, the dominant-eye-for-distance rule, and when modified monovision (one MF, one SV) is the answer.",
+      "tags": "monovision,dominant-eye,modified-monovision",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Orthokeratology: Myopia Control and the Reverse-Geometry Lens",
+      "description": "The reverse-geometry lens design, the corneal reshaping mechanism, and the myopia control evidence and prescription guidelines.",
+      "tags": "ortho-k,orthokeratology,myopia-control,reverse-geometry",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Scleral Lens Fitting Fundamentals: Vault, Landing, and Edge",
+      "description": "The three-zone fitting (vault, landing zone, edge), the clearance targets, and when to choose a scleral over a corneal GP.",
+      "tags": "scleral-lens,vault,landing-zone,clearance",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Hybrid Contact Lenses: The SynergEys Design for Irregular Corneas",
+      "description": "The hybrid lens (GP centre, soft skirt), the indications (keratoconus, post-graft, INTACS), and the fitting and complications.",
+      "tags": "hybrid-lens,synergeys,keratoconus,irregular",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Contact Lens Complications: Infiltrative Events and CLARE",
+      "description": "Distinguishing sterile infiltrates from infectious ulcers, the CLARE syndrome, and the contact lens acute red eye management.",
+      "tags": "clare,infiltrate,sterile,complications",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Infectious Keratitis in Contact Lens Wearers: The Acanthamoeba Risk",
+      "description": "The overnight wear risk multiplier, the tap water and shower exposure for Acanthamoeba, and the red-flag symptoms requiring same-day referral.",
+      "tags": "infectious-keratitis,acanthamoeba,overnight-wear",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Giant Papillary Conjunctivitis: Staging and the Lens Holiday",
+      "description": "The four stages of GPC, the mast-cell stabiliser treatment, and when to refit with a daily disposable or scleral lens.",
+      "tags": "gpc,giant-papillary,mast-cell,lens-holiday",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "The Aging Contact Lens Patient: Presbyopia and the Occluder Test",
+      "description": "Transitioning the long-term soft lens wearer into multifocals, managing reduced tear quality, and the occluder adaptation test.",
+      "tags": "aging,presbyopia,multifocal-transition,tear-quality",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Specialty Lenses for Keratoconus: From Corneal GP to Scleral to Piggyback",
+      "description": "The keratoconus fitting ladder (corneal GP, Rose-K, scleral, piggyback), and the stage at which each becomes the right choice.",
+      "tags": "keratoconus,rose-k,piggyback,specialty-lens",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Contact Lens Care Systems: Hydrogen Peroxide vs Multipurpose",
+      "description": "The advantages of hydrogen peroxide (no preservative), the neutralisation step, and when multipurpose is acceptable and when it is not.",
+      "tags": "care-system,peroxide,multipurpose,disinfection",
+      "category": "Contact Lens",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

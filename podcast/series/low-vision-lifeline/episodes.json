@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T05:23:21.457Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T05:23:28.060Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "High-Add Spectacles: The Reading Restoration",
-      "description": "The +10 to +20 add, the bifocal and microscope designs, and the reading distance trade-off.",
+      "title": "High-Add Spectacles: Restoring Reading Vision That Matters",
+      "description": "Are you or a loved one struggling to read even with standard reading glasses? You might need high-add spectacles — and this episode explains exactly why they could change everything.\n\nIn this episode of Focus Cast by Focuslinks.in, we dive deep into the world of high-add spectacles, the precision-crafted prescription lenses designed for people who need significant magnification to see up close. Whether you are dealing with advanced presbyopia, low vision from conditions like macular degeneration or diabetic retinopathy, or simply need extreme clarity for detailed close work, high-add lenses offer a powerful, accessible solution that is often overlooked.\n\nWe cover who truly needs high-add lenses and why, what to expect when wearing them for the first time, how working distance and lens design affect your experience, and which lens materials and coatings deliver the best results. We also share a moving real-life story that shows just how transformative the right prescription can be — and practical tips to help you or someone you care about get the most out of high-add spectacles from day one.\n\nFrom understanding the difference between bifocals and progressive lenses to knowing how lighting and complementary low vision aids can dramatically improve your reading experience, this episode gives you everything you need to make an informed decision and take confident action.\n\nIf standard reading glasses are no longer enough, do not wait. Listen to this episode, then visit an eye care professional to explore your high-add options. Visit Focuslinks.in for more expert vision care resources and episodes designed to help you see the world more clearly.\n\n---",
       "tags": "high-add,spectacles,microscope,reading",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-08.mp3",
+      "duration": "12:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "496b75c4-7726-4e5f-b1f6-2f0c4805e707",
+      "generatedAt": "2026-08-09T05:23:28.060Z"
     },
     {
       "episodeOrder": 9,

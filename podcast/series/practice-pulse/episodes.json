@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T05:05:41.993Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T05:05:52.551Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -257,13 +257,15 @@
     {
       "episodeOrder": 20,
       "title": "Online Reviews: The Reputation That Precedes You",
-      "description": "The review request, the response strategy, and the recovery that turns a critic into a fan.",
+      "description": "What if a stranger's midnight opinion could make or break your business before you ever get a chance to speak for yourself? In this episode of Focus Cast by Focuslinks.in, we dive deep into the world of online reviews and why they've become the most powerful force shaping business reputation today.\n\nWe explore why 93% of consumers check reviews before spending money, how a single star increase on Yelp can drive up to 9% more revenue, and why people trust complete strangers online almost as much as their closest friends. From the viral cautionary tale of United Breaks Guitars to a boutique Edinburgh hotel that turned a bad review into a marketing win, this episode is packed with real-world examples that show exactly what's at stake.\n\nYou'll learn the right way to respond to both positive and negative reviews, why getting defensive online is a reputation killer, and how the simple \"Acknowledge, Apologize, Act\" framework can transform unhappy customers into loyal advocates. We also tackle the growing problem of fake reviews, how platforms are fighting back, and why authenticity will always outperform gaming the system.\n\nWhether you're a business owner trying to protect and grow your reputation, or a consumer who wants to understand the real power of your voice online, this episode will change the way you look at that little star rating forever.\n\nListen now and start managing your reputation with intention. Visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "reviews,reputation,response,recovery",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-20.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fa2f52db-2fe6-427e-bcde-40d69540a986",
+      "generatedAt": "2026-08-09T05:05:52.551Z"
     },
     {
       "episodeOrder": 21,

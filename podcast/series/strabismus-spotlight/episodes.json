@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T06:03:51.416Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T06:04:17.791Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -252,14 +252,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Adjustable Sutures: The Post-Op Fine-Tuning",
-      "description": "The awake adjustment, the timing, and the patient cooperation that makes it possible.",
+      "title": "Adjustable Sutures: Fine-Tuning Eye Surgery After the OR",
+      "description": "What if surgeons could correct your eye alignment *after* the operation was already done? That's exactly what adjustable sutures make possible — and it's one of the most fascinating techniques in modern ophthalmology. In this episode of Focus Cast, we break down how adjustable sutures work in strabismus surgery, why they lead to better outcomes than traditional methods, and what it actually feels like to be a patient during the post-operative adjustment phase.\n\nWe explore the science behind strabismus, the six extraocular muscles that control eye movement, and why even a two-millimeter shift can make or break a surgical result. You'll learn why the human body's unpredictability under anesthesia is the very problem this technique was designed to solve — and how a simple slip knot changed the way surgeons think about precision.\n\nWe also cover the history of adjustable sutures, first pioneered by Dr. Arthur Jampolsky in the 1970s, their limitations in pediatric cases, and how the same adaptive philosophy is now influencing glaucoma surgery, eyelid procedures, and the broader shift toward personalized medicine.\n\nWhether you're a patient researching strabismus surgery, a medical professional, or simply someone who loves discovering the surprising details behind everyday medicine, this episode will change the way you think about surgical precision and what it truly means to get something right.\n\nListen now and share this episode with anyone curious about the cutting edge of eye care. Visit Focuslinks.in for more episodes, articles, and in-depth medical content from Focus Cast.\n\n---",
       "tags": "adjustable,suture,cooperation,timing",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-20.mp3",
+      "duration": "11:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bad0ced2-8215-4ae8-8ef1-80e6b91152dd",
+      "generatedAt": "2026-08-09T06:04:17.791Z"
     },
     {
       "episodeOrder": 21,

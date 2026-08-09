@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T06:24:50.625Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T06:25:14.449Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -76,14 +76,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Carotid Disease: The Eye and the Stroke Risk",
-      "description": "The Hollenhorst plaque, the amaurosis fugax, and the carotid Doppler and surgical decision.",
+      "title": "Carotid Disease, Your Eyes, and Stroke Risk: What to Know",
+      "description": "Could a routine eye exam save you from a stroke? In this eye-opening episode of Focus Cast, we explore the powerful and often overlooked connection between carotid artery disease, eye health, and stroke risk — and why your eye doctor might be the first to catch a life-threatening problem in your blood vessels.\n\nWe break down what carotid artery disease actually is, how plaque buildup in the neck arteries silently raises your stroke risk, and why the eye is uniquely positioned as the body's earliest warning system. You'll learn about Hollenhorst plaques — tiny cholesterol fragments visible in the retina — and amaurosis fugax, the brief, painless loss of vision in one eye that signals a potential stroke is on the way. We also walk through the real risk factors, the warning signs you should never ignore, and the treatment options available when carotid disease is caught in time.\n\nWhether you have high blood pressure, high cholesterol, diabetes, or a history of smoking, this episode gives you the knowledge to act before a crisis strikes. Because a sudden, fleeting loss of vision is never \"just tiredness\" — it could be your body's most urgent warning signal.\n\nDon't wait for symptoms to become emergencies. Listen now, share this episode with someone you care about, and visit Focuslinks.in for more expert insights on eye health and overall wellness.\n\n---",
       "tags": "carotid,hollenhorst,amaurosis,doppler",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-06.mp3",
+      "duration": "12:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "51527510-1e22-4e04-93b7-503fe019c29f",
+      "generatedAt": "2026-08-09T06:25:14.449Z"
     },
     {
       "episodeOrder": 7,

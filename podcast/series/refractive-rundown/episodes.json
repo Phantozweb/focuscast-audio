@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T04:37:14.646Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T04:37:25.845Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "LASIK Candidacy: Who Qualifies and Who Does Not",
-      "description": "The refractive stability, the pachymetry floor, the topography screen, and the DED exclusion.",
+      "title": "LASIK Candidacy: Who Qualifies and Who Doesn't",
+      "description": "Thinking about LASIK but not sure if you're a good candidate? You're not alone — and this episode has the answers you've been looking for. In today's episode of Focus Cast by Focuslinks.in, we break down everything you need to know about LASIK candidacy, so you can walk into your consultation feeling informed and confident.\n\nWe cover the key factors eye surgeons evaluate before approving you for LASIK, including age and prescription stability, corneal thickness, and the role of conditions like keratoconus and dry eye disease. You'll learn exactly what prescription ranges LASIK can correct, why some high prescriptions may require alternative procedures like PRK or ICL, and how hormonal changes during pregnancy can affect your eligibility. We also walk you through what a real pre-operative LASIK evaluation looks like and what to expect at every step.\n\nWhether you've been seriously considering LASIK for years or just starting to explore your options, this episode gives you a clear, honest picture of who this procedure is right for — and why being told you don't qualify isn't the end of the road. A good surgeon's job is to find the safest path to clearer vision for your specific eyes, and we help you understand exactly how that process works.\n\nIf you found this episode helpful, share it with a friend or family member who's been wondering about LASIK. And for more expert insights on eye health and vision care, visit us at Focuslinks.in.\n\n---",
       "tags": "candidacy,stability,pachymetry,topography",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-04.mp3",
+      "duration": "12:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d4880e45-3cde-4ca3-9d09-0d0e722eab6a",
+      "generatedAt": "2026-08-09T04:37:25.845Z"
     },
     {
       "episodeOrder": 5,

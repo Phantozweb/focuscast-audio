@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T04:40:02.684Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T04:40:26.592Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -128,14 +128,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Presbyopia-Correcting IOLs: The Multifocal and EDOF Spectrum",
-      "description": "The diffractive, refractive, and extended depth of focus designs and the visual trade-offs of each.",
+      "title": "Presbyopia-Correcting IOLs: Multifocal vs EDOF Explained",
+      "description": "Still reaching for reading glasses after cataract surgery? You don't have to. In this episode of Focus Cast, we break down the rapidly evolving world of presbyopia-correcting intraocular lenses and explore how modern IOL technology is helping patients achieve clear vision at every distance — near, intermediate, and far — without relying on glasses.\n\nWe start with the basics: what presbyopia actually is, why it affects nearly every person over forty, and why a standard monofocal IOL often leaves patients disappointed. From there, we dive deep into the two dominant technologies reshaping cataract surgery outcomes today — multifocal IOLs and extended depth of focus (EDOF) IOLs.\n\nYou'll learn how multifocal lenses like the PanOptix and AT LISA tri split light across multiple focal points to deliver trifocal vision, how the brain adapts through neuroadaptation, and why halos and glare remain a key consideration. We then explore how EDOF lenses like the Symfony and Alcon's Vivity take a fundamentally different approach — stretching the focal range into a smooth, continuous corridor of vision with fewer visual disturbances.\n\nWe also cover enhanced monofocal lenses, the critical role of biometry and surgical planning, and why patient lifestyle and visual priorities should always drive lens selection conversations. Whether you're a patient preparing for cataract surgery or a clinician looking to stay current, this episode gives you a clear, practical framework for understanding the full presbyopia-correcting IOL spectrum.\n\nVisit [focuslinks.in](https://focuslinks.in) to explore more episodes and connect with trusted eye care resources.\n\n---",
       "tags": "iol,multifocal,edof,presbyopia",
       "category": "Cataract",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-10.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "011a9269-08ca-4b8b-a026-b093c99c08b6",
+      "generatedAt": "2026-08-09T04:40:26.591Z"
     },
     {
       "episodeOrder": 11,

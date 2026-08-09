@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T05:09:03.988Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T05:09:11.857Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -386,14 +386,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Burnout and Wellness: The Optometrist’s Long Game",
-      "description": "The signs, the boundaries, the colleague network, and the self-care that sustains a 40-year career.",
+      "title": "Optometrist Burnout: Wellness Strategies for the Long Game",
+      "description": "Are you finishing your workdays feeling drained, detached, or just going through the motions? You are not alone. Optometrist burnout is real, it is rising, and it is quietly reshaping careers across the profession. But it does not have to reshape yours.\n\nIn this episode of Focus Cast by Focuslinks.in, we take an honest, practical look at burnout in optometry — what it actually looks like, why eye care professionals are uniquely vulnerable to it, and the long game strategies that can help you build a career that sustains you rather than depletes you.\n\nWe cover the three clinical signs of burnout as defined by the World Health Organization, the specific pressures optometrists face from compassion fatigue, physical strain, and loss of clinical autonomy, and why quick fixes simply do not work. Instead, we walk through four powerful, sustainable wellness strategies: structural recovery, community and connection, reclaiming clinical meaning, and the identity audit that could change how you see your entire career.\n\nWhether you are a new graduate feeling the early signs of overwhelm or a seasoned practitioner wondering how much longer you can keep this pace, this episode is your reminder that wellness is not a reward you earn after everything else. It is the strategy.\n\nIf this conversation resonates with you, share it with a colleague who needs to hear it. Visit Focuslinks.in for more resources, insights, and episodes designed for the modern eye care professional.\n\n---",
       "tags": "burnout,wellness,boundaries,self-care",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Refraction",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-30.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c4ac5264-f868-4696-b956-025cef481684",
+      "generatedAt": "2026-08-09T05:09:11.857Z"
     }
   ]
 }

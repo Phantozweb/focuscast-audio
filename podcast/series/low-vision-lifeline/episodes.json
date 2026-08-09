@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T05:32:29.895Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T05:33:15.928Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -388,14 +388,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "End-of-Life Vision Care: The Dignity of Sight",
-      "description": "The comfort-focused approach, the environmental modification, and the compassion that closes the journey.",
+      "title": "End-of-Life Vision Care: Protecting Sight & Dignity",
+      "description": "What does it mean to truly honor someone in their final days? We talk about comfort, pain management, and emotional support — but we rarely ask whether the person at the center of it all can actually *see* the faces they love. In this deeply moving episode of Focus Cast, we explore one of the most overlooked aspects of palliative care: vision.\n\nNearly half of nursing home residents live with significant visual impairment — and much of it is treatable. Uncorrected prescriptions, missing glasses, poor lighting, and lack of low vision support quietly rob people of their connection to the world around them, right when that connection matters most. The result isn't just inconvenience. It's isolation, depression, confusion, and a loss of dignity that no one should have to face.\n\nWe also dive into the fascinating science behind end-of-life visions — those peaceful, vivid experiences reported by over 80% of dying patients — and explore how maintaining good physical vision may support a calmer, more present state in a person's final hours.\n\nFrom practical tips like keeping glasses clean and accessible, to improving room lighting, using large-print materials, and advocating for regular vision assessments in care settings, this episode gives families and caregivers real, actionable steps to protect the sight — and the dignity — of their loved ones.\n\nBecause a good death includes being able to see the people you love. And that's worth fighting for.\n\nVisit **Focuslinks.in** to explore more episodes, articles, and resources on vision health and eye care.\n\n---",
       "tags": "end-of-life,comfort,compassion,dignity",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-30.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "27dba6e2-8186-4259-9290-5d32d54eebe1",
+      "generatedAt": "2026-08-09T05:33:15.928Z"
     }
   ]
 }

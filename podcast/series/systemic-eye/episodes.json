@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T06:28:03.113Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T06:28:19.131Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -206,14 +206,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Tuberculosis: The Endemic and the Latent",
-      "description": "The IGRA, the chest CT, the latent treatment before biologics, and the uveitis that follows.",
+      "title": "Tuberculosis: The Silent Epidemic Living Inside Billions",
+      "description": "Did you know that roughly one in four people on the planet may be carrying tuberculosis right now without any symptoms? In this eye-opening episode of Focus Cast, we pull back the curtain on one of humanity's oldest and most persistent diseases — one that quietly kills over a million people every year yet rarely makes headlines.\n\nWe explore what makes tuberculosis an endemic disease, why countries like India bear a disproportionate global burden, and how poverty and inequality continue to fuel its spread. Then we dive deep into the fascinating and unsettling world of latent tuberculosis — what it means to carry dormant TB bacteria, what triggers reactivation, and why two billion people may be unknowingly at risk.\n\nWe also tackle the growing crisis of drug-resistant TB, including MDR-TB and XDR-TB, and examine why completing treatment is as much a social challenge as a medical one. From the fall of the Soviet Union to the setbacks caused by COVID-19, this episode connects the dots between global events and the quiet devastation of tuberculosis.\n\nWhether you are curious about global health, infectious diseases, or the hidden forces shaping public health policy, this episode will change the way you think about a disease hiding in plain sight. If you have risk factors or have spent time in high-burden regions, this conversation could genuinely matter for your health.\n\nListen now and share this episode with someone who deserves to know the full story of tuberculosis. Visit Focuslinks dot in for more focused, research-driven conversations on the topics that truly matter.\n\n---",
       "tags": "tb,igra,latent,biologics",
       "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-16.mp3",
+      "duration": "12:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "42915cb9-3b9c-445e-ad7a-d7f48f062d94",
+      "generatedAt": "2026-08-09T06:28:19.131Z"
     },
     {
       "episodeOrder": 17,

@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T08:35:29.912Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T08:35:35.369Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -113,14 +113,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Fluorescein Angiography: Phases, Leakage, and Blocking",
-      "description": "Interpreting the arterial, venous, and late phases — and distinguishing leakage from window defects.",
+      "title": "Fluorescein Angiography: Phases, Leakage & Window Defects Explained",
+      "description": "If fluorescein angiography interpretation has ever felt uncertain or inconsistent in your clinical workflow, this episode is your reset. In this focused, clinically driven episode of Focus Cast by Focuslinks.in, we break down fluorescein angiography from the ground up — built specifically for optometrists, residents, and eye care professionals who want a practical, systematic framework they can apply immediately.\n\nWe walk through every phase of the FA study — choroidal, arterial, arteriovenous, venous, and late — explaining exactly what each phase reveals about retinal perfusion and vascular integrity. More importantly, we tackle the single most critical interpretive skill in FA reading: distinguishing true leakage from window defects. These two patterns of hyperfluorescence can look deceptively similar in early phases, but their late-phase behavior tells completely different clinical stories — and confusing them leads to very different management decisions.\n\nYou'll learn how to recognize the FA signatures of diabetic macular edema, choroidal neovascularization in neovascular AMD, central serous chorioretinopathy, geographic atrophy, and retinal vascular occlusions. We also cover hypofluorescence from blocking — hemorrhage, pigment, and exudates — and how to localize the source anatomically.\n\nEvery finding is tied directly to chairside decision-making: when to observe, when to co-manage, and when to make an urgent referral to a retinal specialist. Whether you order FA studies yourself or interpret reports from retinal colleagues, this episode sharpens your clinical edge.\n\nVisit Focuslinks.in for more evidence-based content built exclusively for eye care professionals. Subscribe, share with a colleague, and keep your clinical skills as sharp as your optics.\n\n---",
       "tags": "fa,angiography,leakage,phases",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-09.mp3",
+      "duration": "12:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "74e58293-6f92-465d-be3e-70330d5c2801",
+      "generatedAt": "2026-08-09T08:35:35.369Z"
     },
     {
       "episodeOrder": 10,

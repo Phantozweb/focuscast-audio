@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T04:56:56.020Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T04:57:07.256Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Sympathetic Ophthalmia: The Bilateral Threat After Injury",
-      "description": "The fellow eye inflammation, the timing, and the immunosuppression that protects the good eye.",
+      "title": "Sympathetic Ophthalmia: When One Eye Injury Blinds Both",
+      "description": "What if injuring one eye could silently destroy the vision in your other eye — an eye that was never touched? That is the terrifying reality of Sympathetic Ophthalmia, and in this episode of Focus Cast, we break it all down in plain language you can actually understand.\n\nWe explore how a penetrating eye injury or intraocular surgery can trigger a misdirected immune response that attacks both eyes, why the eyes are considered immune-privileged sites, and what happens when that privilege is violated. You will learn about the exciting eye versus the sympathizing eye, the unpredictable timeline that can stretch from days to decades, and the hallmark clinical signs like Dalen-Fuchs nodules and mutton-fat keratic precipitates that help doctors make the diagnosis.\n\nWe also cover the full treatment landscape, from high-dose corticosteroids to long-term immunosuppressive therapy and emerging biologic agents, along with the evolving debate around enucleation versus evisceration. And we share the compelling historical connection between this condition and Louis Braille, whose childhood eye injury may have ultimately led to total blindness.\n\nWhether you are an eye care professional, a patient recovering from an eye injury, or simply someone who wants to understand how the immune system and the eyes interact, this episode delivers essential, potentially vision-saving information.\n\nIf you or someone you know has experienced a penetrating eye injury or eye surgery, this is one episode you cannot afford to miss. Listen now, and visit Focuslinks dot in for more expert content on eye health and ophthalmology.\n\n---",
       "tags": "sympathetic,ophthalmia,bilateral,immunosuppression",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-22.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f40ea8dd-86da-4ad7-b410-620623c5843d",
+      "generatedAt": "2026-08-09T04:57:07.256Z"
     },
     {
       "episodeOrder": 23,

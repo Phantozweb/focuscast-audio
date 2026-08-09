@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T04:54:09.657Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T04:54:45.972Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Preseptal Versus Orbital Cellulitis: The Line That Matters",
-      "description": "The proptosis, restricted motility, and pain on eye movement that separate the OR from the oral antibiotic.",
+      "title": "Preseptal vs Orbital Cellulitis: The Line That Matters",
+      "description": "A swollen, red eye walks into the emergency department — and the most important question isn't what you can see, it's what you can't. In this episode of Focus Cast, we break down one of medicine's most deceptively tricky distinctions: preseptal cellulitis versus orbital cellulitis. These two conditions can look nearly identical in the first few hours, yet one is manageable with oral antibiotics and a follow-up appointment, while the other can steal someone's vision or turn fatal within days.\n\nWe walk through the anatomy that makes this distinction possible — the orbital septum, that thin fibrous curtain separating a manageable eyelid infection from a sight-threatening orbital emergency. You'll learn the five clinical signs that separate preseptal from orbital cellulitis, including proptosis, ophthalmoplegia, and reduced visual acuity, and understand exactly why each one matters. We also cover when to order a CT scan, how sinusitis silently fuels orbital infections through the paper-thin lamina papyracea, and why children are disproportionately affected.\n\nFrom the Chandler classification system to the feared complication of cavernous sinus thrombosis, this episode gives you a complete, clinically grounded framework for approaching periorbital infections with confidence. Whether you're a medical student, resident, or seasoned clinician, this is the kind of systematic thinking that protects patients when the stakes are highest.\n\nListen now and carry something genuinely useful into your next clinical encounter. Visit Focuslinks.in for more episodes and resources built for curious minds in medicine.\n\n---",
       "tags": "cellulitis,preseptal,orbital,proptosis",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-17.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "54866a25-2863-4652-bf07-3ea37c21b7e6",
+      "generatedAt": "2026-08-09T04:54:45.972Z"
     },
     {
       "episodeOrder": 18,

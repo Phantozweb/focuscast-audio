@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T04:58:26.910Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T04:58:31.057Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,14 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Fireworks Injuries: The Holiday Surge",
-      "description": "The combined thermal and blunt trauma, the open globe protocol, and the prevention counseling.",
+      "title": "Fireworks Injuries: Why the Holiday Surge Keeps Happening",
+      "description": "Every Fourth of July, tens of thousands of people end up in emergency rooms across the United States — not from accidents or illness, but from fireworks. In this eye-opening episode of Focus Cast, we dig into the alarming reality behind fireworks injuries, the holiday surge that hospitals prepare for every single summer, and why this deeply preventable crisis keeps repeating itself year after year.\n\nYou might be surprised to learn that sparklers — those seemingly harmless sticks handed to toddlers at backyard parties — burn at up to 1,800 degrees Fahrenheit, hotter than molten gold. Or that around 10,000 people are treated in emergency rooms for fireworks-related injuries annually in the US alone, with roughly 70% of those injuries occurring in the weeks surrounding the Fourth of July. We break down which fireworks cause the most damage, who is most at risk, how alcohol plays a dangerous role, and what the data says about fireworks laws and injury rates across different states.\n\nFrom devastating real-life stories to practical safety advice backed by the Consumer Product Safety Commission, this episode gives you the specific, honest information that generic \"be careful\" warnings never do. Whether you are planning a backyard celebration, attending a neighborhood party, or simply want to protect the kids around you, this conversation could genuinely make a difference.\n\nListen now and share this episode with someone before the next holiday rolls around. For more thought-provoking episodes on the stories hiding in plain sight, visit Focus Cast at Focuslinks.in.\n\n---",
       "tags": "fireworks,thermal,blunt,prevention",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-27.mp3",
+      "duration": "12:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d25bc0ca-2be9-419c-8901-20aa0c2ebf73",
+      "generatedAt": "2026-08-09T04:58:31.057Z"
     },
     {
       "episodeOrder": 28,

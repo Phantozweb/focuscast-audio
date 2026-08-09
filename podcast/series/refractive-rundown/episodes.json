@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T04:44:20.720Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T04:44:51.677Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -271,14 +271,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Corneal Cross-Linking Combined With PRK: The CXL-Plus",
-      "description": "The simultaneous ablation and cross-linking for ectasia and the protocol and recovery.",
+      "title": "CXL-Plus: Corneal Cross-Linking Combined With PRK Explained",
+      "description": "What if you were told laser vision correction wasn't an option for you — and then discovered it actually was? In this episode of Focus Cast, we explore CXL-Plus, the groundbreaking combination of corneal cross-linking (CXL) and photorefractive keratectomy (PRK) that is transforming outcomes for patients with keratoconus, irregular astigmatism, and corneal ectasia.\n\nWe break down exactly how each procedure works — from how riboflavin and UV-A light strengthen weakening corneal fibers, to how the excimer laser precisely reshapes the corneal surface for clearer vision. More importantly, we explain why combining them is such a game-changer: fewer procedures, a compressed recovery timeline, and the real possibility of both a stable and significantly improved cornea.\n\nYou will learn who the ideal candidates are, how surgeons use corneal topography and wavefront-guided technology to customize treatment, and what the step-by-step procedure actually looks like in the operating room. We also cover what the latest research says about visual outcomes, what to realistically expect during recovery, and why this approach may even produce stronger cross-linking results than CXL performed alone.\n\nWhether you have been diagnosed with keratoconus, know someone navigating limited vision correction options, or simply want to stay informed about the latest advances in ophthalmology, this episode gives you a clear, thorough, and genuinely hopeful picture of what modern eye care can achieve.\n\nListen now and discover why CXL-Plus is one of the most exciting developments in corneal surgery today. For more eye health insights, visit us at focuslinks.in.\n\n---",
       "tags": "cxl-plus,prk,ectasia,combined",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-21.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "247450a3-5bbf-4154-91e8-23378d33d828",
+      "generatedAt": "2026-08-09T04:44:51.677Z"
     },
     {
       "episodeOrder": 22,

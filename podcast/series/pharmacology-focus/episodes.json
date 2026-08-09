@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T05:14:11.658Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T05:14:18.171Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Glaucoma Drops: The Prostaglandin Analogues",
-      "description": "Latanoprost, travoprost, bimatoprost — the once-daily dosing, the side effects, and the color change.",
+      "title": "Glaucoma Eye Drops: How Prostaglandin Analogues Work",
+      "description": "That tiny bottle of eye drops your doctor prescribed? It might be doing more than you think. In this episode of Focus Cast, we take a deep dive into prostaglandin analogues, the most widely prescribed class of glaucoma eye drops in the world, and break down everything you actually need to know about them.\n\nWe start with the basics of glaucoma and why lowering intraocular pressure is the cornerstone of treatment. Then we explore exactly how prostaglandin analogues like latanoprost, bimatoprost, travoprost, and tafluprost work, specifically by boosting fluid drainage through the uveoscleral pathway to reduce eye pressure by up to 35 percent.\n\nWe also cover the practical stuff: why these drops are used at night, how to use them correctly alongside other medications, and what to expect in terms of side effects. From mild eye redness to the surprising cosmetic changes like iris color shifts and eyelash growth, we explain what is normal, what to watch for, and why staying consistent with your drops matters more than most patients realize.\n\nWhether you have just been diagnosed with glaucoma, are supporting someone who has, or simply want to understand how these medications work, this episode gives you clear, trustworthy information without the medical jargon.\n\nGlaucoma is a long game, and the right knowledge can make all the difference in protecting your vision for years to come.\n\nListen now and visit Focuslinks.in for more episodes, articles, and resources on eye health.\n\n---",
       "tags": "pga,latanoprost,travoprost,bimatoprost",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-12.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "73e77cbd-85a4-488b-8a5a-4bf4c7ed2122",
+      "generatedAt": "2026-08-09T05:14:18.171Z"
     },
     {
       "episodeOrder": 13,

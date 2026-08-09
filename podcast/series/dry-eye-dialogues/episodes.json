@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T04:26:34.361Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T04:26:38.936Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -109,14 +109,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Ocular Surface Staining: Patterns and Severity",
-      "description": "NEI grid grading, the corneal versus conjunctival staining, and what the pattern tells you.",
+      "title": "Ocular Surface Staining: Patterns, Dyes & Severity Grading",
+      "description": "What is the surface of the eye really telling you? In this episode of Focus Cast, we decode one of the most clinically powerful tools in eye care — ocular surface staining. Whether you are a student building your diagnostic skills or a clinician looking to sharpen your ocular surface assessment, this episode breaks it all down in a way that is clear, practical, and immediately useful.\n\nWe start with the fundamentals — what ocular surface staining is, why damaged cells take up dye, and how the three key staining agents work. Fluorescein reveals where epithelial cells are missing, rose bengal highlights devitalized cells and mucus, and lissamine green offers a gentler alternative for conjunctival assessment. Each dye tells a different part of the story.\n\nThen we dive into staining patterns — and this is where clinical insight really begins. From inferior punctate epithelial erosions in dry eye disease to interpalpebral staining in aqueous deficiency, superior limbic keratoconjunctivitis, three and nine o'clock staining in RGP lens wearers, and medication-induced vortex changes, we walk through what each pattern means and what it points to diagnostically.\n\nFinally, we cover the major severity grading scales — the Oxford Scale, the NEI grading system, the DEWS II recommendations, and the Efron Scale — explaining when and why to use each one, and why context always matters more than the number alone.\n\nIf you want to get better at reading the ocular surface, this episode is your starting point. Listen now, and visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "staining,nei-grid,cornea,conjunctiva",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-09.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b63b8230-bba7-46db-82dc-2fdda87feca4",
+      "generatedAt": "2026-08-09T04:26:38.936Z"
     },
     {
       "episodeOrder": 10,

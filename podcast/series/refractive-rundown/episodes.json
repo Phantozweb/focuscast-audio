@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T04:40:41.547Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T04:41:02.146Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Toric IOLs: The Astigmatism Correction at the Lens Plane",
-      "description": "The calculation, the axis marking, the post-op rotation, and the enhancement decision.",
+      "title": "Toric IOLs Explained: How They Fix Astigmatism Inside Your Eye",
+      "description": "What if you could correct astigmatism permanently during cataract surgery — no glasses, no contacts, just clear vision? In this episode of Focus Cast, we break down everything you need to know about toric intraocular lenses (toric IOLs) and how they correct astigmatism right at the lens plane inside the eye.\n\nWe start with the fundamentals — what astigmatism actually is, why your cornea's rugby-ball shape causes that frustrating blur, and why simply replacing a cloudy lens during cataract surgery isn't always enough. Then we go deeper into the elegant optical science behind toric IOLs: how opposing curvatures cancel out astigmatic error, why rotational alignment must be precise to within a few degrees, and what happens when a lens shifts even slightly off target.\n\nYou'll also learn about the sophisticated preoperative planning that makes toric IOL surgery so effective — from corneal topography and posterior corneal astigmatism to surgically induced astigmatism and digital image-guided alignment systems. We cover who makes an ideal candidate, what realistic outcomes look like, and what to ask your surgeon before choosing a toric IOL.\n\nWhether you're preparing for cataract surgery, exploring refractive lens exchange, or simply curious about how modern ophthalmology solves complex vision problems, this episode gives you a clear, science-backed picture of one of the most impactful advances in eye surgery over the past two decades.\n\nListen now and share this episode with anyone navigating cataract surgery decisions. For more vision science content, visit us at focuslinks.in.\n\n---",
       "tags": "toric,iol,axis,rotation",
       "category": "Cataract",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-11.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e9736c9b-e9e6-4e6a-add7-0b1a6ca84da3",
+      "generatedAt": "2026-08-09T04:41:02.146Z"
     },
     {
       "episodeOrder": 12,

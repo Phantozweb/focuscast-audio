@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T08:24:13.723Z",
+  "lastUpdated": "2026-08-09T08:25:21.279Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 177,
+  "generatedEpisodes": 117,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -224,10 +224,10 @@
       "category": "Uveitis",
       "order": 15,
       "totalEpisodes": 30,
-      "generatedEpisodes": 30,
+      "generatedEpisodes": 0,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/episodes.json",
       "audioDir": "podcast/series/uveitis-unveiled/audio",
-      "lastUpdated": "2026-08-09T05:56:52.707Z"
+      "lastUpdated": null
     },
     {
       "slug": "oculoplastics-outlook",
@@ -239,10 +239,10 @@
       "category": "Oculoplastics",
       "order": 16,
       "totalEpisodes": 30,
-      "generatedEpisodes": 30,
+      "generatedEpisodes": 0,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/episodes.json",
       "audioDir": "podcast/series/oculoplastics-outlook/audio",
-      "lastUpdated": "2026-08-09T06:00:35.120Z"
+      "lastUpdated": null
     },
     {
       "slug": "strabismus-spotlight",
@@ -302,7 +302,7 @@
       "generatedEpisodes": 27,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/episodes.json",
       "audioDir": "podcast/series/clinical-calculus/audio",
-      "lastUpdated": "2026-08-09T08:24:02.464Z"
+      "lastUpdated": "2026-08-09T08:25:11.298Z"
     }
   ]
 }

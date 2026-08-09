@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T05:16:01.030Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T05:17:51.580Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -256,14 +256,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Steroids in the Vitreous: The Implant Revolution",
-      "description": "The dexamethasone and fluocinolone implants — the sustained release, the IOP risk, and the cataract progression.",
+      "title": "Steroids in the Vitreous: The Implant Revolution in Eye Care",
+      "description": "What if a single procedure could protect your patient's vision for years without repeated injections or clinic visits? In this episode of Focus Cast by Focuslinks.in, we explore one of the most transformative developments in modern ophthalmology: sustained-release steroid implants for retinal disease.\n\nWe break down why delivering medication to the back of the eye has always been so challenging, and how intravitreal steroid implants have changed the game for conditions like chronic uveitis, diabetic macular edema, and retinal vein occlusion. From the surgically placed Retisert with its three-year fluocinolone acetonide release, to the biodegradable Ozurdex dexamethasone implant that dissolves completely after four to six months, to the ultra-low-dose Iluvien designed for long-term diabetic macular edema management, we walk through each device, its clinical profile, its benefits, and its real-world limitations.\n\nWe also discuss the emerging concept of steroid responders, how clinicians are using shorter-acting implants to screen patients before committing to longer-duration devices, and why this stepwise approach reflects a more personalized era of retinal care. Plus, we look ahead at combination implants targeting both inflammation and VEGF simultaneously, and what the future of sustained drug delivery in ophthalmology might look like.\n\nWhether you are a retinal specialist, an ophthalmology trainee, or simply passionate about the science of vision, this episode offers a clear, clinically grounded look at how tiny devices are making an enormous difference in patients' lives.\n\nListen now and visit Focuslinks.in for more ophthalmology podcasts, articles, and educational resources.\n\n---",
       "tags": "implant,dexamethasone,fluocinolone,iop",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-20.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4254ed22-0353-469a-aed9-848c9a4f6a49",
+      "generatedAt": "2026-08-09T05:17:51.580Z"
     },
     {
       "episodeOrder": 21,

@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T05:14:51.990Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T05:15:16.032Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Alpha-2 Agonists: Brimonidine and the CNS Risk",
-      "description": "The IOP effect, the allergy rate, and the pediatric apnea warning.",
+      "title": "Brimonidine & CNS Risk: What Every Eye Care Pro Must Know",
+      "description": "Think eye drops stay in the eye? Think again. In this episode of Focus Cast by Focuslinks.in, we uncover the hidden CNS risks of brimonidine, one of the most widely prescribed alpha-2 agonists in glaucoma management, and why understanding its systemic effects could genuinely save a life.\n\nBrimonidine is effective at lowering intraocular pressure, but what happens when it crosses the blood-brain barrier? In healthy adults, the effects are mild. In infants, neonates, and young children, the consequences can be severe, including apnea, bradycardia, profound sedation, and respiratory depression. We walk through the pharmacology behind these effects, explain why an immature blood-brain barrier dramatically raises the stakes, and discuss real documented cases that turned brimonidine into a pediatric emergency.\n\nWe also explore the risks for elderly patients, breastfeeding mothers, and anyone on CNS depressants or antihypertensives, groups where systemic absorption through the nasolacrimal duct can trigger dangerous drug interactions. You will learn why punctal occlusion is a simple but powerful technique that can reduce systemic absorption by up to fifty percent, and what safer alternatives exist when brimonidine is contraindicated.\n\nWhether you are an ophthalmologist, optometrist, pharmacist, or medical student, this episode connects the pharmacology directly to the patient in front of you, helping you prescribe smarter, counsel more effectively, and recognize adverse effects before they escalate.\n\nListen now and share this episode with a colleague who prescribes or counsels patients on glaucoma medications. Visit Focuslinks.in for more clinical pharmacology episodes designed to keep your knowledge sharp and your patients safe.\n\n---",
       "tags": "alpha-2,brimonidine,allergy,pediatric",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-14.mp3",
+      "duration": "11:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "34c90103-1e46-4ca4-bb34-ad90db2350aa",
+      "generatedAt": "2026-08-09T05:15:16.032Z"
     },
     {
       "episodeOrder": 15,

@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T08:43:14.428Z",
+  "lastUpdated": "2026-08-09T08:43:35.346Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -147,15 +147,15 @@
     {
       "episodeOrder": 11,
       "title": "Pupil Examination: Direct & Consensual Light Reflex Explained",
-      "description": "Ever wondered what a doctor is actually looking for when they shine a torch into your eyes? In this episode of Focus Cast by Focuslinks.in, we break down one of the most elegant and diagnostically powerful tools in clinical medicine — the pupillary light reflex. We explore exactly how the direct and consensual reflex pathways work, tracing the neurological journey from the retina through the optic nerve, into the midbrain's pretectal nucleus, and back out through the third cranial nerve to produce pupil constriction in both eyes simultaneously.\n\nYou'll learn why both pupils constrict even when only one eye receives light, and why that matters enormously in clinical practice. We walk through the swinging flashlight test and explain how a relative afferent pupillary defect, or RAPD, can reveal optic nerve damage from conditions like optic neuritis, glaucoma, or retinal detachment. We also cover what a fixed dilated pupil signals about third cranial nerve compression, how Horner's syndrome points to disruptions in the sympathetic pathway, and what Adie's tonic pupil tells us about the ciliary ganglion.\n\nWhether you're a student preparing for optometry or medical exams, a healthcare professional refreshing your clinical knowledge, or simply someone who loves understanding how the human body works, this episode gives you a clear, accessible, and genuinely fascinating look at pupil examination from the inside out.\n\nListen now and discover just how much story your pupils are silently telling. Visit Focuslinks.in for more episodes, resources, and everything eye care.\n\n---",
+      "description": "Ever wondered what a doctor is actually looking for when they shine a light in your eye? It turns out that tiny reflex reveals far more than you might think. In this episode of Focus Cast, we break down the pupillary light reflex in a way that's clear, engaging, and genuinely fascinating — whether you're a medical student, a healthcare professional, or simply someone who loves understanding how the human body works.\n\nWe walk you through the complete neural pathway of the direct pupillary response, tracing the signal from the retina through the optic nerve, into the midbrain's pretectal nucleus, through the Edinger-Westphal nucleus, and back down the oculomotor nerve to the iris. Then we explore the consensual response and explain exactly why the opposite pupil constricts even when no light has entered it — all thanks to the bilateral wiring of the visual pathway through the posterior commissure.\n\nBut we don't stop at anatomy. We go deep into the clinical significance of these responses, covering afferent and efferent pupillary defects, the relative afferent pupillary defect (RAPD), the swinging flashlight test, blown pupils in uncal herniation, and Horner's syndrome. Real diagnostic scenarios show just how much information a simple pupil check can reveal — from optic neuritis and multiple sclerosis to life-threatening raised intracranial pressure.\n\nIf you're studying ophthalmology, neurology, or clinical medicine, this episode is essential listening. And if you're just curious about the human body, prepare to be amazed.\n\nListen now and share with a classmate or colleague who'd love this. Visit Focuslinks.in for more episodes and learning resources from Focus Cast.\n\n---",
       "tags": "pupils,anisocoria,rapd,neuro",
-      "category": "Glaucoma",
+      "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-11.mp3",
-      "duration": "12:31",
+      "duration": "12:26",
       "imageUrl": "",
       "status": "generated",
-      "runId": "5db8e7ee-f511-411d-acc4-20f23ceec0f7",
-      "generatedAt": "2026-08-09T08:43:13.633Z"
+      "runId": "ecbd1b68-1608-4d80-9ad4-061ad1531798",
+      "generatedAt": "2026-08-09T08:43:34.757Z"
     },
     {
       "episodeOrder": 12,

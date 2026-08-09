@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T06:00:58.620Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T06:01:27.814Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -154,14 +154,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Duane Syndrome: The Congenital Miswiring",
-      "description": "The limited abduction, the narrowing of the palpebral fissure, and the head turn compensation.",
+      "title": "Duane Syndrome: The Congenital Eye Miswiring Explained",
+      "description": "What if the way someone tilts their head or moves their eyes isn't a habit — but a story written into their DNA before they were even born? In this episode of Focus Cast, we dive deep into Duane Syndrome, a fascinating congenital eye movement disorder that affects millions of people worldwide and remains one of the most compelling windows into how the human nervous system develops.\n\nWe break down exactly what Duane Syndrome is, why it happens, and what makes it so unique. You'll learn how the absence of the abducens nerve during fetal development leads to a remarkable neurological workaround — where a neighboring nerve essentially hijacks control of the wrong muscle, causing the eye to retract and the eyelid to narrow during certain movements. It sounds alarming, but the reality is far more nuanced and, honestly, pretty extraordinary.\n\nWe also explore what life with Duane Syndrome actually looks like — from compensatory head turns to near-normal vision, from surgical options to the many people who need no treatment at all. Plus, we look at what studying this condition has revealed about neuroplasticity, cranial nerve development, and a broader family of genetic disorders that researchers are only beginning to fully understand.\n\nWhether you're a curious listener, a healthcare student, a parent navigating a new diagnosis, or someone living with Duane Syndrome yourself, this episode offers clear, science-backed insights delivered in plain language.\n\nListen now and discover why this rare condition is teaching scientists so much about the incredible complexity of the human brain and body. Visit us at focuslinks.in for more eye health content, and share this episode with anyone who loves exploring the science behind how we see the world.\n\n---",
       "tags": "duane,miswiring,abduction,fissure",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-12.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6b0242f1-ece5-49eb-b937-db697c080a87",
+      "generatedAt": "2026-08-09T06:01:27.814Z"
     },
     {
       "episodeOrder": 13,

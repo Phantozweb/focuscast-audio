@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T04:33:16.724Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T04:33:28.641Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -313,14 +313,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Sjögren’s Syndrome: The Systemic Connection",
-      "description": "The sicca triad, the SSA/SSB antibodies, and the systemic rheumatology referral that follows.",
+      "title": "Sjögren's Syndrome: The Systemic Connection You Need to Know",
+      "description": "Dry eyes and a dry mouth might seem like minor annoyances, but what if they were warning signs of something far more serious? In this eye-opening episode of Focus Cast, we dive deep into Sjögren's Syndrome, one of the most common yet chronically misunderstood autoimmune diseases affecting millions of people worldwide. If you've been living with unexplained fatigue, joint pain, brain fog, or persistent dryness and still don't have answers, this episode could change everything.\n\nWe break down exactly what Sjögren's Syndrome is, how the immune system turns against the body's own moisture-producing glands, and why the condition goes far beyond dryness. From kidney involvement and interstitial lung disease to peripheral neuropathy and vasculitis, we explore the full systemic reach of this condition that takes an average of nearly three years to diagnose. We also cover how doctors diagnose Sjögren's, what treatment options currently exist, and why patient advocacy is finally moving the needle on research and awareness.\n\nWhether you're newly diagnosed, still searching for answers, or supporting someone who is, this episode gives you the knowledge to ask better questions, recognize overlooked symptoms, and advocate for the care you deserve. Sjögren's Syndrome doesn't stay in one place, and neither should your understanding of it.\n\nListen now and share this episode with anyone who might be silently struggling with symptoms they can't explain. For more health episodes, resources, and expert breakdowns, visit us at Focuslinks.in.\n\n---",
       "tags": "sjogren,sicca,ssa,rheumatology",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Dry Eye",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-25.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "587be6e5-e9d0-46cb-8d45-fe5f89a06a54",
+      "generatedAt": "2026-08-09T04:33:28.641Z"
     },
     {
       "episodeOrder": 26,

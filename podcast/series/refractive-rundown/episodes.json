@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T04:46:55.597Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T04:47:18.121Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -323,14 +323,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Corneal Inlays: The Kamra and Raindrop Story",
-      "description": "The small-aperture and refractive inlays and the market withdrawal and lessons learned.",
+      "title": "Corneal Inlays: The Kamra & Raindrop Story Explained",
+      "description": "What if a device smaller than a contact lens could eliminate your reading glasses forever? That was the bold promise of corneal inlays — and for millions of people struggling with presbyopia, it felt like the answer they had been waiting for. In this episode of Focus Cast, we take a deep dive into the fascinating and cautionary tale of two groundbreaking devices: the Kamra inlay and the Raindrop Near Vision Inlay.\n\nWe explore how presbyopia affects an estimated two billion people worldwide and why the demand for a surgical fix is so powerful. You'll learn exactly how corneal inlays work, what made the Kamra's small aperture optics so innovative, and why the Raindrop's biomechanical approach seemed so elegantly simple — until it wasn't. We walk through the clinical successes, the commercial struggles, the FDA approvals, and ultimately, the market withdrawals that left patients and surgeons searching for answers.\n\nMore importantly, we unpack what these stories teach us about the gap between early promising results and long-term real-world performance — and why that gap matters enormously in medicine. From corneal haze to nutrient diffusion, from AcuFocus to ReVision Optics, this episode covers the science, the business, and the human stakes behind two of the most ambitious ideas in modern refractive surgery.\n\nIf you or someone you know is dealing with presbyopia and exploring vision correction options, this episode is essential listening. The landscape is evolving fast, and understanding the history helps you ask better questions.\n\nVisit Focuslinks.in for more episodes, eye health resources, and the latest in vision science. Subscribe, share, and keep seeing the world clearly.\n\n---",
       "tags": "inlays,kamra,small-aperture,withdrawal",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-25.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4b11c9e8-e370-4b65-9f63-6e184bb48288",
+      "generatedAt": "2026-08-09T04:47:18.121Z"
     },
     {
       "episodeOrder": 26,

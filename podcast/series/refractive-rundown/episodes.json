@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T04:43:25.767Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T04:43:51.840Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Dry Eye After LASIK: The Corneal Nerve Cut",
-      "description": "The neurotrophic effect, the 6-month recovery curve, and the aggressive DED management that helps.",
+      "title": "Dry Eye After LASIK: Why Corneal Nerve Cuts Matter",
+      "description": "Did you know that LASIK surgery severs thousands of corneal nerves — and that this is the real reason so many patients develop dry eye afterward? In this eye-opening episode of Focus Cast, we break down exactly what happens inside your cornea during LASIK, why cutting those nerves disrupts your eye's natural tear production feedback loop, and what that means for your vision and comfort in the months that follow.\n\nWe explore how the cornea's dense nerve network communicates with your lacrimal gland to regulate tear production, what happens when that communication is interrupted, and why dry eye after LASIK can persist for anywhere from six months to two years. You will also hear a relatable patient story that illustrates the real, lived experience of post-LASIK dry eye — the kind of honest conversation that too often gets skipped before surgery.\n\nBut this episode is not just about the problem. We cover the full range of treatments available today, from artificial tears and prescription anti-inflammatory drops to autologous serum eye drops and cutting-edge neurostimulation therapy. We also compare LASIK with alternatives like PRK and SMILE, which cause significantly less corneal nerve damage and may be better options for patients already prone to dry eye.\n\nWhether you are considering laser vision correction, recovering from LASIK, or simply curious about how your eyes work, this episode gives you the science, the stories, and the practical guidance you need to make informed decisions about your eye health.\n\nVisit Focuslinks dot in to explore more episodes, articles, and expert resources on vision care and eye health.\n\n---",
       "tags": "lasik,dry-eye,neurotrophic,recovery",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-17.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "246dc816-78eb-4c34-ab75-590bc34c272f",
+      "generatedAt": "2026-08-09T04:43:51.840Z"
     },
     {
       "episodeOrder": 18,

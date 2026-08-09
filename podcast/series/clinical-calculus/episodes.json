@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T06:47:04.376Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T06:50:41.679Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "When to Refer: The Threshold and the Timing",
-      "description": "The urgent, the soon, and the elective — the framework that guides the referral letter.",
+      "title": "When to Refer: Knowing the Threshold and the Timing",
+      "description": "What separates a good professional from a great one? Knowing when to let someone else take the lead. In this episode of Focus Cast, we dive deep into one of the most critical yet underappreciated skills in any helping profession — when to refer a client, patient, or student, and how to do it well.\n\nWhether you are a therapist, school counselor, doctor, coach, or any kind of helping professional, the decision to refer is rarely black and white. We explore the concept of referral thresholds — the signals that tell you a situation has moved beyond your scope of practice, your therapeutic fit, or your personal capacity. We also unpack the timing problem: why professionals hesitate, what that hesitation costs, and what acting at the right moment actually looks like in practice.\n\nAlong the way, we tackle the real barriers that delay referrals — professional ego, client attachment, weak referral networks, and client resistance — and offer practical guidance on how to have the referral conversation in a way that feels collaborative rather than like abandonment. You will also learn why a warm referral is almost always more effective than a cold handoff, and why the ability to refer well is a mark of genuine clinical strength.\n\nIf you work in a helping profession and want to sharpen your judgment, protect your clients, and grow as a practitioner, this episode is for you.\n\nListen now and ask yourself the one question that could change how you show up for the people in your care. Then visit Focuslinks.in for more episodes and resources designed to help professionals do their best work.\n\n---",
       "tags": "refer,threshold,timing,letter",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-19.mp3",
+      "duration": "12:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d3301e63-1d0d-44c1-acc3-45e60b9cac9a",
+      "generatedAt": "2026-08-09T06:50:41.075Z"
     },
     {
       "episodeOrder": 20,

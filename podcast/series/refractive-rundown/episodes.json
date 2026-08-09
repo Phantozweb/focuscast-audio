@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T04:39:33.863Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T04:40:02.684Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Phakic IOLs: The ICL for High Myopia",
-      "description": "The implantable collamer lens, the anterior chamber depth requirement, and the vault and safety monitoring.",
+      "title": "ICL Surgery for High Myopia: The LASIK Alternative That Works",
+      "description": "If your prescription is too high for LASIK, there's a life-changing solution most people have never heard of — the ICL, or Implantable Collamer Lens. In this episode of Focus Cast, we break down everything you need to know about Phakic IOLs and why the ICL has become the gold standard in vision correction for people with high myopia.\n\nWe start by exploring what high myopia really means — prescriptions of minus six diopters and beyond — and why it carries serious long-term risks beyond just blurry vision. Then we dive deep into how the ICL works: a biocompatible lens placed inside your eye alongside your natural lens, not replacing it. No corneal reshaping. No permanent structural changes. And yes, it's completely reversible.\n\nYou'll learn exactly what the procedure involves, who makes an ideal candidate, and what recovery looks like. We also cover the latest advancement — the EVO ICL — and why its innovative design has made it the preferred choice in clinics worldwide. With patient satisfaction rates exceeding 95% and outcomes that routinely deliver 20/20 vision or better, the numbers speak for themselves.\n\nWhether you've been told LASIK isn't right for you, or you're simply exploring your options, this episode gives you the clarity you need to take the next step with confidence.\n\nReady to find out if the ICL is right for you? Visit Focuslinks.in for more expert eye health resources and to connect with a qualified refractive surgeon near you.\n\n---",
       "tags": "icl,phakic,vault,high-myopia",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-08.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e0170285-a33a-486c-b688-ae308ca212e6",
+      "generatedAt": "2026-08-09T04:40:02.684Z"
     },
     {
       "episodeOrder": 9,

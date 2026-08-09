@@ -9,7 +9,7 @@
   "order": 12,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T05:05:40.949Z",
+  "lastUpdated": "2026-08-09T05:05:41.993Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -245,16 +245,14 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Social Media for Your Practice: Strategy That Actually Works",
-      "description": "Are your practice's social media posts getting ignored? You're not alone — and you're probably making the same mistakes most professionals make without even realizing it. In this episode of Focus Cast, we go beyond the basics to uncover the real strategy behind effective social media for medical clinics, law firms, therapy offices, dental practices, and any professional service business.\n\nWe start with the mindset shift that changes everything: social media isn't a billboard — it's a conversation. From there, we break down the powerful three E's content framework — Educate, Engage, and Elevate — showing you exactly how to create posts that build trust, attract the right clients or patients, and position you as the go-to expert in your field.\n\nWe also tackle the platform question head-on, helping you stop spreading yourself thin across every channel and start showing up with focus and consistency where it actually matters. Plus, we explore why authenticity outperforms perfection every time, and how letting your real voice come through is your single greatest competitive advantage in a crowded digital space.\n\nWhether you're just getting started with social media for your practice or you've been posting without results, this episode gives you a clear, practical roadmap to turn your social presence into a genuine growth engine.\n\nVisit [focuslinks.in](https://focuslinks.in) for more no-fluff insights to help your practice grow smarter. New episodes drop every week — subscribe so you never miss one.\n\n---",
+      "title": "Social Media for the Practice: Beyond the Selfie",
+      "description": "The content calendar, the platform choice, and the patient engagement that fills the chair.",
       "tags": "social-media,content,engagement,platform",
       "category": "Practice Management",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-19.mp3",
-      "duration": "12:28",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "0dd47e9d-64a5-45a9-a077-4466f4530a06",
-      "generatedAt": "2026-08-09T05:05:40.949Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 20,
@@ -280,14 +278,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Compliance: HIPAA, OSHA, and the QAPI",
-      "description": "The risk assessment, the staff training, and the documentation that passes the audit.",
+      "title": "HIPAA, OSHA & QAPI: Healthcare Compliance Explained",
+      "description": "What do HIPAA, OSHA, and QAPI have in common? They're the three pillars holding up every safe, ethical, and high-performing healthcare organization — and understanding them could be the difference between thriving and facing a million-dollar fine.\n\nIn this episode of Focus Cast, we break down the most critical healthcare compliance frameworks in plain, straightforward language. We start with HIPAA, the Health Insurance Portability and Accountability Act, exploring how it protects patient privacy, what the Privacy Rule, Security Rule, and Breach Notification Rule actually require, and why even well-meaning employees can trigger costly violations. Then we shift to OSHA, the Occupational Safety and Health Administration, and uncover a surprising truth — healthcare workers face higher on-the-job injury rates than construction workers. We dig into bloodborne pathogen standards, hazard communication, ergonomics, and the powerful General Duty Clause that leaves no hazard unaddressed. Finally, we explore QAPI, Quality Assurance and Performance Improvement, and how this proactive framework transforms reactive problem-solving into a culture of continuous, data-driven excellence — especially in long-term care settings.\n\nMost importantly, we show you how these three frameworks don't just coexist — they reinforce each other to create safer patients, healthier workforces, and stronger organizations overall.\n\nWhether you're a healthcare leader, a frontline worker, or simply someone who wants to understand how the healthcare system is supposed to work, this episode gives you the knowledge to take action.\n\nListen now, and then share this episode with someone in your network who needs it. For more episodes and resources, visit us at Focuslinks.in.\n\n---",
       "tags": "compliance,hipaa,osha,qapi",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-22.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "61699cad-b441-469e-ba14-abae84e06960",
+      "generatedAt": "2026-08-09T05:05:41.993Z"
     },
     {
       "episodeOrder": 23,

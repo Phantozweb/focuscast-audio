@@ -1,0 +1,180 @@
+{
+  "slug": "cornea-confidential",
+  "name": "Cornea Confidential",
+  "tagline": "Anterior Segment Frontlines",
+  "description": "Cornea, conjunctiva, tear film, and anterior chamber — infectious keratitis, dystrophies, ectasias, cross-linking, endothelial disorders, and anterior chamber grading.",
+  "icon": "Eye",
+  "accent": "#0891b2",
+  "category": "Cornea",
+  "order": 3,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:33.000Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Corneal Anatomy: The Five Layers and Why Each Matters",
+      "description": "From epithelium to endothelium — how each layer contributes to clarity and where disease strikes.",
+      "tags": "anatomy,cornea,layers,clarity",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Epithelium: The First Barrier and Its Common Failures",
+      "description": "Abrasions, erosions, and the recurrent erosion syndrome that follows seemingly minor trauma.",
+      "tags": "epithelium,abrasion,erosion,recurrent",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Bowman’s Layer: Where Scars Begin",
+      "description": "Why superficial keratectomy matters and how trauma here leaves permanent opacities.",
+      "tags": "bowmans,scar,trauma,keratectomy",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Stroma: Collagen Architecture and Edema Mechanics",
+      "description": "How stromal lamellae maintain transparency and the osmotic forces that cause corneal swelling.",
+      "tags": "stroma,collagen,edema,transparency",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Descemet’s Membrane and Endothelium: The Pump That Keeps the Cornea Clear",
+      "description": "Endothelial pump function, guttae, and why counting cells changes the management plan.",
+      "tags": "endothelium,descemets,pump,guttae",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Bacterial Keratitis: The Ulcer at the Slit Lamp",
+      "description": "Differentiating bacterial from fungal and Acanthamoeba — the morphological clues that guide empiric therapy.",
+      "tags": "bacterial,ulcer,keratitis,infection",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Fungal Keratitis: Feathery Edges and Satellite Lesions",
+      "description": "Recognizing fungal morphology, the risk factors of trauma and contact lens wear, and the referral threshold.",
+      "tags": "fungal,satellite,feathery,keratitis",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Acanthamoeba Keratitis: The Ring and the Agony",
+      "description": "The ring infiltrate, disproportionate pain, and why early diagnosis is the only chance to save the eye.",
+      "tags": "acanthamoeba,ring,contact-lens,pain",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Herpes Simplex Keratitis: Dendrites, Disciform, and the Steroid Trap",
+      "description": "Epithelial versus stromal HSV — the fluorescein staining pattern and the topical steroid decision.",
+      "tags": "hsv,dendrite,disciform,steroid",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Herpes Zoster Ophthalmicus: Hutchinson’s Sign and Beyond",
+      "description": "Forehead vesicles, the nasociliary branch, and the ocular complications that demand slit lamp follow-up.",
+      "tags": "hzv,shingles,hutchinson,zoster",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Corneal Dystrophies: Map-Dot-Fingerprint and Granular",
+      "description": "The anterior and stromal dystrophies an optometrist will see — patterns, inheritance, and management.",
+      "tags": "dystrophy,granular,map-dot,inheritance",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Fuchs’ Endothelial Dystrophy: Guttae, Edema, and the Transplant Threshold",
+      "description": "Morning blur, confluent guttae, and monitoring corneal thickness until DSAEK or DMEK becomes necessary.",
+      "tags": "fuchs,guttae,edema,dsaek",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Keratoconus: The Ectatic Cone and Early Detection",
+      "description": "Topographic signs, fleischer ring, and the cross-linking referral that halts progression.",
+      "tags": "keratoconus,ectasia,topography,cxl",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Corneal Cross-Linking: Halting the Ectatic Slide",
+      "description": "The epi-off and epi-on protocols, what to expect during recovery, and post-CXL optometry care.",
+      "tags": "cxl,cross-linking,ectasia,protocol",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Pellucid Marginal Degeneration: The “Keratoconus Lookalike”",
+      "description": "The inferior crab-claw topographic pattern and why standard contact lens fitting fails these patients.",
+      "tags": "pmd,marginal,crab-claw,ectasia",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

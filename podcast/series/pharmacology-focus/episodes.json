@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T05:10:37.666Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T05:11:07.690Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Fortified Antibiotics: When the Bug Outruns the Drop",
-      "description": "Compounding vancomycin and tobramycin, the dosing schedule, and the inpatient-versus-outpatient line.",
+      "title": "Fortified Antibiotics: When Eye Infections Fight Back",
+      "description": "What happens when the antibiotic eye drops your doctor prescribed simply stop working? In this eye-opening episode of Focus Cast, we dive deep into the growing crisis of antibiotic resistance in eye care — and the powerful, little-known solution that ophthalmologists are turning to when standard treatments fail.\n\nYou'll learn how bacteria evolve in real time to outsmart the drugs designed to kill them, why resistance rates to common antibiotic eye drops have surpassed fifty percent in some populations, and what fortified antibiotic eye drops actually are — specially compounded, high-concentration preparations that can be up to twenty times stronger than anything available off the shelf.\n\nWe break down how fortified drops like tobramycin, cefazolin, and vancomycin are being used to treat serious conditions like bacterial keratitis, where an untreated or under-treated corneal infection can lead to permanent vision loss. We also get honest about the challenges — the short shelf life, the grueling hourly dosing schedules, the cost, and the limited availability in rural areas.\n\nBeyond the treatment itself, we explore the root causes of antibiotic resistance, the role of overprescribing in creating this crisis, and the emerging science of bacteriophages and antimicrobial peptides that may shape the future of infection treatment.\n\nWhether you are a patient, a caregiver, or simply someone who wants to make smarter health decisions, this episode gives you the knowledge to understand what is really happening when an infection does not respond — and why finishing your full course of antibiotics matters more than you think.\n\nListen now and visit Focuslinks.in for more episodes that make complex science genuinely accessible.\n\n---",
       "tags": "fortified,vancomycin,tobramycin,compounding",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-03.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9b09a686-669f-4eaf-b827-1ff8cfe7fbe5",
+      "generatedAt": "2026-08-09T05:11:07.690Z"
     },
     {
       "episodeOrder": 4,

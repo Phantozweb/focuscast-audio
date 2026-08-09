@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T08:30:17.618Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T08:30:21.352Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -70,14 +70,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Visual Acuity: More Than a Snellen Letter",
-      "description": "Distance, near, contrast, and low-vision acuity — choosing the right chart and interpreting the number.",
+      "title": "Visual Acuity Beyond Snellen: Charts, Contrast & Low Vision",
+      "description": "If you're still relying on a single Snellen fraction to assess your patients' visual function, you're missing critical clinical data — and your patients are feeling it. In this episode of Focus Cast by Focuslinks.in, we go deep into the full spectrum of visual acuity testing that every optometrist and eye care professional needs to master in clinical practice.\n\nWe break down why the LogMAR scale and ETDRS chart outperform traditional Snellen testing for tracking disease progression in conditions like diabetic macular edema and age-related macular degeneration. You'll learn how to standardize near acuity testing using M notation, why working distance documentation is non-negotiable, and how to translate near acuity findings into real-world magnification prescriptions for low vision patients.\n\nWe also tackle contrast sensitivity — the dimension of visual function most closely tied to real-world complaints like night driving difficulty and low-light reading struggles. Learn when to reach for the Pelli-Robson or Mars Letter Contrast Sensitivity Test, and which conditions — including cataracts, glaucoma, and optic neuritis — produce clinically significant contrast sensitivity loss even when Snellen acuity appears intact.\n\nFinally, we walk through a practical chairside decision-making framework that connects your acuity findings to targeted workups involving slit lamp examination, OCT, IOP measurement, topography, and appropriate referral pathways.\n\nWhether you're an optometry resident building your clinical foundation or a seasoned practitioner refining your diagnostic approach, this episode delivers evidence-based, immediately applicable insights for your next clinic session.\n\nVisit Focuslinks.in for more clinical content built exclusively for optometrists and eye care professionals.\n\n---",
       "tags": "acuity,snellen,logmar,contrast",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-06.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c5f88568-a2c2-416e-a9e3-53c11a2a8c14",
+      "generatedAt": "2026-08-09T08:30:21.352Z"
     },
     {
       "episodeOrder": 7,

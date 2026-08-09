@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T06:32:01.333Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T06:32:32.790Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -364,14 +364,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Nutritional Optic Neuropathy: The Deficiency and the Recovery",
-      "description": "The B12 and thiamine and copper deficiencies, the tobacco-alcohol amblyopia, and the supplementation.",
+      "title": "Nutritional Optic Neuropathy: Deficiency, Damage & Recovery",
+      "description": "Could your diet be quietly stealing your vision? In this eye-opening episode of Focus Cast, we dive deep into Nutritional Optic Neuropathy (NON), a serious but often overlooked condition where deficiencies in key vitamins like B12, folate, thiamine, and copper gradually damage the optic nerve and rob you of your central vision.\n\nWe break down exactly how Nutritional Optic Neuropathy develops, why the optic nerve is so vulnerable to nutritional deficiencies, and what that telltale central blind spot really means for your eyesight. You'll learn which groups are most at risk, including people on plant-based diets, those who have had bariatric surgery, heavy drinkers, and anyone with nutrient absorption issues, and why this condition isn't limited to regions of food scarcity.\n\nWe also walk through how Nutritional Optic Neuropathy is diagnosed, why it's so frequently mistaken for other eye diseases, and what the recovery process actually looks like. The good news? When caught early and treated with the right nutritional support, real vision recovery is possible. Color perception returns, central vision improves, and nerve function can stabilize.\n\nMost importantly, this is a condition that is largely preventable. With the right diet, targeted supplementation, and regular eye health monitoring, you have genuine power to protect your optic nerve before damage ever begins.\n\nIf you've noticed subtle changes in your central vision, struggle with color perception, or simply want to understand how nutrition shapes your eye health, this episode is essential listening.\n\nVisit Focus Cast at focuslinks.in for more episodes on vision science and eye health. Share this episode with someone whose vision, and nutrition, matters to you.\n\n---",
       "tags": "nutrition,b12,thiamine,supplement",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-28.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4aa1c092-8fd9-46a0-8220-070d725496d7",
+      "generatedAt": "2026-08-09T06:32:32.790Z"
     },
     {
       "episodeOrder": 29,

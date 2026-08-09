@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T05:23:00.050Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T05:23:21.457Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -115,14 +115,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Telescopes: Distance and Near, Galilean and Keplerian",
-      "description": "The 4x and 6x systems, the bioptic driving application, and the spotting and trade-off.",
+      "title": "Telescopes Explained: Galilean vs Keplerian & Deep Space",
+      "description": "What happens when a couple of kids play with lenses in a Dutch spectacle shop? They accidentally change the course of human history. In this episode of Focus Cast, we explore the fascinating world of telescopes — how they work, why two brilliantly different designs emerged in the early 1600s, and what it truly means to observe objects separated from us by unimaginable distances.\n\nWe trace the telescope's origin from Hans Lippershey's humble workshop to Galileo's revolutionary sky-gazing sessions, breaking down exactly how a Galilean telescope uses a convex objective lens paired with a concave eyepiece to produce a bright, upright image — perfect for terrestrial viewing. Then we dive into the Keplerian telescope, where two convex lenses create an inverted but far more powerful image with a wider field of view and a real focal point — the design principle that still powers every serious astronomical instrument today, including the James Webb Space Telescope.\n\nBut the most mind-bending part? Distance. When you look at the moon, you're seeing light from 1.25 seconds ago. When you look at the Andromeda Galaxy, you're seeing light that traveled for 2.5 million years. A telescope isn't just a tool for seeing far — it's a time machine pointed at the universe's past.\n\nWhether you're a curious beginner or a seasoned stargazer, this episode will deepen your appreciation for the simple tube of glass that unlocked the cosmos. Visit Focuslinks.in to explore more episodes and ideas that help you see the world — and the universe — more clearly.\n\n---",
       "tags": "telescope,galilean,keplerian,bioptic",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-09.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "797fc004-c1f6-4b27-ba0b-e9b75bb1aa68",
+      "generatedAt": "2026-08-09T05:23:21.457Z"
     },
     {
       "episodeOrder": 10,

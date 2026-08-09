@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T05:51:09.366Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T05:51:22.475Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Sebaceous Cell Carcinoma: The Masquerader",
-      "description": "The recurrent chalazion, the pagetoid spread, and the map biopsy and aggressive surgery.",
+      "title": "Sebaceous Cell Carcinoma: The Cancer That Masquerades",
+      "description": "Could a recurring bump on your eyelid actually be cancer? In this eye-opening episode of Focus Cast, we dive deep into sebaceous cell carcinoma, one of the most misdiagnosed and underrecognized cancers in medicine. Known in the medical world as \"the masquerader,\" this rare but serious eyelid cancer has a dangerous habit of disguising itself as everyday conditions like styes, chalazions, and chronic blepharitis, sometimes fooling both patients and doctors for months or even years.\n\nWe break down exactly what sebaceous carcinoma is, how sebaceous glands become cancerous, and why the eyelid is its most common hiding place. You'll learn who is most at risk, including older adults, people of Asian descent, those with a history of radiation therapy, and individuals with the inherited Muir-Torre syndrome. We also explore the cancer's most alarming trait, pagetoid spread, an invisible lateral movement of cancer cells across the eye's surface that makes early detection critically important.\n\nFrom the diagnostic challenges that even experienced pathologists face, to the gold-standard treatments including Mohs micrographic surgery, map biopsies, and emerging immunotherapy options, this episode gives you a comprehensive, medically grounded understanding of a cancer that deserves far more attention than it gets.\n\nMost importantly, you'll walk away knowing the warning signs to watch for, the questions to ask your doctor, and why advocating for a biopsy on a recurrent eyelid lesion could be life-saving.\n\nKnowledge is the most powerful tool against a cancer that thrives in the shadows. Listen now, and visit Focuslinks.in for more episodes and resources.\n\n---",
       "tags": "sebaceous,masquerade,pagetoid,map-biopsy",
       "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-15.mp3",
+      "duration": "12:10",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c5d90d32-9bb3-4a57-a62a-73d916ec8518",
+      "generatedAt": "2026-08-09T05:51:22.475Z"
     },
     {
       "episodeOrder": 16,

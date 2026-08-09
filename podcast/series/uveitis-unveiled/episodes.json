@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T05:35:25.560Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T05:35:31.584Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -133,14 +133,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Sarcoidosis: The Great Mimic of Uveitis",
-      "description": "The candle-wax drippings, the ACE and chest CT, and the steroid-responsive but chronic course.",
+      "title": "Sarcoidosis & Uveitis: Unmasking the Great Eye Mimic",
+      "description": "Could a mysterious eye condition be hiding a life-changing systemic diagnosis? In this eye-opening episode of Focus Cast, we dive deep into sarcoidosis — the \"great mimicker\" — and explore how it masquerades as uveitis in ways that challenge even the most experienced clinicians.\n\nSarcoidosis is a systemic inflammatory disease that forms granulomas across multiple organs, including the eyes. When it targets the uvea, it can present as anterior, intermediate, posterior, or panuveitis, making it notoriously difficult to diagnose. We break down the classic clinical clues that should raise red flags — from mutton fat keratic precipitates and iris nodules to candle wax drippings along retinal vessels — and explain why recognizing these signs early can be vision-saving.\n\nWe also walk through the full diagnostic workup, including serum ACE levels, chest imaging for bilateral hilar lymphadenopathy, and the gold standard of non-caseating granulomas on biopsy. You will learn why distinguishing sarcoidosis from tuberculosis is critical, how treatment strategies range from topical steroids to biologic agents, and why the eye is sometimes the very first place sarcoidosis reveals itself.\n\nWhether you are an ophthalmologist, optometrist, medical student, or a patient navigating a long diagnostic journey, this episode gives you the clinical clarity and systemic perspective you need to understand sarcoid uveitis fully.\n\nTune in, stay curious, and remember — the eye is a window to the entire body. Visit Focuslinks.in for more episodes and resources on eye health and ophthalmology.\n\n---",
       "tags": "sarcoid,candle-wax,ace,ct",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-11.mp3",
+      "duration": "12:53",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a304acb5-7d83-4677-a8bf-99da0f3986f4",
+      "generatedAt": "2026-08-09T05:35:31.584Z"
     },
     {
       "episodeOrder": 12,

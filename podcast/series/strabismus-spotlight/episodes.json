@@ -9,7 +9,7 @@
   "order": 17,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-09T06:21:27.269Z",
+  "lastUpdated": "2026-08-09T06:21:40.672Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,16 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Strabismus Surgery Explained: Recession and Resection",
-      "description": "What actually happens when a surgeon corrects misaligned eyes? In this episode of Focus Cast, we break down strabismus surgery in a way that finally makes sense, no medical degree required. Whether you are a parent watching your child struggle with a turned eye, or an adult dealing with double vision and wondering what your options are, this episode gives you the clarity you have been looking for.\n\nWe start with the basics of strabismus, what it is, why it happens, and why it is about so much more than appearance. Then we dive deep into the two core surgical techniques that ophthalmologists use to restore eye alignment: recession, the procedure that weakens an overacting muscle by moving its attachment point further back, and resection, the procedure that strengthens an underacting muscle by shortening it. Together, these two techniques form the foundation of strabismus correction worldwide.\n\nWe also walk you through what to expect on surgery day, how recovery typically unfolds, why some patients need more than one procedure, and how surgeons calculate the precise amount of correction needed using prism diopters and dosage tables. We even touch on adjustable suture surgery, a fascinating technique that allows real-time fine-tuning after the patient wakes up.\n\nBy the end of this episode, you will understand exactly how strabismus surgery works and why it has the power to transform not just vision, but confidence, connection, and quality of life.\n\nListen now and share this episode with anyone navigating a strabismus diagnosis. For more eye health resources, visit Focuslinks dot in.\n\n---",
+      "title": "Strabismus Surgery Explained: Recession & Resection",
+      "description": "Ever wondered what actually happens when a surgeon corrects misaligned eyes? In this episode of Focus Cast, we break down strabismus surgery — one of the most transformative yet least understood procedures in eye care — with a clear, jargon-free explanation of the two core techniques: recession and resection.\n\nWe start with the basics of strabismus, exploring why eyes fall out of alignment and how the six extraocular muscles control eye movement. From there, we dive deep into how a recession procedure weakens an overacting muscle by repositioning it further back on the eye, and how a resection strengthens an underacting muscle by shortening it — and why surgeons so often use both techniques together in a single operation.\n\nYou'll also learn what patients can realistically expect before, during, and after surgery, including recovery time, the possibility of needing more than one procedure, and the fascinating technique of adjustable sutures that allows surgeons to fine-tune alignment while the patient is awake. We also explore the emotional impact of strabismus on children and adults alike, because this surgery isn't just about millimeters of muscle — it's about confidence, connection, and quality of life.\n\nWhether you're a patient weighing your options, a parent researching treatment for your child, a medical student, or simply someone curious about how the human eye works, this episode gives you a thorough, accessible, and genuinely engaging look at strabismus surgery.\n\nListen now and share this episode with anyone who might benefit from understanding their treatment options. For more eye care content, visit us at focuslinks.in.\n\n---",
       "tags": "surgery,recession,resection,adjustable",
-      "category": "Strabismus",
+      "category": "Pediatric",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-19.mp3",
-      "duration": "12:13",
+      "duration": "12:28",
       "imageUrl": "",
       "status": "generated",
-      "runId": "20fc3ee7-4674-4e49-a443-ef81eb3935fd",
-      "generatedAt": "2026-08-09T06:15:44.013Z"
+      "runId": "70cbb1cc-96bc-4021-ad9c-dabb6efecdb5",
+      "generatedAt": "2026-08-09T06:21:40.672Z"
     },
     {
       "episodeOrder": 20,

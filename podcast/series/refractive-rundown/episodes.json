@@ -9,7 +9,7 @@
   "order": 10,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T04:44:18.559Z",
+  "lastUpdated": "2026-08-09T04:44:20.720Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,16 +234,14 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Ectasia After LASIK: The Refractive Surgery Complication",
-      "description": "What if LASIK left your vision worse than before — permanently? Post-refractive surgery ectasia is a rare but devastating complication that every LASIK candidate and eye care professional needs to understand. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into corneal ectasia after refractive surgery — what it is, why it happens, and what can be done when it does.\n\nWe break down the biomechanics of the cornea and explain exactly how procedures like LASIK, PRK, and SMILE can, in rare cases, trigger progressive corneal weakening that mimics keratoconus. You will learn about the key risk factors surgeons screen for — including subclinical keratoconus, thin corneas, and high myopia — and discover the advanced diagnostic tools like corneal tomography and biomechanical assessment devices that are transforming pre-operative screening.\n\nWe also cover the treatment landscape in detail, from corneal collagen cross-linking (CXL), the gold-standard therapy for halting ectasia progression, to scleral lenses for visual rehabilitation, intrastromal corneal ring segments, and corneal transplantation techniques like DALK for the most advanced cases.\n\nWhether you are a patient researching your refractive surgery options, a student studying corneal disease, or a clinician looking for a clear clinical overview, this episode delivers the science and the human story behind one of ophthalmology's most important complications.\n\nListen now and share this episode with anyone considering laser eye surgery or working in eye care. For more episodes and eye health resources, visit Focuslinks.in.\n\n---",
+      "title": "Ectasia After Refractive Surgery: The Catastrophic Complication",
+      "description": "The risk factors, the early detection with OCT, and the cross-linking that halts the progression.",
       "tags": "ectasia,complication,cxl,detection",
       "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-18.mp3",
-      "duration": "12:18",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "022dee29-f48f-4487-9b3f-0073df3eb56a",
-      "generatedAt": "2026-08-09T04:44:18.559Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 19,
@@ -260,14 +258,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Refractive Surgery in Presbyopes: The Monovision Trial",
-      "description": "The contact lens trial, the dominance and adaptation, and the patient satisfaction data.",
+      "title": "Monovision Trial: Refractive Surgery Guide for Presbyopes",
+      "description": "Can laser eye surgery really free you from reading glasses after 40? The answer is more nuanced than most patients expect — and it all comes down to one critical step that separates successful outcomes from surgical regret.\n\nIn this episode of Focus Cast, we dive deep into refractive surgery for presbyopes, exploring why correcting distance vision alone is not enough once the aging lens loses its flexibility. We unpack the concept of monovision — the elegant technique of correcting one eye for distance and deliberately leaving the other slightly myopic for near vision — and explain exactly why the monovision contact lens trial is a non-negotiable part of responsible surgical planning.\n\nYou will learn how the monovision trial works in practice, what the clinical data says about patient adaptation rates, how to determine the right amount of myopic correction for the near eye, why ocular dominance testing is essential, and which patients are most likely to thrive with this approach. We also cover mini-monovision as a gentler alternative, how the same principles apply to cataract surgery and refractive lens exchange, and where presbyopia correction is headed with emerging technologies like corneal inlays, pharmacological drops, and extended depth of focus lenses.\n\nWhether you are a clinician counselling presbyopic patients, an optometry or ophthalmology student building your clinical knowledge, or someone personally considering refractive surgery, this episode gives you the practical framework to make informed, confident decisions.\n\nListen now and discover why the monovision trial might be the most important two weeks between a patient and a life-changing surgical outcome. Explore more episodes and resources at Focuslinks dot in.\n\n---",
       "tags": "presbyopia,monovision,trial,dominance",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-20.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5d597b3d-66c0-4cbe-8d9e-533740dd1b6d",
+      "generatedAt": "2026-08-09T04:44:20.720Z"
     },
     {
       "episodeOrder": 21,

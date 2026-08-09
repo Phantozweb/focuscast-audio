@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T04:40:35.785Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T04:40:41.547Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -154,14 +154,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Corneal Relaxing Incisions: The LRIs and the Astigmatism",
-      "description": "The manual and femtosecond LRIs, the coupling ratio, and the timing relative to cataract surgery.",
+      "title": "Corneal Relaxing Incisions: How LRIs Fix Astigmatism",
+      "description": "What if a tiny arc-shaped cut could change the way you see the world? In this episode of Focus Cast by Focuslinks.in, we break down one of the most elegant yet underappreciated techniques in eye surgery — Limbal Relaxing Incisions, or LRIs — and explore how they help surgeons correct astigmatism with remarkable precision.\n\nWe start from the very beginning, explaining what astigmatism actually is, why the rugby-ball-shaped cornea causes blurry and distorted vision, and why leaving it uncorrected after cataract surgery can seriously compromise your results. From there, we walk you through exactly how LRIs work, how surgeons use nomograms to calculate incision length, depth, and placement, and why the cornea's own natural biomechanics do most of the heavy lifting.\n\nYou will also learn about the history of corneal relaxing incisions, the role of pioneers like Dr. Louis Nichamin, and how the technique has evolved from early astigmatic keratotomy into today's refined, laser-assisted approaches. We honestly discuss the limitations of LRIs, when toric intraocular lenses or femtosecond laser alternatives might be the better choice, and why LRIs still hold a vital place in the modern surgical toolkit.\n\nWhether you are a patient preparing for cataract surgery, a student studying ophthalmic procedures, or simply someone curious about how the eye works, this episode gives you a clear, jargon-free understanding of a procedure that quietly transforms vision every day.\n\nListen now and share this episode with anyone navigating their cataract surgery options. Visit Focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "lri,relaxing,incisions,astigmatism",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-12.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c9d970a4-4e6b-4d79-9aea-83761e320ab1",
+      "generatedAt": "2026-08-09T04:40:41.547Z"
     },
     {
       "episodeOrder": 13,

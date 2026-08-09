@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-09T08:27:31.633Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T08:33:49.012Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -24,14 +24,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "The Optic Disc: Cup, Rim, and the ISNT Rule",
-      "description": "Reading neuroretinal rim symmetry and recognizing the earliest glaucomatous and pathological changes.",
+      "title": "The Optic Disc: Cup, Rim & the ISNT Rule Explained",
+      "description": "Are you reading the optic disc as carefully as your patients deserve? In this clinical episode of Focus Cast, we go deep on one of the most underread structures in routine optometric practice — the optic nerve head. Designed exclusively for licensed optometrists, residents, and eye care professionals, this episode breaks down the anatomy of the optic cup and neuroretinal rim, explains why the cup-to-disc ratio alone is not enough, and shows you exactly how to apply the ISNT rule at the slit lamp to catch the earliest signs of glaucomatous damage before your patient loses a single degree of visual field.\n\nWe cover the normal neuroretinal rim thickness pattern, why inferior notching is your earliest red flag, and how violations of the ISNT rule should immediately shape your clinical thinking. You will also get a practical differential diagnosis that separates glaucomatous optic neuropathy from AION, compressive optic neuropathy, optic neuritis, and large physiologic cups — because not every suspicious disc is glaucoma.\n\nFrom chairside decision-making to OCT interpretation, pachymetry, 24-2 visual field analysis, and risk-stratified monitoring schedules, this episode gives you a complete, evidence-based clinical framework you can apply starting with your very next patient. We also discuss when to refer, how to document your reasoning, and which patient populations carry the highest glaucoma risk.\n\nIf you want to sharpen your optic nerve evaluation skills and build more confident, defensible clinical decisions around glaucoma suspects, this episode is essential listening. Subscribe to Focus Cast and visit focuslinks.in for more clinical episodes built specifically for eye care professionals.\n\n---",
       "tags": "optic-disc,isnt,cup,glaucoma",
-      "category": "Optic Nerve",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-02.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0ddf5cb3-dc9c-4705-a8f8-235dd3186cfa",
+      "generatedAt": "2026-08-09T08:33:49.012Z"
     },
     {
       "episodeOrder": 3,

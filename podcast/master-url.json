@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:53:46.961Z",
+  "lastUpdated": "2026-08-09T05:53:50.616Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 471,
+  "generatedEpisodes": 472,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -239,10 +239,10 @@
       "category": "Oculoplastics",
       "order": 16,
       "totalEpisodes": 30,
-      "generatedEpisodes": 21,
+      "generatedEpisodes": 22,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/episodes.json",
       "audioDir": "podcast/series/oculoplastics-outlook/audio",
-      "lastUpdated": "2026-08-09T05:53:35.173Z"
+      "lastUpdated": "2026-08-09T05:53:45.946Z"
     },
     {
       "slug": "strabismus-spotlight",

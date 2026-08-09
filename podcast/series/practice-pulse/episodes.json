@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T05:08:37.599Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T05:08:45.720Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -334,14 +334,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "The Doctor’s Schedule: Template Design",
-      "description": "The slot types, the buffer, the emergency fit, and the template that balances access and revenue.",
+      "title": "Doctor Schedule Template Design: Work Smarter, Not Harder",
+      "description": "Is your clinic day running you instead of the other way around? In this episode of Focus Cast, we break down exactly how to design a doctor schedule template that protects your energy, reduces burnout, and helps you deliver better patient care without working longer hours.\n\nMost medical schedules are built around availability, not intention. The result? Constant task switching, zero buffer time, and a day that falls apart by noon. We walk you through the four essential building blocks of a high-performing doctor schedule template: appointment type clustering, strategic buffer time, peak performance hour protection, and intentional end-of-day design.\n\nYou will learn why grouping similar appointment types dramatically reduces mental fatigue, how a simple fifteen-minute buffer can keep your entire clinic day on track, and why the way your day ends is just as important as how it begins. We also cover how to use your practice management system to lock your ideal template directly into the booking process, and how to advocate for smarter scheduling even in larger hospital systems.\n\nWhether you are a solo practitioner, part of a group practice, or a healthcare administrator looking to improve clinic flow, this episode gives you practical, immediately actionable strategies rooted in real-world medical settings.\n\nA well-designed schedule is one of the most underrated tools in medicine. It improves patient satisfaction, reduces physician burnout, and creates a calmer, more efficient practice for your entire team.\n\nListen now and take back control of your workday. For more tools and episodes like this one, visit Focuslinks dot in.\n\n---",
       "tags": "schedule,template,slots,buffer",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-26.mp3",
+      "duration": "12:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "67cdcd6f-09c3-4829-955d-0373ca48e56b",
+      "generatedAt": "2026-08-09T05:08:45.720Z"
     },
     {
       "episodeOrder": 27,

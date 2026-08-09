@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T08:37:33.369Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T08:37:44.621Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -50,14 +50,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Stroma: Collagen Architecture and Edema Mechanics",
-      "description": "How stromal lamellae maintain transparency and the osmotic forces that cause corneal swelling.",
+      "title": "Corneal Stroma: Collagen Architecture & Edema Mechanics",
+      "description": "Why is the cornea transparent — and what exactly happens when it stops being? In this clinically focused episode of Focus Cast, we break down the ultrastructural science behind corneal stromal transparency and the osmotic mechanics that drive corneal edema, giving you the evidence-based framework you need at the slit lamp every single day.\n\nWe start with the Maurice lattice theory and explain how the precise spacing and uniformity of type I collagen fibrils — maintained by proteoglycans like keratocan and lumican — produce destructive interference and preserve optical clarity. From there, we explore the endothelial pump mechanism, stromal swelling pressure, and exactly what goes wrong when deturgescence fails.\n\nOn the clinical side, we walk through the slit lamp findings of early and advanced stromal edema, including Descemet's membrane folds, microcystic epithelial changes, and bullous keratopathy. We cover pachymetry thresholds, specular microscopy benchmarks, and a practical differential diagnosis spanning Fuchs endothelial corneal dystrophy, pseudophakic bullous keratopathy, contact lens-induced hypoxia, and herpetic disciform keratitis.\n\nYou will also get clear chairside decision-making guidance — from hypertonic saline management to timely referral for DMEK or DSAEK — plus a critical clinical pearl on how elevated IOP compounds endothelial failure.\n\nWhether you are a seasoned corneal practitioner or an optometry resident building your clinical foundation, this episode delivers practical, immediately applicable knowledge for your daily practice.\n\nNew episodes of Focus Cast are available at focuslinks.in — your dedicated resource for evidence-based optometric education built exclusively for eye care professionals.\n\n---",
       "tags": "stroma,collagen,edema,transparency",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-04.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e9a43644-092e-43de-acd9-cf96ee31635a",
+      "generatedAt": "2026-08-09T08:37:44.621Z"
     },
     {
       "episodeOrder": 5,

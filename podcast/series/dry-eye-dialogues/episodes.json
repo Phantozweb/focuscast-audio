@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T04:30:13.375Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T04:30:26.512Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -213,14 +213,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Lid Hygiene: The Foundation of MGD Management",
-      "description": "Warm compress technique, lid scrubs, and the patient routine that transforms chronic DED.",
+      "title": "Lid Hygiene & MGD: Fix Dry Eyes at the Root Cause",
+      "description": "Waking up with gritty, red, or uncomfortable eyes? The answer might not be in your eye drops — it could be hiding right at the edge of your eyelids. In this episode of Focus Cast, we unpack Meibomian Gland Dysfunction (MGD), the surprisingly common condition responsible for up to 86% of all dry eye cases, and explain why lid hygiene is the single most important thing you can do to manage it.\n\nWe break down exactly what Meibomian glands are, how they keep your eyes comfortable, and what happens when they get blocked by thickened oil, bacterial biofilm, or an overpopulation of Demodex mites. More importantly, we walk you through a practical, step-by-step lid hygiene routine — warm compresses, lid massage, and lid scrubs — explaining the science behind each step so you understand not just what to do, but why it works.\n\nWhether you wear contact lenses, spend hours in front of screens, or have been relying on artificial tears that only offer temporary relief, this episode will help you see your eye discomfort in a completely new light. We also cover who is most at risk, why prevention matters before permanent gland damage occurs, and why consistency is the key that most people miss.\n\nIf you've been told your eyes look fine but they still don't feel fine, this episode is for you. Listen in, then speak to your eye care professional about getting your Meibomian glands properly assessed. Visit Focuslinks.in for more episodes and resources to help you protect your eye health every day.\n\n---",
       "tags": "lid-hygiene,compress,scrubs,routine",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-17.mp3",
+      "duration": "12:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ccdcbd98-e007-4dff-8167-8521de71b44c",
+      "generatedAt": "2026-08-09T04:30:26.512Z"
     },
     {
       "episodeOrder": 18,

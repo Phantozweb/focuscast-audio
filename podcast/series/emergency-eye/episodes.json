@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T04:58:56.030Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T04:58:57.901Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -261,15 +261,15 @@
     {
       "episodeOrder": 20,
       "title": "Corneal Abrasion & Pseudomonas Risk for Contact Lens Wearers",
-      "description": "What starts as a minor eye scratch can turn into a sight-threatening emergency within hours — and if you wear contact lenses, you need to hear this. In this episode of Focus Cast, we break down exactly why contact lens wearers face a uniquely elevated risk when it comes to corneal abrasions and Pseudomonas aeruginosa, one of the most aggressive bacterial infections the eye can encounter.\n\nWe walk you through the science behind how a disrupted corneal epithelium becomes an entry point for Pseudomonas, why this bacteria moves so fast once it reaches corneal tissue, and how a simple abrasion can escalate into a full-blown corneal ulcer in a matter of hours. You'll learn which contact lens habits dramatically increase your risk — including sleeping in lenses, wearing them in water, and poor lens case hygiene — and what the early warning signs of Pseudomonas keratitis actually look like.\n\nWe also cover how this infection is treated, why timing is everything, and the straightforward preventive steps every contact lens wearer should be following consistently. Whether you've been wearing contacts for years or you're just starting out, this episode gives you the knowledge to protect your vision before a small problem becomes a serious one.\n\nIf your eye ever feels uncomfortable in your lenses, this episode will remind you exactly why you shouldn't ignore it. Listen now, and share this with anyone in your life who wears contact lenses. For more eye care insights and resources, visit us at focuslinks.in.\n\n---",
+      "description": "What starts as a minor eye scratch can turn into a vision-threatening infection within hours — and if you wear contact lenses, you need to hear this. In this episode of Focus Cast, we break down the serious connection between corneal abrasion and Pseudomonas aeruginosa, one of the most aggressive bacterial threats facing contact lens wearers today.\n\nWe cover exactly what a corneal abrasion is, why contact lens wearers face a uniquely elevated risk, and how Pseudomonas — a fast-moving, tissue-destroying bacterium — can turn a simple scratch into a deep corneal ulcer before you even realize something is wrong. You'll learn how everyday habits like sleeping in lenses, rinsing with tap water, overwearing dailies, and neglecting your lens case can silently set the stage for a dangerous infection.\n\nMore importantly, we walk you through practical, evidence-based prevention strategies that can dramatically reduce your risk, and tell you exactly what to do if you suspect a corneal abrasion, including when to seek emergency eye care and what treatment typically looks like.\n\nWhether you've been wearing contact lenses for years or you're just getting started, this episode could genuinely protect your vision. The habits that put your eyes at risk are surprisingly common — and surprisingly easy to change.\n\nListen now, and then share this episode with every contact lens wearer you know. For more eye health insights and resources, visit us at focuslinks.in.\n\n---",
       "tags": "abrasion,cl-wearer,pseudomonas,stop-wear",
       "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-20.mp3",
-      "duration": "12:24",
+      "duration": "11:55",
       "imageUrl": "",
       "status": "generated",
-      "runId": "099da307-7ba0-4007-803d-ed5a81d784bf",
-      "generatedAt": "2026-08-09T04:55:42.387Z"
+      "runId": "070dc058-3b83-4633-abad-fec35eff0f55",
+      "generatedAt": "2026-08-09T04:58:57.305Z"
     },
     {
       "episodeOrder": 21,
@@ -377,16 +377,14 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Eye Emergencies in the ER: Ophthalmology Co-Management Guide",
-      "description": "What happens when a patient with a red, painful eye walks into a packed emergency department at two in the morning? In this episode of Focus Cast, we explore one of medicine's most underappreciated collaborations — the co-management of ophthalmic emergencies between emergency medicine physicians and ophthalmologists.\n\nEye complaints make up two to three percent of all ER visits globally, and many of them are genuinely vision-threatening. Yet studies show that emergency physicians consistently feel underprepared to handle them. From chemical burns and open globe injuries to acute angle-closure glaucoma and central retinal artery occlusion, the stakes are high and the treatment windows are narrow.\n\nWe break down what effective co-management actually looks like in practice — how ER teams can quickly identify true ophthalmic emergencies, when to call the on-call ophthalmologist and when not to, and how structured communication between specialties can dramatically improve patient outcomes. We also explore cutting-edge approaches like stroke pathways for retinal artery occlusion, telemedicine slit lamp consultations, and simulation-based cross-specialty training.\n\nWhether you're an emergency physician wanting to sharpen your eye for ocular emergencies, or an ophthalmologist looking to build stronger relationships with your ER colleagues, this episode gives you practical, actionable insights grounded in real clinical scenarios.\n\nBecause behind every red eye in that waiting room is a person wondering if they'll ever see clearly again. The answer often depends on how well two specialties work together.\n\nListen now and visit Focuslinks.in for more episodes, resources, and focused medical conversations that help you deliver better care.\n\n---",
+      "title": "The Eye in the ER: Co-Management With Emergency Medicine",
+      "description": "The communication, the shared protocol, and the follow-up that closes the loop.",
       "tags": "er,co-management,protocol,follow-up",
-      "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-29.mp3",
-      "duration": "12:36",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "820b3d62-8f29-469c-ae5a-c9fd619ce5f0",
-      "generatedAt": "2026-08-09T04:58:56.030Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 30,

@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T05:02:45.104Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T05:03:48.561Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Staff Management: Hiring, Training, Retention",
-      "description": "The job description, the onboarding, and the culture and compensation that retain good staff.",
+      "title": "Hiring, Training & Retention: Smarter Staff Management Tips",
+      "description": "What separates thriving businesses from struggling ones? More often than not, it comes down to people. In this episode of Focus Cast, we break down the three pillars of effective staff management: hiring, training, and retention, and show you exactly how to get all three right.\n\nWe kick things off with a real-world story of a Chicago restaurant owner who had a great product but a broken people strategy. Sound familiar? From there, we dive deep into why reactive hiring is costing your business more than you think, and what smarter, proactive hiring actually looks like. You'll learn how to write honest job postings, ask behavioral interview questions that reveal true character, and build a more diverse talent pipeline that drives better results.\n\nNext, we tackle training, the step most businesses rush through and later regret. Discover why onboarding is more than handing someone a manual, how companies like Zappos use bold training strategies to build deeply committed teams, and why investing in your managers might be the highest-leverage move you can make.\n\nFinally, we get into retention, arguably the most critical piece of the puzzle. Learn why people really leave their jobs (hint: it's rarely just about money), how recognition and growth opportunities build lasting loyalty, and why that one Gallup statistic about managers should change how you lead your team starting today.\n\nWhether you're a small business owner, a team leader, or an HR professional, this episode gives you practical, actionable ideas you can implement immediately.\n\nListen now and start building the kind of team that makes everything else in your business easier. Visit Focuslinks.in for more episodes and resources.\n\n---",
       "tags": "staff,hiring,training,retention",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-12.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "65f82a1e-9d56-47bd-92db-58a070c84c09",
+      "generatedAt": "2026-08-09T05:03:48.561Z"
     },
     {
       "episodeOrder": 13,

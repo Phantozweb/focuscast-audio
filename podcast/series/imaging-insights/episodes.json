@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T06:12:57.473Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T06:14:18.263Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Ultra-Widefield Imaging: The 200-Degree View",
-      "description": "The optos and the color and FAF, the periphery in one shot, and the lesions it reveals.",
+      "title": "Ultra-Widefield Imaging: See 80% of the Retina in One Shot",
+      "description": "What if doctors could see nearly your entire retina in a single image — no dilation required? In this episode of Focus Cast, we explore ultra-widefield imaging, the groundbreaking technology that captures up to 200 degrees of the retinal surface and is quietly revolutionizing how eye diseases are detected and treated.\n\nWe break down exactly how ultra-widefield imaging works, from its scanning laser ophthalmoscopy technology and ellipsoidal mirror design to its ability to reveal the peripheral retina like never before. You will learn why seeing the far edges of the retina matters so much, and how conditions like diabetic retinopathy, sickle cell retinopathy, retinal detachment, and uveitis often hide in areas that traditional fundus photography simply cannot reach.\n\nWe also explore the real-world clinical impact of this technology, including how it uncovered a hidden population of high-risk diabetic patients whose disease severity was being underestimated for years. Plus, we look ahead at how artificial intelligence, telemedicine, and global screening programs are being built around ultra-widefield imaging to bring specialist-level eye care to underserved populations around the world.\n\nWhether you are an eye care professional, a patient curious about your own eye health, or simply someone fascinated by the intersection of technology and medicine, this episode offers a clear, compelling look at one of the most important advances in modern ophthalmology.\n\nListen now and discover why a wider perspective can truly change everything. For more episodes on vision science and eye care technology, visit us at Focuslinks.in.\n\n---",
       "tags": "uwf,optos,periphery,faf",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-08.mp3",
+      "duration": "11:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "99c27436-da14-4502-99a3-bef79b7de3ab",
+      "generatedAt": "2026-08-09T06:14:18.263Z"
     },
     {
       "episodeOrder": 9,

@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T05:01:37.428Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T05:01:42.965Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Anti-Reflective Coatings: The Premium That Pays",
-      "description": "The technology, the patient benefit conversation, and the bundle that lifts the average ticket.",
+      "title": "Anti-Reflective Coating: Is the Upgrade Worth It?",
+      "description": "Ever wonder why some people's glasses seem to disappear into their face while others throw back distracting glare? The secret is anti-reflective coating — and in this episode of Focus Cast, we break down exactly why this one upgrade could be the most important decision you make for your vision.\n\nWe start with the science: how AR coating uses destructive interference to let up to 99% of light pass through your lenses, compared to the 8–12% lost with uncoated glass. From there, we explore what that means for your real, everyday life — from reducing digital eye strain during long hours of screen time, to improving contrast and reaction time while driving at night. We even dig into the blue light conversation and what current research actually tells us about protecting your eyes in a screen-heavy world.\n\nBut AR coating isn't just about how you see — it's also about how you're seen. When people can look through your lenses and into your eyes, conversations feel more connected, trust comes more naturally, and you simply look more polished and present.\n\nWe also cover the practical side: the difference between basic and premium coatings, how to care for your lenses to make them last, and how to think about the cost in a way that actually makes sense.\n\nIf you've ever skipped AR coating to save a little money, this episode will make you rethink that decision. Visit Focuslinks.in to explore more episodes and expert guidance on making smarter choices for your eye health.\n\n---",
       "tags": "ar-coating,premium,benefit,bundle",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Dry Eye",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-07.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fbcc72d6-ca11-4798-8c4a-43d83bec2c66",
+      "generatedAt": "2026-08-09T05:01:42.965Z"
     },
     {
       "episodeOrder": 8,

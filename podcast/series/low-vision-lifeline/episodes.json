@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T05:30:10.208Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T05:30:23.634Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -297,14 +297,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Low Vision and Cataract: The Surgery Decision",
-      "description": "When cataract extraction helps the low vision patient and when the risk outweighs the benefit.",
+      "title": "Cataracts & Low Vision: When Is the Right Time for Surgery?",
+      "description": "Are you or a loved one struggling with blurry vision and wondering whether cataract surgery is the right move? In this episode of Focus Cast, we cut through the confusion and give you the clear, honest answers you've been looking for.\n\nCataracts are the leading cause of blindness worldwide — and yet they're completely treatable. So why do so many people wait too long? We explore the deep connection between cataracts, low vision, and the critical role that timing plays in surgical outcomes. You'll learn exactly what a cataract is, how it progresses, and at what point it can push someone from manageable vision problems into the territory of low vision — a condition that makes everyday tasks like reading, recognizing faces, and navigating stairs genuinely difficult.\n\nWe walk through a relatable real-world scenario that shows what delayed treatment actually looks like, and why the old \"wait until it's ripe\" approach has been replaced by a far more patient-centered standard of care. We also tackle the layered decision-making involved when cataracts develop alongside other conditions like macular degeneration or glaucoma, and what realistic surgical expectations look like in those cases.\n\nFrom choosing the right intraocular lens for your lifestyle to understanding the role of low vision rehabilitation, this episode covers everything you need to have a truly informed conversation with your eye doctor.\n\nIf you've been putting off an eye exam, or if someone you love keeps saying their glasses just aren't working anymore, this episode is your nudge to act before vision loss becomes a crisis.\n\nVisit Focuslinks.in for more expert eye health resources, and don't forget to share this episode with someone who needs to hear it.\n\n---",
       "tags": "cataract,surgery,low-vision,risk",
-      "category": "Cataract",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-23.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "664de000-75f6-45f3-9052-73976855ecd2",
+      "generatedAt": "2026-08-09T05:30:23.634Z"
     },
     {
       "episodeOrder": 24,

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T06:28:48.603Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T06:29:14.138Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Toxoplasmosis: The Congenital and the Acquired",
-      "description": "The cat and the undercooked meat, the necrotizing retinitis, and the treatment and recurrence.",
+      "title": "Toxoplasmosis: Congenital vs Acquired — What You Must Know",
+      "description": "What if a parasite silently infected one-third of humanity — and almost no one knew? That's the unsettling reality of Toxoplasma gondii, one of the most widespread parasites on Earth. In this episode of Focus Cast, we break down everything you need to know about toxoplasmosis — from how it spreads through cat litter, undercooked meat, and contaminated produce, to what it actually does inside the human body.\n\nFor most healthy adults, acquired toxoplasmosis causes little more than mild flu-like symptoms before the immune system quietly takes control. But for immunocompromised individuals — including those living with HIV or undergoing chemotherapy — a dormant infection can reactivate and trigger life-threatening brain inflammation known as toxoplasmic encephalitis.\n\nThe episode then dives deep into congenital toxoplasmosis, the far more serious consequence that occurs when a pregnant woman acquires a first-time infection and passes it to her developing baby. We explore the critical relationship between timing of infection and severity of outcomes, the classic clinical triad of chorioretinitis, hydrocephalus, and intracranial calcifications, and why so many affected newborns appear completely healthy at birth — only to develop vision loss, neurological issues, or learning difficulties years later.\n\nMost importantly, we cover what can be done about it. Early screening, antiparasitic treatment during pregnancy, and simple daily precautions can dramatically reduce risk and improve outcomes for affected children.\n\nWhether you're pregnant, immunocompromised, a cat owner, a medical student, or simply curious about the hidden world of parasites, this episode delivers clear, evidence-based information you can actually use. Listen now and share it with someone who needs to hear this.\n\n---",
       "tags": "toxo,cat,necrotizing,recurrence",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-19.mp3",
+      "duration": "11:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ae6965b8-97f6-4c60-b48c-04b772c5d212",
+      "generatedAt": "2026-08-09T06:29:14.138Z"
     },
     {
       "episodeOrder": 20,

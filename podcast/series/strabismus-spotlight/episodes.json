@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T06:07:58.832Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T06:08:06.213Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -356,14 +356,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Post-Stroke Strabismus: The Acquired Diplopia",
-      "description": "The CN palsy after stroke, the prism and patching bridge, and the recovery timeline.",
+      "title": "Post-Stroke Strabismus: Understanding Acquired Diplopia",
+      "description": "What happens when a stroke leaves you seeing double? In this eye-opening episode of Focus Cast, we explore post-stroke strabismus and acquired diplopia — a surprisingly common yet often overlooked consequence of stroke that affects up to 40% of survivors.\n\nWe break down exactly how a stroke disrupts the brain's visual pathways, causing the eyes to fall out of alignment and producing the disorienting double vision known as binocular diplopia. You'll learn which cranial nerves are involved, why brainstem strokes are particularly linked to eye movement disorders, and what conditions like internuclear ophthalmoplegia and gaze palsy actually mean for patients and caregivers.\n\nThrough the story of Margaret, a 67-year-old stroke survivor navigating a world that suddenly looked like a funhouse mirror, we bring the human side of this condition to life. We also walk through the full spectrum of treatment options — from eye patching and prism lenses to vision therapy, botulinum toxin injections, and strabismus surgery — so you understand what recovery can realistically look like.\n\nWhether you're a stroke survivor, a caregiver, or a healthcare professional, this episode gives you the knowledge to recognize post-stroke diplopia early, ask the right questions, and advocate for timely specialist care.\n\nIf double vision after stroke is affecting you or someone you love, don't wait — visit Focuslinks.in to explore more expert resources on eye health and vision care, and subscribe to Focus Cast for new episodes every week.\n\n---",
       "tags": "stroke,palsy,prism,recovery",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-28.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e7d6b877-9fad-4529-9388-41c886d4fb9c",
+      "generatedAt": "2026-08-09T06:08:06.213Z"
     },
     {
       "episodeOrder": 29,

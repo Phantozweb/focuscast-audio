@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T06:24:34.704Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T06:24:50.625Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -63,14 +63,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Hypertensive Retinopathy: The End-Organ Damage at the Eye",
-      "description": "The grading, the systemic risk, and the patient and physician communication that follows.",
+      "title": "Hypertensive Retinopathy: What High Blood Pressure Does to Your Eyes",
+      "description": "Did you know your eyes can reveal the hidden damage caused by high blood pressure — long before any other symptoms appear? In this eye-opening episode of Focus Cast, we dive deep into hypertensive retinopathy, the serious but often overlooked form of end-organ damage that occurs when uncontrolled hypertension silently attacks the blood vessels of your retina.\n\nWe break down exactly what happens inside your eye when blood pressure goes dangerously high — from early arterial narrowing and arteriovenous nicking to flame-shaped hemorrhages, cotton wool spots, hard exudates, and the most severe sign of all, papilledema. We also walk you through the Keith-Wagener-Barker grading system, explaining what each stage means for your overall cardiovascular health.\n\nBut this episode goes far beyond the eye. Because the retina is the only place in the human body where blood vessels can be seen directly without any invasive procedure, it serves as a living window into the health of your heart, brain, and kidneys. We explore the powerful connection between retinal changes and the risk of stroke, heart attack, kidney disease, and even cognitive decline — and why routine eye exams could one day become a frontline cardiovascular screening tool.\n\nWhether you have been diagnosed with hypertension, have risk factors like diabetes or obesity, or simply want to understand how deeply connected your body systems truly are, this episode is essential listening.\n\nYour eyes are keeping a record. Make sure you are paying attention.\n\nListen now, and visit Focuslinks dot in for more episodes on eye health, vision science, and the science behind what your eyes are telling you.\n\n---",
       "tags": "hypertensive,grading,organ-damage,communication",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-05.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "53dc26c0-c3c8-48b8-8314-b7f5cb2d403d",
+      "generatedAt": "2026-08-09T06:24:50.625Z"
     },
     {
       "episodeOrder": 6,

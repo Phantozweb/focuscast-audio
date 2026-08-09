@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T05:25:01.550Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T05:25:41.718Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Anti-VEGF: The Retina Revolution",
-      "description": "Bevacizumab, ranibizumab, aflibercept — the indications, the injection burden, and the optometric co-management.",
+      "title": "Anti-VEGF Therapy: The Treatment Saving Millions from Blindness",
+      "description": "What if a single injection could save your sight? In this episode of Focus Cast, we explore one of the most groundbreaking advances in modern medicine — anti-VEGF therapy — and how it has completely transformed the treatment of serious retinal diseases like wet age-related macular degeneration and diabetic macular edema.\n\nWe break down exactly what VEGF (Vascular Endothelial Growth Factor) is, why it causes devastating vision loss when it goes into overdrive, and how anti-VEGF drugs work by blocking the signal that drives abnormal, leaky blood vessel growth in the retina. From the pioneering research of Napoleone Ferrara at Genentech in the 1990s to the landmark MARINA and ANCHOR clinical trials, we trace the remarkable scientific journey that gave ophthalmologists — and their patients — genuine hope for the very first time.\n\nWe also cover the key anti-VEGF medications you should know about, including ranibizumab (Lucentis), bevacizumab (Avastin), aflibercept (Eylea), and the newer dual-pathway agent faricimab, along with an honest look at the real-world challenges patients face — from treatment burden and access issues to treatment fatigue and variable response rates.\n\nAnd we look ahead at what is coming next: gene therapy, sustained-release implants, and combination treatments that could make this already life-changing therapy even more powerful and convenient.\n\nWhether you or someone you love is living with a retinal condition, or you simply want to understand one of medicine's greatest success stories, this episode is essential listening.\n\nVisit us at Focuslinks.in for more eye health resources and episodes of Focus Cast.\n\n---",
       "tags": "anti-vegf,bevacizumab,ranibizumab,aflibercept",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-19.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "21b38aa4-5d52-45f3-ac39-5db9aaafe74b",
+      "generatedAt": "2026-08-09T05:25:40.930Z"
     },
     {
       "episodeOrder": 20,

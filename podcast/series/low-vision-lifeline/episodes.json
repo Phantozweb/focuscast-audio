@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T05:31:56.050Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T05:32:12.524Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -349,14 +349,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Smartphone Accessibility: The Pocket Low Vision Device",
-      "description": "The zoom, the voiceover, the dictation, and the camera that reads and recognizes.",
+      "title": "Smartphone Accessibility: Your Pocket Low Vision Device",
+      "description": "Did you know the smartphone in your pocket could be one of the most powerful low vision tools ever created? In this episode of Focus Cast, we explore how people with low vision can use everyday smartphones to regain independence, confidence, and connection — without expensive specialized equipment.\n\nWe break down the built-in accessibility features already available on iPhone and Android devices, including the Magnifier tool, high-contrast display settings, enlarged text options, and powerful screen readers like Apple's VoiceOver and Android's TalkBack. We also dive into how voice assistants like Siri and Google Assistant can dramatically reduce the visual demands of using a phone daily.\n\nBeyond the built-in tools, we highlight game-changing apps like Seeing AI, which uses artificial intelligence to read text, identify products, and describe real-world scenes aloud, and Be My Eyes, which connects low vision users with sighted volunteers through live video. We also cover accessible e-reading, audiobooks, and GPS-based navigation apps designed specifically for people with visual impairments.\n\nWhether you have macular degeneration, glaucoma, diabetic retinopathy, or another condition causing low vision, this episode will show you that the right tools are closer than you think. We also share a moving real-life story about how a few simple phone settings helped one woman reconnect with her family and her independence.\n\nIf you or someone you love is living with low vision, this episode is essential listening. After you tune in, open your phone's accessibility settings and see what's been waiting for you all along. Visit Focuslinks.in for more episodes and low vision resources.\n\n---",
       "tags": "smartphone,accessibility,voiceover,camera",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-27.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cd58f6f7-028c-4dc6-b799-f74e1c102e01",
+      "generatedAt": "2026-08-09T05:32:12.524Z"
     },
     {
       "episodeOrder": 28,

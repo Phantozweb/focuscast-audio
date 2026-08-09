@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T05:05:01.268Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T05:05:16.178Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -230,14 +230,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Telehealth in Optometry: The Virtual Visit",
-      "description": "The remote exam, the reimbursement, and the follow-up that the virtual visit enables.",
+      "title": "Telehealth in Optometry: How Virtual Eye Care Works",
+      "description": "Can you really get your eyes examined through a screen? In this episode of Focus Cast by Focuslinks.in, we explore the rapidly growing world of telehealth in optometry and what virtual eye care visits actually mean for patients and practitioners alike.\n\nWe break down exactly how telehealth works in eye care, from live video consultations to asynchronous store-and-forward models and AI-powered retinal screening tools. You will learn what conditions can be effectively managed through a virtual visit, such as red eye, dry eye, and contact lens consultations, and what still requires an in-person comprehensive exam, including glaucoma and diabetic retinopathy detection.\n\nWe also tackle the real concerns around telehealth, including diagnostic accuracy, data privacy, insurance reimbursement, and the regulatory landscape that varies by region. Whether you are a patient looking for more convenient access to eye care or an optometrist wondering how virtual visits fit into a modern practice, this episode gives you a clear, honest, and practical picture of where telehealth in optometry stands today and where it is headed.\n\nFrom rural communities with limited access to care, to busy parents juggling packed schedules, telehealth is removing real barriers and changing the patient experience in meaningful ways. The future of eye care is not virtual or in-person. It is both, working together.\n\nTune in, and then visit Focuslinks.in to explore more eye care resources and insights.\n\n---",
       "tags": "telehealth,virtual,reimbursement,follow-up",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-18.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "238fd0d1-456d-443b-be98-031d5638a15d",
+      "generatedAt": "2026-08-09T05:05:16.178Z"
     },
     {
       "episodeOrder": 19,

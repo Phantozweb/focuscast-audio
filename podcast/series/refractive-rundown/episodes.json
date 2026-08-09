@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T04:47:18.121Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T04:47:26.494Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -336,14 +336,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Presbyopia Drops: The Pilocarpine Return",
-      "description": "The 1.25% pilocarpine, the pinhole effect, and the side effects and patient selection.",
+      "title": "Presbyopia Drops: The Pilocarpine Return to Eye Care",
+      "description": "What if a 150-year-old molecule could replace your reading glasses? In this episode of Focus Cast, we dive deep into the fascinating comeback of pilocarpine — the active ingredient behind Vuity, the first FDA-approved prescription eye drop for presbyopia. If you've been holding your phone at arm's length or squinting at restaurant menus, this episode was made for you.\n\nWe break down exactly how presbyopia develops, why the lens inside your eye gradually loses flexibility after age 40, and how a simple pupil-constricting drop can restore near vision through the science of depth of field. We explore pilocarpine's remarkable origin story — from a Brazilian shrub used by indigenous communities to a modern pharmaceutical breakthrough approved by the FDA in 2021.\n\nBut we don't stop at the hype. We give you an honest look at who benefits most from presbyopia drops, what the real limitations are, and why side effects like brow headaches and low-light dimming matter for everyday users. We also cover the cost realities, the growing competition in the presbyopia drop market, and the cutting-edge research exploring combination drops and even compounds that may one day reverse lens stiffening altogether.\n\nWith 1.8 billion people worldwide affected by presbyopia, the stakes couldn't be higher — and the science has never been more exciting. Whether you're already using reading glasses or just starting to notice the signs, this episode gives you everything you need to have an informed conversation with your eye care provider.\n\nListen now and discover why the future of presbyopia treatment is closer than you think. For more eye health content, visit Focuslinks.in.\n\n---",
       "tags": "presbyopia-drops,pilocarpine,pinhole,vuity",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-26.mp3",
+      "duration": "12:07",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c693558d-7b47-431f-9cbe-02a662206110",
+      "generatedAt": "2026-08-09T04:47:26.494Z"
     },
     {
       "episodeOrder": 27,

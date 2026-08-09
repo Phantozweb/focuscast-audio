@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T04:48:34.809Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T04:51:34.696Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Ectasia After Refractive Surgery: The Catastrophic Complication",
-      "description": "The risk factors, the early detection with OCT, and the cross-linking that halts the progression.",
+      "title": "Ectasia After LASIK: The Refractive Surgery Complication",
+      "description": "Could LASIK lead to a progressive, vision-destroying corneal condition? In this eye-opening episode of Focus Cast, we dive deep into post-refractive surgery ectasia — one of the most feared complications in ophthalmology and a topic every LASIK candidate needs to understand before stepping into the operating room.\n\nWe break down exactly what corneal ectasia is, why it happens, and how it differs from naturally occurring keratoconus. You will learn which risk factors make certain patients far more vulnerable, including thin corneas, high myopia, low residual stromal bed thickness, and the often-missed subclinical condition known as forme fruste keratoconus. We also explore the critical role of modern pre-operative screening tools like corneal tomography, the Pentacam, and AI-driven ectasia detection systems that have transformed how surgeons identify at-risk eyes before surgery.\n\nFor those already affected, we cover the full management landscape — from corneal collagen cross-linking, the gold-standard treatment for halting progression, to scleral lenses, intrastromal corneal ring segments, and corneal transplantation for advanced cases. We also address the emotional toll ectasia takes on patients and why thorough informed consent is not just a legal requirement but a genuine ethical responsibility.\n\nWhether you are a patient considering refractive surgery, a student studying corneal disease, or an eye care professional looking for a clear clinical overview, this episode delivers the knowledge you need.\n\nIf you are thinking about LASIK, do not skip this one. Visit us at focuslinks.in for more episodes that put your eye health first.\n\n---",
       "tags": "ectasia,complication,cxl,detection",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-18.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1b9827ac-9247-498b-a90c-242ffc4f3dbd",
+      "generatedAt": "2026-08-09T04:51:34.255Z"
     },
     {
       "episodeOrder": 19,

@@ -8,19 +8,21 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:40.267Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T04:48:17.410Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Triage in the Emergency Eye: What Cannot Wait",
-      "description": "The immediate versus urgent versus semi-urgent framework and the red-flag symptoms that demand same-day care.",
+      "title": "Eye Emergencies: What Cannot Wait for Your Vision",
+      "description": "What if the symptom you're ignoring right now is silently stealing your sight? In this episode of Focus Cast, we break down the eye emergencies that demand immediate action — because when it comes to your vision, waiting until morning could mean waiting too long.\n\nWe walk you through the four critical categories of true eye emergencies: sudden vision loss, chemical eye injuries, acute angle closure glaucoma, and penetrating eye trauma. You'll learn why a painless dark curtain creeping across your vision is a surgical emergency, why alkali chemicals can destroy your eye in minutes even after you've wiped them away, and why acute angle closure glaucoma is so often mistaken for a migraine — with devastating consequences.\n\nThis episode also covers what retinal detachment actually feels like, how central retinal artery occlusion works like a stroke inside your eye, and the critical first steps you must take before you even call a doctor after a chemical splash. We also share practical, actionable advice on how to prepare before an emergency strikes — from locating your nearest eye emergency unit to keeping an eye wash kit at home.\n\nWhether you're a parent, a contact lens wearer, someone who works around chemicals, or simply a person who values their sight, this episode gives you the knowledge to act fast when it matters most.\n\nYour vision is irreplaceable. Don't leave its protection to chance.\n\nListen now, and share this episode with someone you care about — it could genuinely save their sight. Visit Focuslinks.in for more eye health resources and episodes from Focus Cast.\n\n---",
       "tags": "triage,emergency,red-flags,urgent",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-01.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c923ee0e-8b76-45ad-ba3f-a363d7a1648c",
+      "generatedAt": "2026-08-09T04:48:17.410Z"
     },
     {
       "episodeOrder": 2,

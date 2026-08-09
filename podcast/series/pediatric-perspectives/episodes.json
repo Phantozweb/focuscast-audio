@@ -1,0 +1,180 @@
+{
+  "slug": "pediatric-perspectives",
+  "name": "Pediatric Perspectives",
+  "tagline": "Eye Care from Birth to Teens",
+  "description": "Infant and child eye exams, amblyopia, strabismus screening, refractive development, school vision, myopia control, congenital anomalies, and developmental vision.",
+  "icon": "Baby",
+  "accent": "#059669",
+  "category": "Pediatric",
+  "order": 7,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:38.517Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Infant Eye Exam: The First Six Months",
+      "description": "Red reflex, fixation, and the acuity cards — what to check and when to refer in the baby eye exam.",
+      "tags": "infant,red-reflex,fixation,teller",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Visual Development: The Milestones from Birth to School Age",
+      "description": "The normal timeline of acuity, stereopsis, and color development — and the red flags that demand attention.",
+      "tags": "development,milestones,acuity,stereopsis",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "The Preschool Exam: When Cooperation Is the Challenge",
+      "description": "Matching acuity tests to age, the fix-and-follow technique, and the cycloplegic refraction that reveals truth.",
+      "tags": "preschool,acuity-tests,cycloplegic,cooperation",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Cycloplegic Refraction in Children: Why and How",
+      "description": "Choosing cyclopentolate versus atropine, the timing of the drop, and the refraction technique that follows.",
+      "tags": "cycloplegia,cyclopentolate,atropine,refraction",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Amblyopia: The Lazy Eye and the Critical Period",
+      "description": "The sensitive period, anisometropic versus strabismic amblyopia, and why early intervention is everything.",
+      "tags": "amblyopia,critical-period,anisometropic,strabismic",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Amblyopia Treatment: Patching, Atropine, and the PEDIG Evidence",
+      "description": "Dosing hours, the atropine penalty alternative, and the stopping rules from PEDIG trials.",
+      "tags": "patching,atropine,pedig,dosing",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Refractive Amblyopia: The Plus and the Cylinder Thresholds",
+      "description": "When hyperopia and astigmatism trigger amblyopia and the prescribing thresholds that guide intervention.",
+      "tags": "refractive-amblyopia,hyperopia,astigmatism,threshold",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Strabismus Screening: The Cover Test in Children",
+      "description": "Detecting tropias and phorias in a wiggly child and the prism measurement that quantifies the deviation.",
+      "tags": "strabismus,cover-test,prism,deviation",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Esotropia: Congenital, Accommodative, and Acquired",
+      "description": "The infantile ET versus the high-plus accommodative ET and the very different management of each.",
+      "tags": "esotropia,accommodative,infantile,acquired",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Exotropia: Intermittent and Constant",
+      "description": "The intermittent XT that decompensates, the convergence insufficiency overlap, and the surgical threshold.",
+      "tags": "exotropia,intermittent,convergence,surgical",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Congenital Cataract: The Red Reflex Emergency",
+      "description": "The leukocoria that demands urgent referral, the surgery timing window, and the amblyopia that follows.",
+      "tags": "congenital-cataract,leukocoria,surgery,amblyopia",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Retinopathy of Prematurity: Screening and Staging",
+      "description": "The gestational age and weight criteria for screening, the zone and stage system, and the treatment thresholds.",
+      "tags": "rop,prematurity,staging,screening",
+      "category": "Retina",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Pediatric Glaucoma: The Buphthalmos and the Haab Striae",
+      "description": "The cloudy cornea, the enlarged eye, and the urgent surgical pathway for congenital glaucoma.",
+      "tags": "pediatric-glaucoma,buphthalmos,haab,congenital",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Nasolacrimal Duct Obstruction: The Tearing Infant",
+      "description": "The massage technique, the infection that complicates, and the probing age that resolves most cases.",
+      "tags": "nldo,tearing,massage,probing",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Pink Eye in Children: Viral, Bacterial, and Allergic",
+      "description": "Distinguishing the three, the school exclusion rules, and the antibiotic stewardship conversation.",
+      "tags": "conjunctivitis,viral,bacterial,allergic",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

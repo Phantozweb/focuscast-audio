@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:37:13.556Z",
+  "lastUpdated": "2026-08-09T05:37:28.404Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 431,
+  "generatedEpisodes": 432,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -209,10 +209,10 @@
       "category": "Low Vision",
       "order": 14,
       "totalEpisodes": 30,
-      "generatedEpisodes": 29,
+      "generatedEpisodes": 30,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/episodes.json",
       "audioDir": "podcast/series/low-vision-lifeline/audio",
-      "lastUpdated": "2026-08-09T05:33:15.928Z"
+      "lastUpdated": "2026-08-09T05:37:12.345Z"
     },
     {
       "slug": "uveitis-unveiled",

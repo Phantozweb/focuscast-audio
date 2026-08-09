@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T06:13:58.776Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T06:15:44.432Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Strabismus Surgery: The Recession and Resection",
-      "description": "The muscle detachment and shortening, the adjustable suture, and the post-op alignment.",
+      "title": "Strabismus Surgery Explained: Recession and Resection",
+      "description": "What actually happens when a surgeon corrects misaligned eyes? In this episode of Focus Cast, we break down strabismus surgery in a way that finally makes sense, no medical degree required. Whether you are a parent watching your child struggle with a turned eye, or an adult dealing with double vision and wondering what your options are, this episode gives you the clarity you have been looking for.\n\nWe start with the basics of strabismus, what it is, why it happens, and why it is about so much more than appearance. Then we dive deep into the two core surgical techniques that ophthalmologists use to restore eye alignment: recession, the procedure that weakens an overacting muscle by moving its attachment point further back, and resection, the procedure that strengthens an underacting muscle by shortening it. Together, these two techniques form the foundation of strabismus correction worldwide.\n\nWe also walk you through what to expect on surgery day, how recovery typically unfolds, why some patients need more than one procedure, and how surgeons calculate the precise amount of correction needed using prism diopters and dosage tables. We even touch on adjustable suture surgery, a fascinating technique that allows real-time fine-tuning after the patient wakes up.\n\nBy the end of this episode, you will understand exactly how strabismus surgery works and why it has the power to transform not just vision, but confidence, connection, and quality of life.\n\nListen now and share this episode with anyone navigating a strabismus diagnosis. For more eye health resources, visit Focuslinks dot in.\n\n---",
       "tags": "surgery,recession,resection,adjustable",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-19.mp3",
+      "duration": "12:13",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "20fc3ee7-4674-4e49-a443-ef81eb3935fd",
+      "generatedAt": "2026-08-09T06:15:44.013Z"
     },
     {
       "episodeOrder": 20,

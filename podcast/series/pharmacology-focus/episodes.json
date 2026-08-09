@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T05:17:52.663Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T05:18:01.198Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -278,14 +278,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Vitamin A and the Eye: The Deficiency and the Dose",
-      "description": "Xerophthalmia, the night blindness, and the global public health supplementation story.",
+      "title": "Vitamin A and Your Eyes: Deficiency, Toxicity & the Right Dose",
+      "description": "What does Vitamin A actually do for your eyes — and what happens when you don't get enough of it? In this episode of Focus Cast, we break down the science behind one of the most critical yet overlooked nutrients for eye health. You'll learn how Vitamin A powers the rhodopsin molecule inside your retinal rod cells, why its absence leads to night blindness, and how prolonged deficiency can progress to xerophthalmia and irreversible corneal damage. We also unpack a sobering global reality: Vitamin A deficiency is the leading cause of preventable blindness in children worldwide, claiming the sight of up to 500,000 kids every year.\n\nBut this episode isn't just about deficiency. We flip the coin and explore the dangers of getting too much Vitamin A — a condition called hypervitaminosis A — covering symptoms from blurred vision and liver damage to serious birth defects in pregnancy. We even revisit the wild historical case of Arctic explorers who died from eating polar bear liver, one of the most extreme examples of Vitamin A toxicity ever recorded.\n\nAlong the way, you'll discover the key difference between retinol from animal sources and beta-carotene from plants, why one carries toxicity risks and the other doesn't, and how to find the safe, effective daily intake range that works for your body. Whether you're optimizing your diet, concerned about eye health, or simply curious about the science of nutrition, this episode gives you clear, evidence-based answers.\n\nListen now and start seeing your next meal a little differently. For more episodes and resources, visit Focuslinks dot in.\n\n---",
       "tags": "vitamin-a,xerophthalmia,night-blindness,supplement",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-22.mp3",
+      "duration": "12:05",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "964b151a-1196-4f44-b38b-d5bfa14a0b04",
+      "generatedAt": "2026-08-09T05:18:01.198Z"
     },
     {
       "episodeOrder": 23,

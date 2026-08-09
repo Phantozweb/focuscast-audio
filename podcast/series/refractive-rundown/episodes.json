@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T04:47:44.482Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T04:47:55.455Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -362,14 +362,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Refractive Surgery and the Contact Lens Dropout",
-      "description": "Why CL-intolerant patients seek surgery, the DED treatment-first philosophy, and the expectation setting.",
+      "title": "Why Contact Lens Dropouts Should Consider Refractive Surgery",
+      "description": "If you have ever given up on contact lenses because of dryness, discomfort, or blurry vision, you are not alone — and you are not out of options. In this episode of Focus Cast, we explore the growing problem of contact lens dropout and why refractive surgery might be the solution millions of people never knew they needed.\n\nWe break down who the contact lens dropout really is, from the screen-fatigued professional to the athlete whose lenses never quite worked, and uncover the most common reasons people quietly walk away from contacts and never look back. More importantly, we explain why that silence is a missed opportunity.\n\nYou will learn how dry eye plays a central role in both contact lens intolerance and surgical candidacy, why LASIK is not always the first answer, and how procedures like SMILE, PRK, and implantable collamer lenses offer meaningful alternatives depending on your eye health and lifestyle. We also cover why treating dry eye before surgery can make all the difference in your outcome.\n\nWhether you are a patient who has accepted glasses as your only option or an eye care practitioner looking to better serve patients who have dropped off your radar, this episode gives you the clinical context and the practical perspective to move the conversation forward.\n\nClear, comfortable, glasses-free vision is possible for more people than ever before. The technology is there. The question is whether you know where to start.\n\nListen now and visit Focuslinks.in for more episodes, resources, and expert guidance on everything eye care.\n\n---",
       "tags": "cl-dropout,intolerance,ded-first,expectation",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-28.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "67a2d696-4992-458e-b0ff-7a951983589e",
+      "generatedAt": "2026-08-09T04:47:55.455Z"
     },
     {
       "episodeOrder": 29,

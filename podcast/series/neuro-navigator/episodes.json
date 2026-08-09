@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-05T20:30:20.687Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T04:20:32.179Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Cortical Blindness: The Blind Sight Phenomenon",
-      "description": "The bilateral occipital infarct, the denial of blindness, and the residual non-conscious vision.",
+      "title": "Blindsight: How Your Brain Sees Without You Knowing",
+      "description": "What if you were completely blind — but your brain could still see? That's not science fiction. It's a real neurological phenomenon called blindsight, and it's one of the most extraordinary discoveries in modern neuroscience.\n\nIn this episode of Focus Cast, we dive deep into cortical blindness — a condition where the eyes work perfectly, but damage to the brain's visual cortex robs a person of all conscious vision. We explore the landmark research of psychologist Lawrence Weiskrantz and the astonishing cases of patients like D.B. and T.N., who navigated obstacle courses and caught objects they genuinely could not see, all without any awareness of doing so.\n\nWe break down exactly how blindsight works, tracing the brain's hidden subcortical visual pathways through the superior colliculus — ancient neural routes that process visual information and guide behavior entirely beneath the surface of conscious awareness. We also explore what blindsight reveals about the nature of consciousness itself, why your brain is constantly doing far more than your conscious mind will ever know, and how researchers are using these insights to develop real rehabilitation strategies for patients with cortical blindness.\n\nWhether you're a neuroscience enthusiast, a psychology student, or simply someone who loves understanding how the human mind works, this episode will genuinely change the way you think about perception, awareness, and what it means to truly see.\n\nTune in, and prepare to have your mind quietly, completely blown.\n\nVisit us at Focuslinks.in for more episodes, articles, and deep dives into the fascinating world of human cognition. Don't forget to share this episode with anyone who loves learning about the brain.\n\n---",
       "tags": "cortical-blindness,anton,blindsight,occipital",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-18.mp3",
+      "duration": "12:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9f6dc886-c5aa-497a-936f-415d942d1ca2",
+      "generatedAt": "2026-08-09T04:20:31.576Z"
     },
     {
       "episodeOrder": 19,

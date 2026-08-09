@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T08:33:44.196Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T08:34:20.377Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -170,14 +170,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Extraocular Motility: The Six Muscles and Their Nerves",
-      "description": "Ductions, versions, cover-uncover in cardinal positions — and localizing a palsy in seconds.",
+      "title": "Extraocular Motility: Localize a Palsy in Seconds | FocusCast",
+      "description": "Can you confidently localize a cranial nerve palsy before the patient leaves your chair? In this clinically focused episode of FocusCast by Focuslinks.in, we break down extraocular motility in a way that is immediately applicable to your optometric practice — no fluff, just sharp clinical thinking.\n\nWe cover the six extraocular muscles, their nerve supply across cranial nerves three, four, and six, and exactly how to interpret ductions, versions, and cover-uncover testing in all cardinal positions of gaze. You will learn how to differentiate a sixth nerve abducens palsy from a fourth nerve trochlear palsy, recognize the red flags of a pupil-involved third nerve palsy that demands same-day neurology referral, and use the Bielschowsky head tilt test with confidence at the slit lamp chair.\n\nWe also walk through the critical differential diagnosis — including thyroid eye disease, myasthenia gravis, and orbital blowout fractures — so you never mistake a restrictive strabismus for a neurogenic palsy. Practical chairside tools like the ice test and forced duction interpretation are discussed alongside optometric management strategies including Fresnel prism, monocular occlusion, and appropriate referral pathways.\n\nWhether you are a practicing optometrist, an optometry resident, or a clinical eye care professional looking to sharpen your strabismus skills, this episode gives you a systematic, evidence-based framework for one of the most neurologically significant exams you perform.\n\nNew episodes drop regularly at Focuslinks.in. Subscribe, share with a colleague or resident, and keep your clinical skills exactly where your patients need them — sharp and ready.\n\n---",
       "tags": "motility,cranial-nerves,strabismus,versions",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-14.mp3",
+      "duration": "12:53",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bf48a64c-c1ef-426b-b959-a237c755ed73",
+      "generatedAt": "2026-08-09T08:34:20.377Z"
     },
     {
       "episodeOrder": 15,

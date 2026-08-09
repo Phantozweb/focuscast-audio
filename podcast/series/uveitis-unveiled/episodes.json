@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T05:39:24.707Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T05:39:31.607Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -228,14 +228,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Primary Intraocular Lymphoma: The Diagnostic Challenge",
-      "description": "The steroid-responsive uveitis in the elderly, the vitreous biopsy, and the IL-10 level.",
+      "title": "Primary Intraocular Lymphoma: The Eye Cancer Hiding in Plain Sight",
+      "description": "What if your eye doctor treated you for months — only to discover the real culprit was cancer? In this eye-opening episode of Focus Cast, we dive deep into one of ophthalmology's most deceptive and dangerous conditions: primary intraocular lymphoma. Often mistaken for uveitis, this rare but serious form of lymphoma hides inside the eye, mimicking common inflammatory symptoms like floaters, blurred vision, and light sensitivity — sometimes fooling even the most experienced clinicians for over a year.\n\nWe unpack why primary intraocular lymphoma is called a \"masquerade syndrome,\" how steroids can temporarily suppress the disease while delaying the correct diagnosis, and what red flags should prompt clinicians to look beyond uveitis. We also break down the diagnostic process — from diagnostic vitrectomy and vitreous cytology to interleukin-10 to interleukin-6 ratios, flow cytometry, and cutting-edge genetic testing — explaining why diagnosing this condition is as much an art as it is a science.\n\nCritically, we explore the link between intraocular lymphoma and primary central nervous system lymphoma, why early detection is life-changing, and what modern treatment options — including intravitreal methotrexate and high-dose systemic chemotherapy — offer patients today.\n\nWhether you are an ophthalmologist, a medical student, or a patient navigating a frustrating diagnosis, this episode will change the way you think about persistent eye inflammation. If uveitis is not responding to treatment, it is time to ask harder questions.\n\nListen now and visit Focuslinks.in for more expert ophthalmology content from Focus Cast.\n\n---",
       "tags": "piol,lymphoma,biopsy,il-10",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-18.mp3",
+      "duration": "12:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "648c6fe3-0892-4ed0-a1a9-321b95c5e488",
+      "generatedAt": "2026-08-09T05:39:31.607Z"
     },
     {
       "episodeOrder": 19,

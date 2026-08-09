@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T05:46:11.825Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T05:48:40.948Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Birdshot Chorioretinopathy: The HLA-A29 and the Spots",
-      "description": "The oval lesions, the HLA testing, and the chronic steroid-sparing immunomodulatory need.",
+      "title": "Birdshot Chorioretinopathy: HLA-A29, Spots & Vision Loss",
+      "description": "What if the back of your eye looked like it had been hit by a shotgun blast — and your own immune system pulled the trigger? In this episode of Focus Cast, we dive deep into birdshot chorioretinopathy, one of the most fascinating and mysterious rare eye diseases in ophthalmology. We explore why this chronic inflammatory condition carries one of the strongest genetic associations in all of medicine, with 80 to 98 percent of patients testing positive for the HLA-A29 gene variant — and yet why most people who carry that gene never develop the disease at all. We break down what those signature cream-colored spots actually mean, how the immune system turns against the retina and choroid, and what living with birdshot chorioretinopathy really looks like for patients navigating floaters, night blindness, and gradual vision changes. You will also learn how specialists diagnose birdshot using fluorescein angiography, OCT imaging, and HLA-A29 testing, and how treatment strategies — from corticosteroids and immunosuppressants to cutting-edge biologic therapies — work together to protect long-term vision. Whether you are a patient, a caregiver, a medical professional, or simply someone curious about the incredible complexity of the human immune system and eye health, this episode offers clear, accessible, and genuinely eye-opening insights. If you or someone you know is experiencing unexplained visual symptoms, this episode could be the starting point that changes everything. Listen now, and visit Focuslinks dot in for more expert eye health content.\n\n---",
       "tags": "birdshot,hla-a29,oval,immunomodulatory",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-16.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cd7c2517-edd4-4eef-9e82-e56884a21ad6",
+      "generatedAt": "2026-08-09T05:48:40.518Z"
     },
     {
       "episodeOrder": 17,

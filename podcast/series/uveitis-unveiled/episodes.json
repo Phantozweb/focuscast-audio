@@ -8,19 +8,21 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:50.546Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T05:33:51.986Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Uveitis Anatomy: The SUN Classification",
-      "description": "The Standardization of Uveitis Nomenclature — anterior, intermediate, posterior, panuveitis — and why it matters.",
+      "title": "Uveitis Anatomy & the SUN Classification Explained",
+      "description": "What happens when a patient walks in with a red, painful eye — and the inflammation could be anywhere inside it? How do doctors even begin to describe, classify, and communicate what they're seeing? The answer lies in one of ophthalmology's most important frameworks: the SUN classification system.\n\nIn this episode of Focus Cast, we break down uveitis anatomy and the Standardization of Uveitis Nomenclature (SUN) working group's classification system in a way that's clear, engaging, and genuinely useful — whether you're a medical student, ophthalmology resident, optometrist, or simply curious about how the eye works.\n\nWe cover the three layers of the eye and what the uvea actually is, then walk through all four anatomical categories of uveitis: anterior uveitis, intermediate uveitis, posterior uveitis, and panuveitis. You'll learn what distinguishes each type, where the inflammation is located, what symptoms patients experience, and which conditions are commonly associated with each. We also explore how the SUN classification describes uveitis by onset, duration, and disease course — and why those descriptors matter just as much as anatomy when it comes to diagnosis and treatment.\n\nFinally, we touch on how the SUN grading system for cells, flare, and vitreous haze makes clinical research more objective and reproducible — ultimately improving outcomes for patients worldwide.\n\nUveitis accounts for up to 15% of legal blindness in developed countries. Understanding how to classify it accurately isn't just academic — it's vision-saving.\n\nListen now and build a stronger foundation in uveitis. For more ophthalmology content, visit Focuslinks.in.\n\n---",
       "tags": "sun,classification,anatomy,nomenclature",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-01.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a4393c71-6b91-4875-8817-401ae1497341",
+      "generatedAt": "2026-08-09T05:33:51.986Z"
     },
     {
       "episodeOrder": 2,

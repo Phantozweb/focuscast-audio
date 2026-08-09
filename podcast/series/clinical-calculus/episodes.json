@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T06:36:54.326Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T06:37:21.123Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "The Unexplained Vision Loss: The Workup Algorithm",
-      "description": "From acuity to fields to OCT to imaging — the stepwise approach that finds the cause.",
+      "title": "Unexplained Vision Loss: The Complete Workup Algorithm",
+      "description": "Waking up one morning to find your vision suddenly gone in one eye — no pain, no warning — is one of the most terrifying experiences a patient can describe. But for eye care professionals, that moment is the starting point of a critical diagnostic journey. In this episode of Focus Cast by Focuslinks.in, we walk through the complete workup algorithm for unexplained vision loss, step by step, in a way that is clinical, practical, and immediately applicable.\n\nWe break down exactly how to approach sudden versus gradual vision loss, why distinguishing monocular from binocular loss can point you toward the eye or the brain, and how the presence or absence of pain dramatically reshapes your differential diagnosis. From checking visual acuity and identifying a relative afferent pupillary defect to performing a thorough fundus examination, every step of the clinical exam is covered in detail.\n\nWe also explore the key investigations that complete the picture — when to order an ESR and CRP for giant cell arteritis, how OCT has transformed macular diagnosis, why visual field patterns are essential for neurological localization, and when B-scan ultrasound can save you from missing a retinal detachment behind a cloudy media.\n\nWhether you are an ophthalmology resident, an optometrist, or a medical professional who wants to sharpen your approach to vision emergencies, this episode gives you a structured framework you can use in real clinical practice. Because behind every unexplained vision loss is a story waiting to be understood — and a chance to make a real difference.\n\nListen now and visit Focuslinks.in for more eye care episodes, resources, and clinical insights.\n\n---",
       "tags": "unexplained,vision-loss,algorithm,oct",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-10.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bd427f88-71f0-4662-a609-5b20e846764a",
+      "generatedAt": "2026-08-09T06:37:21.123Z"
     },
     {
       "episodeOrder": 11,

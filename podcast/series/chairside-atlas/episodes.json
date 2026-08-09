@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T08:31:22.545Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T08:31:52.039Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -37,14 +37,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Past Ocular History: What Old Records Reveal",
-      "description": "Mining prior exams, surgeries, and medications for clues that change today’s plan.",
+      "title": "Past Ocular History: What Old Records Reveal | FocusCast",
+      "description": "What if the most powerful diagnostic tool in your exam room isn't your OCT or your slit lamp — it's a folder of old records sitting on the corner of your desk? In this episode of FocusCast by Focuslinks.in, we explore how past ocular history functions as a clinical instrument that sharpens your differential diagnosis, refines your chairside decision-making, and fundamentally changes how you manage patients today.\n\nDesigned exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners, this episode dives deep into the diagnostic value of longitudinal IOP trends, refractive shifts, and prior surgical history — including LASIK, trabeculectomy, scleral buckle, and strabismus procedures. We break down how prior ocular medications such as prostaglandin analogs, topical corticosteroids, and hydroxychloroquine carry critical clinical implications that directly affect your examination findings, your OCT interpretation, and your referral thresholds.\n\nYou'll learn how to use past records to contextualize new complaints like photopsia, floaters, and scotomas — and why the same symptom can lead to three completely different differentials depending on what came before. We also cover practical systems for integrating historical data into your pre-exam workflow so that prior records inform your clinical questions before you ever pick up the slit lamp.\n\nIf you want to practice smarter, refer more precisely, and catch what others miss, this episode delivers the evidence-based, clinically grounded perspective you need. Visit Focuslinks.in to explore more episodes and optometric clinical resources built specifically for eye care professionals. Subscribe, share with a colleague or resident, and keep looking closely — because the details are always in the history.\n\n---",
       "tags": "history,records,review,charting",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-03.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6c3c62ff-37df-466d-a1c7-e3c0ec63a83f",
+      "generatedAt": "2026-08-09T08:31:52.039Z"
     },
     {
       "episodeOrder": 4,

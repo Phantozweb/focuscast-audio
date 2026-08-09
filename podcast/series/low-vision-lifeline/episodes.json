@@ -9,7 +9,7 @@
   "order": 14,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T05:28:29.724Z",
+  "lastUpdated": "2026-08-09T05:28:26.344Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,27 +247,27 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Depression and Vision Loss: The Mental Health Screen",
-      "description": "The prevalence, the screening tools, and the referral and support that address the invisible loss.",
+      "title": "Depression and Vision Loss: The Mental Health Screen You Need",
+      "description": "Did you know that people with significant vision loss are two to three times more likely to experience depression than the general population? Yet in most eye care appointments, nobody asks about mood, sleep, or emotional wellbeing. In this eye-opening episode of Focus Cast, we explore the powerful and often overlooked connection between vision loss and depression — and why the mental health screen is missing from so many eye care visits.\n\nWe break down how conditions like age-related macular degeneration, glaucoma, and diabetic retinopathy are strongly linked to clinical depression, affecting nearly one in three people with low vision. We also unpack the dangerous cycle where vision loss triggers depression, depression disrupts self-care, and poor self-care accelerates further vision loss.\n\nYou'll learn about simple, validated screening tools like the PHQ-2 and PHQ-9 that take just minutes to administer, and why the real barrier to mental health screening in eye care isn't the tools — it's culture and workflow. Through the story of Priya, a painter navigating macular degeneration, we show how one compassionate question from a clinician can genuinely change a life.\n\nWhether you're a patient living with vision loss, a caregiver watching someone you love struggle, or an eye care professional looking to provide more whole-person care, this episode gives you practical insight and a clear path forward.\n\nVision is precious — but the person behind the eyes deserves care that sees all of them. Visit Focuslinks.in to explore more resources on vision health and emotional wellbeing, and share this episode with someone who needs to hear it.\n\n---",
       "tags": "depression,screen,mental-health,referral",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-19.mp3",
+      "duration": "12:13",
+      "imageUrl": "",
+      "status": "generated",
+      "runId": "efeae637-8ae1-4c22-9e55-4114c111ae90",
+      "generatedAt": "2026-08-09T05:28:26.344Z"
+    },
+    {
+      "episodeOrder": 20,
+      "title": "Orientation and Mobility: The White Cane and the Guide Dog",
+      "description": "The O&M specialist referral, the cane techniques, and the independence that specialized training restores.",
+      "tags": "mobility,cane,guide-dog,om",
       "category": "Low Vision",
       "audioUrl": "",
       "duration": "",
       "imageUrl": "",
       "status": "draft"
-    },
-    {
-      "episodeOrder": 20,
-      "title": "White Cane & Guide Dog: Tools for Blind Independence",
-      "description": "What does it truly take to navigate the world without sight? In this eye-opening episode of Focus Cast, we explore the fascinating world of orientation and mobility — the science and skill behind independent travel for people who are blind or have low vision.\n\nWe trace the remarkable history of the white cane, from a British photographer painting his walking stick white for safety to the global recognition of White Cane Safety Day on October 15th. You will discover how this deceptively simple tool works as a sophisticated sensory instrument, helping users detect obstacles, curbs, and surface changes with extraordinary precision through techniques like the touch technique and constant contact method.\n\nThen we dive into the world of guide dogs — from the first guide dog school opened in Germany in 1916 to the legendary partnership between Morris Frank and his dog Buddy that helped launch The Seeing Eye. We break down what intelligent disobedience really means, how guide dogs are trained, and why the human-dog partnership is built on far more than utility.\n\nWe also tackle the big question: white cane or guide dog — which is better? The honest, nuanced answer might surprise you. Whether you are someone navigating vision loss, a family member, a healthcare professional, or simply curious about accessibility and human resilience, this episode offers genuine insight into tools that represent far more than mobility — they represent dignity, freedom, and belonging.\n\nListen now and share this episode with someone who would find it meaningful. For more content on vision, accessibility, and the incredible adaptability of the human spirit, visit us at Focuslinks dot in.\n\n---",
-      "tags": "mobility,cane,guide-dog,om",
-      "category": "Low Vision",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-20.mp3",
-      "duration": "12:28",
-      "imageUrl": "",
-      "status": "generated",
-      "runId": "959f46b9-7c83-4665-81c0-2068565d1afa",
-      "generatedAt": "2026-08-09T05:28:29.724Z"
     },
     {
       "episodeOrder": 21,

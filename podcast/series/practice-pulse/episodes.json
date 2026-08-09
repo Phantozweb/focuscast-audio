@@ -1,0 +1,180 @@
+{
+  "slug": "practice-pulse",
+  "name": "Practice Pulse",
+  "tagline": "Running a Modern Optometry Practice",
+  "description": "Patient flow, billing and coding, optical dispensing, staff management, technology ROI, telehealth, patient retention, compliance, and practice growth.",
+  "icon": "Stethoscope",
+  "accent": "#16a34a",
+  "category": "Practice Management",
+  "order": 12,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:45.783Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Patient Flow: From Check-In to Check-Out",
+      "description": "Designing the optometric visit to minimize wait, maximize chair time, and keep staff productive.",
+      "tags": "flow,wait-time,chair-time,efficiency",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "The Front Desk: The First and Last Impression",
+      "description": "Phone skills, greeting, and the insurance verification that prevents billing surprises.",
+      "tags": "front-desk,phone,insurance,verification",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Pre-Testing: The Technician Workflow",
+      "description": "What to delegate, the order of tests, and the handoff that keeps the doctor on schedule.",
+      "tags": "pre-testing,technician,delegate,handoff",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Optical Dispensing: The Art of the Sell",
+      "description": "Frame selection, lens recommendations, and the patient education that builds the sale and satisfaction.",
+      "tags": "optical,dispensing,frames,lenses",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Lens Materials: Index, Polycarbonate, and Trivex",
+      "description": "Matching the material to the prescription, the lifestyle, and the safety demands of the patient.",
+      "tags": "materials,index,poly,trivex",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Lens Designs: Single Vision, Progressive, and Office",
+      "description": "The progressive corridor, the computer lens, and the occupational design that earns the premium.",
+      "tags": "progressive,office,design,corridor",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Anti-Reflective Coatings: The Premium That Pays",
+      "description": "The technology, the patient benefit conversation, and the bundle that lifts the average ticket.",
+      "tags": "ar-coating,premium,benefit,bundle",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Billing and Coding: The Eye Exam Codes",
+      "description": "The 92004/92014 versus 9920x decision, the medical versus vision plan, and the documentation that supports it.",
+      "tags": "coding,92004,92014,medical-vision",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "ICD-10 Coding: The Diagnosis That Drives the Claim",
+      "description": "Common eye codes, the specificity requirement, and the linking that makes the claim payable.",
+      "tags": "icd-10,diagnosis,specificity,linking",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Medical Eye Care: The Co-Management and Referral",
+      "description": "The co-management contracts, the comanaged surgery billing, and the communication that sustains referrals.",
+      "tags": "co-management,referral,contracts,communication",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Insurance Verification: The Pre-Visit Discipline",
+      "description": "The benefits check, the patient responsibility estimate, and the conversation that prevents collections.",
+      "tags": "insurance,verification,benefits,estimate",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Staff Management: Hiring, Training, Retention",
+      "description": "The job description, the onboarding, and the culture and compensation that retain good staff.",
+      "tags": "staff,hiring,training,retention",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Staff Meetings: The Weekly Rhythm That Aligns",
+      "description": "The agenda, the metrics review, and the patient story that keeps the team patient-centered.",
+      "tags": "meetings,agenda,metrics,culture",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Key Performance Indicators: The Numbers That Matter",
+      "description": "Capture rate, revenue per exam, recall rate — the dashboard that diagnoses the practice.",
+      "tags": "kpi,capture-rate,revenue,recall",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Recall and Reactivation: The Patients Who Drifted",
+      "description": "The recall system, the multi-channel approach, and the reactivation campaign that fills the schedule.",
+      "tags": "recall,reactivation,schedule,campaign",
+      "category": "Practice Management",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

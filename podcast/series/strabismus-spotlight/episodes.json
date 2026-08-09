@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T06:04:17.791Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T06:04:36.639Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -265,14 +265,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Botulinum Toxin for Strabismus: The Chemical Denervation",
-      "description": "The injection alternative to surgery, the transient effect, and the selective use.",
+      "title": "Botulinum Toxin for Strabismus: Chemical Denervation Explained",
+      "description": "What if the world's most potent natural toxin could also straighten your eyes? In this episode of Focus Cast, we explore one of ophthalmology's most fascinating treatment innovations — botulinum toxin injections for strabismus, a technique known as chemical denervation.\n\nWe start with the basics: what strabismus actually is, why misaligned eyes cause more than just a cosmetic concern, and how untreated cases can lead to permanent vision loss through amblyopia. Then we trace the remarkable origin story of this treatment, following ophthalmologist Alan Scott, whose bold experiments in 1970s San Francisco laid the groundwork for everything we now know about therapeutic botulinum toxin — including cosmetic Botox.\n\nFrom there, we break down the science in plain language. How does botulinum toxin block acetylcholine to temporarily weaken an overactive eye muscle? Why does that three-to-four-month window of muscle relaxation sometimes produce lasting alignment? And what makes this approach so uniquely valuable compared to traditional strabismus surgery?\n\nWe also cover who makes the best candidate for this treatment, which cases respond well and which do not, and exactly what patients can expect during and after the injection procedure — from EMG-guided needle placement to temporary ptosis and the six-to-eight-week assessment window.\n\nWhether you are an eye care professional, a medical student, or simply someone curious about how medicine turns unexpected tools into life-changing therapies, this episode delivers clear, evidence-based insight you can actually use.\n\nListen now and discover why botulinum toxin for strabismus remains one of the most elegant examples of working with the body rather than against it. Visit Focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "botox,injection,transient,alternative",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-21.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b4efbab5-9e12-43c7-ad9f-c3ef8516020f",
+      "generatedAt": "2026-08-09T06:04:36.639Z"
     },
     {
       "episodeOrder": 22,

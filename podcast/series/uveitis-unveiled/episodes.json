@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T05:42:46.821Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T05:43:10.532Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -321,14 +321,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "The Uveitis Workup: The Tailored Laboratory Panel",
-      "description": "When to test and what to test — the targeted approach versus the shotgun and the cost conversation.",
+      "title": "Uveitis Workup: How to Build a Tailored Lab Panel",
+      "description": "Not every red, painful eye tells the same story — and ordering the wrong tests can cost your patient time, money, and the right diagnosis. In this episode of Focus Cast by Focuslinks.in, we break down the uveitis workup the smart way: a targeted, clinically driven laboratory panel built around what your patient is actually showing you.\n\nWe start where every good workup should — with careful characterization of the uveitis itself. Anterior or posterior? Granulomatous or non-granulomatous? Unilateral or bilateral? Acute or chronic? These questions cost nothing and narrow your differential before a single test is ordered.\n\nFrom there, we walk through the most clinically relevant investigations for each anatomical type of uveitis. You will learn when HLA-B27 testing changes management, why syphilis serology belongs in nearly every uveitis panel, how to approach sarcoidosis and tuberculosis workups without over-relying on ACE levels, and when to move beyond blood tests into intraocular diagnostics like aqueous PCR and vitreous cytology.\n\nWe also tackle the tests that get over-ordered — ANA, ANCA, Lyme serology — and explain exactly when they are and are not appropriate, so you can avoid the false positives and clinical rabbit holes that come with reflexive testing.\n\nWhether you are a resident building your clinical instincts or a seasoned ophthalmologist looking to sharpen your approach, this episode gives you a practical, evidence-informed framework you can apply immediately.\n\nListen now and start thinking about uveitis workups the way the best clinicians do — one targeted question at a time. Visit Focuslinks.in for more episodes and ophthalmology resources.\n\n---",
       "tags": "workup,laboratory,targeted,shotgun",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-25.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e53124b1-4810-4e8f-878e-c1ab6681e1b4",
+      "generatedAt": "2026-08-09T05:43:10.531Z"
     },
     {
       "episodeOrder": 26,

@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T05:31:45.874Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T05:31:56.050Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -336,14 +336,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "CCTV and Video Magnifiers: The High-Tech Option",
-      "description": "The desktop and portable, the contrast and zoom, and the patient and practice investment.",
+      "title": "CCTV & Video Magnifiers: High-Tech Tools for Low Vision",
+      "description": "What if the right technology could hand you back the ability to read a birthday card, a prescription label, or your favorite novel? In this episode of Focus Cast, we dive deep into CCTV magnifiers and video magnifiers, the high-tech assistive tools that are quietly transforming life for millions of people living with low vision.\n\nWe break down exactly how these devices work, from the camera that captures your reading material to the screen that displays a magnified, contrast-enhanced image you can actually see clearly. Whether you are exploring desktop video magnifiers for extended home reading, portable handheld magnifiers for life on the go, or cutting-edge wearable magnifiers that feel straight out of science fiction, this episode covers the full landscape of options available today.\n\nYou will learn about key features like image freeze, high-contrast color modes, and built-in optical character recognition that combines magnification with text-to-speech technology. We also get honest about the real challenges, including cost, the learning curve, and how to find funding support and hands-on training in your area.\n\nAlong the way, you will hear a moving story about a retired schoolteacher who rediscovered her love of reading after macular degeneration threatened to take it away, a powerful reminder of what the right low vision tool can truly mean.\n\nIf you or someone you love is navigating vision loss, this episode gives you the clear, practical information you need to make confident decisions about assistive technology.\n\nVisit Focuslinks.in to explore more resources, connect with low vision experts, and find the tools that can make a real difference in your everyday life.\n\n---",
       "tags": "cctv,video,desktop,portable",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Macula",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-26.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "793a7884-fb2c-4dfd-a859-595f029a8c57",
+      "generatedAt": "2026-08-09T05:31:56.050Z"
     },
     {
       "episodeOrder": 27,

@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T04:36:51.030Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T04:37:14.646Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "SMILE: The Lenticule Extraction Revolution",
-      "description": "The small incision, the lenticule, the flapless advantage, and the limitations and learning curve.",
+      "title": "SMILE Eye Surgery: The Lenticule Extraction Revolution",
+      "description": "What if you could wake up tomorrow and see the world clearly — no glasses, no contacts, no squinting? In this episode of Focus Cast, we explore SMILE (Small Incision Lenticule Extraction), the groundbreaking laser vision correction procedure that's quietly revolutionizing how millions of people see the world.\n\nWe break down exactly how SMILE works — and why it's fundamentally different from LASIK, not just a newer version of it. By using a femtosecond laser to create and remove a tiny lenticule from inside the cornea through an incision smaller than a grain of rice, SMILE preserves corneal strength, dramatically reduces dry eye risk, and opens the door for patients who were previously told they weren't LASIK candidates.\n\nIn this episode, you'll learn how SMILE compares to LASIK in terms of safety, recovery, and long-term outcomes, who makes an ideal candidate for the procedure, why corneal biomechanical integrity matters more than most people realize, the origin story of SMILE and its FDA approval journey, what SMILE Pro means for the future of refractive surgery, and the honest limitations you should know before making any decisions.\n\nWhether you've been living with blurry vision for years, been turned away from LASIK before, or are simply curious about what modern eye care technology can do, this episode gives you the clear, unbiased information you need to start the right conversation with your eye doctor.\n\nReady to explore whether SMILE could be right for you? Visit Focuslinks.in for more expert insights, resources, and guidance on your vision correction journey.\n\n---",
       "tags": "smile,lenticule,flapless,incision",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-03.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "860f9121-2c0d-4793-b017-5fb96a6beeaa",
+      "generatedAt": "2026-08-09T04:37:14.646Z"
     },
     {
       "episodeOrder": 4,

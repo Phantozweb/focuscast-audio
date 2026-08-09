@@ -1,0 +1,180 @@
+{
+  "slug": "retina-revealed",
+  "name": "Retina Revealed",
+  "tagline": "Posterior Pole Deep Dives",
+  "description": "Everything posterior segment — optic disc, macula, OCT interpretation, diabetic retinopathy, AMD, vascular occlusions, peripheral pathology, and detachments.",
+  "icon": "ScanEye",
+  "accent": "#7c3aed",
+  "category": "Retina",
+  "order": 2,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:31.633Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Anatomy of the Posterior Pole: From Bruch’s to Photoreceptors",
+      "description": "A layered tour of the retina that makes every future OCT and fundus finding click into place.",
+      "tags": "anatomy,retina,layers,bruchs",
+      "category": "Retina",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "The Optic Disc: Cup, Rim, and the ISNT Rule",
+      "description": "Reading neuroretinal rim symmetry and recognizing the earliest glaucomatous and pathological changes.",
+      "tags": "optic-disc,isnt,cup,glaucoma",
+      "category": "Optic Nerve",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Macula and Fovea: The High-Resolution Zone",
+      "description": "Locating the fovea, reading the foveal reflex, and spotting the subtle distortions of early disease.",
+      "tags": "macula,fovea,reflex,early-disease",
+      "category": "Macula",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Retinal Vasculature: Arteries, Veins, and the AV Crossing",
+      "description": "Distinguishing arteries from veins, grading AV nicking, and recognizing hypertensive and arteriolar changes.",
+      "tags": "vasculature,av-crossing,hypertension,vessels",
+      "category": "Retina",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "OCT Macula: Reading the Nine Layers on a Single Scan",
+      "description": "A reproducible method for interpreting macular OCT — identifying fluid, drusen, and atrophy in seconds.",
+      "tags": "oct,macula,layers,fluid",
+      "category": "Ocular Imaging",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "OCT RNFL: The Glaucoma Surveillance Workhorse",
+      "description": "Reading thickness maps, quadrant asymmetry, and progression — and knowing when the printout lies.",
+      "tags": "oct,rnfl,glaucoma,progression",
+      "category": "Ocular Imaging",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Fundus Photography: Composing a Diagnostic Image",
+      "description": "Field definitions, stereo pairs, and the montage that captures the peripheral pathology a single frame misses.",
+      "tags": "fundus-photo,montage,fields,stereo",
+      "category": "Ocular Imaging",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Fundus Autofluorescence: Lipofuscin as a Disease Marker",
+      "description": "Reading hypo- and hyper-autofluorescent patterns in Stargardt, AMD, and hydroxychloroquine toxicity.",
+      "tags": "faf,lipofuscin,stargardt,toxicity",
+      "category": "Ocular Imaging",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Fluorescein Angiography: Phases, Leakage, and Blocking",
+      "description": "Interpreting the arterial, venous, and late phases — and distinguishing leakage from window defects.",
+      "tags": "fa,angiography,leakage,phases",
+      "category": "Ocular Imaging",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "ICG Angiography: Seeing Choroidal Lesions Fluorescein Misses",
+      "description": "When to reach for ICG — occult CNV, polypoidal choroidal vasculopathy, and choroidal tumors.",
+      "tags": "icg,cnv,pcv,choroid",
+      "category": "Ocular Imaging",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Diabetic Retinopathy: Staging from Mild NPDR to PDR",
+      "description": "The ETDRS-derived severity scale, what each stage looks like at the slit lamp, and what it means for the patient.",
+      "tags": "diabetes,npdr,pdr,staging",
+      "category": "Retina",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Diabetic Macular Edema: CSME Criteria and Anti-VEGF Thresholds",
+      "description": "Recognizing clinically significant macular edema and the OCT features that trigger treatment.",
+      "tags": "dme,csme,anti-vegf,oct",
+      "category": "Macula",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Panretinal Photocoagulation: What the Optometrist Must Know",
+      "description": "Understanding PRP indications, post-laser appearance, and the visual side effects your patient will describe.",
+      "tags": "prp,laser,pdr,treatment",
+      "category": "Retina",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Dry AMD: Drusen, Pigment, and the AREDS2 Decision",
+      "description": "Classifying drusen, stratifying risk, and counseling on supplements, diet, and Amsler monitoring.",
+      "tags": "amd,drusen,areds2,dry-amd",
+      "category": "Macula",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Wet AMD: Recognizing the Conversion Before Vision is Lost",
+      "description": "Subretinal fluid, hemorrhage, and PED — the OCT and clinical signs that demand urgent anti-VEGF.",
+      "tags": "wet-amd,cnv,anti-vegf,conversion",
+      "category": "Macula",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

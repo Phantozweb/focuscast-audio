@@ -1,0 +1,180 @@
+{
+  "slug": "prescribing-pearls",
+  "name": "Prescribing Pearls",
+  "tagline": "The Art and Science of the Spectacle Prescription",
+  "description": "A 15-episode series on spectacle prescribing — from the final Rx to lens materials, prism, tints, and the special prescriptions for computer, sports, and low vision.",
+  "icon": "Glasses",
+  "accent": "#ea580c",
+  "category": "Prescribing",
+  "order": 20,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T10:02:23.757Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Writing the Right Prescription: The Cylinder Axis Tolerance and the Vertex Compensation",
+      "description": "The ANSI prescription tolerances, the axis and cylinder power tolerance, and the vertex distance compensation for high prescriptions.",
+      "tags": "prescription,ansi-tolerance,axis,vertex",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Prescribing for Children: The Hyperopia Cut-Off, the Astigmatism, and the First Pair",
+      "description": "The AAPOS prescribing guidelines for children, the cycloplegic vs manifest difference, and the first-pair counselling for parents.",
+      "tags": "pediatric-prescribing,aapos,hyperopia,cycloplegic",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Prescribing for the Presbyope: The Add, the Design, and the Working Distance",
+      "description": "The add power selection by age and working distance, the PAL vs bifocal vs single vision choice, and the adaptation counselling.",
+      "tags": "presbyopia,add,pal,bifocal,working-distance",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Prescribing Prism: The Eye Deviation, the Fixation Disparity, and the Sheard Criterion",
+      "description": "The prism calculation from the deviation, the fixation disparity and associated phoria, and the Sheard and Percival criteria for prescribing.",
+      "tags": "prism,fixation-disparity,sheard,percival",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Translating Refraction to Glasses: The Trial Frame Verification and the Rx Check",
+      "description": "The trial frame verification before prescribing, the over-refraction with the patient's current glasses, and the \"is it time for a change\" decision.",
+      "tags": "trial-frame,over-refraction,rx-check,verification",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Progressive Addition Lenses: Fitting, Troubleshooting, and the Patient Adaptation",
+      "description": "The PAL fitting (pupillary distance, fitting height), the corridor and the peripheral distortion, and the troubleshooting of the non-adapting patient.",
+      "tags": "pal,fitting,corridor,adaptation",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Lens Materials and Index Selection: CR-39, Polycarbonate, Trivex, and High-Index",
+      "description": "The lens material properties (index, Abbe, impact resistance), the material selection by prescription and use, and the cost-benefit.",
+      "tags": "lens-material,index,abbe,polycarbonate,trivex",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Blue Light Filtering Lenses: The Evidence and the Patient Counselling",
+      "description": "The blue light lens evidence (sleep, macula), the circadian and digital eye strain debate, and the honest patient counselling.",
+      "tags": "blue-light,evidence,circadian,digital-eye-strain",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Sports and Safety Eyewear: The ASTM Standard and the Prescription Protection",
+      "description": "The ASTM F803 sports eyewear standard, the prescription sports lens materials, and the safety eyewear for occupational and recreational use.",
+      "tags": "sports-eyewear,safety,astm-f803,polycarbonate",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Sunglasses and UV Protection: The 400 nm Standard and the Polarised Lens",
+      "description": "The UV (UVA, UVB) protection standard, the polarised vs tinted lens, and the prescription and the photochromic lens counselling.",
+      "tags": "sunglasses,uv-protection,polarised,photochromic",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Computer Glasses: The Working Distance, the Add, and the Blue Light Decision",
+      "description": "The computer working distance measurement, the single vision vs PAL vs computer PAL choice, and the dry eye and ergonomics counselling.",
+      "tags": "computer-glasses,working-distance,computer-pal",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Driving and Vision Standards: The Acuity, the Field, and the Legal Responsibility",
+      "description": "The driving vision standards (acuity, field), the optometrist's legal responsibility, and the difficult driving cessation conversation.",
+      "tags": "driving-standards,acuity,field,driving-cessation",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Low Vision Prescribing: The High-Add, the Magnifier, and the Device Selection",
+      "description": "The high-add single vision lens, the microscopic lens, the telescope, and the device selection algorithm for the low vision patient.",
+      "tags": "low-vision-rx,high-add,magnifier,telescope",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Tinted Lenses, Irlen, and Dyslexia: The Evidence vs the Anecdote",
+      "description": "The evidence for tinted lenses in dyslexia and migraine, the Irlen syndrome controversy, and the honest evidence-based patient counselling.",
+      "tags": "tinted-lenses,irlen,dyslexia,evidence",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "The Art of Rx Changes: When to Change, When to Hold, and How to Counsel",
+      "description": "The principles of changing (or not changing) a prescription, the small-change threshold, and the adaptation and the patient satisfaction.",
+      "tags": "rx-change,counselling,adaptation,satisfaction",
+      "category": "Prescribing",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T05:39:47.018Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T05:40:21.761Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -267,14 +267,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Biologics in Uveitis: The TNF Inhibitor Revolution",
-      "description": "Adalimumab and infliximab — the indications, the infection screen, and the insurance and authorization.",
+      "title": "TNF Inhibitors & Uveitis: The Biologic Revolution Explained",
+      "description": "What if the same biologics transforming arthritis treatment are also quietly saving the eyesight of millions? In this episode of Focus Cast, we dive deep into one of the most significant breakthroughs in modern ophthalmology — the rise of TNF inhibitors in the treatment of uveitis, a chronic inflammatory eye disease and a leading cause of preventable blindness worldwide.\n\nWe break down what uveitis actually is, why it is so difficult to treat, and why decades of relying on corticosteroids and traditional immunosuppressants left patients and doctors searching for something better. Then we explore how TNF inhibitors like adalimumab and infliximab entered the picture, how the landmark VISUAL I and VISUAL II clinical trials gave adalimumab its FDA approval specifically for non-infectious uveitis in 2016, and why not all TNF inhibitors behave the same way when it comes to eye inflammation.\n\nWe also cover the nuances that matter clinically — from the paradoxical uveitis risk with etanercept, to why certolizumab pegol may be a safer choice during pregnancy, to what happens when a biologic stops working and what comes next. And through it all, we keep the focus on what this revolution means for real patients — people who were once cycling through painful flares year after year and are now experiencing something closer to true remission.\n\nWhether you are a patient living with uveitis, a caregiver, or a healthcare professional navigating treatment decisions, this episode offers clear, evidence-based insights you can actually use. Listen now, and visit Focuslinks.in for more episodes covering the full spectrum of eye care.\n\n---",
       "tags": "biologic,tnf,adalimumab,infliximab",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-21.mp3",
+      "duration": "11:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "dadedb4d-793c-45d7-9680-20e3bbea0fd6",
+      "generatedAt": "2026-08-09T05:40:21.761Z"
     },
     {
       "episodeOrder": 22,

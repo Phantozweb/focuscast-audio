@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T06:37:21.123Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T06:37:45.330Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Malingering and Functional Loss: The Compassionate Assessment",
-      "description": "The non-organic signs, the fogging and optokinetic tests, and the documentation and referral.",
+      "title": "Malingering & Functional Loss: The Compassionate Assessment",
+      "description": "What happens when a patient's suffering can't be measured on a scan or confirmed by a blood test? In this thought-provoking episode of Focus Cast, we explore the complex, often misunderstood world of malingering and functional loss — and why the way clinicians approach these cases can make or break a patient's life.\n\nWe unpack the full spectrum of symptom presentation, from genuine physical illness to somatization, factitious disorder, and deliberate fabrication, revealing why jumping to the label of \"malingering\" is both clinically risky and deeply harmful. You'll learn how functional neurological disorder, chronic pain syndromes, and medically unexplained symptoms represent real, disabling conditions that have long been dismissed by a system trained to find visible lesions.\n\nWe also walk through what a truly compassionate assessment looks like in practice — one that uses validated effort testing, consistency analysis, and psychological tools without losing sight of the human being at the center of the evaluation. Spoiler: curiosity and empathy aren't just kind, they're clinically accurate.\n\nWhether you're a healthcare professional navigating medico-legal evaluations, a patient who has ever felt doubted, or simply someone fascinated by the intersection of medicine and psychology, this episode offers a grounded, nuanced perspective you won't want to miss.\n\nListen now and rethink how we assess suffering. Visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "malingering,functional,fogging,optokinetic",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-11.mp3",
+      "duration": "12:10",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cc0a4453-3f8d-4922-b3a5-ce7de0c362b9",
+      "generatedAt": "2026-08-09T06:37:45.330Z"
     },
     {
       "episodeOrder": 12,

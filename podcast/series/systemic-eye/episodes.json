@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T06:26:51.969Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T06:27:00.708Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -154,14 +154,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Giant Cell Arteritis: The Systemic Vasculitis at the Eye",
-      "description": "The polymyalgia, the jaw claudication, the steroid, and the temporal artery biopsy and rheumatology.",
+      "title": "Giant Cell Arteritis: When Vasculitis Steals Your Sight",
+      "description": "What if you woke up one morning and your vision was simply gone — not blurry, not dim, but completely gone? That is the terrifying reality of Giant Cell Arteritis, a systemic vasculitis that can cause sudden, permanent vision loss in older adults, often within hours of the first eye symptom. In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about GCA — from what it is and who is at risk, to the warning signs that appear weeks before vision loss strikes.\n\nWe explore the classic symptoms of Giant Cell Arteritis including temporal headaches, jaw claudication, scalp tenderness, and fatigue — symptoms that are frequently dismissed or misdiagnosed until it is too late. You will learn how GCA causes anterior ischemic optic neuropathy, why the vision loss is often painless, and how that silence makes this condition so dangerous.\n\nWe also walk through the diagnostic process, covering ESR and CRP blood tests, temporal artery biopsy, and the growing role of ultrasound and PET CT imaging. Most importantly, we discuss why treatment with high dose corticosteroids must begin immediately — before biopsy results return — and how newer therapies like Tocilizumab are changing long-term disease management.\n\nWhether you are a healthcare professional, a patient over fifty, or a caregiver, this episode could genuinely save someone's sight. GCA is treatable when caught in time. The window is narrow, but it is real.\n\nListen now and share this episode with someone who needs to hear it. Visit Focuslinks.in for more episodes, articles, and resources on eye health and vision science.\n\n---",
       "tags": "gca,polymyalgia,biopsy,rheumatology",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-12.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1726b656-fd59-4bbc-bec6-e73bd38d17cf",
+      "generatedAt": "2026-08-09T06:27:00.708Z"
     },
     {
       "episodeOrder": 13,

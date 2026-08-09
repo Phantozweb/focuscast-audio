@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T06:10:56.932Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T06:11:24.158Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "OCT RNFL: The Glaucoma Map and the Red-Yellow-Green",
-      "description": "The quadrant and clock-hour thickness, the normative comparison, and the asymmetry that flags early loss.",
+      "title": "OCT RNFL Explained: Reading Your Glaucoma Map",
+      "description": "Ever stared at a colorful dartboard-like diagram on your eye report and had no idea what it meant? In this episode of Focus Cast, we decode the OCT RNFL test — one of the most powerful tools in modern eye care for detecting glaucoma early, often before you notice a single symptom.\n\nWe break down exactly what the Retinal Nerve Fiber Layer is, why it matters, and how Optical Coherence Tomography measures its thickness with extraordinary precision. Most importantly, we explain the color-coded map that comes with every scan — what green, yellow, and red actually mean for your optic nerve health, and why those colors could be the difference between catching glaucoma early and losing vision permanently.\n\nYou will learn how glaucoma silently damages nerve fibers in predictable patterns, why the superior and inferior poles of the optic disc are the most vulnerable, and how doctors use trend analysis over time to track disease progression — even when numbers still appear in the normal range. We also walk through a real-world patient scenario that shows exactly how this test works in clinical practice.\n\nWhether you have been told you have elevated eye pressure, a family history of glaucoma, or you simply want to understand your eye reports better, this episode gives you the knowledge to have more informed conversations with your eye doctor.\n\nGlaucoma is called the silent thief of sight for a reason — but with OCT RNFL, we have a way to catch it early. Tune in, and share this episode with anyone who cares about protecting their vision.\n\nVisit Focuslinks dot in to explore more eye health topics that actually make sense.\n\n---",
       "tags": "rnfl,map,normative,asymmetry",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-03.mp3",
+      "duration": "12:05",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "325fcec8-3e8e-4e66-a762-6f1b5cf95c33",
+      "generatedAt": "2026-08-09T06:11:24.158Z"
     },
     {
       "episodeOrder": 4,

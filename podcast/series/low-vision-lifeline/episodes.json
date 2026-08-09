@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T05:21:56.187Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T05:22:37.742Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Peripheral Vision Loss: The Glaucoma and RP Patient",
-      "description": "The tunnel field, the mobility challenge, and the field-expansion and orientation strategies.",
+      "title": "Peripheral Vision Loss: Living With Glaucoma and RP",
+      "description": "What does it actually feel like to lose your peripheral vision? Not the clinical definition — the real, lived experience of reaching for a coffee cup and missing it, or clipping your shoulder on a doorway you've walked through a hundred times. In this episode of Focus Cast, we explore the deeply personal and often misunderstood world of peripheral vision loss through the lens of two conditions: glaucoma and retinitis pigmentosa (RP).\n\nWe break down how glaucoma silently damages the optic nerve — often without pain or warning — and why nearly half of the 80 million people affected worldwide don't even know they have it. We also dive into retinitis pigmentosa, the inherited retinal disorder that begins stealing peripheral vision and night vision early in life, creating a slow but relentless tunnel vision that reshapes how patients experience the world around them.\n\nBeyond the biology, this episode explores the emotional journey of diagnosis, grief, and adaptation that both glaucoma and RP patients navigate. We discuss the latest advances in assistive technology, the promise of gene therapy clinical trials, practical daily strategies like scanning techniques and lighting adjustments, and the power of community for people living with low vision.\n\nWhether you are a patient, caregiver, eye care professional, or simply someone who wants to better understand visual impairment, this conversation will change how you see — and appreciate — the full width of your world.\n\nIf you haven't had an eye exam recently, let this episode be your reminder. Early detection saves sight. Visit Focuslinks.in to explore more resources, connect with the low vision community, and never miss an episode of Focus Cast.\n\n---",
       "tags": "peripheral,glaucoma,rp,field-expansion",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-05.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "30dcd3db-4bac-4442-98fc-5f3272ad0ec2",
+      "generatedAt": "2026-08-09T05:22:37.742Z"
     },
     {
       "episodeOrder": 6,

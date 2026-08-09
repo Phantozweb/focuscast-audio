@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T04:51:28.600Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T04:51:35.383Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Retinal Detachment: The Curtain and the Photopsia",
-      "description": "The flashes, floaters, and curtain triad, the dilated fundus exam, and the urgent surgical referral.",
+      "title": "Retinal Detachment: Flashes, Floaters & the Vision Curtain",
+      "description": "What does it mean when you suddenly see flashing lights in your vision — or notice a dark curtain slowly creeping across your sight? In this episode of Focus Cast, we break down one of the most urgent eye health emergencies you need to know about: retinal detachment. We explore the science behind photopsia, those mysterious flashes of light caused by mechanical stimulation of the retina, and explain exactly why that shadowy curtain effect is a signal you should never ignore.\n\nYou'll learn what the retina actually does, how the vitreous gel plays a role in retinal tears, and why conditions like nearsightedness or prior eye surgery can raise your risk. We walk through the three critical warning signs — flashes, sudden floaters, and the curtain shadow — and explain the crucial difference between a macula-on and macula-off detachment, and why that distinction can determine how much vision you ultimately save.\n\nWe also cover the treatment options available today, from laser photocoagulation to vitrectomy, and why acting fast dramatically improves your outcome. Whether you've experienced these symptoms yourself or simply want to protect your vision for the future, this episode gives you the knowledge to recognize a retinal emergency and respond in time.\n\nYour vision is irreplaceable. Don't wait for symptoms to get worse. Listen now, share this episode with someone you care about, and visit Focuslinks.in for more eye health resources and episodes from Focus Cast.\n\n---",
       "tags": "rds,photopsia,curtain,referral",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-09.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "73b28a65-abee-47f8-8677-85759f020c38",
+      "generatedAt": "2026-08-09T04:51:35.383Z"
     },
     {
       "episodeOrder": 10,

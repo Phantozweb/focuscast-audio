@@ -8,19 +8,21 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:45.640Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T05:09:43.283Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Pharmacokinetics of the Eye: The Barriers to Drug Delivery",
-      "description": "Corneal and conjunctival absorption, the tear washout, and why drop frequency matters.",
+      "title": "Eye Drop Science: Barriers to Ocular Drug Delivery",
+      "description": "Ever put in eye drops and wondered if they're actually working? Your instinct is onto something. Getting medication into the eye and keeping it there long enough to be effective is one of the most underappreciated challenges in modern medicine — and in this episode of Focus Cast, we break down exactly why.\n\nWe explore the fascinating pharmacokinetics of the eye, uncovering the remarkable biological defense systems that stand between a drug and its target. You'll learn why less than 5% of a topically applied drug ever reaches the intended tissue inside the eye, how the cornea's layered structure demands that drugs be chemically \"bilingual,\" and why treating diseases at the back of the eye with simple drops is nearly impossible. We also unpack the blood-retinal barrier, the role of protein binding and enzymatic degradation, and why some retinal conditions require a needle injected directly into the eyeball.\n\nBut it's not all obstacles — we also dive into the cutting-edge innovations researchers are developing to outsmart these barriers. From mucoadhesive nanoparticles and temperature-sensitive hydrogels to drug-eluting contact lenses and sustained-release implants that deliver therapy for up to eight months, the future of ocular drug delivery is genuinely exciting.\n\nWhether you're a healthcare professional, a science enthusiast, or someone managing an eye condition, this episode will completely change how you think about that little bottle on your bathroom shelf.\n\nListen now and share with anyone who loves science or has ever squinted at an eye drop and wondered what's really going on. Explore more content at focuslinks.in.\n\n---",
       "tags": "pharmacokinetics,absorption,barriers,washout",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-01.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cf27df8a-2de4-4ca3-bfc7-52a5db9aa28e",
+      "generatedAt": "2026-08-09T05:09:43.283Z"
     },
     {
       "episodeOrder": 2,

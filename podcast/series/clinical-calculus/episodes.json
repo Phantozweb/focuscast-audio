@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T06:39:20.242Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T06:43:08.650Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "The Diagnostic Test: Sensitivity, Specificity, and the Likelihood Ratio",
-      "description": "How to read a test study and the pretest-posttest probability that changes the plan.",
+      "title": "Sensitivity, Specificity & Likelihood Ratio Explained Simply",
+      "description": "Ever wondered why a positive test result doesn't always mean you have a disease? In this eye-opening episode of Focus Cast, we break down three essential concepts in diagnostic medicine — sensitivity, specificity, and the likelihood ratio — and show you exactly how doctors decide whether to trust a test result.\n\nWe start with sensitivity: the ability of a test to correctly identify people who are truly sick. A highly sensitive test casts a wide net, making it ideal for screening conditions like HIV or tuberculosis where missing a case could be dangerous. Then we explore specificity: the ability to correctly identify healthy people, making it the go-to tool for confirming a diagnosis after an initial screen. You'll also learn the classic medical mnemonics SnNout and SpPin that make these concepts stick.\n\nBut here's where it gets genuinely fascinating. Knowing sensitivity and specificity alone isn't enough. The likelihood ratio combines both into a single powerful number that tells you exactly how much a test result should shift your suspicion of a diagnosis. Using real-world examples like HIV testing and chest pain evaluation, we walk you through how pre-test probability and likelihood ratios work together in actual clinical decision-making.\n\nWhether you're a medical student, a healthcare professional brushing up on the basics, or simply someone who wants to understand their own test results more clearly, this episode gives you the tools to think like a diagnostician.\n\nVisit focuslinks.in to explore more episodes and resources from Focus Cast. If this episode helped you, share it with someone who could use a little clarity on their next lab report.\n\n---",
       "tags": "diagnostic-test,sensitivity,specificity,likelihood",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-17.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ecc2a2e5-6f35-4737-98b9-0e58adad0cd3",
+      "generatedAt": "2026-08-09T06:43:07.853Z"
     },
     {
       "episodeOrder": 18,

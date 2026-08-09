@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T06:23:40.580Z",
+  "lastUpdated": "2026-08-09T06:23:55.740Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 543,
   "series": [
@@ -272,7 +272,7 @@
       "generatedEpisodes": 30,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/episodes.json",
       "audioDir": "podcast/series/imaging-insights/audio",
-      "lastUpdated": "2026-08-09T06:22:33.936Z"
+      "lastUpdated": "2026-08-09T06:23:41.183Z"
     },
     {
       "slug": "systemic-eye",

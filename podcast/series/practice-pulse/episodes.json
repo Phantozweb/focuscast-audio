@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T05:08:02.462Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T05:08:37.599Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -345,14 +345,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Marketing the Practice: The Local Strategy",
-      "description": "The community event, the referral network, and the targeted mailer that reaches the right patient.",
+      "title": "Local Marketing Strategies to Grow Your Practice Fast",
+      "description": "Are potential clients driving past your practice every day without knowing you exist? In this episode of Focus Cast, we break down the exact local marketing strategies that help professional practices — medical clinics, dental offices, law firms, financial advisors, and more — become the go-to choice in their communities.\n\nWe start with the one tool every practice owner must master: your Google Business Profile. Learn why claiming it is just the beginning, and how consistent activity on your profile directly impacts how high you rank in local search results. We then dive into the power of community presence, sharing how real practitioners have built waiting lists not through expensive advertising, but by showing up and adding genuine value to the people around them.\n\nFrom there, we explore hyperlocal digital advertising on Google and Meta, showing you how even a modest budget can put your message in front of people within kilometers of your front door who are actively searching for your services. We also cover why online reviews are the new word of mouth, how to build a simple system for collecting them, and why referrals remain the gold standard in professional services marketing.\n\nFinally, we tie it all together with a practical framework for consistency and measurement, because local marketing is not a one-time campaign. It is a system that compounds over time.\n\nIf you are a practice owner who is brilliant at your craft but unsure how to attract more local clients, this episode gives you a clear, actionable roadmap to get started. Visit Focuslinks.in for more tools and resources to help your practice grow.\n\n---",
       "tags": "marketing,local,referral,community",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Pediatric",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-27.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "55ba98c3-17ce-4243-9c32-b6f308853735",
+      "generatedAt": "2026-08-09T05:08:37.599Z"
     },
     {
       "episodeOrder": 28,

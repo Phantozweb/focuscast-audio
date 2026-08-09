@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T05:50:23.674Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T05:50:51.156Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Basal Cell Carcinoma: The Most Common Lid Malignancy",
-      "description": "The pearly nodule, the telangiectasia, the biopsy, and the Mohs surgery that spares tissue.",
+      "title": "Basal Cell Carcinoma of the Eyelid: What You Must Know",
+      "description": "What does a small, painless bump near the eyelid really mean? In this episode of Focus Cast, we break down Basal Cell Carcinoma of the eyelid, the most common eyelid malignancy, into a clear, clinically practical conversation you will actually remember.\n\nBasal Cell Carcinoma accounts for nearly ninety percent of all eyelid cancers, and while it is slow-growing and rarely spreads, it can cause serious damage when left untreated. We walk you through everything from who is most at risk, including fair-skinned individuals, outdoor workers, and immunosuppressed patients, to the classic clinical features like the pearly nodular appearance, telangiectasias, rodent ulcer morphology, and the critical red flag of madarosis, or localized eyelash loss.\n\nWe also cover the different subtypes, including the deceptively subtle morpheaform variant, how biopsy and histopathology confirm the diagnosis, and why the medial canthus is a particularly challenging location. On the treatment side, we explore surgical excision, Mohs micrographic surgery, eyelid reconstruction, radiation therapy, and newer targeted options like vismodegib for advanced cases.\n\nWhether you are a medical student preparing for exams, a clinician refreshing your ophthalmology knowledge, or simply someone who loves understanding how medicine works, this episode gives you a confident, complete picture of eyelid BCC.\n\nListen now and walk away ready to recognize, diagnose, and understand the management of the most common malignant tumor of the eyelid. Visit Focuslinks dot in for more episodes and learning resources.\n\n---",
       "tags": "bcc,pearly,mohs,biopsy",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-13.mp3",
+      "duration": "12:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7de44995-af33-41de-8df6-4d1163647ca3",
+      "generatedAt": "2026-08-09T05:50:51.156Z"
     },
     {
       "episodeOrder": 14,

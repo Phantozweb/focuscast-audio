@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T04:55:15.435Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T04:55:42.387Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Corneal Abrasion in the CL Wearer: The Pseudomonas Risk",
-      "description": "Why every CL wearer abrasion gets anti-pseudomonal coverage and the stop-wear and follow-up protocol.",
+      "title": "Corneal Abrasion & Pseudomonas Risk for Contact Lens Wearers",
+      "description": "What starts as a minor eye scratch can turn into a sight-threatening emergency within hours — and if you wear contact lenses, you need to hear this. In this episode of Focus Cast, we break down exactly why contact lens wearers face a uniquely elevated risk when it comes to corneal abrasions and Pseudomonas aeruginosa, one of the most aggressive bacterial infections the eye can encounter.\n\nWe walk you through the science behind how a disrupted corneal epithelium becomes an entry point for Pseudomonas, why this bacteria moves so fast once it reaches corneal tissue, and how a simple abrasion can escalate into a full-blown corneal ulcer in a matter of hours. You'll learn which contact lens habits dramatically increase your risk — including sleeping in lenses, wearing them in water, and poor lens case hygiene — and what the early warning signs of Pseudomonas keratitis actually look like.\n\nWe also cover how this infection is treated, why timing is everything, and the straightforward preventive steps every contact lens wearer should be following consistently. Whether you've been wearing contacts for years or you're just starting out, this episode gives you the knowledge to protect your vision before a small problem becomes a serious one.\n\nIf your eye ever feels uncomfortable in your lenses, this episode will remind you exactly why you shouldn't ignore it. Listen now, and share this with anyone in your life who wears contact lenses. For more eye care insights and resources, visit us at focuslinks.in.\n\n---",
       "tags": "abrasion,cl-wearer,pseudomonas,stop-wear",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-20.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "099da307-7ba0-4007-803d-ed5a81d784bf",
+      "generatedAt": "2026-08-09T04:55:42.387Z"
     },
     {
       "episodeOrder": 21,

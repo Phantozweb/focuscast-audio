@@ -9,7 +9,7 @@
   "order": 19,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T06:24:34.103Z",
+  "lastUpdated": "2026-08-09T06:24:34.704Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,16 +52,14 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Keith-Wagener-Barker Classification of Hypertensive Retinopathy Explained",
-      "description": "What can a doctor see inside your eye that reveals the true state of your heart and blood vessels? More than you might think. In this episode of Focus Cast, we break down the Keith-Wagener-Barker classification, the landmark grading system developed in 1939 that transformed how physicians assess hypertensive retinopathy and cardiovascular damage.\n\nHigh blood pressure is often called the silent killer because it causes no symptoms while quietly destroying blood vessels, kidneys, and the brain. But the retina tells a different story. As one of the only places in the body where blood vessels can be observed directly and non-invasively, the retina offers a powerful window into the severity of hypertension and its long-term effects on the entire vascular system.\n\nWe walk you through all four grades of the Keith-Wagener-Barker classification in clear, accessible language. From the subtle arterial narrowing of Grade 1 and the AV nicking of Grade 2, to the flame-shaped hemorrhages and cotton wool spots of Grade 3, and the life-threatening papilledema of Grade 4, each stage tells a distinct clinical story. We also explore why this classification remains relevant today, how retinal grading independently predicts cardiovascular outcomes, and why it is especially valuable in resource-limited healthcare settings.\n\nWhether you are a medical student preparing for exams, a healthcare professional refreshing your knowledge, or simply someone who wants to understand what high blood pressure really does to the body, this episode delivers focused, practical insight you can use.\n\nListen now and visit Focuslinks.in for more episodes and study resources designed to help you learn smarter.\n\n---",
+      "title": "Hypertension: The Keith-Wagener-Barker Classification",
+      "description": "The arteriolar narrowing, the AV nicking, the cotton-wool and flame hemorrhage, and the crisis.",
       "tags": "hypertension,kwb,av-nicking,cotton-wool",
       "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-04.mp3",
-      "duration": "12:34",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "bb1dcbf5-605a-4d34-967d-ef9a0620df06",
-      "generatedAt": "2026-08-09T06:24:34.103Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 5,
@@ -109,14 +107,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Systemic Lupus Erythematosus: The Retinopathy and the Hydroxychloroquine",
-      "description": "The cotton-wool spots, the antimalarial toxicity surveillance, and the interdisciplinary care.",
+      "title": "Lupus, Hydroxychloroquine & Retinopathy: What You Must Know",
+      "description": "Could the medication saving your life be quietly stealing your sight? In this eye-opening episode of Focus Cast, we explore the critical relationship between Systemic Lupus Erythematosus (SLE), the widely prescribed drug hydroxychloroquine (HCQ), and a serious but preventable condition called hydroxychloroquine retinopathy.\n\nLupus affects millions worldwide, and hydroxychloroquine remains a cornerstone of its treatment, protecting kidneys, reducing flares, preventing blood clots, and even extending life expectancy. But long-term use carries a hidden risk: gradual, irreversible damage to the retina that often shows no symptoms until it's too late.\n\nIn this episode, we break down exactly how hydroxychloroquine accumulates in the retinal pigment epithelium, what the characteristic bull's eye maculopathy looks like, and why early detection is the only real defense. We walk through the latest American Academy of Ophthalmology screening guidelines, explain powerful diagnostic tools like OCT, 10-2 visual fields, multifocal electroretinography, and fundus autofluorescence, and discuss the key risk factors every patient and clinician should understand.\n\nWe also tackle the difficult conversation that happens when retinopathy is detected, weighing the risk of vision loss against the risk of stopping a drug that may be protecting vital organs.\n\nWhether you are a lupus patient, a caregiver, a rheumatologist, or an eye care professional, this episode delivers clear, evidence-based insights that could make a real difference in long-term outcomes.\n\nDo not let this silent threat go undetected. Listen now, and visit Focuslinks.in for more focused conversations on medicine and eye care.\n\n---",
       "tags": "sle,retinopathy,hydroxychloroquine,surveillance",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-09.mp3",
+      "duration": "12:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c037aaa0-0c8b-4126-ae3d-22b54acdd618",
+      "generatedAt": "2026-08-09T06:24:34.704Z"
     },
     {
       "episodeOrder": 10,

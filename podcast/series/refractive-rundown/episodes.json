@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T04:43:51.840Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T04:44:07.437Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -245,14 +245,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "ICL Sizing and Vault: The Anterior Chamber Assessment",
-      "description": "The white-to-white, the OCT vault, and the sizing decision that prevents angle closure and cataract.",
+      "title": "ICL Sizing & Vault: Mastering Anterior Chamber Assessment",
+      "description": "How do surgeons ensure an Implantable Collamer Lens lands in exactly the right position inside your eye? The answer lies in one critical measurement: the vault. In this episode of Focus Cast by Focuslinks.in, we break down the science and precision behind ICL sizing and anterior chamber assessment — a topic that sits at the heart of safe, successful refractive surgery outcomes.\n\nWe explore what vault actually means, why the ideal range sits between 250 and 750 microns, and what happens when it falls outside that window. From cataract formation caused by a low vault to angle-closure risks from a vault that's too high, the stakes are real — and the margin for error is narrow.\n\nYou'll learn why white-to-white measurement alone isn't enough, and how advanced imaging technologies like ultrasound biomicroscopy (UBM) and anterior segment OCT (AS-OCT) are transforming preoperative planning. We also cover the growing role of AI-driven vault prediction models, the advantages of the EVO ICL with its built-in central port, and why postoperative vault monitoring is just as important as getting the sizing right before surgery.\n\nWhether you're an ophthalmologist refining your ICL workup protocol or a patient researching your surgical options, this episode gives you a clear, accessible look at the precision and expertise behind every ICL implantation.\n\nListen now and discover why ICL sizing is never a one-size-fits-all calculation. For more expert insights on refractive surgery and eye care, visit Focuslinks.in.\n\n---",
       "tags": "icl,sizing,vault,oct",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-19.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2337bfaf-e90f-4ba7-a8e2-f715f603866c",
+      "generatedAt": "2026-08-09T04:44:07.437Z"
     },
     {
       "episodeOrder": 20,

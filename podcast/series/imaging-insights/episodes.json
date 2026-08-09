@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T06:19:45.368Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T06:19:59.614Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Imaging the Tear Film: The Interferometry and the Osmolarity",
-      "description": "The lipid layer thickness, the non-invasive TBUT, and the objective dry eye measurement.",
+      "title": "Imaging the Tear Film: Interferometry & Osmolarity Explained",
+      "description": "Ever wonder what's really happening every time you blink? Your tear film, a microscopic three-layered structure just a few micrometers thick, is working hard to keep your vision clear and your eyes comfortable. When it breaks down, dry eye disease sets in, and it affects millions of people worldwide. But here's the problem: dry eye has long been one of the most underdiagnosed conditions in eye care, largely because traditional methods relied too heavily on symptoms alone.\n\nIn this episode of Focus Cast, we break down two powerful diagnostic tools that are transforming how eye care professionals detect and manage dry eye disease: interferometry and osmolarity testing. We explore how interferometry uses light wave patterns to measure the thickness and quality of the lipid layer, and how devices like LipiView can even detect partial blinking habits that silently sabotage your tear film. We then dive into osmolarity testing, explaining how the TearLab system measures tear concentration at a biochemical level, why the difference between your two eyes matters as much as the absolute number, and how serial testing can objectively track your treatment progress over time.\n\nWhether you are a patient frustrated by dry, gritty, or fluctuating vision, or a clinician looking to elevate your dry eye diagnostic approach, this episode gives you a clear, science-backed understanding of what these tools measure, why they complement each other, and why they are fast becoming the standard of care.\n\nListen now and discover how modern eye care is finally seeing the tear film clearly. For more episodes and eye care resources, visit Focuslinks.in.\n\n---",
       "tags": "tear-film,interferometry,tbut,osmolarity",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-26.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "09551e45-df50-4902-af67-73deff0a1a9f",
+      "generatedAt": "2026-08-09T06:19:59.614Z"
     },
     {
       "episodeOrder": 27,

@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T05:49:49.156Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T05:50:14.282Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -154,14 +154,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Blepharitis: Anterior and Posterior, The Inflammation",
-      "description": "The staphylococcal, seborrheic, and MGD forms and the lid hygiene that is the foundation of care.",
+      "title": "Blepharitis Explained: Anterior, Posterior & How to Manage It",
+      "description": "Ever woken up with crusty eyelids, burning eyes, or that nagging feeling something is stuck in your eye — even when nothing is there? You might be dealing with blepharitis, one of the most common yet overlooked eye conditions affecting millions of people worldwide. In this episode of Focus Cast, we break down everything you need to know about blepharitis in a way that actually makes sense.\n\nWe explore the two main types — anterior blepharitis, which affects the base of your eyelashes and is often linked to bacterial overgrowth or seborrheic dermatitis, and posterior blepharitis, which involves dysfunction of the meibomian glands and is closely connected to dry eye disease and rosacea. You'll learn why these two types are different, what causes them, and why blepharitis tends to keep coming back even after treatment.\n\nMore importantly, we get practical. From daily eyelid hygiene routines and warm compresses to omega-3 supplementation, topical antibiotics, and advanced in-office treatments like LipiFlow and intense pulsed light therapy, we cover the full spectrum of management options available today. We also talk honestly about the chronic nature of this condition and the real impact it can have on your daily comfort and quality of life.\n\nWhether you've already been diagnosed or you're just trying to figure out why your eyes never feel quite right, this episode gives you the clarity and tools to take action. If your eyes have been bothering you, this is the episode you didn't know you needed.\n\nListen now, and visit Focuslinks.in for more eye health episodes and resources.\n\n---",
       "tags": "blepharitis,staph,seborrheic,mgd",
       "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-12.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "49548676-e692-4684-948d-098acc8c23bc",
+      "generatedAt": "2026-08-09T05:50:14.282Z"
     },
     {
       "episodeOrder": 13,

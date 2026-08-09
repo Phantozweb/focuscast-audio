@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T05:30:23.634Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T05:30:38.816Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -310,14 +310,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Low Vision and Glaucoma: The Field That Remains",
-      "description": "The residual field, the contrast loss, and the magnification that must respect the field deficit.",
+      "title": "Low Vision & Glaucoma: Making the Most of the Field That Remains",
+      "description": "What happens to your vision when glaucoma slowly takes the edges away — and what can you do with what's left? In this episode of Focus Cast by Focuslinks.in, we explore the deeply personal reality of low vision caused by glaucoma, and why the visual field that remains is far more powerful than most people realize.\n\nGlaucoma affects over 80 million people worldwide, silently stealing peripheral vision before most people even notice something is wrong. But here's what often gets overlooked: many people with advanced glaucoma retain their central vision — the ability to read, recognize faces, and engage with the world in meaningful ways. That remaining field of vision isn't a consolation prize. It's a canvas for a full and independent life.\n\nIn this episode, we break down what low vision really means, how glaucoma's pattern of vision loss differs from other eye conditions, and why early low vision rehabilitation can be life-changing. We cover practical tools like magnification devices, adaptive lighting, prism glasses, and today's remarkable accessibility technology. We also talk honestly about the emotional side of vision loss — the grief, the adjustment, and the profound power of community and peer support.\n\nWhether you've recently been diagnosed with glaucoma, are supporting a loved one through vision loss, or have been living with low vision for years, this episode offers clarity, hope, and actionable guidance.\n\nDon't wait for vision loss to become severe before seeking help. Start building your toolkit today. Listen now, and visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "glaucoma,field,contrast,magnification",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-24.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5743e396-b0e6-4240-9806-4e6bad0b1e05",
+      "generatedAt": "2026-08-09T05:30:38.816Z"
     },
     {
       "episodeOrder": 25,

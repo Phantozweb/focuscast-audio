@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T05:21:35.380Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T05:21:56.187Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Central Vision Loss: The AMD Rehabilitation",
-      "description": "The scotoma, the eccentric viewing, and the magnification that restores reading and faces.",
+      "title": "AMD Rehabilitation: Reclaiming Life After Central Vision Loss",
+      "description": "What happens the morning you realize your central vision is gone? For millions living with Age-related Macular Degeneration, that moment changes everything. But here's what most people never get told after an AMD diagnosis: rehabilitation can give you your life back.\n\nIn this episode of Focus Cast, we take a deep dive into AMD rehabilitation, exploring not just the clinical side, but the deeply human journey of adapting to central vision loss. We break down eccentric viewing, the powerful technique that trains your brain to use healthy parts of your retina to see more clearly. We explore the assistive technology transforming daily life for people with low vision, from portable electronic magnifiers and smartphone accessibility features to AI-powered apps like Seeing AI that describe the world around you in real time.\n\nWe also tackle what rarely gets discussed openly: the grief, depression, and emotional weight that comes with losing central vision, and why addressing the psychological side of AMD is just as critical as the clinical side. Through the story of Margaret, a retired schoolteacher who rediscovered joy and independence through a low vision rehabilitation program, we show what recovery truly looks like.\n\nWhether you or someone you love has been diagnosed with AMD, or you simply want to understand this condition better, this episode offers practical guidance, genuine hope, and a clear reminder that a diagnosis is not the end of the story.\n\nIf this episode resonated with you, share it with someone who needs to hear it. Visit Focuslinks.in to explore more vision health resources, low vision support tools, and stories from people navigating life with AMD.\n\n---",
       "tags": "central,amd,scotoma,eccentric",
-      "category": "Macula",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-04.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b8f32432-71ed-463a-99d4-39f1bc174037",
+      "generatedAt": "2026-08-09T05:21:56.186Z"
     },
     {
       "episodeOrder": 5,

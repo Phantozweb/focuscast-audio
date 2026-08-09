@@ -9,7 +9,7 @@
   "order": 20,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T08:19:53.098Z",
+  "lastUpdated": "2026-08-09T08:20:11.339Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,16 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Cultural Competence in Eye Care: Bridging the Vision Gap",
-      "description": "Have you ever felt misunderstood by a doctor? Now imagine that happening when your eyesight is on the line. In this eye-opening episode of Focus Cast by Focuslinks.in, we explore cultural competence in eye care and why it's one of the most critical yet overlooked factors in vision health today.\n\nWe break down what cultural competence really means beyond just language, diving into how culture, trust, and lived experience shape the way people seek and receive eye care. From the alarming rates of glaucoma in Black Americans to the rising burden of diabetic retinopathy in Hispanic, Latino, and South Asian communities, we unpack the real disparities that are costing people their vision and what can be done about it.\n\nYou'll hear about powerful community outreach models, the difference between cultural competence and cultural humility, why language access is a standard of care and not a luxury, and how representation in the eye care workforce directly improves patient outcomes. We also share a moving real-world story about how one multilingual optometrist transformed her community's relationship with eye care, one appointment at a time.\n\nWhether you're a patient, caregiver, eye care professional, or health advocate, this episode will change the way you think about vision health equity.\n\nListen now and share this episode with someone who deserves care that truly sees them. Explore more episodes and eye care resources at Focuslinks.in.\n\n---",
+      "title": "Cultural Competence in Eye Care: Seeing Every Patient Clearly",
+      "description": "What happens when your eye doctor doesn't truly understand you? In this eye-opening episode of Focus Cast by Focuslinks.in, we explore cultural competence in eye care and why it's not just a soft skill — it's a clinical necessity. Through the story of Priya, a patient whose lifestyle and cultural background were overlooked during her eye exam, we uncover how cultural blind spots in healthcare lead to misdiagnosis, poor treatment adherence, and preventable vision loss.\n\nWe break down how culture shapes everything from how patients describe symptoms to whether they trust their provider at all. You'll learn why glaucoma disproportionately affects people of African descent and why that gap is as much about systemic barriers as biology. We dive into how traditional practices like kajal application, herbal eye remedies, and beliefs around the evil eye intersect with modern eye care — and how providers can navigate these conversations with curiosity and respect rather than dismissal.\n\nWe also tackle the role of family in health decisions, the dangers of language assumptions, the impact of diet and lifestyle across cultures on conditions like diabetic retinopathy and vitamin A deficiency, and why diverse representation in eye care teams is a proven clinical strategy — not just a feel-good goal.\n\nWhether you're an eye care professional, a healthcare advocate, or someone who has ever felt unseen in a medical setting, this episode will change how you think about what truly good eye care looks like. Listen now and share it with someone who needs to hear it. Visit Focuslinks.in for more episodes and resources that bring eye care into sharp focus.\n\n---",
       "tags": "cultural,competence,literacy,trust",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-26.mp3",
-      "duration": "12:03",
+      "duration": "12:54",
       "imageUrl": "",
       "status": "generated",
-      "runId": "f8c8fc98-35ea-444f-8ad0-d8e72209006c",
-      "generatedAt": "2026-08-09T08:19:52.669Z"
+      "runId": "2d6ffcda-d495-4cd7-b56d-4f9a87552fe5",
+      "generatedAt": "2026-08-09T08:20:10.963Z"
     },
     {
       "episodeOrder": 27,

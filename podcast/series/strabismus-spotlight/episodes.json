@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T06:04:52.108Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T06:05:37.275Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -315,14 +315,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Divergence Excess: The Distance Exotropia",
-      "description": "The distance greater than near, the measurement challenge, and the surgical planning.",
+      "title": "Divergence Excess Exotropia: Why Eyes Drift at Distance",
+      "description": "Have you ever noticed someone whose eyes appear perfectly aligned up close, but one eye drifts outward the moment they look into the distance? That is divergence excess exotropia, and it is more common, more nuanced, and more treatable than most people realize.\n\nIn this episode of Focus Cast by Focuslinks.in, we break down exactly what divergence excess exotropia is, why distance triggers the outward eye drift while near vision stays relatively controlled, and how this condition differs from other types of exotropia. We explore the two clinical subtypes, true divergence excess and simulated divergence excess, and explain why distinguishing between them is critical for choosing the right treatment path.\n\nWe also cover who is most affected, typically children between ages one and four, why routine pediatric eye exams are essential for early detection, and how the brain suppresses vision to avoid double sight during episodes of drift. From there, we walk through the full spectrum of treatment options including corrective lenses for myopia, vision therapy, prism glasses, and surgery, along with the real quality of life impact this condition has on both children and adults.\n\nWhether you are a parent who has noticed your child's eye wandering, an adult living with intermittent exotropia, or an eye care professional looking for a clear clinical overview, this episode delivers practical, evidence-based insights you can act on.\n\nListen now and share this episode with anyone who might benefit. Visit Focuslinks.in for more eye care resources, episodes, and expert guidance.\n\n---",
       "tags": "divergence-excess,distance,exotropia,measurement",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Refraction",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-25.mp3",
+      "duration": "12:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "76906e88-cdc2-40c3-888d-c6e34454ff64",
+      "generatedAt": "2026-08-09T06:05:37.275Z"
     },
     {
       "episodeOrder": 26,

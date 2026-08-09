@@ -1,0 +1,180 @@
+{
+  "slug": "refractive-surgery-review",
+  "name": "Refractive Surgery Review",
+  "tagline": "Co-Managing LASIK, PRK, SMILE, and IOL Refractive Procedures",
+  "description": "A 15-episode series on refractive surgery — patient selection, the procedures, complications, and the optometrist's role in co-management.",
+  "icon": "Sparkles",
+  "accent": "#0284c7",
+  "category": "Refractive Surgery",
+  "order": 15,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T10:02:17.554Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "LASIK Patient Selection: The Refractive, Topographic, and Ocular Surface Criteria",
+      "description": "The refractive range, the pachymetry minimum, the topography exclusion criteria (keratoconus, forme fruste), and the dry eye pre-op assessment.",
+      "tags": "lasik-selection,topography,pachymetry,exclusion",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "LASIK Technique: Flap Creation, Excimer Ablation, and the 1-Day Post-Op",
+      "description": "The femtosecond vs microkeratome flap, the wavefront-guided vs optimized ablation, and the day-1 post-op optometric exam.",
+      "tags": "lasik-technique,femtosecond,flap,post-op",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "PRK: Indications, the Alcohol Epithelial Removal, and the Painful Recovery",
+      "description": "The thin cornea and surface disease indications for PRK, the mitomycin C protocol, and the bandage contact lens and pain management.",
+      "tags": "prk,alcohol,mitomycin,bandage-lens",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "SMILE: The Small Incision Lenticule Extraction Procedure",
+      "description": "The SMILE femtosecond lenticule technique, the range of correction, and the advantages and limitations vs LASIK.",
+      "tags": "smile,lenticule,femtosecond,small-incision",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Phakic IOLs: The ICL for High Myopia Beyond the LASIK Range",
+      "description": "The ICL patient selection (high myopia, thin cornea), the vault measurement, and the pigment dispersion and cataract risks.",
+      "tags": "icl,phakic-iol,vault,high-myopia",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Refractive Lens Exchange: The Clear Lens Extraction Decision",
+      "description": "The RLE patient (presbyope, high ametropia), the IOL selection (multifocal, EDOF, toric), and the risk-benefit discussion.",
+      "tags": "rle,refractive-lens-exchange,clear-lens,iol",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Presbyopia Correction: Corneal Inlays, Corneal Cross-Linking, and Pharmacologic",
+      "description": "The corneal inlay history, the new presbyopia drops (pilocarpine 1.25%), and the surgical presbyopia correction landscape.",
+      "tags": "presbyopia,corneal-inlay,pilocarpine-drops",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Toric IOL Calculations: The Keratometry, Posterior Cornea, and the Barrett Formula",
+      "description": "The toric IOL power calculation, the posterior cornea (Barrett Toric), the axis marking, and the post-operative rotation assessment.",
+      "tags": "toric-iol,barrett,keratometry,posterior-cornea",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Multifocal IOLs: Diffractive, Refractive, and the Patient Selection",
+      "description": "The multifocal IOL designs, the patient personality and lifestyle selection criteria, and the dysphotopsia counselling.",
+      "tags": "multifocal-iol,diffractive,refractive,dysphotopsia",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "EDOF IOLs: The Extended Depth of Focus Design and the Intermediate Vision",
+      "description": "The EDOF mechanism, the intermediate vision advantage, and the comparison to multifocal and monofocal IOLs.",
+      "tags": "edof,extended-depth-of-focus,intermediate,iol",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "The Dissatisfied Refractive Patient: Dry Eye, Residual Refractive Error, and Dysphotopsia",
+      "description": "The stepwise workup of the unhappy post-refractive patient, the dry eye treatment, the enhancement decision, and the dysphotopsia management.",
+      "tags": "dissatisfied-patient,enhancement,dysphotopsia,dry-eye",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Post-Refractive Dry Eye: The Corneal Nerve and the Recovery Timeline",
+      "description": "The corneal nerve section mechanism, the 6-month recovery curve, and the aggressive dry eye treatment protocol.",
+      "tags": "post-refractive-dry-eye,corneal-nerve,recovery",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Corneal Ectasia After LASIK: Early Recognition and Cross-Linking",
+      "description": "The ectasia risk factors (thin cornea, high correction, forme fruste), the early topographic signs, and the urgent CXL referral.",
+      "tags": "ectasia,post-lasik,cross-linking,early-detection",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "ICL Complications: Vault, Rotation, and the Cataract Risk",
+      "description": "The ICL vault measurement, the rotation and pupillary block risk, and the long-term cataract development and the IOL exchange.",
+      "tags": "icl-complications,vault,pupillary-block,cataract",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "The Future of Refractive Surgery: Lenticule Implants, Cross-Linking, and AI",
+      "description": "The emerging refractive technologies — lenticule implantation (Smile Plus), corneal cross-linking for refractive correction, and AI-driven ablation.",
+      "tags": "future,lenticule-implant,cross-linking-refractive,ai",
+      "category": "Refractive Surgery",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

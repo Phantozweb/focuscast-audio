@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T06:25:32.687Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T06:26:35.046Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -128,14 +128,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Sjögren’s Syndrome: The Sicca and the Systemic",
-      "description": "The dry eye and dry mouth, the SSA/SSB, and the rheumatology referral and lymphoma risk.",
+      "title": "Sjögren's Syndrome: Dry Eyes, Dry Mouth & Hidden Dangers",
+      "description": "What if that persistent dryness in your eyes and mouth was more than just dehydration? For millions of people worldwide, it is. In this episode of Focus Cast, we take a deep dive into Sjögren's Syndrome, one of the most common yet underdiagnosed autoimmune diseases in the world. Pronounced SHOW-grens, this condition goes far beyond dry eyes and dry mouth. It can silently affect your kidneys, lungs, nervous system, joints, and even raise your risk of certain cancers, making it as complex as it is misunderstood.\n\nWe break down the sicca complex, the hallmark dryness symptoms that define the condition, and explore the systemic complications that make Sjögren's so much more than a surface-level problem. You will learn how the immune system attacks the body's moisture-producing glands, why diagnosis takes an average of three years, what blood tests and procedures doctors use to confirm it, and what treatment options are available today, from artificial tears and pilocarpine to hydroxychloroquine and emerging biologic therapies.\n\nWe also talk honestly about the lived experience of Sjögren's, the bone-deep fatigue, the dental damage, the brain fog, and the emotional weight of living with an invisible illness. Whether you are newly diagnosed, supporting a loved one, or simply curious about autoimmune disease, this episode gives you the knowledge to ask better questions and advocate for better care.\n\nIf this episode resonated with you, share it with someone who might need to hear it. Visit Focus Cast at Focuslinks dot in for more episodes that turn complex medical topics into conversations that actually make sense.\n\n---",
       "tags": "sjogren,sicca,ssa,rheumatology",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-10.mp3",
+      "duration": "11:56",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4b70ac97-6b55-4834-89f7-8b1b629bc706",
+      "generatedAt": "2026-08-09T06:26:35.046Z"
     },
     {
       "episodeOrder": 11,

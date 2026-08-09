@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T06:29:14.138Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T06:30:00.860Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Toxocariasis: The Nematode and the Child",
-      "description": "The larva migrans, the granuloma, the ELISA, and the differential from retinoblastoma.",
+      "title": "Toxocariasis in Children: What Every Parent Must Know",
+      "description": "Your child plays in the dirt every day — but could that soil be hiding a dangerous parasite? In this eye-opening episode of Focus Cast, we dive deep into Toxocariasis, a parasitic infection caused by roundworms from dogs and cats that silently affects millions of children worldwide every year. Despite being one of the most common parasitic infections globally, most parents have never even heard of it — and that's exactly why we're talking about it today.\n\nWe break down everything you need to know: what Toxocara worms are, how children get infected through contaminated soil, and why kids between ages one and seven are most at risk. We explore the four major forms of the infection — Visceral Larva Migrans, Ocular Larva Migrans, Covert Toxocariasis, and the rare but serious Neurological Toxocariasis — and explain how each one can affect a child's liver, lungs, eyesight, and even brain development. You'll also learn why this infection is so difficult to diagnose, what treatment options are available, and most importantly, how simple everyday habits like deworming your pets, washing hands, and covering sandboxes can dramatically reduce your child's risk.\n\nThis is the kind of health information that doesn't make headlines but genuinely has the power to protect real children in real families. Whether you're a parent, a grandparent, a caregiver, or a pet owner, this episode is for you.\n\nListen now and share this episode with every parent and pet owner you know. For more health episodes and resources, visit us at Focuslinks.in.\n\n---",
       "tags": "toxocara,larva,granuloma,retinoblastoma",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-20.mp3",
+      "duration": "12:05",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "40ee116e-2214-4ccf-968f-a0b09e3b1327",
+      "generatedAt": "2026-08-09T06:30:00.860Z"
     },
     {
       "episodeOrder": 21,

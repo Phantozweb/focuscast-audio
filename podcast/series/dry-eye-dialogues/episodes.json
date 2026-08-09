@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T04:37:10.908Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T04:39:54.700Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Omega-3 Supplementation: The Evidence and the Dosing",
-      "description": "The DREAM study, the EPA/DHA ratio, and the patient selection that defines success.",
+      "title": "Omega-3 Supplementation: Real Evidence & Exact Dosing Guide",
+      "description": "What if the most powerful thing you could do for your brain and heart today costs less than a dollar a day? In this episode of Focus Cast, we cut through the noise and get into the real science behind omega-3 supplementation — no hype, no filler, just evidence-based answers you can actually use.\n\nWe break down the difference between ALA, EPA, and DHA, explain why your body can't efficiently convert plant-based omega-3s, and reveal why the modern Western diet's skewed omega-6 to omega-3 ratio is quietly fueling chronic inflammation. From there, we dig into what the research actually shows — including the FDA-approved cardiovascular data behind high-dose EPA, the compelling evidence linking omega-3s to mood regulation and depression relief, and why DHA is non-negotiable for brain development and long-term cognitive health.\n\nMost importantly, we get specific about dosing. Whether your goal is general wellness, cardiovascular protection, or mental health support, you'll learn exactly how much EPA and DHA to look for on the label — because that one gram fish oil capsule probably isn't giving you what you think it is. We also cover supplement quality, absorption tips, how to avoid rancid fish oil, and the best options for vegans and vegetarians.\n\nIf you've ever wondered whether omega-3 supplements are actually worth it, this episode gives you the clearest, most practical answer available. Listen now, and share it with anyone who's been taking fish oil without really knowing why. For more science-backed episodes on focus, health, and performance, visit us at Focuslinks.in.\n\n---",
       "tags": "omega-3,dream,epa,dha",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-18.mp3",
+      "duration": "11:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5dc93f52-4a51-4573-a3ef-bcfdd2b2b9cf",
+      "generatedAt": "2026-08-09T04:39:53.899Z"
     },
     {
       "episodeOrder": 19,

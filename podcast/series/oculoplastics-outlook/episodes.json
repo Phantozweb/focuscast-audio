@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T05:54:32.631Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T05:54:44.065Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -323,14 +323,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Eyelid Laceration: The Repair at the Chair and the OR",
-      "description": "The margin involvement, the canalicular injury, and the layered closure that prevents notching.",
+      "title": "Eyelid Laceration Repair: Chair vs OR — What You Must Know",
+      "description": "When a cricket ball splits an eyelid open in the emergency department, every decision made in the next few minutes can shape a patient's vision and quality of life for decades. In this episode of Focus Cast, we break down everything clinicians need to know about eyelid laceration assessment and repair — from the anatomy that makes the eyelid far more complex than it looks, to the critical question every on-call ophthalmologist faces: can this be fixed at the chair, or does it need the operating room?\n\nWe walk through a systematic approach to assessment, starting with ruling out a ruptured globe, evaluating lid margin involvement, identifying canalicular lacerations medial to the punctum, checking for levator injury causing ptosis, and hunting for hidden foreign bodies. Then we get into the repair itself — the technique for simple partial-thickness lacerations under local anaesthesia, the layered closure principles, and why tension-free, precise tissue alignment is non-negotiable in eyelid surgery.\n\nWe also cover the clear indications for taking a case to the operating theatre: paediatric patients, canalicular lacerations requiring silicone stent intubation, full-thickness lid margin repairs demanding three-layer closure, levator aponeurosis injuries, and complex contaminated wounds. Timing of repair, post-operative care, and suture removal are all addressed with practical, clinically relevant detail.\n\nWhether you are a medical student, ophthalmology resident, or emergency physician, this episode gives you a structured, anatomy-driven framework for managing one of the most nuanced injuries in eye care. Listen now, and visit Focuslinks.in for more ophthalmology content that cuts through the complexity.\n\n---",
       "tags": "laceration,margin,canalicular,closure",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-25.mp3",
+      "duration": "12:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8b73cdfd-12a2-4341-8686-9ceb861abe81",
+      "generatedAt": "2026-08-09T05:54:44.065Z"
     },
     {
       "episodeOrder": 26,

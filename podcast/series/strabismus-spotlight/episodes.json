@@ -9,7 +9,7 @@
   "order": 17,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T06:00:37.204Z",
+  "lastUpdated": "2026-08-09T06:00:35.659Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,16 +78,14 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Infantile Esotropia: Why Surgery Before Age Two Matters",
-      "description": "Could a family photo reveal a vision problem that changes your child's future? In this eye-opening episode of Focus Cast, we dive deep into infantile esotropia, one of the most common yet underrecognized conditions affecting babies in their first six months of life. If you've noticed your baby's eye turning inward, or if a grandparent has pointed something out that you've been brushing off, this episode is essential listening.\n\nWe break down exactly what infantile esotropia is, why it happens, and why the timing of treatment, specifically surgery before age two, can make the difference between a child who develops full depth perception and one who never quite gets there. You'll learn how the developing brain suppresses signals from a misaligned eye, how that leads to amblyopia or lazy eye, and why the brain's early plasticity is both the problem and the opportunity.\n\nWe walk through the full treatment journey, from diagnosis and glasses trials to strabismus surgery, what the procedure actually involves, and what recovery looks like for infants. We also share a real-world story that illustrates just how powerful early intervention can be, and what can be lost when detection comes too late.\n\nWhether you're a parent, grandparent, pediatric nurse, or simply curious about how vision develops in early childhood, this episode gives you the knowledge to act quickly and confidently if something ever seems off with a baby's eyes.\n\nDon't wait and wonder. Trust your instincts, ask for that referral, and give your child the best possible start for a lifetime of clear, three-dimensional vision. Listen now, and visit Focuslinks dot in for more eye health resources.\n\n---",
+      "title": "Infantile Esotropia: The Surgery Before Age Two",
+      "description": "The large angle, the cross-fixation, and the early surgery for binocular potential.",
       "tags": "infantile,surgery,angle,cross-fixation",
       "category": "Pediatric",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-06.mp3",
-      "duration": "12:42",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "66fa81a2-ec56-4e2d-90b4-b92d6a993463",
-      "generatedAt": "2026-08-09T06:00:37.204Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 7,
@@ -117,14 +115,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Vertical Deviations: Hyper and Hypotropia",
-      "description": "The dissociated vertical deviation, the superior oblique overaction, and the thyroid and restriction.",
+      "title": "Hypertropia & Hypotropia: Understanding Vertical Eye Deviations",
+      "description": "Ever noticed one eye sitting slightly higher or lower than the other and wondered what it means? In this episode of Focus Cast, we break down vertical deviations of the eyes, specifically hypertropia and hypotropia, in a way that is clear, engaging, and clinically relevant whether you are a student, a practicing clinician, or simply curious about how vision works.\n\nWe start with the basics, explaining what vertical deviations are and how hypertropia and hypotropia are actually two ways of describing the same misalignment from different reference points. From there, we explore the key causes, including superior oblique palsy, thyroid eye disease, and orbital blowout fractures, and explain exactly how each one disrupts the delicate balance of the eye muscles responsible for vertical movement.\n\nWe also walk through the diagnostic tools that eye care professionals rely on, including the cover test, the prism cover test, and the elegant Parks Three Step Test, which works like a detective story to identify the specific muscle responsible for the deviation.\n\nBeyond the clinical side, we talk about what it actually feels like to live with vertical double vision, the unique challenges faced by children at risk of amblyopia, and the emotional impact on adults who experience sudden onset diplopia. Finally, we cover the full range of treatment options, from prism glasses and strabismus surgery to botulinum toxin injections and vision therapy.\n\nIf you want to deepen your understanding of ocular motility and strabismus, this episode is a great place to start. Listen now and visit Focuslinks.in for more eye care resources, episodes, and learning tools.\n\n---",
       "tags": "vertical,hyper,hypotropia,dvd",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Pediatric",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-09.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e55c2405-61e6-4483-8402-91176adfe4b6",
+      "generatedAt": "2026-08-09T06:00:35.659Z"
     },
     {
       "episodeOrder": 10,

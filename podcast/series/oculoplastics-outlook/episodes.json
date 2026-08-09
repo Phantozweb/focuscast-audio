@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T05:50:14.282Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T05:50:23.674Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Hordeolum: The Acute Abscess of the Lid",
-      "description": "The external and internal stye, the antibiotics, and the drainage that rarely follows.",
+      "title": "Hordeolum Explained: Causes, Treatment & When to Worry",
+      "description": "Ever woken up with a painful, red bump on your eyelid and had no idea what to do? In this episode of Focus Cast, we break down everything you need to know about hordeolum, the medical term for a stye, one of the most common yet misunderstood eyelid conditions affecting people of all ages.\n\nWe start with the basics: what a hordeolum actually is, why it forms, and the key difference between an external hordeolum (originating from the glands of Zeis or Moll) and an internal hordeolum (arising from the meibomian glands). You will learn why Staphylococcus aureus is the primary bacterial culprit, who is most at risk, and how factors like blepharitis, contact lens use, stress, and poor eyelid hygiene can make you more susceptible to recurrent styes.\n\nWe also cover the full symptom picture, how to tell a hordeolum apart from a chalazion, and the most effective treatments, including why warm compresses work so well and why you should never squeeze a stye. We walk through when topical or oral antibiotics are needed, what an incision and drainage procedure involves, and how a simple daily eyelid hygiene routine can help prevent future infections.\n\nMost importantly, we highlight the red flag symptoms that mean it is time to stop waiting and see an eye care professional, including a rare but serious condition that can mimic a stye.\n\nWhether you are dealing with a stye right now or just want to be prepared, this episode gives you clear, practical, and medically grounded guidance. Listen now and share it with someone who needs it. For more eye health content, visit focuslinks.in.\n\n---",
       "tags": "hordeolum,stye,abscess,antibiotics",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-11.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "97fd05e9-0e00-46d0-89f7-b832a92d7550",
+      "generatedAt": "2026-08-09T05:50:23.674Z"
     },
     {
       "episodeOrder": 12,

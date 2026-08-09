@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T05:22:55.105Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T05:23:00.050Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Magnification: The Optics and the Power Calculation",
-      "description": "Equivalent power, the add, the telescope, and the formula that matches magnification to acuity.",
+      "title": "Magnification Explained: Optics, Lenses & Power Calculations",
+      "description": "Ever wondered why a magnifying glass makes tiny things look enormous, or how a telescope brings distant planets within reach? In this episode of Focus Cast, we break down the science of magnification from the ground up, making complex optics feel surprisingly approachable.\n\nWe start with the fundamental definition of magnification as a ratio and explore how lenses bend light through refraction to create larger, clearer images. From there, we walk through the actual power calculations behind three key optical instruments. For a simple magnifying glass, we unpack the classic formula using the 25-centimeter near point of the human eye. For compound microscopes, we explain how two lenses multiply each other's power to achieve staggering magnifications of 400x and beyond. And for telescopes, we cover how focal length ratios determine what you see in the night sky and why swapping eyepieces changes everything.\n\nBut this episode goes beyond the math. We tackle the critical difference between magnification and resolution, explaining why a higher magnification number does not always mean a better image. We also explore the diffraction limit, atmospheric turbulence, and the concept of maximum useful magnification for telescopes. Plus, we clear up a common misconception about digital zoom versus true optical zoom, a distinction that matters whether you are a photographer, a scientist, or just someone using a smartphone.\n\nWhether you are a student, a science enthusiast, or simply curious about the optics behind everyday tools like glasses, cameras, and surgical loupes, this episode gives you a clear, complete picture of how magnification actually works.\n\nTune in, and visit Focuslinks dot in for more episodes and optical resources.\n\n---",
       "tags": "magnification,add,telescope,power",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Refraction",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-06.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "dfce0a5d-6046-4271-9d4c-712bc00f55bf",
+      "generatedAt": "2026-08-09T05:23:00.050Z"
     },
     {
       "episodeOrder": 7,

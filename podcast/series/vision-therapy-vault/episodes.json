@@ -1,0 +1,180 @@
+{
+  "slug": "vision-therapy-vault",
+  "name": "Vision Therapy Vault",
+  "tagline": "Binocular Vision Disorders and Orthoptic Therapy",
+  "description": "A 15-episode series on binocular vision and vision therapy — from convergence insufficiency through accommodative and ocular motor dysfunction to amblyopia treatment protocols.",
+  "icon": "Eye",
+  "accent": "#65a30d",
+  "category": "Vision Therapy",
+  "order": 13,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T10:02:15.362Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "The Binocular Vision Workup: Phorias, Tropias, and the AC/A Ratio",
+      "description": "The stepwise binocular vision exam, the cover test at distance and near, the gradient and computed AC/A ratio methods.",
+      "tags": "binocular-vision,ac-a-ratio,phoria,tropia",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Convergence Insufficiency: The CISS-R and the CITT-ART Evidence",
+      "description": "The CISS-R symptom score, the NPC and fusional vergence findings, and the office-based vision therapy evidence from CITT-ART.",
+      "tags": "ci,convergence-insufficiency,ciss-r,citt-art",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Accommodative Dysfunction: Insufficiency, Excess, and Infacility",
+      "description": "The near point of accommodation, the amplitude relative to age (Hofstetter), and the monocular and binocular facility testing.",
+      "tags": "accommodation,insufficiency,excess,facility",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Ocular Motor Dysfunction: Saccades, Pursuits, and the NSUCO Assessment",
+      "description": "The NSUCO ocular motor test, the developmental eye movement (DEM) test, and the therapy protocols for ocular motor dysfunction.",
+      "tags": "ocular-motor,saccades,pursuits,nsuco,dem",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Sensory Fusion Training: Worth 4 Dot, Stereopsis, and Suppression",
+      "description": "The Worth 4 Dot for sensory fusion, the Titmus and Randot stereopsis, and the therapy progression from anti-suppression to fusion.",
+      "tags": "sensory-fusion,worth-4-dot,stereopsis,suppression",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Stereopsis Development and the Lang, Titmus, and Randot Tests",
+      "description": "The local vs global stereopsis distinction, the test selection by age, and the amblyogenic risk when stereopsis is absent.",
+      "tags": "stereopsis,lang,titmus,randot,global-local",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Amblyopia Therapy: Patching vs Atropine Penalisation and the PEDIG Evidence",
+      "description": "The PEDIG dosing (2 hours vs 6 hours of patching), the atropine penalisation alternative, and the age cut-off debate.",
+      "tags": "amblyopia-therapy,patching,atropine,pedig",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Vision Therapy for Intermittent Exotropia: The Basic, Divergence, and Convergence Types",
+      "description": "The Burian classification of IXO, the over-minus lens trial, and the vergence therapy protocol and the surgery threshold.",
+      "tags": "ixo,intermittent-exotropia,burian,vergence-therapy",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Sports Vision Training: Hand-Eye Coordination and Dynamic Visual Acuity",
+      "description": "The sports vision assessment battery, the dynamic visual acuity and contrast sensitivity testing, and the training protocols.",
+      "tags": "sports-vision,dynamic-acuity,hand-eye,training",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Vision Therapy and Learning Disabilities: What the Evidence Supports",
+      "description": "The evidence (and the controversy) for vision therapy in reading difficulty, the dyslexia and Irlen syndrome debate, and the honest parent counselling.",
+      "tags": "learning-disability,dyslexia,irlen,evidence",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Computer-Based Vision Therapy: HTS, Computer Orthopter, and the Evidence",
+      "description": "The home therapy systems (HTS), the office vs home therapy balance, and the evidence for computer-based vergence and accommodation therapy.",
+      "tags": "computer-therapy,hts,orthopter,home-therapy",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Tracking and Saccadic Training: The Readalyzer and the Reading Connection",
+      "description": "The Readalyzer assessment of reading eye movements, the DEM test correlation, and the saccadic training protocol.",
+      "tags": "tracking,saccades,readalyzer,dem",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "SILO, Yeats, and the Lens Flippers: The Therapy Toolkit",
+      "description": "The SILO (small in, large out) response to lens flippers, the bifocal and base-in/base-out prism flippers, and the sequence of therapy.",
+      "tags": "silo,lens-flippers,prism-flippers,therapy-tools",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Home Therapy Programs: Compliance, Frequency, and the Parent Role",
+      "description": "The therapy frequency (2-3 times per week in office, daily at home), the parent compliance strategies, and the progress monitoring.",
+      "tags": "home-therapy,compliance,parent-role,progress",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Outcome Measures in Vision Therapy: When to Discharge and When to Refer",
+      "description": "The objective and subjective outcome measures, the discharge criteria, and when to refer for strabismus surgery.",
+      "tags": "outcome-measures,discharge,surgical-referral",
+      "category": "Vision Therapy",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

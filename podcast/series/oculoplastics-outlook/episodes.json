@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T05:51:22.475Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T05:51:39.074Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Melanoma of the Lid: The ABCDE and the Biopsy",
-      "description": "The changing pigmentation, the shave versus excisional, and the sentinel node and surveillance.",
+      "title": "Melanoma of the Eyelid: ABCDE Warning Signs & Biopsy Guide",
+      "description": "That small dark spot on your eyelid? It might be worth a second look. In this eye-opening episode of Focus Cast, we dive deep into one of the most overlooked forms of skin cancer — melanoma of the eyelid. Because the skin around your eyes is among the thinnest and most sun-exposed on your body, it's far more vulnerable than most people realize.\n\nWe walk you through the ABCDE criteria — Asymmetry, Border, Color, Diameter, and Evolution — the same framework dermatologists and ophthalmologists use to evaluate suspicious pigmented lesions. You'll learn exactly what to look for when you check your own eyelids, and more importantly, when it's time to stop waiting and see a specialist.\n\nWe also break down what happens when a biopsy is recommended. From incisional and excisional techniques to Mohs micrographic surgery, we explain each approach in plain language so you know what to expect and why it matters. You'll understand how Breslow depth, clear margins, and pathology reports shape the treatment plan — and why early detection can push survival rates above ninety-five percent.\n\nWhether you've noticed a changing spot near your eye, have a loved one dealing with an eyelid lesion, or simply want to be more informed about melanoma detection, this episode gives you the knowledge to act with confidence rather than fear.\n\nDon't let uncertainty keep you from getting something checked. Listen now, share this episode with someone you care about, and visit Focuslinks dot in for more episodes and resources from Focus Cast.\n\n---",
       "tags": "melanoma,abcde,biopsy,sentinel",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-16.mp3",
+      "duration": "12:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4f0c2829-253a-4a38-885a-d469122056c4",
+      "generatedAt": "2026-08-09T05:51:39.074Z"
     },
     {
       "episodeOrder": 17,

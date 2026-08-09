@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T06:09:26.154Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T06:10:56.932Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Macular OCT: The Nine Layers and the Pathology",
-      "description": "A reproducible read sequence — ILM to RPE — and the fluid, drusen, atrophy patterns.",
+      "title": "Macular OCT: The Nine Retinal Layers and Their Pathology",
+      "description": "Ever stared at a macular OCT scan and struggled to connect what you see to actual disease? This episode of Focus Cast breaks it all down. We take you on a layer-by-layer journey through the nine distinct layers of the macula visible on optical coherence tomography, from the Internal Limiting Membrane at the innermost surface all the way to the Retinal Pigment Epithelium and Bruch's membrane at the base, explaining exactly what each layer represents and which pathologies target it.\n\nYou will learn why the Retinal Nerve Fibre Layer thins in glaucoma before patients notice vision loss, how the Ganglion Cell Layer is emerging as a biomarker for neurodegeneration in conditions like Parkinson's disease and multiple sclerosis, why the Ellipsoid Zone is one of the strongest predictors of visual acuity, and how disruption of the RPE signals the progression of age-related macular degeneration. We also cover diabetic macular oedema, hydroxychloroquine toxicity, inherited retinal dystrophies, macular holes, solar retinopathy, and wet AMD, all through the lens of OCT interpretation.\n\nBy the end of this episode, reading a macular OCT will feel less like guesswork and more like reading a clinical story in real time. Whether you are an ophthalmology resident, an optometrist, or a seasoned clinician looking to sharpen your OCT skills, this episode delivers practical, high-yield knowledge you can apply immediately.\n\nListen now and transform the way you interpret macular OCT scans. For more ophthalmology education, visit Focuslinks dot in.\n\n---",
       "tags": "macular-oct,layers,fluid,drusen",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-02.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f1e9d660-fd30-4d42-bee6-cde86ac9bcc5",
+      "generatedAt": "2026-08-09T06:10:56.932Z"
     },
     {
       "episodeOrder": 3,

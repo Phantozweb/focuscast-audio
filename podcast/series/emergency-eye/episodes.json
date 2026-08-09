@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T04:53:36.934Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T04:54:02.304Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Intraocular Foreign Body: The Hidden Metal",
-      "description": "The high-speed history, the dilated exam, the CT localization, and the magnetic resonance contraindication.",
+      "title": "Intraocular Foreign Body: The Hidden Metal Destroying Eyes",
+      "description": "A tiny metal fragment. No pain. No visible wound. And yet, something is silently destroying your vision from the inside. In this episode of Focus Cast, we dive deep into intraocular foreign bodies — one of the most underdiagnosed and underestimated eye emergencies affecting workers, hobbyists, and DIY enthusiasts every day.\n\nYou'll learn exactly what happens when a metallic fragment penetrates the eye, why the injury is so easy to miss, and how a condition called siderosis — iron poisoning of the eye — can quietly steal your sight over months or even years before you notice anything is wrong. We break down who is most at risk, why safety eyewear saves vision, and what the diagnostic process looks like, including why CT scans are used instead of MRI when metal is involved.\n\nWe also walk through the surgical treatment, pars plana vitrectomy, explaining how modern ophthalmology can remove these hidden fragments and repair associated damage — but only if the patient seeks care in time. Delayed diagnosis remains one of the most preventable causes of permanent vision loss, and this episode explains why acting fast makes all the difference.\n\nWhether you work in construction, metalworking, or simply want to understand how to protect your eyes, this episode gives you the knowledge to recognize a true eye emergency and respond correctly.\n\nIf you've ever brushed off a sharp sting in your eye while grinding or hammering, this episode is your wake-up call. Listen, share it with someone who works with their hands, and visit Focuslinks.in for more eye health resources.\n\n---",
       "tags": "iob,foreign-body,ct,mri",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-15.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "82b74fb3-5247-4e89-81f0-3da761b280cf",
+      "generatedAt": "2026-08-09T04:54:02.304Z"
     },
     {
       "episodeOrder": 16,

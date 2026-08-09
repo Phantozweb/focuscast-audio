@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T05:05:16.178Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T05:05:27.017Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -219,14 +219,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Electronic Health Records: The Workflow Fit",
-      "description": "Choosing, implementing, and optimizing the EHR to reduce clicks and reclaim chair time.",
+      "title": "Electronic Health Records: Do They Fit How Clinicians Work?",
+      "description": "What happens when the tools meant to improve healthcare actually get in the way of it? In this episode of Focus Cast, we take a hard look at Electronic Health Records — not just what they promised, but what they actually deliver inside the fast-paced, high-stakes reality of clinical work.\n\nEHRs transformed healthcare documentation almost overnight, with nearly 90% of U.S. hospitals adopting certified systems by 2017. The benefits are real — fewer medication errors, better care coordination, and richer patient data. But so is the friction. From click fatigue and alert overload to physician burnout and poor interoperability, the gap between EHR potential and everyday usability is wide — and it has serious consequences for both clinicians and patients.\n\nWe break down why so many EHR systems were built around billing requirements rather than clinical workflows, what user-centered design actually looks like in healthcare IT, and why implementation matters just as much as the software itself. We also explore where EHRs are genuinely working well, what interoperability standards like HL7 FHIR are doing to connect fragmented systems, and how AI tools like ambient documentation are beginning to close the workflow gap.\n\nWhether you work in healthcare, manage a clinical team, or have simply wondered why your doctor seems more focused on a screen than on you, this episode gives you the full picture — clearly, honestly, and without the jargon.\n\nListen now and join the conversation about building technology that truly serves the people who use it. Visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "ehr,workflow,clicks,optimization",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-17.mp3",
+      "duration": "12:60",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c7c3d6e4-d3bf-46fb-8507-e7c90a1da522",
+      "generatedAt": "2026-08-09T05:05:27.017Z"
     },
     {
       "episodeOrder": 18,

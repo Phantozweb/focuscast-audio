@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T04:36:26.437Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T04:36:36.321Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -76,14 +76,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "TBUT: The Tear Breakup Time and How to Measure It",
-      "description": "The fluorescein technique, the timing, and the thresholds that separate normal from abnormal.",
+      "title": "TBUT Explained: How Tear Breakup Time Is Measured",
+      "description": "Ever noticed your vision going slightly blurry after staring at a screen, then clearing up the moment you blink? That fleeting moment is your tear film struggling — and Tear Breakup Time, or TBUT, is exactly how eye care professionals measure it.\n\nIn this episode of Focus Cast, we break down the science of TBUT in a way that's easy to understand and genuinely useful. You'll learn what the tear film actually is, why it breaks apart between blinks, and what a short Tear Breakup Time means for your eye health. We cover the classic Fluorescein TBUT test — how the dye works, what the doctor is looking for under that blue light, and why technique matters more than most people realize. We also explore Non-Invasive Tear Breakup Time testing, or NIBUT, and how modern instruments like the Keratograph and LipiView give clinicians a far more detailed picture of tear film stability without touching the eye at all.\n\nWe also connect TBUT to real-world conditions like Evaporative Dry Eye, Meibomian Gland Dysfunction, and Digital Eye Strain — explaining why screen use makes dry eyes worse and what you can actually do about it, from lubricating drops and warm compresses to in-office treatments like LipiFlow and omega-3 supplementation.\n\nWhether you wear contact lenses, spend long hours on screens, or simply want to understand what your eye doctor is testing and why, this episode gives you the knowledge to take your eye health seriously.\n\nVisit Focuslinks.in for more episodes on vision science and eye care.\n\n---",
       "tags": "tbut,fluorescein,timing,threshold",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-06.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2117fd5b-7687-45d9-8b3b-64167d399087",
+      "generatedAt": "2026-08-09T04:36:36.321Z"
     },
     {
       "episodeOrder": 7,

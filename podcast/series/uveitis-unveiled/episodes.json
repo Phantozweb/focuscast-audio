@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T05:36:02.364Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T05:36:05.760Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -176,14 +176,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Vogt-Koyanagi-Harada: The Bilateral Panuveitis",
-      "description": "The meningitis, the poliosis and vitiligo, and the high-dose steroid that prevents sunset glow.",
+      "title": "Vogt-Koyanagi-Harada: Understanding Bilateral Panuveitis",
+      "description": "What happens when your immune system turns against your own eyes — attacking both of them at the same time? In this episode of Focus Cast, we dive deep into Vogt-Koyanagi-Harada disease (VKH), a rare but devastating autoimmune condition that targets melanocytes throughout the body, triggering bilateral panuveitis, vision loss, and a cascade of neurological, auditory, and skin symptoms that can easily be mistaken for something far less serious.\n\nWe break down exactly what VKH is, why it disproportionately affects individuals of Asian, South Asian, Hispanic, and Middle Eastern descent, and how the disease unfolds across four distinct clinical stages — from the flu-like prodromal phase to the chronic recurrent phase that can permanently rob patients of their sight. You'll learn what sunset glow fundus looks like, why exudative retinal detachments are a medical emergency, and how findings like vitiligo and poliosis serve as critical diagnostic clues.\n\nWe also cover the latest in VKH treatment, including high-dose corticosteroids, immunosuppressive agents like azathioprine and mycophenolate mofetil, and emerging biologic therapies like adalimumab. Plus, we explore the genetic link to HLA-DR4 and what ongoing research is revealing about autoimmune uveitis more broadly.\n\nWhether you're a medical professional, a patient navigating a new diagnosis, or simply someone curious about how the immune system can go wrong, this episode offers a clear, thorough, and genuinely fascinating look at one of ophthalmology's most complex conditions. If you or someone you know is experiencing sudden bilateral eye inflammation, this episode could make a real difference. Listen now, and visit Focuslinks.in for more eye health resources.\n\n---",
       "tags": "vkh,poliosis,vitiligo,sunset-glow",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-14.mp3",
+      "duration": "12:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0abc06f5-9367-4649-ae7b-2f73b23fd351",
+      "generatedAt": "2026-08-09T05:36:05.760Z"
     },
     {
       "episodeOrder": 15,

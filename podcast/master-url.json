@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:56:48.629Z",
+  "lastUpdated": "2026-08-09T05:57:01.089Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 477,
   "series": [
@@ -227,7 +227,7 @@
       "generatedEpisodes": 30,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/episodes.json",
       "audioDir": "podcast/series/uveitis-unveiled/audio",
-      "lastUpdated": "2026-08-09T05:48:40.948Z"
+      "lastUpdated": "2026-08-09T05:56:52.707Z"
     },
     {
       "slug": "oculoplastics-outlook",

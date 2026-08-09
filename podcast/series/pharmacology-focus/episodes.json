@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T05:19:12.639Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T05:19:31.451Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -341,14 +341,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Pediatric Drug Dosing: The Weight and the Warning",
-      "description": "The weight-based calculation, the off-label reality, and the atropine and amoxicillin examples.",
+      "title": "Pediatric Drug Dosing: Weight, Warnings & Child Safety",
+      "description": "How confident are you when measuring out your child's medicine at midnight? In this eye-opening episode of Focus Cast, we unpack the critical science behind pediatric drug dosing — and why getting it right is far more complex than reading a label.\n\nChildren are not small adults. Their bodies metabolize medications differently, their organs are still developing, and a single misplaced decimal point can turn a safe dose into a dangerous one. We break down why weight-based dosing is the gold standard in pediatric pharmacotherapy, how age and developmental stage change the way drugs move through a child's body, and why even children of the same weight can need different doses depending on where they are in their growth.\n\nWe also explore the real-world consequences of dosing errors — including the landmark Dennis Quaid twin incident that reshaped hospital medication safety — and walk through the safeguards that exist in hospitals, pharmacies, and your own home to protect your child. From smart infusion pumps to oral dosing syringes, the details genuinely matter.\n\nPlus, we look at the long-standing gap in pediatric drug research, the legislation pushing for change, and the emerging field of developmental pharmacology that may one day make dosing recommendations as individual as your child's DNA.\n\nWhether you are a parent, caregiver, healthcare student, or simply curious, this episode gives you the knowledge to ask better questions and make safer decisions. Listen now, and visit Focuslinks.in to explore more episodes of Focus Cast.\n\n---",
       "tags": "pediatric,dosing,weight,off-label",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-27.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "899075d2-54e4-48e2-b93e-5b744e7607fb",
+      "generatedAt": "2026-08-09T05:19:31.451Z"
     },
     {
       "episodeOrder": 28,

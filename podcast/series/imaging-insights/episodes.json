@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T06:15:20.427Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T06:15:37.789Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Tomography: The Pentacam and the Scheimpflug",
-      "description": "The 3D corneal reconstruction, the pachymetry map, and the ectasia screening indices.",
+      "title": "Pentacam & Scheimpflug: Eye Tomography Explained",
+      "description": "What if your eye doctor could generate a detailed 3D map of your eye in just two seconds — no contact, no discomfort, and no guesswork? In this episode of Focus Cast, we dive deep into the fascinating world of ocular tomography, exploring how the Pentacam uses the Scheimpflug principle to revolutionize the way eye care professionals examine the anterior segment of the eye.\n\nWe break down exactly what tomography means, why a rotating Scheimpflug camera captures what standard topographers simply cannot, and how this technology detects sight-threatening conditions like keratoconus before they cause irreversible damage. You will learn how a geometric principle developed by a 19th-century Austrian inventor for aerial photography became one of the most powerful diagnostic tools in modern ophthalmology.\n\nFrom corneal topography and pachymetry maps to the Belin-Ambrosio Enhanced Ectasia Display and anterior chamber analysis, we walk through the key clinical outputs of the Pentacam and explain what each one means in real-world practice. Whether you are an eye care professional, an optometry student, or a curious patient who wants to understand what happens during a comprehensive eye exam, this episode gives you the science, the history, and the clinical context in a way that is clear, engaging, and genuinely eye-opening.\n\nTune in to discover why the Pentacam is considered a gold standard in pre-surgical screening, glaucoma assessment, and corneal disease management — and why understanding the technology behind your diagnostic tools makes you a better clinician and a more informed patient.\n\nVisit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "tomography,pentacam,scheimpflug,ectasia",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-13.mp3",
+      "duration": "12:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ca83a727-1102-4040-b60c-c1d75c5e0a18",
+      "generatedAt": "2026-08-09T06:15:37.789Z"
     },
     {
       "episodeOrder": 14,

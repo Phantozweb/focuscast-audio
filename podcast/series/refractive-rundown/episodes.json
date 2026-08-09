@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T04:41:02.146Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T04:41:15.296Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Post-LASIK Optometry Care: The Day 1, Week 1, Month 1 Protocol",
-      "description": "The flap check, the steroid and antibiotic taper, and the dry eye and regression management.",
+      "title": "Post-LASIK Care: The Day 1, Week 1, Month 1 Protocol",
+      "description": "Waking up after LASIK and seeing clearly for the first time is an unforgettable moment — but what you do in the days and weeks that follow matters just as much as the surgery itself. In this episode of Focus Cast, we break down the essential post-LASIK recovery protocol into three clear phases so you know exactly what to expect and how to protect your results.\n\nWe walk you through Day 1 recovery, including why your morning-after optometry appointment is non-negotiable, how to manage your prescribed eye drops, and the one thing you must never do after LASIK surgery. Then we move into Week 1, covering normal vision fluctuations, lifestyle restrictions like avoiding swimming and eye makeup, and how to manage post-LASIK dry eye with preservative-free artificial tears. Finally, we explore Month 1 healing, where your optometrist shifts from monitoring acute recovery to evaluating the long-term stability of your vision outcome — including what to do if you experience regression or persistent dryness.\n\nWhether you just had LASIK, are scheduled for the procedure, or are supporting someone through their recovery, this episode gives you a practical, easy-to-follow roadmap backed by real clinical insight. The patients who achieve the best outcomes are the ones who take aftercare seriously — and this episode shows you exactly how to do that.\n\nVisit Focuslinks.in for more expert eye care resources, articles, and guidance to help you see your best at every stage of life.\n\n---",
       "tags": "post-lasik,protocol,flap-check,taper",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-13.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a5f7d44d-a85f-4f84-810a-933ee7ea4b24",
+      "generatedAt": "2026-08-09T04:41:15.296Z"
     },
     {
       "episodeOrder": 14,

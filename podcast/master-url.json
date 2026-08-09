@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T08:56:55.446Z",
+  "lastUpdated": "2026-08-09T09:06:48.743Z",
   "totalEpisodes": 300,
-  "generatedEpisodes": 41,
+  "generatedEpisodes": 44,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -44,10 +44,10 @@
       "category": "Cornea",
       "order": 3,
       "totalEpisodes": 15,
-      "generatedEpisodes": 10,
+      "generatedEpisodes": 12,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/episodes.json",
       "audioDir": "podcast/series/cornea-confidential/audio",
-      "lastUpdated": "2026-08-09T08:56:43.396Z"
+      "lastUpdated": "2026-08-09T09:06:35.879Z"
     },
     {
       "slug": "glaucoma-guardian",
@@ -59,10 +59,10 @@
       "category": "Glaucoma",
       "order": 4,
       "totalEpisodes": 15,
-      "generatedEpisodes": 0,
+      "generatedEpisodes": 1,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/episodes.json",
       "audioDir": "podcast/series/glaucoma-guardian/audio",
-      "lastUpdated": "2026-08-09T08:27:34.331Z"
+      "lastUpdated": "2026-08-09T09:06:35.923Z"
     },
     {
       "slug": "vision-scientists",

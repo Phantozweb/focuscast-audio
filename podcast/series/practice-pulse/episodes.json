@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T05:00:30.577Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T05:01:01.740Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Optical Dispensing: The Art of the Sell",
-      "description": "Frame selection, lens recommendations, and the patient education that builds the sale and satisfaction.",
+      "title": "Optical Dispensing: Mastering the Art of the Sell",
+      "description": "What if selling glasses never felt like selling at all? In this episode of Focus Cast by Focuslinks.in, we unpack the craft behind great optical dispensing and show you how the best opticians turn every patient interaction into a genuinely helpful, trust-building experience.\n\nWhether you're a seasoned optician, an optical assistant just starting out, or a practice owner looking to improve your team's performance, this episode is packed with practical, real-world insight you can apply immediately.\n\nWe walk through the four pillars of exceptional optical dispensing: building authentic rapport that puts patients at ease, conducting a smart needs assessment using the right questions, presenting premium solutions with confidence by leading with benefits over features, and following through after collection to build lasting patient relationships.\n\nAlong the way, you'll meet Priya, a graphic designer whose headaches pointed to a need for blue light lenses, and Mr. Sharma, a retired gardener whose simple reading prescription opened the door to a life-changing progressive solution. These stories illustrate exactly how a thoughtful dispensing conversation can transform patient outcomes and grow your practice at the same time.\n\nBecause here's the truth: great optical dispensing isn't about upselling. It's about genuinely matching the right solution to the right person. And when you do that well, the selling takes care of itself.\n\nReady to sharpen your dispensing skills and grow your optical practice? Listen now, share this episode with a colleague, and visit Focuslinks.in for more episodes, resources, and tools built for eyecare professionals.\n\n---",
       "tags": "optical,dispensing,frames,lenses",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-04.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e42d7367-1629-4aa9-8d85-42d27a8a8ae0",
+      "generatedAt": "2026-08-09T05:01:01.740Z"
     },
     {
       "episodeOrder": 5,

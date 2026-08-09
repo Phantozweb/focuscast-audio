@@ -1,0 +1,180 @@
+{
+  "slug": "uveitis-unveiled",
+  "name": "Uveitis Unveiled",
+  "tagline": "Intraocular Inflammation Decoded",
+  "description": "Anterior, intermediate, posterior, and panuveitis — masquerade syndromes, systemic associations, step-up therapy, steroids, immunomodulators, and when to refer.",
+  "icon": "Flame",
+  "accent": "#ea580c",
+  "category": "Uveitis",
+  "order": 15,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:50.379Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Uveitis Anatomy: The SUN Classification",
+      "description": "The Standardization of Uveitis Nomenclature — anterior, intermediate, posterior, panuveitis — and why it matters.",
+      "tags": "sun,classification,anatomy,nomenclature",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Anterior Uveitis: The Cells and Flare at the Slit Lamp",
+      "description": "The grading, the keratic precipitates, the posterior synechiae, and the acute versus chronic distinction.",
+      "tags": "anterior,cells,flare,kp",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Acute Anterior Uveitis: The HLA-B27 Connection",
+      "description": "The sudden onset, the pain and photophobia, the ankylosing spondylitis link, and the steroid and cycloplegia.",
+      "tags": "hla-b27,acute,as,cycloplegia",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Granulomatous Versus Nongranulomatous: The KP Morphology",
+      "description": "Mutton-fat KPs and the sarcoid and TB differential — the morphology that redirects the workup.",
+      "tags": "granulomatous,mutton-fat,sarcoid,tb",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Intermediate Uveitis: The Snowballs and the Snowbank",
+      "description": "The vitreous cells, the pars plana snowbank, and the multiple sclerosis and Lyme associations.",
+      "tags": "intermediate,snowball,snowbank,ms",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Posterior Uveitis: The Retinitis and Choroiditis",
+      "description": "The lesions beyond the vitreous — toxoplasmosis, ARN, birdshot — and the sight-threatening urgency.",
+      "tags": "posterior,retinitis,choroiditis,toxo",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Panuveitis: The Full-Thickness Inflammation",
+      "description": "The anterior-to-posterior involvement, the systemic disease search, and the aggressive treatment.",
+      "tags": "panuveitis,systemic,treatment,aggressive",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Toxoplasmosis: The “Headlight in the Fog”",
+      "description": "The necrotizing retinitis adjacent to a scar, the pyrimethamine and sulfadiazine, and the felis host.",
+      "tags": "toxo,headlight,necrotizing,pyrimethamine",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Acute Retinal Necrosis: The Herpes Emergency",
+      "description": "The peripheral necrosis, the rapid progression, and the intravenous acyclovir and laser barrier.",
+      "tags": "arn,herpes,acyclovir,laser",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Cytomegalovirus Retinitis: The AIDS-Defining Illness",
+      "description": "The pizza-pie fundus, the HAART immune recovery, and the ganciclovir implant legacy.",
+      "tags": "cmv,aids,pizza-pie,ganciclovir",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Sarcoidosis: The Great Mimic of Uveitis",
+      "description": "The candle-wax drippings, the ACE and chest CT, and the steroid-responsive but chronic course.",
+      "tags": "sarcoid,candle-wax,ace,ct",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Juvenile Idiopathic Arthritis: The Silent Uveitis of Children",
+      "description": "The ANA-positive oligoarthritis, the asymptomatic anterior uveitis, and the mandatory screening schedule.",
+      "tags": "jia,ana,screening,oligoarthritis",
+      "category": "Pediatric",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Behçet Disease: The Triple Symptom Complex",
+      "description": "The oral and genital ulcers, the hypopyon uveitis, and the Silk Road geography.",
+      "tags": "behcet,hypopyon,ulcer,silk-road",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Vogt-Koyanagi-Harada: The Bilateral Panuveitis",
+      "description": "The meningitis, the poliosis and vitiligo, and the high-dose steroid that prevents sunset glow.",
+      "tags": "vkh,poliosis,vitiligo,sunset-glow",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Sympathetic Ophthalmia: The Bilateral Threat After Trauma",
+      "description": "The fellow eye inflammation, the timing, and the immunosuppression that protects the good eye.",
+      "tags": "sympathetic,ophthalmia,bilateral,immunosuppression",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

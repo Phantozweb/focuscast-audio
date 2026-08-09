@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T08:31:52.039Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T08:32:00.137Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Chief Complaint and HPI: The Anchor of Every Exam",
-      "description": "Structuring the history of present illness so it drives differential diagnosis rather than padding the chart.",
+      "title": "Chief Complaint & HPI: Drive Diagnosis, Not Just Documentation",
+      "description": "Most optometrists treat the history of present illness as a warm-up before the real exam begins. This episode of Focus Cast flips that assumption entirely. If your HPI isn't generating a working differential before you touch the slit lamp, it isn't doing its job.\n\nIn this clinically focused episode, we break down how to structure the chief complaint and HPI so they actively drive diagnosis rather than simply pad the chart. Using blurry vision as a primary example, we walk through how the same chief complaint can point toward presbyopia, ocular surface disease, or a retinal emergency depending entirely on how you question and listen. We then work through a detailed case of a myopic patient presenting with a new visual field shadow and sudden floaters, demonstrating how a well-executed HPI can direct you toward a rhegmatogenous retinal detachment before a single entrance test is performed.\n\nWe also address the documentation trap: HPIs that check every box but generate no differential, creating a false sense of clinical thoroughness. You'll leave this episode with a practical self-check question to use after every patient history, and a clearer understanding of how the HPI should shape your slit lamp exam, IOP assessment, OCT interpretation, and referral decisions.\n\nThis episode is built exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners who want to practice at the top of their license.\n\nListen now and bring a sharper clinical framework to your very next chair. Visit Focuslinks.in for more evidence-based optometric content from Focus Cast.\n\n---",
       "tags": "history,HPI,chief-complaint,documentation",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-02.mp3",
+      "duration": "13:02",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0d702161-49d2-497f-b58f-814ab971ef7d",
+      "generatedAt": "2026-08-09T08:32:00.137Z"
     },
     {
       "episodeOrder": 3,

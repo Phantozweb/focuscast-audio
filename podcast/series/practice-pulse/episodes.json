@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T05:02:30.385Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T05:02:45.104Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Medical Eye Care: The Co-Management and Referral",
-      "description": "The co-management contracts, the comanaged surgery billing, and the communication that sustains referrals.",
+      "title": "Medical Eye Care: Co-Management & Referral Explained",
+      "description": "What does it really take to protect a patient's vision? The answer is rarely one provider working alone. In this episode of Focus Cast by Focuslinks.in, we break down the essential practice of co-management and referral in medical eye care, and why mastering it can literally mean the difference between a patient keeping or losing their sight.\n\nWe walk through real-world scenarios, including how a routine eye exam can uncover early glaucoma, why the speed of a wet AMD referral can preserve central vision, and how a contact lens appointment once led to the detection of a brain tumor. These stories are not just compelling, they reveal how thorough clinical thinking and timely collaboration save lives.\n\nYou will learn what makes a referral truly effective, how the referral loop works and why it often fails, and how co-management models function across conditions like diabetic retinopathy, age-related macular degeneration, and post-surgical eye care. We also explore the ethical responsibilities that come with referral decisions and why understanding your scope of practice is a mark of clinical wisdom, not limitation.\n\nWhether you are an optometry student building your foundation, a practitioner sharpening your clinical judgment, or simply someone curious about how modern eye care works, this episode offers clear, practical, and genuinely eye-opening insights into the teamwork that drives better patient outcomes every single day.\n\nListen now and discover why great vision care is never a solo act. Visit Focuslinks.in for more episodes, resources, and tools to keep your eye care knowledge sharp and current.\n\n---",
       "tags": "co-management,referral,contracts,communication",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-10.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "445689e6-625c-4d20-a62e-f03db9aa3859",
+      "generatedAt": "2026-08-09T05:02:45.104Z"
     },
     {
       "episodeOrder": 11,

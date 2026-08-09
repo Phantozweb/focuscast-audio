@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T04:49:16.099Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T04:50:07.040Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Open Globe: The Signs You Cannot Miss",
-      "description": "The peaked pupil, the shallow chamber, the oculocardiac reflex, and the shield-and-no-manipulation protocol.",
+      "title": "Open Globe Injury: Critical Signs You Cannot Afford to Miss",
+      "description": "What if someone in front of you had a ruptured eye — and you didn't know it? In this episode of Focus Cast, we break down everything you need to know about open globe injuries: what they are, why they're dangerously easy to miss, and the key warning signs that could mean the difference between saving someone's vision and permanent blindness.\n\nWe cover the full picture — from the classic peaked, teardrop-shaped pupil and a soft, low-pressure eye, to uveal prolapse, hyphema, and the often-overlooked power of mechanism of injury. You'll also learn about the Seidel test, what a 360-degree subconjunctival hemorrhage really means, and exactly what to do — and what never to do — when you suspect an open globe.\n\nWhether you're a medical student, nurse, paramedic, emergency physician, or simply someone who wants to be better prepared, this episode gives you the clinical knowledge to act confidently and quickly when it matters most. We also walk through real-world scenarios and a classic teaching case that illustrates why even a \"mild\" eye complaint after trauma deserves serious attention.\n\nBecause the eye is irreplaceable — and recognition starts with awareness.\n\nListen now, and share this episode with a colleague, student, or anyone working in emergency or trauma care. Visit us at Focuslinks.in for more ophthalmology-focused episodes and resources.\n\n---",
       "tags": "open-globe,peaked-pupil,shield,trauma",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-03.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ca5b4bdb-9377-4605-b58e-63692b07ccee",
+      "generatedAt": "2026-08-09T04:50:07.040Z"
     },
     {
       "episodeOrder": 4,

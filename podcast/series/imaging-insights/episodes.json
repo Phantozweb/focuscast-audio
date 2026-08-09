@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T06:14:18.263Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T06:14:31.080Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -128,14 +128,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Fluorescein Angiography: The Phases and the Patterns",
-      "description": "The arterial, capillary, venous, and late phases — leakage, pooling, blocking, window defect.",
+      "title": "Fluorescein Angiography: Phases, Patterns & What They Mean",
+      "description": "Ever wondered how ophthalmologists watch blood flow through the living eye in real time? In this episode of Focus Cast, we break down fluorescein angiography (FFA) from the ground up — making it accessible whether you're a medical student, optometrist, or simply curious about how retinal imaging works.\n\nWe walk you through every phase of the angiogram, starting with the early choroidal flush, moving into the arterial and capillary phases, through laminar venous filling, and finally into the late recirculation phase where the most clinically significant findings often reveal themselves. You'll understand not just what each phase looks like, but why the timing of what you see matters just as much as the finding itself.\n\nFrom there, we dive deep into the core patterns of fluorescein angiography. We cover the four causes of hyperfluorescence — leakage, pooling, staining, and window defects — and the two causes of hypofluorescence — blockage and vascular filling defects. Real-world examples like diabetic retinopathy, age-related macular degeneration, central serous chorioretinopathy, and cystoid macular edema bring each concept to life.\n\nWe also share a simple three-question framework that will help you interpret any angiogram with confidence, even if you're just starting out.\n\nBy the end of this episode, you'll have a clear, structured understanding of fluorescein angiography that you can apply directly in clinical settings or exams.\n\nListen now and sharpen your retinal imaging knowledge. For more ophthalmology podcasts like this one, visit us at focuslinks.in.\n\n---",
       "tags": "fa,phases,leakage,window-defect",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-10.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0bf8c552-500b-49f1-819a-33caeb3a4388",
+      "generatedAt": "2026-08-09T06:14:31.080Z"
     },
     {
       "episodeOrder": 11,

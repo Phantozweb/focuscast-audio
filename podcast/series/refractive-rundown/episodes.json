@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T04:46:45.418Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T04:46:55.597Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -310,14 +310,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Radial Keratotomy: The Legacy and the CL Challenge",
-      "description": "The historical RK patient, the diurnal fluctuation, and the flat-cornea CL fitting strategy.",
+      "title": "Radial Keratotomy: Legacy, Risks & Contact Lens Fitting",
+      "description": "What happens when a revolutionary eye surgery leaves lasting consequences decades later? In this episode of Focus Cast, we dive deep into the fascinating and complex world of Radial Keratotomy (RK) — the groundbreaking refractive surgery of the 1980s and 90s that reshaped ophthalmology and changed millions of lives. But the story doesn't end in the operating room.\n\nWe trace RK's origins from Soviet ophthalmologist Svyatoslav Fyodorov's pioneering work to its widespread adoption across the United States, and explore why so many post-RK patients are now facing progressive hyperopic shift, irregular astigmatism, and the frustrating phenomenon of diurnal vision fluctuation years after their procedure.\n\nMost importantly, we unpack one of the most challenging puzzles in modern optometry: fitting contact lenses on post-RK corneas. You'll learn why the oblate corneal shape created by radial incisions makes standard lens designs ineffective, and how specialized solutions — including scleral lenses, hybrid lenses, and reverse geometry rigid gas permeable lenses — are giving patients back the clear, stable vision they've been missing.\n\nWhether you're an eye care professional looking to sharpen your post-refractive fitting skills, or a former RK patient wondering why your vision still isn't quite right, this episode delivers real answers grounded in clinical practice and the evolving science of corneal optics.\n\nIf you found this episode valuable, share it with a colleague or anyone curious about vision science. Explore more eye care content at focuslinks.in and subscribe to Focus Cast so you never miss an episode.\n\n---",
       "tags": "rk,radial,legacy,fitting",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-24.mp3",
+      "duration": "12:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "92bd3760-cab0-484c-a5a9-1dea799e28a3",
+      "generatedAt": "2026-08-09T04:46:55.597Z"
     },
     {
       "episodeOrder": 25,

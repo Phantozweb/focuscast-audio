@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T05:41:11.181Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T05:42:36.098Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -295,14 +295,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Uveitic Glaucoma: The Pressure From Inflammation",
-      "description": "The trabeculitis, the synechiae angle closure, and the management that balances steroid and pressure.",
+      "title": "Uveitic Glaucoma: When Inflammation Threatens Your Vision",
+      "description": "What happens when two serious eye conditions collide? In this eye-opening episode of Focus Cast, we dive deep into uveitic glaucoma, a complex and often underdiagnosed condition where inflammation from uveitis directly drives dangerous spikes in eye pressure, putting your optic nerve and long-term vision at serious risk.\n\nWe break down exactly how uveitis and glaucoma interact inside the eye, explaining the role of aqueous humor, trabecular meshwork blockage, posterior synechiae, and the treatment paradox where the very steroids used to control inflammation can simultaneously worsen glaucoma. You will learn why uveitic glaucoma accounts for up to twenty percent of all glaucoma cases, why it disproportionately affects younger patients, and why early detection is absolutely critical to preserving sight.\n\nWe also walk through how specialists approach treatment, from corticosteroid eye drops and immunosuppressive therapy to laser procedures, surgical drainage devices, and promising sustained-release steroid implants. Beyond the clinical picture, we explore the very real human experience of managing this condition alongside systemic autoimmune diseases like ankylosing spondylitis and juvenile idiopathic arthritis.\n\nWhether you are a patient living with uveitis, a caregiver supporting someone through chronic eye disease, a medical student, or simply someone passionate about understanding how the body works, this episode delivers clear, trustworthy, and genuinely useful information.\n\nDo not let silent pressure steal your vision. Listen now, and visit Focuslinks dot in for more expert episodes on eye health and ophthalmology.\n\n---",
       "tags": "uveitic-glaucoma,trabeculitis,synechiae,pressure",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-23.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "199bc792-9f3e-401f-9c8c-119d18b0df03",
+      "generatedAt": "2026-08-09T05:42:36.098Z"
     },
     {
       "episodeOrder": 24,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T04:39:49.941Z",
+  "lastUpdated": "2026-08-09T04:40:08.362Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 273,
+  "generatedEpisodes": 274,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -134,10 +134,10 @@
       "category": "Dry Eye",
       "order": 9,
       "totalEpisodes": 30,
-      "generatedEpisodes": 26,
+      "generatedEpisodes": 27,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/episodes.json",
       "audioDir": "podcast/series/dry-eye-dialogues/audio",
-      "lastUpdated": "2026-08-09T04:37:10.908Z"
+      "lastUpdated": "2026-08-09T04:39:54.700Z"
     },
     {
       "slug": "refractive-rundown",

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T06:38:40.511Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T06:38:54.507Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Evidence-Based Optometry: Reading the Study and Applying It",
-      "description": "The hierarchy of evidence, the PEDIG and OHTS examples, and the clinical question that guides the search.",
+      "title": "Evidence-Based Optometry: How to Read & Apply Research",
+      "description": "Are clinical studies leaving you more confused than confident? In this episode of Focus Cast by Focuslinks.in, we break down evidence-based optometry into a practical, easy-to-follow framework that every eye care professional can use in their daily practice.\n\nWe start with the foundation: understanding study designs. From randomized controlled trials and meta-analyses at the top of the evidence hierarchy, to observational studies and case reports, knowing what kind of study you are reading tells you exactly how much weight to give its findings.\n\nNext, we tackle the numbers without the overwhelm. Learn the critical difference between statistical significance and clinical significance, why a low p-value does not always mean a result matters for your patient, and how to use confidence intervals and effect sizes to make smarter clinical decisions.\n\nWe also explore the often-overlooked question of generalizability. Does the study population actually reflect the patients walking into your practice? Understanding external validity helps you apply research findings with the right context rather than blindly following conclusions drawn from a completely different patient group.\n\nFinally, we bring it all together with the three-legged stool of evidence-based practice: research evidence, clinical expertise, and patient values. Using real-world examples like myopia control with low-dose atropine, we show how strong evidence informs better conversations and shared decision-making with patients and families.\n\nWhether you are a seasoned optometrist or early in your career, this episode gives you the critical thinking tools to read research more confidently and apply it more effectively.\n\nListen now and start bridging the gap between clinical research and real-world patient care. For more episodes and resources, visit Focuslinks.in.\n\n---",
       "tags": "evidence,hierarchy,pedig,search",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-16.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1efd91ed-646a-4e63-b37a-1ba22c068741",
+      "generatedAt": "2026-08-09T06:38:54.507Z"
     },
     {
       "episodeOrder": 17,

@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T06:05:44.440Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T06:07:31.035Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -330,14 +330,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "A and V Patterns: The Vertical Incomitance",
-      "description": "The horizontal deviation that changes with upgaze and downgaze and the oblique muscle role.",
+      "title": "A and V Patterns Explained: Vertical Incomitance in Strabismus",
+      "description": "Why do some people with strabismus have different eye alignment when looking up versus looking down? The answer lies in one of the most clinically important yet often overlooked concepts in eye care: A and V patterns and vertical incomitance. In this episode of Focus Cast, we break down exactly what these patterns are, why they occur, and why missing them can lead to surgical failure and a lifetime of compensatory head postures.\n\nWe start with the fundamentals of comitant versus incomitant strabismus, then walk you through the mechanics of A and V patterns, explaining how the shape of the deviation maps across different gaze positions. You will learn how overacting oblique muscles drive these patterns, why the inferior oblique creates V patterns while the superior oblique contributes to A patterns, and how horizontal rectus muscle positioning plays a surprising role in the equation.\n\nWe also cover the clinical measurement standards using the alternate prism cover test, the critical prism diopter thresholds that define a significant pattern, and the practical tips that separate accurate diagnoses from misleading ones. On the surgical side, we explore oblique muscle weakening procedures, the fascinating mechanics of inferior oblique anteriorization, and how vertical transposition of horizontal rectus muscles can correct patterns without ever touching the obliques.\n\nWhether you are a medical student, an orthoptist, an ophthalmology resident, or simply passionate about vision science, this episode gives you a thorough, accessible, and clinically grounded understanding of A and V patterns in strabismus. Listen now and visit Focuslinks.in for more expert ophthalmology content.\n\n---",
       "tags": "a-pattern,v-pattern,oblique,incomitance",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-26.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4f0db366-aa2a-40c5-95ee-d8350b62c18a",
+      "generatedAt": "2026-08-09T06:07:31.035Z"
     },
     {
       "episodeOrder": 27,

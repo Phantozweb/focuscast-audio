@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T05:57:07.499Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T05:58:07.141Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -37,14 +37,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Comitant Versus Incomitant: The Deviation That Changes",
-      "description": "The same deviation in all gazes versus the direction-dependent — and the palsy and restriction causes.",
+      "title": "Comitant vs Incomitant Strabismus: Why the Angle Matters",
+      "description": "Have you ever noticed someone's eye drift differently depending on where they look? That subtle change is one of the most clinically significant observations in all of eye care — and it is exactly what this episode unpacks.\n\nIn this episode of Focus Cast, we break down the critical difference between comitant and incomitant strabismus in a way that is clear, practical, and genuinely fascinating. Comitant strabismus means the angle of eye misalignment stays the same in every direction of gaze — common in children, often linked to refractive errors like farsightedness, and generally more predictable to manage. Incomitant strabismus means the deviation changes with gaze direction, and that variability is a major diagnostic red flag.\n\nWe explore the most important causes of incomitant strabismus, including cranial nerve palsies like sixth and third nerve palsies, which can signal serious conditions such as intracranial tumors, vascular events, or even a life-threatening posterior communicating artery aneurysm. We also cover restrictive strabismus caused by thyroid eye disease and orbital blowout fractures, explain how the forced duction test helps distinguish paretic from restrictive causes, and discuss A and V pattern deviations and why they matter in surgical planning.\n\nWhether you are an optometry or ophthalmology student, a clinician refreshing your fundamentals, or simply someone curious about how the eyes and brain work together, this episode gives you a solid, clinically relevant foundation.\n\nBecause sometimes, the difference between prescribing glasses and ordering an urgent MRI comes down to one simple question: does the angle change?\n\nListen now and visit Focuslinks dot in for more eye care education.\n\n---",
       "tags": "comitant,incomitant,palsy,restriction",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-03.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ef84104a-8d55-4005-beb6-83f9d70a0bf7",
+      "generatedAt": "2026-08-09T05:58:07.141Z"
     },
     {
       "episodeOrder": 4,

@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T05:43:21.810Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T05:43:45.646Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -347,14 +347,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Syphilis: The Great Imitator Returns",
-      "description": "The RPR and FTA-ABS, the panuveitis, and the intravenous penicillin for neurosyphilis.",
+      "title": "Syphilis Is Back: Understanding the Great Imitator's Return",
+      "description": "Syphilis cases have surged by over 80% in just five years, and most people have no idea it's happening. In this eye-opening episode of Focus Cast, we dig deep into one of history's most deceptive diseases and explain why it's making a dramatic and dangerous comeback right now.\n\nKnown for centuries as the Great Imitator, syphilis can disguise itself as a rash, the flu, a neurological disorder, or nothing at all, making it dangerously easy to miss. We break down exactly how the infection progresses through its stages, why so many cases go undetected, and what a 700% rise in congenital syphilis means for public health today.\n\nWe also explore the real reasons behind this resurgence, including cuts to sexual health clinics, a shocking shortage of penicillin treatment, and the persistent stigma that keeps people from getting tested. Plus, we unpack the critical link between syphilis and HIV transmission, and why that connection makes addressing this outbreak even more urgent.\n\nMost importantly, this episode is about solutions. Syphilis is still treatable and largely preventable. We talk about what individuals can do, what healthcare providers need to change, and why investing in public health infrastructure is not optional, it is life-saving.\n\nWhether you are someone who is sexually active, a healthcare professional, or simply a curious listener who wants to understand what is happening in the world of infectious disease, this episode gives you the knowledge you need to protect yourself and the people you care about.\n\nListen now, share this episode with someone who needs to hear it, and visit Focuslinks dot in for more episodes that make health and science actually make sense.\n\n---",
       "tags": "syphilis,rpr,fta-abs,penicillin",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-27.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c14b8ea9-1831-417c-960b-dc2c2c967415",
+      "generatedAt": "2026-08-09T05:43:45.646Z"
     },
     {
       "episodeOrder": 28,

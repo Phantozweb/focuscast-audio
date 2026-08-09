@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T05:53:35.173Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T05:53:45.946Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Orbital Fractures: The Blowout and the Diplopia",
-      "description": "The floor fracture, the entrapped inferior rectus, and the surgical timing and observation.",
+      "title": "Orbital Blowout Fractures: Causes, Diplopia & Treatment",
+      "description": "Ever wondered why a cricket ball to the face can leave you seeing double? In this episode of Focus Cast by Focuslinks.in, we break down one of the most clinically important facial injuries in eye care — the orbital blowout fracture — and explain exactly why it causes diplopia, that deeply disorienting experience of double vision.\n\nWe start with the anatomy of the orbit, exploring why the paper-thin floor of the eye socket is the first to give way under blunt force trauma. You'll learn how a sudden spike in orbital pressure causes the floor to literally \"blow out\" into the sinus cavity below, and how soft tissues — including the critical inferior rectus muscle — can become entrapped in the fracture, disrupting the precise coordination your brain relies on for single, clear vision.\n\nWe also cover the full clinical picture: enophthalmos and the sunken eye appearance, infraorbital nerve numbness affecting the cheek and upper lip, and the imaging findings that confirm the diagnosis on CT scan. From conservative management to surgical repair with titanium mesh implants, we walk through how treatment decisions are made — including why children with white-eyed blowout fractures may need emergency surgery within 24 to 48 hours.\n\nWhether you're a medical student, an ophthalmology resident, an emergency physician, or simply someone curious about how the human body responds to trauma, this episode gives you a clear, comprehensive understanding of a condition where early recognition can make all the difference.\n\nListen now and visit Focuslinks.in for more episodes, clinical resources, and everything you need to stay sharp in eye care practice.\n\n---",
       "tags": "fracture,blowout,diplopia,entrapment",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-22.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "41b1b256-1219-4106-927f-2d0a54f6ffa3",
+      "generatedAt": "2026-08-09T05:53:45.946Z"
     },
     {
       "episodeOrder": 23,

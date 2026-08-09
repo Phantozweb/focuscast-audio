@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T04:36:13.644Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T04:36:51.030Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "PRK: The Surface Ablation Alternative",
-      "description": "The epithelial removal, the ablation, the bandage lens, and the longer recovery and pain.",
+      "title": "PRK Eye Surgery: The LASIK Alternative You Need to Know",
+      "description": "Not a candidate for LASIK? You still have options — and one of them has been quietly transforming vision for over 30 years. In this episode of Focus Cast, we take a deep dive into PRK (Photorefractive Keratectomy), the surface ablation procedure that predates LASIK and continues to be the preferred choice for thousands of patients worldwide.\n\nWe break down exactly how PRK works, why it requires no corneal flap, and what that single difference means for your safety, recovery, and long-term results. You will learn who makes the best candidate for PRK — including people with thin corneas, athletes in contact sports, military personnel, and those with chronic dry eye — and why the United States military recommends PRK over LASIK for its structural advantages.\n\nWe also give you an honest look at the recovery timeline, what to expect in the days following the procedure, and why the longer healing period is worth it for the right patient. Plus, we explore emerging research suggesting PRK may offer superior corneal stability and night vision quality compared to LASIK in certain cases.\n\nWhether you have been told LASIK is not right for you or you are simply exploring all your laser vision correction options before making a decision, this episode gives you the clear, unbiased information you need to have a confident conversation with your eye surgeon.\n\nVisit Focuslinks.in to explore more episodes and resources on eye health and vision correction. Your best vision may be closer than you think.\n\n---",
       "tags": "prk,surface,ablation,bandage",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-02.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "86a862be-764a-4a28-b82e-ac9c8e7b31f7",
+      "generatedAt": "2026-08-09T04:36:51.030Z"
     },
     {
       "episodeOrder": 3,

@@ -9,7 +9,7 @@
   "order": 13,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T05:25:41.718Z",
+  "lastUpdated": "2026-08-09T05:26:45.890Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,16 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Punctal Plugs & Sustained Drug Delivery: The Future of Eye Care",
-      "description": "What if a device smaller than a grain of rice could replace your daily eye drop routine entirely? In this episode of Focus Cast, we explore the fascinating science behind punctal plugs and their groundbreaking new role in sustained drug delivery for eye conditions like glaucoma, dry eye disease, and beyond.\n\nWe start with a startling fact: less than 5% of a typical eye drop actually gets absorbed into the eye. The rest drains away, runs down your cheek, or enters your bloodstream where it was never meant to go. That inefficiency has real consequences for millions of patients who depend on consistent medication to protect their vision.\n\nEnter the drug-eluting punctal plug — a tiny device inserted into the tear drainage opening of the eye that slowly releases medication directly into the tear film over days, weeks, or even months. We break down how these devices work, highlight cutting-edge innovations like Mati Therapeutics' Evolute and Ocular Therapeutix's bioresorbable plug, and explain why this technology could be a game-changer for glaucoma patients, post-surgical recovery, and anyone who struggles with traditional eye drop regimens.\n\nWe also cover the pharmacokinetic advantages, the engineering challenges researchers are working to solve, and what the regulatory landscape looks like for these combination drug-device products.\n\nIf you care about eye health, medical innovation, or the future of drug delivery, this episode is for you. Listen now and discover why the smallest device in ophthalmology might just have the biggest impact. For more episodes on eye care and vision science, visit us at focuslinks.in.\n\n---",
+      "title": "Punctal Plugs: Smarter Eye Drug Delivery Explained",
+      "description": "What if a device smaller than a grain of rice could replace your daily eye drops and deliver medication directly to your eye — automatically, consistently, and without you lifting a finger? In this episode of Focus Cast, we explore the fascinating world of punctal plug drug delivery systems and why they may represent one of the most significant shifts in modern eye care.\n\nWe start with a striking fact: less than 5% of a typical eye drop actually reaches its target tissue. The rest drains away, evaporates, or enters your bloodstream. For patients managing chronic conditions like glaucoma or dry eye disease, that inefficiency has real consequences — including treatment failure due to poor compliance.\n\nPunctal plugs were originally designed to block tear drainage and relieve dry eye symptoms. But researchers soon asked a bigger question: what if these tiny devices could also carry and release medication over days, weeks, or even months? The result is a new generation of drug-eluting punctal plugs that deliver sustained, controlled doses of therapeutic agents directly to the ocular surface — no drops, no missed doses, no systemic side effects.\n\nIn this episode, we cover how these devices work, the engineering challenges behind controlled drug release, the conditions they target including glaucoma, allergic conjunctivitis, and dry eye, and what the clinical evidence says so far. We also look at what the future holds, including the possibility of smart, responsive plugs that adjust drug release based on real-time biological signals.\n\nIf you care about your vision — or know someone who does — this episode is essential listening. Tune in, and then visit focuslinks.in for more eye care insights, articles, and episodes from Focus Cast.\n\n---",
       "tags": "insert,sustained,dexamethasone,bimatoprost",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-18.mp3",
-      "duration": "12:06",
+      "duration": "12:49",
       "imageUrl": "",
       "status": "generated",
-      "runId": "2c156950-3efe-4891-9baf-f44845dd0bed",
-      "generatedAt": "2026-08-09T05:21:38.647Z"
+      "runId": "b078eb2f-f9c2-44ab-b597-5fc7848c880e",
+      "generatedAt": "2026-08-09T05:26:45.890Z"
     },
     {
       "episodeOrder": 19,

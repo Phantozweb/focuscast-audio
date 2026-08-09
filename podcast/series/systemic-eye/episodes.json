@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T06:25:23.830Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T06:25:32.687Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -102,14 +102,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Rheumatoid Arthritis and the Eye: The Dry Eye and the Scleritis",
-      "description": "The sicca, the episcleritis and scleritis, and the systemic immunosuppression coordination.",
+      "title": "Rheumatoid Arthritis and Your Eyes: Dry Eye & Scleritis",
+      "description": "Did you know rheumatoid arthritis can silently damage your eyes — sometimes before your joints even show symptoms? In this eye-opening episode of Focus Cast by Focuslinks.in, we explore the surprising and often overlooked connection between rheumatoid arthritis and eye health, focusing on two of the most common complications: dry eye disease and scleritis.\n\nWe break down why the immune system's inflammatory activity in rheumatoid arthritis doesn't stay confined to the joints — and how it can target the delicate structures of the eye. You'll learn how secondary Sjögren's syndrome causes chronic dry eye in RA patients, why it's more serious than everyday dryness, and what treatment options can protect your cornea before lasting damage sets in.\n\nWe also take a deep dive into scleritis — one of the most painful eye conditions linked to rheumatoid arthritis. From anterior scleritis to the rare but devastating scleromalacia perforans, we explain what these conditions look like, why they demand urgent attention, and how ophthalmologists and rheumatologists must work together to manage them effectively.\n\nWe also touch on how certain RA medications, like hydroxychloroquine, can themselves affect the eyes — making regular eye exams an absolute must for anyone living with rheumatoid arthritis.\n\nWhether you're a patient, caregiver, or healthcare professional, this episode gives you the knowledge to recognize warning signs early and take action before vision is at risk.\n\nDon't ignore what your eyes are trying to tell you. Listen to this episode now, and visit Focuslinks.in for more expert insights on eye health and vision science.\n\n---",
       "tags": "ra,sicca,scleritis,immunosuppression",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-08.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9baaca78-b3f9-4d8c-a7c9-4ade1d1d7044",
+      "generatedAt": "2026-08-09T06:25:32.687Z"
     },
     {
       "episodeOrder": 9,

@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T06:00:47.481Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T06:00:58.620Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -141,14 +141,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Inferior Oblique Overaction: The V-Pattern and the Surgery",
-      "description": "The elevation in adduction, the V-pattern, and the weakening procedure that aligns.",
+      "title": "Inferior Oblique Overaction: V-Pattern & Surgery Explained",
+      "description": "Ever noticed a child's eye shooting upward when they glance to the side? That telltale sign could be inferior oblique overaction — one of the most clinically significant yet underappreciated causes of strabismus. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into inferior oblique overaction (IOOA), the V-pattern strabismus it creates, and the surgical strategies used to correct it.\n\nWe break down the anatomy and complex actions of the inferior oblique muscle, explain why overaction occurs — from superior oblique palsy to congenital strabismus — and walk you through how to clinically evaluate and grade IOOA with confidence. You'll learn how to identify a true V-pattern, understand the fifteen prism diopter rule, and apply the Parks three-step test to distinguish primary from secondary overaction.\n\nThen we get into the surgery — the part that makes strabismus specialists genuinely excited. We cover inferior oblique recession, myectomy, and the fascinating anterior transposition technique, including when to use each approach, how to quantify the weakening effect, and how to avoid complications like anti-elevation syndrome. We also discuss horizontal muscle transposition for residual V-patterns and how to plan combined procedures for complex cases.\n\nWhether you're a trainee building your strabismus foundation, a practicing ophthalmologist refreshing your surgical planning skills, or simply someone who finds eye movement mechanics endlessly compelling, this episode delivers clear, clinically grounded insights you can apply right away.\n\nListen now and sharpen your approach to one of strabismus surgery's most rewarding challenges. Visit Focuslinks.in for more ophthalmology episodes and resources.\n\n---",
       "tags": "io-overaction,v-pattern,weakening,alignment",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-11.mp3",
+      "duration": "12:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "af5d2fb1-13e7-4e76-949c-8380bf306f00",
+      "generatedAt": "2026-08-09T06:00:58.620Z"
     },
     {
       "episodeOrder": 12,

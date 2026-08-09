@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T05:05:52.551Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T05:06:23.566Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -269,14 +269,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Patient Retention: The Lifetime Value Mindset",
-      "description": "The annual exam, the recall touchpoint, and the experience that keeps families for decades.",
+      "title": "Patient Retention: The Lifetime Value Mindset for Practices",
+      "description": "What if the most expensive habit in your healthcare practice is the one you don't even notice? In this episode of Focus Cast, we dive deep into the lifetime value mindset — a transformative way of thinking about every patient who walks through your door that can fundamentally change how you grow your practice.\n\nWe start with a striking truth: acquiring a new patient costs five to seven times more than retaining an existing one. Yet most providers keep pouring resources into new patient acquisition while quietly losing the ones they already have. This episode breaks down exactly why patients leave (hint: it's rarely about price), and more importantly, what you can do to keep them coming back for years.\n\nYou'll learn four powerful strategies to boost patient retention and maximize lifetime value. First, how intentional follow-up after appointments builds trust and reduces no-shows. Second, how to craft a patient experience so memorable that word-of-mouth becomes your strongest marketing tool. Third, how proactive recall systems keep you present in patients' lives between visits and remove the friction between intention and action. And fourth, how to lead a culture shift within your team so that every single interaction is treated as an investment in a long-term relationship — not just a transaction.\n\nWhether you run a dental clinic, a wellness practice, or any patient-facing healthcare business, the lifetime value mindset will change how you see every consultation, every follow-up, and every conversation at the front desk.\n\nReady to stop chasing new patients and start building lasting relationships? Listen now, and visit Focuslinks.in for more tools and insights to help your practice grow.\n\n---",
       "tags": "retention,lifetime-value,recall,experience",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-21.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0409905f-ef82-4bc4-8033-2dbfe29afe47",
+      "generatedAt": "2026-08-09T05:06:23.566Z"
     },
     {
       "episodeOrder": 22,

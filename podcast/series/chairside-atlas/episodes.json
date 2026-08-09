@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T08:46:37.137Z",
+  "lastUpdated": "2026-08-09T08:46:48.101Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -178,16 +178,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Confrontation Visual Fields: The 1-Minute Eye Screen That Saves Lives",
-      "description": "What if a sixty-second test could detect a brain tumor, a stroke, or advancing glaucoma before a patient even realizes something is wrong? In this episode of Focus Cast, we break down the confrontation visual field test — one of the most underrated yet powerful tools in clinical eye care. No expensive equipment, no lengthy setup, just a clinician, a patient, and one focused minute that can genuinely change lives.\n\nWe explore exactly what a visual field is and why vision loss so often goes unnoticed until serious damage has already occurred. You'll learn how the confrontation visual field test works, including key techniques like finger counting, red desaturation testing, and simultaneous stimulus presentation for detecting visual extinction. We also decode what different patterns of visual field loss actually mean clinically — from homonymous hemianopia pointing to stroke, to bitemporal hemianopia suggesting a pituitary tumor, to the subtle arcuate scotomas of early glaucoma.\n\nWe dig into the real-world sensitivity of confrontation testing, why it remains indispensable in busy clinics, emergency rooms, and resource-limited settings, and how to perform it carefully enough to make it count. Whether you're an optometrist, ophthalmologist, neurologist, GP, or nursing professional, this episode will sharpen how you think about visual field screening and remind you why the simplest clinical tools are often the most elegant.\n\nIf you care about eye health, neurological assessment, or just want to understand what's really happening when a clinician waves a finger at your peripheral vision, this one's for you. Listen now, share with a colleague, and visit focuslinks.in for more eye care insights from Focus Cast.\n\n---",
+      "title": "Confrontation Visual Fields: The 1-Minute Eye Screen Explained",
+      "description": "What if a sixty-second test could detect a brain tumor, a stroke, or silent vision loss you never knew you had? In this episode of Focus Cast, we break down confrontation visual field testing — one of the most underrated yet powerful tools in eye care. Whether you're a patient curious about what happens during your eye exam, a student learning clinical techniques, or a healthcare professional looking for a quick refresher, this episode delivers everything you need to know in a clear, engaging way.\n\nWe walk you through exactly how the confrontation visual field test works, why the examiner closes one of their own eyes during the procedure, and what patterns of visual field loss can reveal about your neurological health. From hemianopia caused by strokes and brain injuries, to bitemporal hemianopia linked to pituitary tumors pressing on the optic chiasm, to scotomas associated with glaucoma and macular degeneration — this simple bedside test can catch conditions that patients often don't even realize they have.\n\nWe also cover the key limitations of confrontation testing, how it compares to formal perimetry, and advanced techniques like red target testing and simultaneous presentation that can dramatically improve what the test detects. Most importantly, we explain why this one-minute screen is far more than a clinical formality — it's a potentially life-changing moment in a routine eye exam.\n\nIf you care about your vision or the vision of your patients, this episode is essential listening. Tune in, share it with someone who needs to hear it, and visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "visual-field,confrontation,screening,neuro",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-13.mp3",
-      "duration": "12:30",
+      "duration": "12:28",
       "imageUrl": "",
       "status": "generated",
-      "runId": "5ba5526e-24ad-455b-ab30-2d9203fada34",
-      "generatedAt": "2026-08-09T08:46:19.677Z"
+      "runId": "0e7ca2e4-2742-4d80-9508-e9becbcf4035",
+      "generatedAt": "2026-08-09T08:46:47.534Z"
     },
     {
       "episodeOrder": 14,

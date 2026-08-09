@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T04:32:06.014Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T04:32:42.166Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -250,14 +250,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Topical Steroids for DED: The Short Burst, the Long Risk",
-      "description": "The inflammation bridge, the IOP monitoring, and the pulse-and-taper strategy.",
+      "title": "Topical Steroids for Dry Eye: Benefits, Risks & Safe Use",
+      "description": "Are steroid eye drops the secret weapon against dry eye disease — or a ticking clock for your vision? In this episode of Focus Cast, we unpack the real story behind topical steroids for dry eye disease (DED): why doctors prescribe them, how they break the inflammatory cycle, and the serious risks that come with unsupervised or prolonged use.\n\nDry eye disease is far more than a hydration problem. It's a chronic inflammatory condition, and topical corticosteroids like loteprednol, prednisolone, and fluorometholone can deliver fast, powerful relief by calming that inflammation quickly. But that short burst of comfort carries long-term risks — including elevated intraocular pressure, glaucoma, posterior subcapsular cataracts, and steroid dependency — that too many patients never hear about until damage is already done.\n\nWe walk you through how steroids work on the ocular surface, why some people are steroid responders, what responsible short-course steroid therapy actually looks like, and how to safely transition to long-term treatments like cyclosporine A or lifitegrast. We also share a real-world cautionary story that every dry eye patient needs to hear.\n\nWhether you're currently using steroid eye drops, considering them, or simply want to understand your treatment options better, this episode gives you the knowledge to have a smarter conversation with your eye care provider.\n\nIf you haven't had an intraocular pressure check during your steroid course, don't wait — book that appointment today. Visit [focuslinks.in](http://focuslinks.in) for more expert eye health content and episodes of Focus Cast.\n\n---",
       "tags": "steroids,inflammation,iop,pulse",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-20.mp3",
+      "duration": "11:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "923c7c3f-28d9-4a26-8d54-64ce99b8c3e9",
+      "generatedAt": "2026-08-09T04:32:42.166Z"
     },
     {
       "episodeOrder": 21,

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T06:54:18.860Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T06:57:57.508Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -273,14 +273,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Co-Management: The Shared Care and the Communication",
-      "description": "The post-op, the chronic disease, the comorbidities, and the role definition that prevents gaps.",
+      "title": "Co-Management in Healthcare: Shared Care & Communication",
+      "description": "Ever wondered if your doctors are actually talking to each other? In this episode of Focus Cast by Focuslinks.in, we unpack the world of co-management in healthcare — the shared care model where multiple clinicians work together simultaneously to deliver better patient outcomes.\n\nWe break down what effective co-management really looks like, starting with the critical importance of clearly defined roles. When a surgeon and a hospitalist co-manage a post-operative patient, success depends on each provider knowing exactly where their responsibility begins and ends. We explore real-world examples, including orthopedic co-management models that have been shown to reduce complications and shorten hospital stays.\n\nThen we dive deep into the true engine of shared care: communication. From outdated referral processes and delayed letters to the promise of real-time electronic health records, we examine why timely, structured, and meaningful communication between providers is the difference between seamless care and dangerous gaps. Because sharing data is not the same as sharing understanding.\n\nWe also put the spotlight on the most overlooked member of the care team — the patient. Empowering patients to actively participate in their own co-managed care is not just good practice; it is a clinical necessity and a powerful safety net for the entire system.\n\nWhether you are a clinician, a healthcare administrator, or a patient managing care across multiple providers, this episode gives you a clear framework for understanding what makes co-management work — and what makes it fail.\n\nListen now and discover why the future of healthcare depends on collaboration, communication, and keeping the patient at the center of every decision. Visit Focuslinks.in to explore more episodes of Focus Cast.\n\n---",
       "tags": "co-management,shared-care,communication,gaps",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-21.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8eeaed85-27a0-45d6-86d7-d88dea0a9ee0",
+      "generatedAt": "2026-08-09T06:57:56.910Z"
     },
     {
       "episodeOrder": 22,

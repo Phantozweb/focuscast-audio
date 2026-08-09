@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T04:43:10.507Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T04:43:25.767Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Refractive Regression: The Myopic Creep",
-      "description": "Why some patients regress, the enhancement candidacy, and the timing and technique of re-treatment.",
+      "title": "Refractive Regression: Why Your Myopia Keeps Getting Worse",
+      "description": "Does your glasses prescription seem to creep higher every single year? You're not imagining it — and you're definitely not alone. In this episode of Focus Cast, we break down the science behind refractive regression, the slow, steady worsening of myopia that affects millions of people worldwide and doesn't always stop when you hit your twenties.\n\nWe start with the basics: what myopia actually is, why the eyeball elongates, and how that tiny structural shift turns a sharp world blurry. Then we dig into the real drivers behind myopia progression — from genetics and hereditary risk to the modern lifestyle habits that are quietly making things worse. Screens, close-up work, time spent indoors — it all adds up, and your eyes are adapting in ways that don't always serve your long-term health.\n\nWe also cover something that rarely gets enough attention: the serious eye health risks that come with high myopia, including retinal detachment, glaucoma, and myopic macular degeneration. Understanding these risks is exactly why myopia control matters — not just for clear vision today, but for protecting your eyes for decades to come.\n\nAnd because this episode is built to leave you with real, actionable takeaways, we walk through the most effective evidence-based strategies for slowing myopia progression — outdoor time, orthokeratology, myopia control lenses, low-dose atropine drops, and smarter visual habits you can start today.\n\nWhether you're a parent watching your child's prescription climb, or an adult whose vision just won't stabilize, this episode gives you the knowledge to take control. Visit Focuslinks.in for more expert eye health content, and talk to your eye care professional about myopia control options that are right for you.\n\n---",
       "tags": "regression,enhancement,re-treatment,timing",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-16.mp3",
+      "duration": "12:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "61259fb5-7c4a-47ce-92ee-5c375acf5424",
+      "generatedAt": "2026-08-09T04:43:25.767Z"
     },
     {
       "episodeOrder": 17,

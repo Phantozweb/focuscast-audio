@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T05:15:16.032Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T05:15:49.093Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Carbonic Anhydrase Inhibitors: Topical and Oral",
-      "description": "Dorzolamide and acetazolamide — the sulfonamide cross-reactivity and the oral side effects.",
+      "title": "Carbonic Anhydrase Inhibitors: Topical vs Oral Explained",
+      "description": "Ever wondered how glaucoma medications actually lower eye pressure? In this episode of Focus Cast, we break down everything you need to know about carbonic anhydrase inhibitors (CAIs), one of the most important drug classes in glaucoma management, in a way that's clear, clinically relevant, and easy to remember.\n\nWe start with the basics: why intraocular pressure rises in glaucoma and how the enzyme carbonic anhydrase drives fluid production inside the eye. From there, we explore how CAIs work by blocking that enzyme to reduce aqueous humor production and bring pressure down.\n\nYou'll learn the full story of oral CAIs like acetazolamide and methazolamide, including their impressive pressure-lowering power, their significant systemic side effects like paresthesia, metabolic acidosis, and kidney stones, and why they're reserved for acute or surgical settings rather than long-term use. Then we dive into topical CAIs, dorzolamide and brinzolamide, the game-changing alternatives developed in the 1990s that deliver targeted pressure reduction with far fewer side effects. We cover their differences in pH, comfort, and tolerability, plus their role in popular fixed-dose combinations like Cosopt and Simbrinza.\n\nWe also discuss practical clinical pearls including proper drop instillation timing, use in pediatric glaucoma, emergency management of acute angle-closure glaucoma, and the critical sulfonamide allergy contraindication every prescriber must know.\n\nWhether you're a student, clinician, or simply passionate about eye care, this episode gives you a complete, confident understanding of CAIs in practice.\n\nListen now and visit focuslinks.in for more focused, evidence-based eye care content.\n\n---",
       "tags": "cai,dorzolamide,acetazolamide,sulfa",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-15.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "51e074ea-4b35-45a3-aed4-0b14dc01441d",
+      "generatedAt": "2026-08-09T05:15:49.093Z"
     },
     {
       "episodeOrder": 16,

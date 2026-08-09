@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T05:35:40.137Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T05:35:51.161Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -113,14 +113,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Acute Retinal Necrosis: The Herpes Emergency",
-      "description": "The peripheral necrosis, the rapid progression, and the intravenous acyclovir and laser barrier.",
+      "title": "Acute Retinal Necrosis: The Herpes Eye Emergency Explained",
+      "description": "What if the virus behind your childhood chickenpox suddenly attacked your eyes — and started destroying your retina within days? That's the terrifying reality of Acute Retinal Necrosis (ARN), a rare but devastating eye condition that can strike even perfectly healthy individuals. In this episode of Focus Cast, we break down everything you need to know about this sight-threatening emergency.\n\nWe explore how herpes viruses — including Varicella-Zoster and Herpes Simplex — can reactivate after lying dormant for decades and launch a rapid assault on the retina, causing irreversible tissue death. You'll learn why ARN is so frequently misdiagnosed in its early stages, what the warning signs actually look like, and why delaying treatment — even by a few hours — can mean the difference between saving and losing your vision.\n\nWe also cover how retina specialists diagnose ARN, why high-dose intravenous antiviral therapy must begin immediately, and what role laser treatment and surgery play when complications like retinal detachment arise. Plus, we touch on Progressive Outer Retinal Necrosis (PORN), an even more aggressive variant affecting immunocompromised patients.\n\nWhether you're an eye care professional sharpening your clinical awareness or someone who simply wants to protect their vision, this episode delivers critical, potentially sight-saving information in a clear and accessible way.\n\nDon't ignore sudden floaters, eye pain, or blurred vision — your retina may be counting on you to act fast. Listen now, and share this episode with someone who needs to hear it.\n\nFor more eye health episodes and resources, visit us at focuslinks.in.\n\n---",
       "tags": "arn,herpes,acyclovir,laser",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-09.mp3",
+      "duration": "12:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "60aaf18a-b522-40d3-9643-4beb726207c1",
+      "generatedAt": "2026-08-09T05:35:51.161Z"
     },
     {
       "episodeOrder": 10,

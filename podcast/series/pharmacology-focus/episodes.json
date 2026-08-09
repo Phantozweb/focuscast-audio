@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T05:14:18.171Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T05:14:51.990Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Beta-Blockers: The Systemic Caution",
-      "description": "Timolol — the asthma and bradycardia contraindications and the bedtime dosing tip.",
+      "title": "Beta-Blockers: Systemic Risks You Need to Know",
+      "description": "Think eye drops are harmless? Think again. In this eye-opening episode of Focus Cast, we uncover the surprising truth about beta-blockers — a powerful class of medications that affects far more than just the organ being treated. Whether you're managing glaucoma with timolol eye drops, taking propranolol for heart failure, or even using beta-blockers to calm performance anxiety before a big presentation, your entire body is along for the ride.\n\nWe break down exactly how beta-blockers work by blocking adrenaline's effects on beta-adrenergic receptors found in the heart, lungs, blood vessels, and eyes. You'll learn why these medications are life-saving for conditions like hypertension, heart failure, and arrhythmias — and why that same mechanism can trigger serious complications in people with asthma, COPD, or diabetes.\n\nWe also explore the fascinating off-label world of beta-blockers in performance anxiety, from concert halls to competitive shooting, and why even occasional use deserves a conversation with your doctor. Plus, we cover one of the most critical warnings patients often miss: why stopping beta-blockers abruptly can be genuinely dangerous.\n\nThis episode is for patients, caregivers, students, and anyone who wants to understand how medications interact with the body as a whole system — not just a single organ. Because awareness isn't about fear. It's about making informed decisions that lead to better health outcomes.\n\nListen now and share this episode with someone who takes beta-blockers or cares for someone who does. Visit Focuslinks.in for more focused, research-backed health conversations that actually make sense.\n\n---",
       "tags": "beta-blocker,timolol,asthma,bradycardia",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-13.mp3",
+      "duration": "12:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f64c6b02-6ddc-4862-b246-bff3611d26bf",
+      "generatedAt": "2026-08-09T05:14:51.990Z"
     },
     {
       "episodeOrder": 14,

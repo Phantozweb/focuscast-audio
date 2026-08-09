@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T04:58:17.078Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T04:58:26.910Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -362,14 +362,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Workplace Eye Injuries: The PPE Gap",
-      "description": "The high-speed projectile, the chemical splash, and the safety eyewear that prevents them.",
+      "title": "Workplace Eye Injuries: Closing the PPE Gap for Good",
+      "description": "Every single day, thousands of workers suffer serious eye injuries on the job — and a staggering 90% of those injuries were completely preventable. So why are workers still getting hurt? In this eye-opening episode of Focus Cast, we dig deep into the PPE gap: the dangerous space between the eye protection workers *should* be wearing and what they're *actually* wearing on the job.\n\nWe break down the real scale of workplace eye injuries, from the one million incidents reported annually in the US alone to the hundreds of thousands of workers who lose their sight permanently each year around the world. More importantly, we explore *why* the gap exists in the first place — and the answers go far beyond simple carelessness.\n\nFrom uncomfortable, ill-fitting safety eyewear and toxic workplace culture to poor training and lack of prescription lens options, we unpack the four core reasons workers skip eye protection and, crucially, what actually works to fix each one. You'll hear a powerful real-world story that puts a human face on the statistics, and walk away with practical, actionable steps whether you're a frontline worker, a manager, or a safety professional.\n\nYour vision is irreplaceable. No task, no matter how quick, is worth the risk of losing it. This episode will change the way you think about eye safety at work.\n\nListen now and share this episode with someone who needs to hear it. Visit Focuslinks.in for more episodes and resources dedicated to keeping your focus sharp.\n\n---",
       "tags": "workplace,projectile,chemical,ppe",
       "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-28.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2f64a7df-9a04-4220-afdb-87a71241bcc3",
+      "generatedAt": "2026-08-09T04:58:26.910Z"
     },
     {
       "episodeOrder": 29,

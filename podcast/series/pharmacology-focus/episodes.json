@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T05:12:08.878Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T05:12:15.596Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Acanthamoeba: The Biguanides That Work",
-      "description": "PHMB and chlorhexidine, the painful dosing schedule, and the months-long treatment course.",
+      "title": "Acanthamoeba Keratitis: How Biguanides Fight Back",
+      "description": "What's lurking in your contact lens case right now? In this eye-opening episode of Focus Cast, we dive deep into one of the most feared and frequently misdiagnosed eye infections: Acanthamoeba keratitis. This rare but devastating condition, caused by a microscopic free-living amoeba found in tap water, swimming pools, and soil, can silently destroy your cornea if left untreated.\n\nWe break down exactly how Acanthamoeba infects the eye, why it's so often mistaken for herpes simplex keratitis, and what makes it so notoriously difficult to treat. The answer lies in the organism's ability to transform into a near-indestructible cyst form that resists most standard antimicrobial agents.\n\nThat's where biguanides come in. We explore how PHMB (polyhexamethylene biguanide) and chlorhexidine work at a molecular level to disrupt the amoeba's cell membrane, why they remain effective against both the active trophozoite and dormant cyst forms, and how clinicians use them in combination for maximum impact. We also cover the realities of treatment, including months-long intensive drop regimens, pain management, and the critical importance of early diagnosis for preserving vision.\n\nWhether you're a contact lens wearer, an eye care professional, or simply someone curious about the science of infection and treatment, this episode delivers clear, clinically grounded insights you won't find in a quick Google search.\n\nVisit Focuslinks.in for more episodes, articles, and expert resources on eye health. Listen now, and make sure your next lens cleaning routine is everything it should be.\n\n---",
       "tags": "acanthamoeba,phmb,chlorhexidine,biguanide",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-06.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9d0fe630-05fb-4d50-8bef-930b5fb8b682",
+      "generatedAt": "2026-08-09T05:12:15.596Z"
     },
     {
       "episodeOrder": 7,

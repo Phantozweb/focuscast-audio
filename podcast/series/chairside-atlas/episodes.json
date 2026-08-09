@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T08:30:12.381Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T08:30:16.492Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -59,14 +59,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Medication Reconciliation: Ocular Side Effects You Cannot Miss",
-      "description": "Building a mental library of drugs that threaten the retina, optic nerve, and surface.",
+      "title": "Ocular Drug Side Effects Every Optometrist Must Know",
+      "description": "Could a medication on your patient's intake form be silently destroying their retina or optic nerve before they notice a single symptom? In this clinical episode of Focus Cast by Focuslinks.in, we dive deep into medication reconciliation as a frontline diagnostic tool for optometrists and eye care professionals.\n\nThis episode builds your mental library of high-risk drugs and their ocular side effects, covering everything from hydroxychloroquine's bull's eye maculopathy and ethambutol's toxic optic neuropathy to topiramate-induced acute angle closure and amiodarone's dual threat to the cornea and optic nerve. We also break down tamoxifen's crystalline maculopathy, phenothiazine pigmentary retinopathy, and steroid-induced posterior subcapsular cataract with IOP elevation.\n\nFor each drug, you will get the clinical presentation, key slit lamp and OCT findings, visual field patterns, differential diagnosis considerations, and a clear framework for chairside decision-making and physician communication. Whether you are a seasoned clinician or an optometry resident building your pharmacology foundation, this episode delivers evidence-based, immediately applicable guidance for your daily practice.\n\nPolypharmacy is the norm in your patient population. The skills covered here are not optional extras. They are essential clinical habits that can protect your patients from irreversible vision loss.\n\nListen now and take these insights directly into your exam lane tomorrow. Share this episode with a colleague or resident who would benefit, and visit Focuslinks.in for more clinical episodes created exclusively for eye care professionals.\n\n---",
       "tags": "pharmacology,side-effects,medications,toxicity",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-05.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0e2b6f92-f1eb-4125-a79c-9366714dc292",
+      "generatedAt": "2026-08-09T08:30:16.492Z"
     },
     {
       "episodeOrder": 6,

@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T04:32:42.166Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T04:32:51.154Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -263,14 +263,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Punctal Plugs: Keeping the Tears on the Surface",
-      "description": "When to plug, the dissolvable versus silicone choice, and the epiphora and extrusion complications.",
+      "title": "Punctal Plugs for Dry Eyes: Tiny Device, Huge Relief",
+      "description": "Are your eyes constantly dry, scratchy, or irritated no matter how many eye drops you use? There might be a better solution — and it's smaller than a grain of rice. In this episode of Focus Cast, we dive deep into punctal plugs, the tiny but powerful devices that are transforming dry eye treatment for millions of people worldwide.\n\nWe start by breaking down how your tear film actually works and why dry eye happens in the first place — including the surprising reason dry eyes can actually make your eyes water more. Then we explain exactly what punctal plugs are, how they work by blocking the eye's natural tear drainage channels, and why that simple concept can deliver lasting comfort where eye drops fall short.\n\nYou'll learn about the different types of punctal plugs — collagen, silicone, and intracanalicular — and who makes the best candidate for this treatment, from chronic dry eye sufferers and contact lens wearers to people with autoimmune conditions like Sjögren's syndrome. We also cover what the quick, in-office insertion procedure feels like, what risks to be aware of, and how punctal plugs fit into a broader dry eye management plan alongside warm compresses, omega-3s, and prescription eye drops.\n\nWhether you've been battling dry eye for years or you're just starting to notice the symptoms, this episode gives you the knowledge to have a real conversation with your eye doctor about whether punctal plugs could work for you.\n\nListen now and discover why this tiny solution might be the biggest change your eyes have ever experienced. For more eye health episodes, visit Focus Cast at focuslinks.in.\n\n---",
       "tags": "punctal-plugs,silicone,dissolvable,extrusion",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-21.mp3",
+      "duration": "11:57",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8c7074d6-e22c-46ac-935a-3c0adda54dc8",
+      "generatedAt": "2026-08-09T04:32:51.153Z"
     },
     {
       "episodeOrder": 22,

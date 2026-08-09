@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T08:43:20.752Z",
+  "lastUpdated": "2026-08-09T08:43:27.807Z",
   "totalEpisodes": 300,
   "generatedEpisodes": 32,
   "series": [
@@ -17,7 +17,7 @@
       "generatedEpisodes": 14,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/episodes.json",
       "audioDir": "podcast/series/chairside-atlas/audio",
-      "lastUpdated": "2026-08-09T08:42:58.412Z"
+      "lastUpdated": "2026-08-09T08:43:14.428Z"
     },
     {
       "slug": "retina-revealed",
@@ -47,7 +47,7 @@
       "generatedEpisodes": 3,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/episodes.json",
       "audioDir": "podcast/series/cornea-confidential/audio",
-      "lastUpdated": "2026-08-09T08:37:44.621Z"
+      "lastUpdated": "2026-08-09T08:43:16.842Z"
     },
     {
       "slug": "glaucoma-guardian",

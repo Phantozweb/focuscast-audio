@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T05:12:45.970Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T05:13:03.202Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Anesthetic Drops: The Diagnostic Tool, Not the Therapy",
-      "description": "Proparacaine and tetracaine — why they are for diagnosis only and the abuse that destroys corneas.",
+      "title": "Anesthetic Eye Drops: Diagnostic Tool, Not a Treatment",
+      "description": "What if the drop that instantly numbs your eye pain isn't actually treating anything — it's just asking your eye a question? In this episode of Focus Cast, we uncover the fascinating and often misunderstood world of anesthetic eye drops like tetracaine, proparacaine, and oxybuprocaine. Most patients assume these drops are a solution. The truth is far more interesting — and far more important to understand.\n\nWe break down exactly how anesthetic eye drops work by blocking nerve signals in the cornea, one of the most densely innervated tissues in the human body. More critically, we explain why repeated self-use of these drops can lead to a dangerous condition called topical anesthetic abuse keratopathy — a progressive corneal breakdown that can result in permanent scarring, vision loss, and even the need for a corneal transplant.\n\nBut here's where it gets genuinely brilliant: we explore how clinicians use the anesthetic challenge as a powerful diagnostic technique to pinpoint the source of eye pain, distinguish between surface-level and deep ocular conditions, and even differentiate peripheral nerve pain from central neuropathic pain. One drop. One question. An entire diagnostic pathway unlocked.\n\nWe also cover the critical role these drops play in emergency eye care — and why even then, they're used once to enable treatment, never repeatedly to replace it.\n\nIf you've ever wondered why your eye doctor won't send you home with numbing drops, this episode gives you the full, science-backed answer. Listen now and share this episode with anyone who wants to understand the real science behind everyday medical tools. Visit Focuslinks.in for more episodes, articles, and resources.\n\n---",
       "tags": "anesthetic,proparacaine,tetracaine,abuse",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-11.mp3",
+      "duration": "12:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "654f890c-449c-476c-98f2-e148e1c815b4",
+      "generatedAt": "2026-08-09T05:13:03.202Z"
     },
     {
       "episodeOrder": 12,

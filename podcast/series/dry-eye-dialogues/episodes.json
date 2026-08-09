@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T04:26:16.241Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T04:26:33.370Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Dry Eye Disease: The New Definition and the DEWS Report",
-      "description": "The multifactorial disease of tears and ocular surface — loss of homeostasis as the unifying concept.",
+      "title": "Dry Eye Disease: The New Definition & DEWS Report Explained",
+      "description": "Did you know that dry eye disease affects hundreds of millions of people worldwide, yet for decades even eye care professionals couldn't agree on what it actually was? In this episode of Focus Cast, we dive deep into the landmark DEWS and DEWS Two reports published by the Tear Film and Ocular Surface Society (TFOS), and explore how they completely transformed our understanding of dry eye disease.\n\nWe break down the new clinical definition of dry eye, explaining what it means for a condition to be \"multifactorial\" and why the concept of tear film homeostasis is so central to modern diagnosis and treatment. You'll learn the critical difference between aqueous deficient dry eye and evaporative dry eye, why meibomian gland dysfunction is the leading cause affecting up to 86% of dry eye patients, and how the vicious cycle of hyperosmolarity and inflammation keeps the condition going.\n\nWe also cover the DEWS Two stepwise treatment framework, the surprising quality of life impact of chronic dry eye, and the growing role of digital screen use in fueling the dry eye epidemic. Whether you're a patient frustrated by symptoms that never seem to improve, a student studying ocular surface disease, or a clinician looking to refresh your foundational knowledge, this episode gives you a clear, evidence-based picture of where the science stands today.\n\nYour symptoms are real, your discomfort is valid, and better answers exist. Tune in and find out what the science says.\n\nVisit Focuslinks.in for more episodes and eye health resources, and subscribe to Focus Cast so you never miss an update from the world of ophthalmology and vision science.\n\n---",
       "tags": "dews,definition,homeostasis,multifactorial",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-02.mp3",
+      "duration": "12:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "65d2a282-4f42-4bbd-a5a1-a3066a9b2f4d",
+      "generatedAt": "2026-08-09T04:26:33.370Z"
     },
     {
       "episodeOrder": 3,

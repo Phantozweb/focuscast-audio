@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T05:44:26.208Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T05:44:50.059Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Sympathetic Ophthalmia: The Bilateral Threat After Trauma",
-      "description": "The fellow eye inflammation, the timing, and the immunosuppression that protects the good eye.",
+      "title": "Sympathetic Ophthalmia: When One Eye Injury Blinds Both Eyes",
+      "description": "What if injuring one eye could silently destroy vision in the other — weeks, months, or even decades later? That is the terrifying reality of sympathetic ophthalmia, a rare but serious bilateral eye condition that every person should know about.\n\nIn this episode of Focus Cast by Focuslinks.in, we break down exactly what sympathetic ophthalmia is, why it happens, and who is at risk. We explore the fascinating and unsettling science behind immune-privileged sites in the eye, and how a penetrating eye injury or even routine eye surgery can trigger your own immune system to attack both eyes in a case of devastating mistaken identity.\n\nWe cover the warning signs to watch for in the uninjured eye, how doctors diagnose this condition and distinguish it from similar inflammatory diseases like Vogt-Koyanagi-Harada syndrome, and the full spectrum of treatment options — from high-dose corticosteroids to long-term immunosuppressive therapy and emerging biologic agents. We also tackle the emotionally difficult question of enucleation, and what modern medicine says about when and whether removing the injured eye is the right call.\n\nMost importantly, this episode is a powerful reminder that eye safety is not optional. Protective eyewear, early symptom recognition, and timely specialist care can make the difference between preserved vision and permanent blindness.\n\nIf you or someone you love has experienced a serious eye injury or eye surgery, this episode could genuinely change outcomes. Listen now, share it with someone who needs to hear it, and visit Focuslinks.in for more expert eye health content.\n\n---",
       "tags": "sympathetic,ophthalmia,bilateral,immunosuppression",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-15.mp3",
+      "duration": "11:56",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "13495584-abf6-4d14-9308-a40c50a4a334",
+      "generatedAt": "2026-08-09T05:44:49.414Z"
     },
     {
       "episodeOrder": 16,

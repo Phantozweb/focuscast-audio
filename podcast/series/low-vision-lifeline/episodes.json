@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T05:22:37.742Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T05:22:55.105Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -89,14 +89,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Handheld and Stand Magnifiers: The First Tool",
-      "description": "Choosing the type, the illumination, and the working distance that suits each patient.",
+      "title": "Handheld vs Stand Magnifiers: Choose the Right One for You",
+      "description": "What if the right magnifying glass could give you back the joy of reading? In this episode of Focus Cast, we explore handheld and stand magnifiers — the first tools most people reach for when vision starts to change — and break down everything you need to know to choose the one that actually works for you.\n\nWe cover how magnifiers work, the key differences between handheld and stand magnifiers, and who each type is best suited for. You will learn why more magnification is not always better, how to find the right magnification level for your specific vision needs, and why built-in lighting can make a bigger difference than you might expect. We also share a moving story about a woman with macular degeneration who found her way back to reading — not through expensive technology, but through the right magnifier matched to her needs.\n\nWhether you are dealing with age-related vision loss, macular degeneration, low vision, or simply want to understand your options, this episode gives you practical, easy-to-follow guidance you can use right away. From portability and hand stability to extended reading comfort and field of view, we help you cut through the confusion so you can make a confident, informed choice.\n\nIf you or someone you love has been struggling with vision challenges, this episode is a great place to start. Visit Focuslinks.in for more resources, guides, and tools to support your vision journey.\n\n---",
       "tags": "magnifier,handheld,stand,illumination",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Macula",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-07.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e9d6b57b-f341-4228-84c4-021d191cfbd1",
+      "generatedAt": "2026-08-09T05:22:55.105Z"
     },
     {
       "episodeOrder": 8,

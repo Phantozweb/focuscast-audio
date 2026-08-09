@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:48:26.338Z",
+  "lastUpdated": "2026-08-09T05:48:56.002Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 455,
+  "generatedEpisodes": 456,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -224,10 +224,10 @@
       "category": "Uveitis",
       "order": 15,
       "totalEpisodes": 30,
-      "generatedEpisodes": 29,
+      "generatedEpisodes": 30,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/episodes.json",
       "audioDir": "podcast/series/uveitis-unveiled/audio",
-      "lastUpdated": "2026-08-09T05:46:11.825Z"
+      "lastUpdated": "2026-08-09T05:48:40.948Z"
     },
     {
       "slug": "oculoplastics-outlook",

@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T08:37:28.992Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T08:37:33.369Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Epithelium: The First Barrier and Its Common Failures",
-      "description": "Abrasions, erosions, and the recurrent erosion syndrome that follows seemingly minor trauma.",
+      "title": "Corneal Abrasions & Recurrent Erosion Syndrome: Clinical Guide",
+      "description": "Every optometrist has seen it — a patient in genuine pain, red-eyed and photophobic, telling you their eye felt fine until they woke up this morning. In this focused clinical episode of Focus Cast by Focuslinks.in, we break down the corneal epithelium's structure, its most common failure modes, and the evidence-based management strategies you can apply directly at the slit lamp.\n\nWe cover the full clinical spectrum from acute corneal abrasions to the often-misunderstood recurrent erosion syndrome (RES) — including why it happens, how to recognize it, and why so many patients keep coming back with the same problem. You'll walk away with a clear framework for slit lamp assessment, differential diagnosis (including epithelial basement membrane dystrophy, Reis-Bucklers, and neurotrophic keratopathy), and a layered management approach covering hypertonic saline therapy, anterior stromal puncture, bandage contact lenses, and when to refer for phototherapeutic keratectomy (PTK).\n\nWe also discuss the role of anterior segment OCT in evaluating epithelial irregularity, the evidence against pressure patching, and the practical patient counseling strategies that improve long-term outcomes and reduce recurrence.\n\nThis episode is designed exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners who want sharp, peer-level clinical content without the noise.\n\nIf you found this episode valuable, share it with a colleague or resident in your practice. Visit Focus Cast at Focuslinks.in for more clinically focused episodes built specifically for eye care professionals. Keep your slit lamp aligned and your clinical thinking sharper than ever.\n\n---",
       "tags": "epithelium,abrasion,erosion,recurrent",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-02.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "55eb9f57-c285-45e4-8dc3-e937d9f7aa43",
+      "generatedAt": "2026-08-09T08:37:33.369Z"
     },
     {
       "episodeOrder": 3,

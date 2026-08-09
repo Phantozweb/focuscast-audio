@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T05:09:43.283Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T05:10:37.666Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Topical Antibiotics: The Spectrum and the Stewardship",
-      "description": "From erythromycin to fluoroquinolones — matching the drug to the organism and the severity.",
+      "title": "Topical Antibiotics: Spectrum, Risks & Smart Stewardship",
+      "description": "That little tube of antibiotic ointment in your medicine cabinet seems harmless enough — but is it quietly contributing to one of the biggest public health crises of our time? In this episode of Focus Cast, we break down everything you need to know about topical antibiotics: how they work, what they target, and why using them carelessly could cost us more than we realize.\n\nWe explore the spectrum of common topical antibiotics like mupirocin, neomycin, bacitracin, and fusidic acid — what bacteria they fight, how they differ, and why they are often combined in over-the-counter products. You will also learn the surprising truth about your skin microbiome and how topical antibiotics can disrupt it in ways that do more harm than good.\n\nMost importantly, we dig into antibiotic stewardship — the practice of using antibiotics wisely to preserve their effectiveness for future generations. Did you know that plain petroleum jelly works just as well as antibiotic ointment for most minor cuts? Or that neomycin is one of the leading causes of allergic contact dermatitis? Or that mupirocin resistance is already threatening our ability to fight MRSA?\n\nThis episode gives you clear, actionable guidance on when to use topical antibiotics, when to skip them, and when to see a doctor instead. Because small everyday choices, made by millions of people, shape the future of medicine.\n\nListen now and make a smarter choice the next time you reach for that tube. Visit Focus Cast at Focuslinks.in for more episodes that turn complex medical topics into conversations that actually matter.\n\n---",
       "tags": "antibiotics,spectrum,fluoroquinolone,stewardship",
       "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-02.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "646e3a9e-4eb0-4f82-88f2-a6fafd394f48",
+      "generatedAt": "2026-08-09T05:10:37.666Z"
     },
     {
       "episodeOrder": 3,

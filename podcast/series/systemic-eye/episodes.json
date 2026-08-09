@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T06:23:24.554Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T06:24:34.103Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Hypertension: The Keith-Wagener-Barker Classification",
-      "description": "The arteriolar narrowing, the AV nicking, the cotton-wool and flame hemorrhage, and the crisis.",
+      "title": "Keith-Wagener-Barker Classification of Hypertensive Retinopathy Explained",
+      "description": "What can a doctor see inside your eye that reveals the true state of your heart and blood vessels? More than you might think. In this episode of Focus Cast, we break down the Keith-Wagener-Barker classification, the landmark grading system developed in 1939 that transformed how physicians assess hypertensive retinopathy and cardiovascular damage.\n\nHigh blood pressure is often called the silent killer because it causes no symptoms while quietly destroying blood vessels, kidneys, and the brain. But the retina tells a different story. As one of the only places in the body where blood vessels can be observed directly and non-invasively, the retina offers a powerful window into the severity of hypertension and its long-term effects on the entire vascular system.\n\nWe walk you through all four grades of the Keith-Wagener-Barker classification in clear, accessible language. From the subtle arterial narrowing of Grade 1 and the AV nicking of Grade 2, to the flame-shaped hemorrhages and cotton wool spots of Grade 3, and the life-threatening papilledema of Grade 4, each stage tells a distinct clinical story. We also explore why this classification remains relevant today, how retinal grading independently predicts cardiovascular outcomes, and why it is especially valuable in resource-limited healthcare settings.\n\nWhether you are a medical student preparing for exams, a healthcare professional refreshing your knowledge, or simply someone who wants to understand what high blood pressure really does to the body, this episode delivers focused, practical insight you can use.\n\nListen now and visit Focuslinks.in for more episodes and study resources designed to help you learn smarter.\n\n---",
       "tags": "hypertension,kwb,av-nicking,cotton-wool",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-04.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bb1dcbf5-605a-4d34-967d-ef9a0620df06",
+      "generatedAt": "2026-08-09T06:24:34.103Z"
     },
     {
       "episodeOrder": 5,

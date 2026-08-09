@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T08:33:52.967Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T08:34:02.544Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -94,14 +94,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Fundus Autofluorescence: Lipofuscin as a Disease Marker",
-      "description": "Reading hypo- and hyper-autofluorescent patterns in Stargardt, AMD, and hydroxychloroquine toxicity.",
+      "title": "Fundus Autofluorescence: Reading Lipofuscin as a Disease Marker",
+      "description": "Fundus autofluorescence (FAF) is one of the most clinically powerful imaging tools available in optometric practice — yet interpreting hypo- and hyperautofluorescent patterns with confidence is a skill many practitioners are still developing. In this episode of Focus Cast by Focuslinks.in, we break down exactly how lipofuscin behaves as a disease marker across three critical retinal conditions: Stargardt disease, age-related macular degeneration, and hydroxychloroquine toxicity.\n\nYou'll learn how to distinguish hyperautofluorescence (RPE stress and lipofuscin overload) from hypoautofluorescence (RPE loss and atrophy), and why that distinction drives your clinical decision-making. We cover the characteristic FAF patterns for each condition — from the hyperautofluorescent pisciform flecks and dark center of Stargardt, to the atrophic border patterns that predict GA progression in AMD, to the parafoveal ring that signals early hydroxychloroquine toxicity before bull's-eye maculopathy appears on fundoscopy.\n\nThis episode also addresses the practical side of optometric management: when to refer, how to co-manage with retinal specialists and rheumatologists, how to counsel Stargardt patients on vitamin A supplementation, and how to apply AAO screening guidelines for hydroxychloroquine monitoring using a multi-modal protocol that includes OCT, 10-2 visual fields, and FAF.\n\nWhether you're an optometry resident building your imaging literacy or a seasoned clinician looking to sharpen your pattern recognition, this episode delivers evidence-based, chairside-ready insights you can apply immediately. Visit Focuslinks.in for more clinical episodes built exclusively for optometrists and eye care professionals.\n\n---",
       "tags": "faf,lipofuscin,stargardt,toxicity",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-08.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d91949c2-93f2-4ad1-84a6-17fadb58af2e",
+      "generatedAt": "2026-08-09T08:34:02.544Z"
     },
     {
       "episodeOrder": 9,

@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T04:55:14.559Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T04:55:15.435Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -144,15 +144,15 @@
     {
       "episodeOrder": 11,
       "title": "Hyphema Explained: Blood in the Eye Causes & Treatment",
-      "description": "What does it mean when blood collects inside the eye — visible to the naked eye, pooling right there in the front of the eyeball? That striking and alarming condition is called hyphema, and in this episode of Focus Cast, we break it all down in a way that is clear, compelling, and genuinely eye-opening.\n\nWe explore exactly what hyphema is — blood in the anterior chamber of the eye — and why it happens. From blunt trauma during sports injuries to spontaneous bleeding caused by sickle cell disease, blood thinners, or diabetic retinopathy, we cover the full spectrum of causes. You will learn how blood in the eye can trigger dangerous complications like elevated intraocular pressure, corneal blood staining, and even permanent vision loss if left untreated.\n\nWe also walk through how doctors grade hyphema severity, what conservative treatment looks like versus when surgery becomes necessary, and why the risk of rebleeding in the first five days makes early rest and monitoring so critical. Special attention is given to patients with sickle cell disease, who face uniquely elevated risks and need tailored care.\n\nPerhaps most importantly, we talk about prevention — because the majority of traumatic hyphemas are entirely avoidable with proper protective eyewear during high-risk sports and activities.\n\nWhether you are a patient, a parent, an athlete, or simply someone curious about eye health, this episode gives you the knowledge to recognize hyphema early, understand its risks, and take action fast.\n\nListen now, and visit Focuslinks dot in for more episodes covering everything ophthalmology. If this episode helped you, share it with someone who needs to hear it — because protecting your vision starts with understanding it.\n\n---",
+      "description": "What happens when blood floods the front of your eye after a hit? In this episode of Focus Cast, we break down hyphema, one of the most visually alarming and commonly misunderstood eye injuries, so you know exactly what it is, what causes it, and what to do if it ever happens to you.\n\nWe start with the basics: what hyphema actually is, why blood collects in the anterior chamber, and how it forms that striking red layer visible in the eye. From there, we explore the most common causes, including blunt trauma from sports injuries, car accidents, and falls, as well as spontaneous hyphemas linked to sickle cell disease, blood thinners, and diabetic retinopathy.\n\nYou will learn about the two biggest risks that make hyphema more than just a surface injury: dangerous spikes in intraocular pressure that can lead to traumatic glaucoma, and the threat of rebleeding between days three and five. We also cover how hyphema is graded and diagnosed, what conservative treatment looks like, and when surgical intervention becomes necessary.\n\nSpecial attention is given to high-risk groups, including children at risk for amblyopia and patients with sickle cell conditions who face unique complications. We also discuss practical prevention strategies, because the right protective eyewear can make all the difference.\n\nWhether you are a parent, an athlete, a healthcare student, or simply someone who wants to understand eye health better, this episode gives you the knowledge to act quickly and confidently when it matters most.\n\nListen now and visit Focuslinks.in for more episodes, articles, and trusted resources on eye health and vision science.\n\n---",
       "tags": "hyphema,rebleed,sickle,restrict",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-11.mp3",
-      "duration": "12:26",
+      "duration": "12:30",
       "imageUrl": "",
       "status": "generated",
-      "runId": "9593eb2e-8738-469b-a2a6-c4fd450c249d",
-      "generatedAt": "2026-08-09T04:55:13.296Z"
+      "runId": "a235bc35-c87f-4df4-9811-9cf585f93ed6",
+      "generatedAt": "2026-08-09T04:52:04.745Z"
     },
     {
       "episodeOrder": 12,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Herpes Zoster Ophthalmicus: The Hutchinson Sign",
-      "description": "The forehead vesicles, the nasociliary branch, and the oral antiviral within 72 hours.",
+      "title": "Hutchinson Sign & Herpes Zoster Ophthalmicus Explained",
+      "description": "What does a rash on the tip of your nose have to do with losing your vision? More than you'd think. In this episode of Focus Cast, we break down one of medicine's most elegant and clinically urgent observations — the Hutchinson Sign — and explore why this simple finding on physical examination can be the difference between saving and losing a patient's sight.\n\nWe start with the basics of Herpes Zoster Ophthalmicus, the form of shingles that targets the eye and surrounding structures, caused by reactivation of the varicella-zoster virus along the ophthalmic branch of the trigeminal nerve. From there, we unpack the anatomy behind the Hutchinson Sign — why vesicles on the tip or side of the nose signal nasociliary nerve involvement and predict a significantly higher risk of serious ocular complications, with studies suggesting up to 70 to 80 percent of affected patients developing some form of eye disease.\n\nWe also walk through the full spectrum of eye complications in HZO, from conjunctivitis and episcleritis to keratitis, uveitis, acute retinal necrosis, and post-herpetic neuralgia. And we cover what to actually do when you see this sign — early antiviral therapy, urgent ophthalmology referral, and the critical role of the recombinant zoster vaccine in prevention.\n\nWhether you're a medical student, a clinician brushing up on clinical signs, or simply someone fascinated by how the human body works, this episode delivers clear, memorable, and clinically relevant insights.\n\nListen now and never look at a forehead rash the same way again. Find more episodes and resources at focuslinks.in.\n\n---",
       "tags": "hzv,hutchinson,antiviral,nasociliary",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-19.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "19c46a0e-ef7e-4b87-946c-ea69d5720057",
+      "generatedAt": "2026-08-09T04:55:15.435Z"
     },
     {
       "episodeOrder": 20,

@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T05:58:12.372Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T05:58:34.744Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Esotropia: The Inward Turn and the Subtypes",
-      "description": "Infantile, accommodative, acquired — the age of onset and the refractive error that guide the workup.",
+      "title": "Esotropia Explained: Types, Causes & Treatment Options",
+      "description": "What does it really mean when an eye turns inward — and why does it happen? In this episode of Focus Cast, we take a deep dive into esotropia, the inward-turning eye condition that affects millions of people worldwide, including a surprising number of children. But here's what most people don't realize: esotropia isn't a single condition. It's an umbrella term covering several distinct subtypes, each with its own causes, characteristics, and treatment pathways.\n\nWe break down infantile esotropia, which can appear in babies as young as a few months old, and explain why early surgical intervention often leads to the best outcomes. We explore accommodative esotropia, a type closely linked to farsightedness where the right pair of glasses can genuinely transform a child's vision. We also cover partially accommodative esotropia, non-accommodative forms like basic esotropia and convergence excess, divergence insufficiency esotropia in adults, and the often-overlooked microtropia that can be nearly invisible yet still cause significant vision problems.\n\nBeyond the clinical picture, we talk honestly about the emotional and psychological impact of living with a visible eye turn — for children navigating school and friendships, and for adults who may have carried this condition for decades. We also walk through how esotropia is diagnosed, why dilated eye exams matter, and what a comprehensive treatment plan might look like.\n\nWhether you're a parent concerned about your child's eyes, an adult experiencing double vision, or simply someone who wants to understand how strabismus works, this episode gives you the knowledge to ask the right questions and take the right steps. Visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "esotropia,infantile,accommodative,acquired",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Pediatric",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-04.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "440d313e-cd1d-4a41-a332-a2a580d18684",
+      "generatedAt": "2026-08-09T05:58:34.744Z"
     },
     {
       "episodeOrder": 5,

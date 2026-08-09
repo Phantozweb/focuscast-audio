@@ -1,1 +1,0 @@
-{"detail":{"type":"validation_error","code":"text_too_long","message":"Request text length (11091) exceeds the maximum text length of 10000 characters. Please use Studio for long form TTS.","status":"max_character_limit_exceeded","request_id":"11a7901928205fb8269a65c149bcb3f2","param":"text"}}

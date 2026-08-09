@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T06:08:30.287Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T06:08:55.974Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -384,14 +384,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Strabismus Follow-Up: The Alignment Maintenance",
-      "description": "The post-op drift, the amblyopia surveillance, and the refractive update that sustains alignment.",
+      "title": "Strabismus Follow-Up: How to Maintain Eye Alignment Long-Term",
+      "description": "Think strabismus treatment ends after surgery or patching? Think again. In this eye-opening episode of Focus Cast by Focuslinks.in, we dive deep into the often-overlooked world of strabismus follow-up care and why alignment maintenance is just as critical as the initial treatment itself.\n\nWhether your child just completed their first round of strabismus surgery, is midway through patching therapy, or has been wearing corrective glasses for months, this episode will show you exactly why consistent monitoring can make a lifelong difference in vision outcomes. We break down what a proper follow-up schedule looks like, what doctors are measuring at each visit, and why skipping appointments, even when everything seems fine, can lead to serious setbacks.\n\nWe also explore the critical period of visual development, the real risk of strabismus recurrence, and the emotional impact misaligned eyes can have on a child's confidence and social life. For adults navigating sudden-onset strabismus, we cover why follow-up care goes beyond the eyes and connects to your broader health picture.\n\nPlus, we share practical at-home tips for parents, from keeping up with glasses and patching routines to knowing when to call your specialist before the next scheduled visit. We also touch on how technology and telehealth are transforming strabismus care today.\n\nIf you are managing strabismus for yourself or a loved one, this episode gives you the knowledge and confidence to stay committed to the long game. Because consistent care is not just helpful, it is essential.\n\nListen now and visit Focuslinks.in for more expert eye health resources, episodes, and guidance tailored to help you see life more clearly.\n\n---",
       "tags": "follow-up,drift,surveillance,refractive",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-30.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cb6955f6-7041-4428-a9cf-16a2db736dce",
+      "generatedAt": "2026-08-09T06:08:55.974Z"
     }
   ]
 }

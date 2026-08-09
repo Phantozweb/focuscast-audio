@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T06:18:39.753Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T06:18:53.282Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Octopus Versus Humphrey: The Perimetry Platforms",
-      "description": "The strategies, the Swedish interactive threshold, and the GPA and progression analysis.",
+      "title": "Octopus vs Humphrey: Which Perimetry Platform Wins?",
+      "description": "What if the machine your patient sits in front of is quietly shaping their diagnosis? In this episode of Focus Cast, we dive deep into one of eye care's most important — and most overlooked — debates: the Octopus versus the Humphrey Field Analyzer. These two perimetry platforms have been competing for decades, and the differences between them are more clinically significant than most practitioners realize.\n\nWe break down how the Humphrey Field Analyzer became the gold standard in visual field testing, why its SITA algorithm changed perimetry forever, and what makes its normative database and progression analysis tools so powerful. Then we turn to the Octopus perimeter — the platform that actually came first — and explore why its TOP strategy, cluster-based analysis, and speed advantages make it a genuinely compelling alternative, especially for elderly or fatigued patients.\n\nWe also tackle the critical question of interchangeability: can you switch a patient between platforms without losing years of progression data? The answer might surprise you. Plus, we look at where both Zeiss and Haag-Streit are heading as portable and remote perimetry reshape the future of glaucoma monitoring.\n\nWhether you are an ophthalmologist, optometrist, orthoptist, or eye care student, this episode gives you the practical framework to understand, compare, and confidently choose between these two platforms — and to interpret their results with greater clinical precision.\n\nListen now and sharpen the way you think about visual field testing. Visit Focuslinks.in for more episodes, resources, and everything eye care.\n\n---",
       "tags": "perimetry,octopus,humphrey,gpa",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-22.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0004927e-0f14-4975-b6c4-56d198d84df1",
+      "generatedAt": "2026-08-09T06:18:53.282Z"
     },
     {
       "episodeOrder": 23,

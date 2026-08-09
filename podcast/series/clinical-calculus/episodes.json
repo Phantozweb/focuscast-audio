@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T06:34:10.949Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T06:34:59.986Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Red Flags in Optometry: The Never-Miss List",
-      "description": "The symptoms and signs that demand same-day referral and the documentation that protects.",
+      "title": "Red Flags in Optometry: The Never-Miss List for Eye Care",
+      "description": "Could you be missing a life-changing diagnosis hiding in plain sight? In this episode of Focus Cast by Focuslinks.in, we break down the critical red flags every optometrist must recognize — the signs and symptoms that demand immediate action, no matter how routine the appointment seems.\n\nWe cover four essential categories that belong on every clinician's radar. First, sudden vision changes — from central retinal artery occlusion and amaurosis fugax to retinal vein occlusion — and why these presentations are never normal. Next, we dive into eye pain, exploring acute angle closure glaucoma, uveitis, and the often-overlooked giant cell arteritis, a condition where same-day referral can mean the difference between sight and permanent blindness.\n\nWe then walk through the fundus findings you simply cannot afford to miss, including papilloedema, retinal detachment, proliferative diabetic retinopathy, and choroidal melanoma — conditions where a thorough dilated exam can genuinely save a life. Finally, we zoom out to examine the systemic red flags that optometrists are uniquely positioned to detect first, from undiagnosed hypertension and diabetes to third nerve palsies and pituitary tumours revealed through visual field defects.\n\nWhether you're a student, a newly qualified optometrist, or an experienced practitioner looking for a sharp clinical refresher, this episode gives you the knowledge and confidence to act decisively when it matters most.\n\nBecause in eye care, what you don't miss is just as important as what you find.\n\nListen now and share this episode with a colleague or student who needs to hear it. Visit Focuslinks.in for more episodes, clinical resources, and everything eye care.\n\n---",
       "tags": "red-flags,referral,documentation,never-miss",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-04.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4444e482-871f-4ca8-b381-1ecb991f1eaf",
+      "generatedAt": "2026-08-09T06:34:59.986Z"
     },
     {
       "episodeOrder": 5,

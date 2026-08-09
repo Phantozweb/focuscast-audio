@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T05:48:11.321Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T05:49:15.079Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -102,14 +102,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Ectropion: The Out-Turned Lid and the Epiphora",
-      "description": "The punctal eversion, the tearing, and the horizontal and medial canthal tightening.",
+      "title": "Ectropion Explained: Why Your Eyelid Turns Out and Eyes Water",
+      "description": "Ever noticed someone whose lower eyelid sags outward, or whose eyes seem constantly teary for no obvious reason? That combination has a name — ectropion — and it affects far more people than you might expect. In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about ectropion, the condition where the lower eyelid turns outward, disrupting the eye's natural tear drainage system and leading to a frustrating cycle of irritation, dryness, and excessive tearing known as epiphora.\n\nWe explore the four main causes of ectropion — age-related tissue laxity, scarring from burns or skin conditions, facial nerve damage from conditions like Bell's palsy, and mechanical causes like growths near the eyelid. You will learn what it actually feels like to live with ectropion day to day, from gritty, burning eyes to the social embarrassment of constant tearing, and why this condition is far more than a cosmetic concern. Left untreated, ectropion can lead to serious complications including corneal damage and vision loss.\n\nWe also walk through how ophthalmologists diagnose ectropion, what conservative treatments can offer, and how surgical options like the lateral tarsal strip procedure deliver lasting relief for most patients. Whether you are a patient, a caregiver, or simply curious about eye health, this episode gives you a clear, jargon-free understanding of a condition that quietly affects quality of life for millions. If you or someone you know has a drooping lower eyelid or persistent eye watering, do not ignore it. Listen now, and visit Focuslinks.in to explore more eye health topics that matter to you.\n\n---",
       "tags": "ectropion,epiphora,punctal,tightening",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-08.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8e390388-be20-4387-8b00-52e4d5dee948",
+      "generatedAt": "2026-08-09T05:49:15.079Z"
     },
     {
       "episodeOrder": 9,

@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T05:13:03.202Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T05:14:11.658Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -200,14 +200,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Rho Kinase Inhibitors and the New Glaucoma Class",
-      "description": "Netarsudil — the outflow mechanism, the conjunctival hyperemia, and the role in the regimen.",
+      "title": "Rho Kinase Inhibitors: The New Era of Glaucoma Treatment",
+      "description": "What happens when a completely new class of glaucoma medication arrives after more than two decades of silence? In this episode of Focus Cast by Focuslinks.in, we explore rho kinase inhibitors — the most significant breakthrough in glaucoma pharmacotherapy since prostaglandin analogues were introduced in the late 1990s.\n\nWe break down exactly how ROCK inhibitors like netarsudil work by targeting the conventional trabecular meshwork outflow pathway, something no prior glaucoma drug class had ever done. Instead of bypassing or compensating for the eye's drainage system, these medications actually work to restore it — a fundamentally different and physiologically elegant approach to lowering intraocular pressure.\n\nYou will learn about the clinical evidence behind netarsudil and the fixed-dose combination Rocklatan, understand the unique side effect profile including conjunctival hyperemia and cornea verticillata, and discover why the absence of systemic toxicity makes this class particularly valuable for complex patients. We also dive into the emerging and genuinely exciting science around neuroprotection — and what it could mean for the future of glaucoma care if ROCK inhibitors prove to protect retinal ganglion cells beyond just lowering pressure.\n\nWhether you are a clinician looking to refine your treatment algorithm, a student building your pharmacology foundation, or simply someone passionate about advances in eye care, this episode gives you a clear, thorough, and clinically grounded understanding of where rho kinase inhibitors fit today and where they may take us tomorrow.\n\nListen now and stay ahead in ophthalmology. Visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "rho-kinase,netarsudil,outflow,hyperemia",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-16.mp3",
+      "duration": "12:47",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9b41f21d-213f-4a6b-b2ce-3d3b8b0e01d2",
+      "generatedAt": "2026-08-09T05:14:11.658Z"
     },
     {
       "episodeOrder": 17,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T04:26:51.716Z",
+  "lastUpdated": "2026-08-09T04:28:23.639Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 245,
   "series": [
@@ -122,7 +122,7 @@
       "generatedEpisodes": 30,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/episodes.json",
       "audioDir": "podcast/series/neuro-navigator/audio",
-      "lastUpdated": "2026-08-09T04:26:32.388Z"
+      "lastUpdated": "2026-08-09T04:28:07.643Z"
     },
     {
       "slug": "dry-eye-dialogues",

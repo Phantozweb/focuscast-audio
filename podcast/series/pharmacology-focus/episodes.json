@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T05:18:01.198Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T05:18:07.144Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -267,14 +267,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Mydriasis Reversal: The Alpha-1 Antagonist",
-      "description": "Dapiprazole and the reversal agents, the partial reversal option, and the clinical use.",
+      "title": "Mydriasis Reversal: How Alpha-1 Antagonists End Eye Dilation",
+      "description": "Ever left an eye exam squinting, blurry-eyed, and unable to drive yourself home? That frustrating aftermath of pupil dilation has long been accepted as just part of the process — but not anymore. In this episode of Focus Cast, we break down the science of mydriasis reversal and explore how a drug called phentolamine is transforming the post-exam experience for millions of eye care patients.\n\nWe start with the basics: what mydriasis actually is, how dilation drops like phenylephrine and tropicamide work on the iris muscles, and why pharmacologically induced dilation can linger for four to eight hours. Then we dive into the pharmacology of alpha-1 antagonists and explain exactly how phentolamine — marketed as Ryzumvi and FDA-approved in 2023 — blocks the receptor pathway that keeps pupils dilated, allowing the eye to recover significantly faster.\n\nWe also cover who benefits most from this breakthrough, including patients who drive themselves to appointments, professionals who depend on sharp near vision, light-sensitive individuals, and even pediatric patients. Plus, we discuss the safety profile of phentolamine, how it compares to earlier reversal agents like dapiprazole, and what this innovation signals about the future direction of patient-centered eye care.\n\nThis episode is a must-listen for anyone curious about ocular pharmacology, optometry innovation, or simply why making the eye exam experience better matters for public health.\n\nListen now and share this episode with anyone who has ever dreaded the hours after a dilated eye exam. For more episodes covering the science of vision and the latest in eye care, visit us at focuslinks.in.\n\n---",
       "tags": "reversal,dapiprazole,alpha-1,mydriasis",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-21.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "17f07306-8734-411e-8faf-c1030f601c53",
+      "generatedAt": "2026-08-09T05:18:07.144Z"
     },
     {
       "episodeOrder": 22,

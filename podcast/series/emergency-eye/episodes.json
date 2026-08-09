@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T04:57:07.256Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T04:57:40.810Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -312,14 +312,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Sudden Painless Vision Loss: The Vascular Workup",
-      "description": "CRAO, CRVO, AION, vitreous hemorrhage — the differential and the time-sensitive triage.",
+      "title": "Sudden Painless Vision Loss: The Full Vascular Workup",
+      "description": "What does it mean when one eye goes completely dark without warning, without pain, and without any obvious cause? In this episode of Focus Cast, we explore one of the most urgent and underrecognized emergencies in medicine: sudden painless vision loss and the critical vascular workup that follows.\n\nWe break down the most common vascular causes, including central retinal artery occlusion, retinal vein occlusion, and ischemic optic neuropathy, explaining what each condition looks like, why it happens, and what it reveals about the health of your entire cardiovascular system. You will learn why a blocked retinal artery is essentially a stroke of the eye, why patients with CRAO face up to a ten percent risk of stroke within the first week, and why giant cell arteritis demands immediate treatment before a diagnosis is even confirmed.\n\nThis episode also walks through what a complete vascular workup actually involves in clinical practice, from carotid Doppler ultrasound and echocardiography to thrombophilia screening and inflammatory markers, and why managing these patients requires a coordinated team spanning ophthalmology, neurology, cardiology, and rheumatology.\n\nMost importantly, we explain why the retina is the only place in the human body where blood vessels can be seen directly, making the eye a powerful diagnostic window into systemic disease.\n\nIf you have ever wondered what sudden vision loss really means for the body beyond the eye, this episode will change how you think about it entirely. Listen now, and visit Focuslinks dot in for more episodes and eye care resources.\n\n---",
       "tags": "sudden,vision-loss,vascular,triage",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-24.mp3",
+      "duration": "12:46",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "915c6efd-1a70-4d05-a245-615b3031ba19",
+      "generatedAt": "2026-08-09T04:57:40.810Z"
     },
     {
       "episodeOrder": 25,

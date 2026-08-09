@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T05:19:46.988Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T05:21:39.455Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Punctal Plugs and Drug Delivery: The Sustained Release",
-      "description": "The dexamethasone insert, the bimatoprost ring, and the future of sustained ocular delivery.",
+      "title": "Punctal Plugs & Sustained Drug Delivery: The Future of Eye Care",
+      "description": "What if a device smaller than a grain of rice could replace your daily eye drop routine entirely? In this episode of Focus Cast, we explore the fascinating science behind punctal plugs and their groundbreaking new role in sustained drug delivery for eye conditions like glaucoma, dry eye disease, and beyond.\n\nWe start with a startling fact: less than 5% of a typical eye drop actually gets absorbed into the eye. The rest drains away, runs down your cheek, or enters your bloodstream where it was never meant to go. That inefficiency has real consequences for millions of patients who depend on consistent medication to protect their vision.\n\nEnter the drug-eluting punctal plug — a tiny device inserted into the tear drainage opening of the eye that slowly releases medication directly into the tear film over days, weeks, or even months. We break down how these devices work, highlight cutting-edge innovations like Mati Therapeutics' Evolute and Ocular Therapeutix's bioresorbable plug, and explain why this technology could be a game-changer for glaucoma patients, post-surgical recovery, and anyone who struggles with traditional eye drop regimens.\n\nWe also cover the pharmacokinetic advantages, the engineering challenges researchers are working to solve, and what the regulatory landscape looks like for these combination drug-device products.\n\nIf you care about eye health, medical innovation, or the future of drug delivery, this episode is for you. Listen now and discover why the smallest device in ophthalmology might just have the biggest impact. For more episodes on eye care and vision science, visit us at focuslinks.in.\n\n---",
       "tags": "insert,sustained,dexamethasone,bimatoprost",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-18.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2c156950-3efe-4891-9baf-f44845dd0bed",
+      "generatedAt": "2026-08-09T05:21:38.647Z"
     },
     {
       "episodeOrder": 19,

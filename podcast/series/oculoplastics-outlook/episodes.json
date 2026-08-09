@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T05:53:28.897Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T05:53:35.173Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -273,14 +273,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Orbital Cellulitis: Behind the Septum and in the Orbit",
-      "description": "The CT, the IV antibiotics, and the surgical drainage of the abscess that threatens vision.",
+      "title": "Orbital Cellulitis: Causes, Symptoms & Treatment Explained",
+      "description": "What happens when a simple sinus infection turns into a sight-threatening emergency? In this episode of Focus Cast, we take a deep dive into orbital cellulitis, one of the most serious and time-sensitive conditions in ophthalmology. If you have ever wondered what lies behind the eyelid and why the orbital septum is such a critical anatomical boundary, this episode is for you.\n\nWe break down exactly how orbital cellulitis differs from preseptal cellulitis, why the ethmoid sinus is the most common gateway for infection, and what the five classic clinical signs look like in a real patient. You will learn how doctors use CT imaging and the Chandler classification to stage the disease, when intravenous antibiotics are enough, and when surgical drainage becomes unavoidable.\n\nWe also explore why orbital cellulitis is predominantly a childhood condition, how age influences treatment decisions, and why cavernous sinus thrombosis represents the most feared complication of untreated orbital infection. The episode covers the essential collaboration between ophthalmology, ENT, and neurosurgery that defines best-practice management, along with an honest look at the ongoing debate around corticosteroid use.\n\nWhether you are a medical student, a practicing clinician, or simply someone passionate about understanding how the human body responds to infection, this episode delivers clear, clinically grounded insights you can actually use.\n\nListen now and share this episode with a colleague or student who wants to stay sharp in ophthalmology. Visit Focuslinks dot in for more episodes and eye care resources from Focus Cast.\n\n---",
       "tags": "orbital,cellulitis,abscess,drainage",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-21.mp3",
+      "duration": "12:09",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e1b8d562-371a-4eb1-b0c6-d49936376f4b",
+      "generatedAt": "2026-08-09T05:53:35.173Z"
     },
     {
       "episodeOrder": 22,

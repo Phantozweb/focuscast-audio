@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T04:59:10.852Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T05:02:43.678Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -377,14 +377,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "The Eye in the ER: Co-Management With Emergency Medicine",
-      "description": "The communication, the shared protocol, and the follow-up that closes the loop.",
+      "title": "Eye Emergencies in the ER: Ophthalmology Co-Management Guide",
+      "description": "What happens when a patient walks into the emergency room at 2 AM with a painful, red eye — and the ER physician isn't sure whether it's conjunctivitis or something that could steal their sight by morning? In this episode of Focus Cast, we explore one of the most critical and underappreciated partnerships in modern medicine: the co-management relationship between emergency medicine and ophthalmology.\n\nEye complaints account for up to 3% of all emergency department visits, and the stakes couldn't be higher. Conditions like acute angle-closure glaucoma, central retinal artery occlusion, open globe injuries, and chemical burns demand rapid, coordinated responses — where delays of even a few hours can mean permanent vision loss. Yet many emergency physicians report feeling least confident when it comes to eye-related presentations.\n\nWe break down the full spectrum of ocular emergencies — from the immediately sight-threatening to the urgent to the manageable — and discuss what truly effective co-management looks like in practice. That means cross-specialty education, clear communication protocols, mutual respect between teams, and the exciting role that telemedicine and portable imaging technology are beginning to play in extending specialist expertise to underserved and rural emergency departments.\n\nThrough real-world scenarios and practical insights, this episode offers valuable perspective for emergency physicians, ophthalmologists, nurses, medical students, and anyone passionate about improving acute eye care outcomes.\n\nBecause at the center of every protocol and every consult call is a patient who is scared, vulnerable, and counting on both teams to work seamlessly together.\n\nListen now and discover how better collaboration between emergency medicine and ophthalmology is saving sight — one consult at a time. For more episodes, visit Focuslinks.in.\n\n---",
       "tags": "er,co-management,protocol,follow-up",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-29.mp3",
+      "duration": "12:02",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "80c104db-2174-44b8-a033-3e50e33c040c",
+      "generatedAt": "2026-08-09T05:02:43.260Z"
     },
     {
       "episodeOrder": 30,

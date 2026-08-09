@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T04:26:38.936Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T04:29:23.512Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -122,14 +122,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Meibography: Imaging the Glands You Cannot See",
-      "description": "Reading the infrared meibography, grading gland loss, and the torsional shadow that signals dropout.",
+      "title": "Meibography: See the Hidden Glands Behind Your Dry Eyes",
+      "description": "Ever wondered why your eyes feel dry, gritty, or uncomfortable no matter what you try? The answer might be hiding inside your eyelids — in a set of tiny structures called the meibomian glands. In this episode of Focus Cast, we explore meibography, the groundbreaking imaging technology that finally lets eye care professionals see these invisible glands and understand what is really driving your dry eye symptoms.\n\nWe break down exactly what the meibomian glands do, why their oil is essential for a healthy tear film, and how meibomian gland dysfunction (MGD) is responsible for up to 80% of all dry eye cases worldwide. You will learn how infrared meibography works, what healthy versus damaged glands actually look like on screen, and why meibomian gland dropout — the permanent loss of gland tissue — makes early detection so critical.\n\nWe also cover who is at risk (hint: it is not just older adults), how meibography is changing patient conversations around dry eye disease, and how it is being used to track the effectiveness of treatments like thermal pulsation therapy and intense pulsed light. Plus, we touch on the exciting role artificial intelligence is beginning to play in automated gland analysis, and why meibography is now a key step before LASIK and other refractive surgeries.\n\nIf you or someone you know has been struggling with chronic dry eye, this episode could change the way you think about your eye health. Listen now, and then visit Focuslinks dot in to explore more episodes and eye care resources from Focus Cast.\n\n---",
       "tags": "meibography,infrared,dropout,grading",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-10.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8493099a-78ea-4b99-836d-68d66ee79ca6",
+      "generatedAt": "2026-08-09T04:29:23.512Z"
     },
     {
       "episodeOrder": 11,

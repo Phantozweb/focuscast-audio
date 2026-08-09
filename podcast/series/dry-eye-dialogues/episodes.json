@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T04:39:54.700Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T04:40:48.082Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Anti-Inflammatory Drops: Cyclosporine and Lifitegrast",
-      "description": "The T-cell inhibition mechanism, the onset of action, and the stinging and adherence conversation.",
+      "title": "Cyclosporine vs Lifitegrast: Best Anti-Inflammatory Eye Drops",
+      "description": "Do your eyes feel gritty, burning, or uncomfortable every single day? You might be dealing with more than just dry eyes — you could be dealing with chronic inflammation. In this episode of Focus Cast, we break down everything you need to know about the two most important prescription anti-inflammatory eye drops available today: Cyclosporine (Restasis, Cequa) and Lifitegrast (Xiidra).\n\nWe start by explaining why dry eye disease is fundamentally an inflammatory condition — and why over-the-counter artificial tears alone often fall short of real relief. From there, we dive deep into how Cyclosporine works by calming T-cell activation to help restore your eye's natural tear production, and how Lifitegrast takes a completely different approach by blocking the LFA-1 and ICAM-1 interaction that triggers inflammation on the eye surface.\n\nWe also cover what sets these two treatments apart — including onset of relief, side effect profiles, and how eye care providers decide which option is right for each patient. Whether you are newly diagnosed with dry eye disease or have been managing symptoms for years without satisfying results, this episode gives you the clear, science-backed information you need to have a more informed conversation with your eye doctor.\n\nIf you have been living with persistent dry eye discomfort and wondering whether a prescription drop could help, this episode is for you. Listen now, and then visit Focuslinks.in to explore more eye health episodes from Focus Cast.\n\n---",
       "tags": "cyclosporine,lifitegrast,anti-inflammatory,t-cell",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-19.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c584dcff-38eb-4cef-bd82-d7a9cd092844",
+      "generatedAt": "2026-08-09T04:40:48.082Z"
     },
     {
       "episodeOrder": 20,

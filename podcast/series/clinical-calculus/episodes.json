@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T06:33:39.677Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T06:34:02.273Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Heuristics and Bias: The Cognitive Pitfalls of the Exam Room",
-      "description": "Anchoring, availability, premature closure — the errors that lead to missed and delayed diagnoses.",
+      "title": "Cognitive Bias in Medicine: Heuristics & the Exam Room",
+      "description": "What if the biggest threat to accurate diagnosis isn't a lack of knowledge — it's the way your brain is wired to think? In this eye-opening episode of Focus Cast, we explore the hidden world of heuristics and cognitive bias in clinical medicine and high-stakes decision-making. Your brain relies on mental shortcuts every second of the day, and most of the time, they serve you well. But in the exam room, those same shortcuts can lead to misdiagnosis, missed conditions, and life-altering errors.\n\nWe break down the most dangerous cognitive traps clinicians face, including anchoring bias, where a first impression hijacks your entire diagnostic process; availability bias, where recent or emotionally vivid cases distort your judgment of probability; and premature closure, the leading driver behind 40–60% of all diagnostic errors. Through real-world case studies and research-backed insights, you'll see exactly how these biases operate and why even the most experienced professionals are vulnerable to them.\n\nBut this episode isn't just for doctors. Whether you're a medical student, nurse, educator, or simply someone who makes important decisions under pressure, understanding how cognitive bias shapes your thinking is one of the most valuable skills you can develop. We also walk you through four practical, actionable strategies — including the diagnostic timeout and deliberate System Two thinking — that you can apply immediately to think more clearly and make better decisions.\n\nIf you've ever wondered why smart people make avoidable mistakes, this episode will change the way you think about thinking. Listen now and share it with someone who needs to hear it. For more episodes, visit Focuslinks dot in.\n\n---",
       "tags": "heuristics,bias,anchoring,errors",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-02.mp3",
+      "duration": "12:47",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "120bd35c-0393-4ada-846f-5759f3c309ab",
+      "generatedAt": "2026-08-09T06:34:02.273Z"
     },
     {
       "episodeOrder": 3,

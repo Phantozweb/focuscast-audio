@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T08:57:58.279Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T08:58:04.505Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -179,14 +179,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Keratoconus: The Ectatic Cone and Early Detection",
-      "description": "Topographic signs, fleischer ring, and the cross-linking referral that halts progression.",
+      "title": "Keratoconus Early Detection: Topography, Fleischer Ring & CXL",
+      "description": "Are you catching keratoconus before it steals your patient's best corrected vision? In this clinical episode of Focus Cast by Focuslinks.in, we break down everything optometrists need to know about keratoconus detection and management — from the subtle early presentation to the cross-linking referral that changes a patient's trajectory.\n\nWe cover the classic scissor reflex on retinoscopy, the pathognomonic Fleischer ring and Vogt's striae at the slit lamp, and Munson's sign in advanced disease. You will learn how to interpret Scheimpflug tomography findings including posterior elevation maps, pachymetry displacement, and the Belin-Ambrosio Enhanced Ectasia Display score — and why topography is non-negotiable for young patients with progressive myopia or irregular astigmatism.\n\nWe also walk through the critical differential diagnosis, distinguishing keratoconus from pellucid marginal degeneration, keratoglobus, post-LASIK ectasia, and contact lens-induced corneal warpage. And we detail exactly when and how to refer for corneal collagen cross-linking, the only proven intervention that halts ectatic progression, so you never miss the treatment window.\n\nWhether you are a seasoned clinician, an optometry resident, or a practitioner looking to sharpen your corneal skills, this episode delivers evidence-based, chairside-ready insights you can apply immediately. Because the keratoconus patient sitting in your chair today deserves to be caught early — and you are the one positioned to do it.\n\nListen now, and share this episode with a colleague or resident who manages corneal patients. Visit Focuslinks.in for more clinical content built exclusively for eye care professionals.\n\n---",
       "tags": "keratoconus,ectasia,topography,cxl",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-13.mp3",
+      "duration": "13:51",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "25cc94f9-90e7-419f-a590-dd458261e17c",
+      "generatedAt": "2026-08-09T08:58:04.505Z"
     },
     {
       "episodeOrder": 14,

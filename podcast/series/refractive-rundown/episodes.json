@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T04:37:25.845Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T04:37:37.914Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Topography and Tomography in Refractive Screening",
-      "description": "Detecting the forme fruste keratoconus that disqualifies and the elevation data that catches what axial misses.",
+      "title": "Corneal Topography vs Tomography: Refractive Screening Guide",
+      "description": "Could a subtle corneal map finding be the difference between a life-changing surgery and a life-altering complication? In this episode of Focus Cast, we break down everything you need to know about corneal topography and tomography in refractive screening — two tools that look similar on the surface but deliver very different, and equally critical, clinical insights.\n\nWe start by clearing up the confusion between topography and tomography. Topography maps the anterior corneal surface using Placido disc imaging, while tomography captures the full three-dimensional architecture of the cornea — front surface, back surface, and thickness profile — using Scheimpflug or OCT technology. Understanding the difference is not just academic. It is the foundation of safe refractive surgery practice.\n\nFrom there, we dive into why tomography is now essential for detecting subclinical keratoconus, the leading risk factor for post-LASIK ectasia. We walk through the key warning signs on both topography and tomography maps, including inferior steepening, skewed radial axes, posterior elevation thresholds, and the Belin-Ambrosio Deviation score. We also explore how these tools extend beyond pre-LASIK screening into topography-guided treatment planning and IOL power calculation after prior refractive surgery.\n\nWhether you are a refractive surgeon, an optometrist refining your screening protocol, or a student of vision science, this episode gives you a practical, evidence-based framework for reading corneal maps with confidence.\n\nListen now and rethink how you approach refractive screening. Then visit Focuslinks.in for more clinical resources, articles, and tools to support your eye care practice.\n\n---",
       "tags": "topography,tomography,forme-fruste,screening",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-05.mp3",
+      "duration": "12:13",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "110060fe-caf0-4d82-8a59-f5babfae0ce2",
+      "generatedAt": "2026-08-09T04:37:37.914Z"
     },
     {
       "episodeOrder": 6,

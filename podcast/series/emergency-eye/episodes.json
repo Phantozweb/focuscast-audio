@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T04:51:35.383Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T04:51:42.029Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Corneal Ulcer: The Sight-Threatening Infection",
-      "description": "The infiltrate, the epithelial defect, the culture decision, and the fortified antibiotic protocol.",
+      "title": "Corneal Ulcer: The Sight-Threatening Infection You Can't Ignore",
+      "description": "Could a tiny white spot on your eye lead to permanent blindness? In this eye-opening episode of Focus Cast, we break down everything you need to know about corneal ulcers — one of the most urgent and underestimated conditions in eye health today. A corneal ulcer is an open sore on the cornea, the clear protective surface of your eye, and without fast treatment, it can cause irreversible vision loss within days.\n\nWe cover the most common causes, including bacterial infections linked to contact lens wear, herpes simplex keratitis, fungal infections from eye injuries, and the rare but devastating Acanthamoeba keratitis caused by tap water exposure. You will learn exactly what symptoms to watch for, how eye doctors diagnose and treat corneal ulcers, and why treatment timing can mean the difference between full recovery and a permanent corneal scar.\n\nWhether you wear contact lenses or not, this episode is packed with practical prevention tips that could protect your vision for life. From proper lens hygiene to knowing when to seek emergency eye care, we give you the knowledge to act fast when it matters most.\n\nCorneal blindness affects millions worldwide, and a significant portion of cases are entirely preventable. Your eyes deserve the same urgency and care as any other part of your health.\n\nIf you wear contact lenses, this is a must-listen episode — and one worth sharing. Tune in, stay informed, and take your eye health seriously.\n\nFor more eye health content, tips, and resources, visit us at Focuslinks.in and explore the full Focus Cast library.\n\n---",
       "tags": "ulcer,infiltrate,culture,forgified",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-10.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "51123dd0-2038-40c6-9188-61893b955f42",
+      "generatedAt": "2026-08-09T04:51:42.029Z"
     },
     {
       "episodeOrder": 11,

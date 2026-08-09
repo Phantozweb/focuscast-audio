@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T04:24:26.682Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T04:26:02.384Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,14 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Cranial Nerve Palsies: The Follow-Up and Recovery",
-      "description": "The expected recovery timeline, the prism and patch management, and the surgical referral threshold.",
+      "title": "Cranial Nerve Palsy Recovery: What to Expect After Diagnosis",
+      "description": "Waking up with a drooping eyelid or uncontrolled eye movement is terrifying — but what happens *after* the diagnosis is where most patients feel completely lost. In this episode of Focus Cast, we break down everything you need to know about cranial nerve palsy recovery and follow-up care, so you can stop guessing and start healing with confidence.\n\nWe cover the realistic recovery timeline for third, fourth, and sixth nerve palsies, explaining why nerve healing is slow, non-linear, and often misunderstood. You will learn what your doctor is actually looking for at each follow-up visit, how underlying conditions like diabetes and high blood pressure directly affect your recovery, and what warning signs should prompt further investigation.\n\nWe also get practical. From eye patching and prism glasses to managing double vision at work and understanding when driving is no longer safe, this episode gives you the real-world strategies that clinical appointments often skip over. And because recovery is never just physical, we take a close look at the emotional and psychological toll of cranial nerve palsy — and why addressing anxiety and stress is a genuine part of getting better.\n\nWhether you are a patient navigating this diagnosis, a caregiver supporting someone through it, or a clinician looking for a resource to share, this episode delivers clear, compassionate, and clinically grounded information.\n\nRecovery is possible. The waiting is hard. But understanding what is happening and why makes all the difference.\n\nListen now and visit Focuslinks dot in for more episodes designed to help you stay informed, empowered, and in control of your health.\n\n---",
       "tags": "cranial-nerve,recovery,prism,surgical",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-30.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3cf8ca76-0b68-43bf-bb7d-869114043979",
+      "generatedAt": "2026-08-09T04:26:02.384Z"
     }
   ]
 }

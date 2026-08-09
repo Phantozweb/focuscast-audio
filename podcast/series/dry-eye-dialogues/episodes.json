@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T04:33:03.097Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T04:33:16.724Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -289,14 +289,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "IPL for Dry Eye: The Light Beyond the Skin",
-      "description": "The vascular and inflammatory mechanism, the treatment protocol, and the ocular rosacea overlap.",
+      "title": "IPL for Dry Eye: The Light Treatment Changing Everything",
+      "description": "What if the solution to your chronic dry eyes had nothing to do with eye drops — and everything to do with light? In this episode of Focus Cast, we explore IPL (Intense Pulsed Light) therapy, a groundbreaking treatment originally developed for skin conditions that is now transforming how doctors treat dry eye disease.\n\nWe break down exactly why dry eye happens in the first place, starting with the meibomian glands — tiny oil-producing glands in your eyelids that, when blocked or inflamed, cause your tears to evaporate too quickly. You'll learn how IPL targets the root cause of this dysfunction by closing off abnormal inflammatory blood vessels, liquefying clogged gland secretions, and even reducing the bacteria and demodex mites that make dry eye worse.\n\nWe also walk you through what an IPL session actually feels like, how many sessions most patients need, what kind of results to realistically expect, and who makes the best candidate for this treatment. Whether you've been battling dry eye for years or you're just starting to notice symptoms, this episode gives you the full picture — including the honest limitations and what to ask your eye doctor.\n\nDry eye is not a minor inconvenience. It's a chronic inflammatory condition that affects millions of people worldwide, and IPL represents a meaningful shift toward treating the cause rather than just masking the symptoms.\n\nIf this episode opened your eyes to a new possibility, share it with someone who needs to hear it. And for more episodes on eye health and vision science, visit us at focuslinks.in.\n\n---",
       "tags": "ipl,light,rosacea,protocol",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-23.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7a104605-b293-4d25-91ad-81db4dec028f",
+      "generatedAt": "2026-08-09T04:33:16.724Z"
     },
     {
       "episodeOrder": 24,

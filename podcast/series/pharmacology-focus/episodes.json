@@ -9,7 +9,7 @@
   "order": 13,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T05:19:49.407Z",
+  "lastUpdated": "2026-08-09T05:19:46.988Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -354,14 +354,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Pregnancy and Lactation: The Safety Categories",
-      "description": "Which drops are safe, which are not, and the trimester-by-trimester approach to the pregnant patient.",
+      "title": "Pregnancy & Lactation Drug Safety Categories Explained",
+      "description": "Ever stood in front of your medicine cabinet at 2 AM, pregnant or breastfeeding, wondering if a simple painkiller could harm your baby? You are not alone — and this episode was made for exactly that moment.\n\nIn this episode of Focus Cast, we break down everything you need to know about pregnancy and lactation drug safety categories. We walk you through the FDA's original letter-based classification system — Categories A, B, C, D, and X — explaining what each category actually means, why it exists, and how it guides real medical decisions. From the relative safety of folic acid and acetaminophen to the serious risks of Category X drugs like isotretinoin, we cover the full spectrum with clarity and context.\n\nWe also explore why the FDA replaced the old letter system in 2015 with the Pregnancy and Lactation Labeling Rule (PLLR), and why understanding both systems still matters today. Then we shift to breastfeeding safety, unpacking the Relative Infant Dose (RID), the free NIH LactMed database, and the critical difference between pregnancy risk and lactation risk — because the two are not the same.\n\nAlong the way, we revisit the thalidomide tragedy, bust the myth that \"natural equals safe,\" and give you practical, actionable guidance for navigating medication decisions during one of the most vulnerable and important seasons of life.\n\nWhether you are an expecting parent, a nursing student, a caregiver, or a healthcare professional, this episode gives you the knowledge to ask better questions and make safer choices.\n\nListen now and visit Focuslinks.in for more episodes that turn complex topics into conversations you can actually use.\n\n---",
       "tags": "pregnancy,lactation,safety,trimester",
       "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-28.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "355134a9-574d-4277-87ec-dddcfd4400ac",
+      "generatedAt": "2026-08-09T05:19:46.988Z"
     },
     {
       "episodeOrder": 29,
@@ -378,16 +380,14 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Compounding: The Art, the Risk & the Power of Time",
-      "description": "What if one penny could be worth more than a million dollars? That's the power of compounding — and in this episode of Focus Cast, we go far beyond the finance textbook version to explore what compounding really means for your money, your habits, your relationships, and your mindset.\n\nWe break down the art of compounding: why starting early and staying consistent matters more than how much you invest, and how small daily actions in learning, health, and relationships quietly build into extraordinary results over time. Then we flip the coin and confront the risk — because compounding doesn't have a moral compass. Debt compounds. Bad habits compound. Anxiety compounds. Misinformation compounds. Whatever you consistently feed, grows.\n\nWe also dig into the most overlooked part of any compounding journey — the inflection point. That long, frustrating stretch where nothing seems to be happening, but everything is being built. Drawing on insights from Warren Buffett's wealth-building story and James Clear's concept of the plateau of latent potential, this episode makes a compelling case for evidence-based patience in a world obsessed with instant results.\n\nWhether you're thinking about compound interest, personal growth, or breaking a cycle that's quietly working against you, this episode will change the way you see consistency, time, and daily choices.\n\nIf you've ever wondered why small decisions matter so much, this is the episode for you. Listen now, share it with someone who needs to hear it, and visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
+      "title": "Compounding: The Art and the Risk",
+      "description": "When to compound, the pharmacy selection, and the safety and sterility that cannot be compromised.",
       "tags": "compounding,pharmacy,sterility,safety",
       "category": "Pharmacology",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-30.mp3",
-      "duration": "11:36",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "2e95523f-a980-4927-ace5-b1cc677c835c",
-      "generatedAt": "2026-08-09T05:19:49.407Z"
+      "status": "draft"
     }
   ]
 }

@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-05T20:30:10.208Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T04:26:10.044Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -81,14 +81,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Schirmer Test: The Aqueous Production Check",
-      "description": "With and without anesthesia, the 5-mm threshold, and the patient preparation that matters.",
+      "title": "Schirmer Test Explained: How Doctors Measure Your Tear Production",
+      "description": "Ever had a tiny strip of paper tucked under your eyelid at the eye doctor's office and wondered what it was actually doing? That simple procedure is called the Schirmer Test, and it is one of the most powerful diagnostic tools in eye care. In this episode of Focus Cast, we break down everything you need to know about this century-old test that continues to shape how eye care professionals diagnose and manage dry eye disease.\n\nWe explore how the tear film works, why aqueous tear production matters, and how the lacrimal glands keep your eyes healthy every single day. You will learn the difference between Schirmer Test One and the Basic Secretion Test, what your results actually mean, and why numbers below five millimeters can signal significant dry eye disease. We also cover how the Schirmer Test connects to systemic conditions like Sjogren's Syndrome, why it is used before LASIK surgery, and which everyday factors like medications, screen time, hormonal changes, and aging can affect your results.\n\nWhether you have been diagnosed with dry eye, are preparing for laser eye surgery, or simply want to understand what happens during a comprehensive eye exam, this episode gives you the clinical clarity you deserve. Dry eye is manageable, and it all starts with understanding what your eyes are actually producing.\n\nIf your eyes feel dry, gritty, or uncomfortable, do not ignore it. Listen to this episode and then visit Focuslinks dot in for more expert eye health content, resources, and podcast episodes designed to help you see the world more clearly.\n\n---",
       "tags": "schirmer,anesthesia,threshold,production",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-07.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "be666c1d-52bd-45a1-aa3b-447680251e5f",
+      "generatedAt": "2026-08-09T04:26:10.044Z"
     },
     {
       "episodeOrder": 8,

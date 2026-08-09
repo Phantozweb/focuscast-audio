@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T05:40:21.761Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T05:41:00.161Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -280,14 +280,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Cystoid Macular Edema: The Uveitis Complication",
-      "description": "The petaloid OCT, the topical NSAID and steroid, and the intravitreal anti-VEGF and implant escalation.",
+      "title": "Cystoid Macular Edema: The Hidden Danger of Uveitis",
+      "description": "What if the blurry, distorted vision you've been ignoring is actually a sign of something serious happening deep inside your eye? In this eye-opening episode of Focus Cast, we break down cystoid macular edema (CME), one of the most vision-threatening complications of uveitis, and explain exactly why it deserves far more attention than it gets.\n\nWe start with the basics, walking you through what the macula does, how fluid accumulates to form cyst-like pockets of swelling, and why this painless condition can silently steal your central vision before you even realize something is wrong. From there, we explore the direct link between uveitis and CME, including the biology behind how chronic eye inflammation breaks down the blood-retinal barrier and triggers fluid leakage in the macula.\n\nYou will also learn how CME is diagnosed using cutting-edge tools like optical coherence tomography (OCT) and fluorescein angiography, and why early detection is the single most important factor in protecting your vision. We cover the full range of treatment options available today, from corticosteroid injections and sustained-release implants to anti-VEGF therapy and NSAID eye drops, and explain why a personalized treatment approach makes all the difference.\n\nWhether you have been diagnosed with uveitis, know someone who has, or simply want to stay informed about serious eye health conditions, this episode gives you the knowledge to act early and advocate confidently.\n\nDo not wait for vision loss to become obvious. Visit Focuslinks.in for more expert episodes, articles, and resources on eye health and vision care.\n\n---",
       "tags": "cme,petaloid,nsaid,implant",
-      "category": "Macula",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-22.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e2be84b8-9478-4774-a33f-8a9346c4c30b",
+      "generatedAt": "2026-08-09T05:41:00.161Z"
     },
     {
       "episodeOrder": 23,

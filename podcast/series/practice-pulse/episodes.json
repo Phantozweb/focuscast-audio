@@ -8,19 +8,21 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:43.232Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T04:58:21.353Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Patient Flow: From Check-In to Check-Out",
-      "description": "Designing the optometric visit to minimize wait, maximize chair time, and keep staff productive.",
+      "title": "Patient Flow: From Check-In to Check-Out | FocusCast",
+      "description": "What separates a frustrating hospital visit from one that feels effortless? The answer is patient flow — and it affects everything from wait times and staff morale to medical outcomes and patient satisfaction. In this episode of FocusCast by Focuslinks.in, we take you through the complete patient journey, from the moment someone walks through the clinic door to the moment they leave, breaking down exactly what makes healthcare experiences work or fall apart.\n\nWe explore how a well-designed check-in process can cut wait times by more than half, why communicating with patients during a wait changes their entire perception of time, and how lean methodology — originally developed by Toyota — has helped hospitals reduce visit times by thirty percent without sacrificing care quality. We also dive into the often-overlooked check-out phase, where unclear instructions and rushed billing can undo everything that went right before it.\n\nWhether you work in healthcare administration, manage a service-based team, or simply want to understand how great systems are built around people, this episode gives you practical, research-backed insights you can actually use. The principles behind smooth patient flow — eliminating waste, clear communication, and treating people as humans rather than cases — apply far beyond the walls of any clinic.\n\nIf you have ever waited too long in a waiting room or walked out of an appointment feeling confused, this episode will show you why that happens and what better looks like. Tune in, and start thinking about how to make every process flow a little better for everyone involved. Visit Focuslinks.in to explore more episodes of FocusCast.\n\n---",
       "tags": "flow,wait-time,chair-time,efficiency",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-01.mp3",
+      "duration": "13:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "13fb622d-6cd1-49b2-8716-997f7047a613",
+      "generatedAt": "2026-08-09T04:58:21.353Z"
     },
     {
       "episodeOrder": 2,

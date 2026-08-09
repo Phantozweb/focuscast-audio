@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T04:44:07.437Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T04:44:18.559Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Ectasia After Refractive Surgery: The Catastrophic Complication",
-      "description": "The risk factors, the early detection with OCT, and the cross-linking that halts the progression.",
+      "title": "Ectasia After LASIK: The Refractive Surgery Complication",
+      "description": "What if LASIK left your vision worse than before — permanently? Post-refractive surgery ectasia is a rare but devastating complication that every LASIK candidate and eye care professional needs to understand. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into corneal ectasia after refractive surgery — what it is, why it happens, and what can be done when it does.\n\nWe break down the biomechanics of the cornea and explain exactly how procedures like LASIK, PRK, and SMILE can, in rare cases, trigger progressive corneal weakening that mimics keratoconus. You will learn about the key risk factors surgeons screen for — including subclinical keratoconus, thin corneas, and high myopia — and discover the advanced diagnostic tools like corneal tomography and biomechanical assessment devices that are transforming pre-operative screening.\n\nWe also cover the treatment landscape in detail, from corneal collagen cross-linking (CXL), the gold-standard therapy for halting ectasia progression, to scleral lenses for visual rehabilitation, intrastromal corneal ring segments, and corneal transplantation techniques like DALK for the most advanced cases.\n\nWhether you are a patient researching your refractive surgery options, a student studying corneal disease, or a clinician looking for a clear clinical overview, this episode delivers the science and the human story behind one of ophthalmology's most important complications.\n\nListen now and share this episode with anyone considering laser eye surgery or working in eye care. For more episodes and eye health resources, visit Focuslinks.in.\n\n---",
       "tags": "ectasia,complication,cxl,detection",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-18.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "022dee29-f48f-4487-9b3f-0073df3eb56a",
+      "generatedAt": "2026-08-09T04:44:18.559Z"
     },
     {
       "episodeOrder": 19,

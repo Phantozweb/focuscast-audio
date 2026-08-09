@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T06:36:07.698Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T06:36:15.941Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "To Treat or Not to Treat: The Ocular Hypertension Decision",
-      "description": "The OHTS risk calculator, the shared decision, and the lifelong follow-up commitment.",
+      "title": "Ocular Hypertension: Should You Treat High Eye Pressure?",
+      "description": "Your eye pressure is high — but you feel completely fine. So now what? In this episode of Focus Cast, we tackle one of ophthalmology's most nuanced decisions: whether to treat ocular hypertension or simply watch and wait.\n\nWe break down exactly what ocular hypertension is, how it differs from glaucoma, and why elevated eye pressure doesn't automatically mean you're heading toward vision loss. Spoiler: nine out of ten people with high eye pressure never develop glaucoma at all — but that tenth person is exactly why this conversation matters so much.\n\nDrawing on findings from the landmark Ocular Hypertension Treatment Study (OHTS), we walk you through the key risk factors that help doctors calculate your personal risk score — including corneal thickness, cup-to-disc ratio, visual field patterns, and IOP levels — and how those factors shape the treat-or-monitor decision for each individual patient.\n\nWe also cover what treatment actually involves (hint: it's usually just once-daily eye drops), the newer alternatives for patients who struggle with drops, the role of advanced monitoring tools like OCT scans, and the often-overlooked psychological impact of living with an elevated pressure diagnosis.\n\nWhether you've just been told your eye pressure is high or you're simply curious about how eye doctors think through this decision, this episode gives you the clarity and confidence to have a more informed conversation with your clinician.\n\nListen now, and visit Focuslinks.in for more eye health episodes and resources designed to help you see the full picture.\n\n---",
       "tags": "oht,ohts,risk,decision",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-07.mp3",
+      "duration": "13:10",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "14be782c-27a4-451c-9f37-e8c991557a91",
+      "generatedAt": "2026-08-09T06:36:15.941Z"
     },
     {
       "episodeOrder": 8,

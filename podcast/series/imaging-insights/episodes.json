@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T06:11:45.476Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T06:12:17.587Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "OCT Angiography: The Non-Invasive Vasculature",
-      "description": "The en-face flow, the superficial and deep capillary plexus, and the FAZ measurement.",
+      "title": "OCT Angiography: See Every Blood Vessel Without a Single Needle",
+      "description": "What if your eye doctor could map every blood vessel in your retina in stunning detail — no dye, no needles, no risk — in just minutes? That's exactly what OCT Angiography (OCTA) makes possible, and it's quietly transforming the future of eye care.\n\nIn this episode of Focus Cast, we break down how OCTA works, why it's a game-changer compared to traditional fluorescein angiography, and what it means for patients living with conditions like diabetic retinopathy, age-related macular degeneration, glaucoma, and retinal vein occlusions. We explore how this non-invasive imaging technology detects blood flow by tracking the movement of red blood cells across multiple rapid scans — no contrast dye required — producing a detailed, three-dimensional map of the retinal vasculature layer by layer.\n\nWe also cover the real-world impact of OCTA in catching silent, early-stage disease before vision loss begins, its growing role in research on systemic conditions like Alzheimer's disease, hypertension, and COVID-19, and how artificial intelligence is making these scans smarter and more predictive than ever. Plus, we give you an honest look at the technology's current limitations and where it's headed next.\n\nWhether you're a patient curious about your last eye scan, a healthcare professional staying current with retinal imaging advances, or simply someone who wants to understand how modern medicine sees inside the human eye, this episode delivers clear, compelling answers.\n\nVisit Focuslinks.in for more episodes, eye care resources, and everything you need to keep your vision sharp. Don't forget to subscribe so you never miss an episode of Focus Cast.\n\n---",
       "tags": "octa,angiography,en-face,plexus",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-05.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f189c808-2dc0-4975-8d01-367a3e93d68d",
+      "generatedAt": "2026-08-09T06:12:17.587Z"
     },
     {
       "episodeOrder": 6,

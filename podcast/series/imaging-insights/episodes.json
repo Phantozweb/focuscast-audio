@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T06:18:15.628Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T06:18:39.753Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -273,14 +273,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Visual Field Testing: The 24-2, 10-2, and 30-2",
-      "description": "Choosing the strategy, the reliability indices, and the glaucoma and neuro patterns.",
+      "title": "Visual Field Testing: 24-2, 10-2, and 30-2 Explained",
+      "description": "Ever sat in a dark eye clinic pressing a button at blinking lights, wondering what it all means? You've just experienced a visual field test — and it could be one of the most important things standing between you and serious vision loss. In this episode of Focus Cast, we break down the three most common visual field tests used in eye care today: the 24-2, the 10-2, and the 30-2.\n\nWe start with the 24-2, the gold standard for glaucoma monitoring, covering 54 test points across your mid-peripheral vision and backed by decades of clinical research. Then we explore the 30-2, a wider test that extends further into the periphery and offers a broader view of your visual field. Finally, we zoom in on the 10-2 — a high-resolution test designed to map the central 10 degrees of your vision with remarkable detail, making it essential for detecting advanced glaucoma damage and conditions like macular degeneration that the other tests can miss.\n\nYou'll learn why glaucoma is called the silent thief of sight, how each test is designed to catch different types of vision damage, and why your eye doctor might use more than one test depending on how your condition is progressing. We also share practical tips to help you perform better during your next visual field test.\n\nWhether you're a patient managing glaucoma, someone curious about eye health, or a caregiver supporting a loved one, this episode gives you the knowledge to have a more informed conversation with your eye doctor.\n\nListen now and take the first step toward understanding your vision. Visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "visual-field,24-2,10-2,reliability",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-21.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0697790f-ada2-4608-8807-01c85372a016",
+      "generatedAt": "2026-08-09T06:18:39.753Z"
     },
     {
       "episodeOrder": 22,

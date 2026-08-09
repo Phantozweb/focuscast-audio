@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T04:53:29.016Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T04:53:36.934Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Traumatic Optic Neuropathy: The Vision Loss After Injury",
-      "description": "The afferent defect, the CT for canal fracture, and the steroid and surgical controversy.",
+      "title": "Traumatic Optic Neuropathy: Vision Loss After Head Injury",
+      "description": "What if a single moment — a fall, a car crash, a sports collision — could silently steal your vision without ever touching your eye? In this eye-opening episode of Focus Cast, we dive deep into traumatic optic neuropathy (TON), a serious but widely overlooked condition that causes vision loss following head trauma.\n\nYou'll learn exactly what the optic nerve does and why it's so vulnerable to injury, even when the eye itself appears completely unharmed. We break down the difference between direct and indirect traumatic optic neuropathy, explain how a shockwave alone can trigger irreversible nerve damage, and walk you through the warning signs — from blurred vision and color loss to the telltale pupil response doctors look for in clinical exams.\n\nWe also tackle the hard truth about treatment: why steroids fell out of favor, what optic canal decompression surgery can and can't do, and why there is currently no universally proven cure. But there's genuine hope on the horizon — from neuroprotection research and stem cell therapies to nerve regeneration breakthroughs that could change everything within the next decade.\n\nWhether you're a patient, caregiver, healthcare student, or simply someone who wants to understand how head injuries affect vision, this episode gives you the knowledge to recognize TON early, ask the right questions, and advocate for proper eye care after trauma.\n\nDon't let vision loss go undetected after a head injury. Listen now, and visit Focuslinks.in for more expert eye health content.\n\n---",
       "tags": "ton,optic-canal,fracture,steroid",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-13.mp3",
+      "duration": "11:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b71af2db-2311-4e08-970c-418a8e432934",
+      "generatedAt": "2026-08-09T04:53:36.934Z"
     },
     {
       "episodeOrder": 14,

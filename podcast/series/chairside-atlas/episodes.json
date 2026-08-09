@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T08:32:15.468Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T08:33:44.196Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -181,14 +181,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "The Cover Test and Cover-Uncover: Quantifying Ocular Deviation",
-      "description": "Distinguishing tropia from phoria, measuring the shift, and knowing when to refer.",
+      "title": "Cover Test Mastery: Quantifying Ocular Deviation for ODs",
+      "description": "Can you confidently distinguish a tropia from a phoria at the slit lamp chair every single time? In this clinical episode of Focus Cast, we break down two of optometry's most foundational yet frequently underutilized procedures: the cover-uncover test and the alternating cover test. Designed exclusively for licensed optometrists, residents, and eye care practitioners, this episode goes beyond the basics to sharpen your strabismus assessment skills with evidence-based, chairside-ready precision.\n\nWe walk through the critical difference between manifest and latent deviations, explain exactly what each eye movement is telling you during prism neutralization, and discuss how recovery patterns after uncovering reveal the true health of your patient's binocular vision system. You will learn how to systematically measure esotropia, exotropia, and hyperdeviations in prism diopters, document findings with clinical accuracy, and interpret cover test results across pediatric and adult presentations, including decompensating phorias, accommodative esotropia, and intermittent exotropia.\n\nWe also cover the Hirschberg and Krimsky tests for uncooperative patients, red flags for incomitant deviations that warrant neuroimaging, and a clear, practical referral framework so you always know when to manage and when to escalate. Whether you are seeing a child with a suspected accommodative esotropia or an adult presenting with new-onset diplopia, this episode gives you the clinical framework to act with confidence.\n\nIf you are an optometrist who wants sharper strabismus skills and better patient outcomes, this episode is essential listening. Subscribe to Focus Cast and visit Focuslinks dot in for more evidence-based clinical content built specifically for eye care professionals.\n\n---",
       "tags": "cover-test,tropia,phoria,strabismus",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-15.mp3",
+      "duration": "12:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1efd5f67-837e-4270-b86e-ba363292a324",
+      "generatedAt": "2026-08-09T08:33:44.196Z"
     }
   ]
 }

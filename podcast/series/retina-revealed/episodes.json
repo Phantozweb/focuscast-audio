@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T08:34:02.544Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T08:34:59.730Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Macula and Fovea: The High-Resolution Zone",
-      "description": "Locating the fovea, reading the foveal reflex, and spotting the subtle distortions of early disease.",
+      "title": "Macula & Fovea: Reading the Foveal Reflex for Early Disease",
+      "description": "The macula rewards a second look — and in this clinical episode of Focus Cast by Focuslinks.in, we give it exactly that. Designed exclusively for licensed optometrists, optometry residents, and eye care practitioners, this episode breaks down the high-resolution zone of the retina with the precision your patients deserve.\n\nWe go beyond textbook anatomy to explore what the foveal reflex is actually telling you at the slit lamp, how to distinguish a normal age-related change from an early pathological signal, and why a patient with 20/20 acuity can still have significant foveal compromise. You will walk away with a sharper clinical framework for interpreting subtle fundus findings and making confident chairside decisions.\n\nTopics covered include locating the fovea with deliberate technique using 78D and 90D lenses, interpreting foveal reflex changes as early indicators of epiretinal membrane, vitreomacular traction, and macular edema, using the Amsler grid as a real diagnostic tool rather than a formality, and navigating the differential diagnosis of metamorphopsia across neovascular AMD, central serous chorioretinopathy, diabetic macular edema, and epiretinal membrane. We also cover how spectral domain OCT findings should drive your referral decisions and management timelines.\n\nEvery minute of this episode is grounded in evidence-based optometric practice and built for direct clinical application. Whether you are between patients or reviewing cases at the end of the day, this is the kind of focused thinking that sharpens your macular exam skills and protects your patients' central vision.\n\nVisit Focuslinks.in to explore more clinical episodes built specifically for eye care professionals.\n\n---",
       "tags": "macula,fovea,reflex,early-disease",
-      "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-03.mp3",
+      "duration": "12:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9bae68ef-0919-46aa-ba67-1ef4dbd0540d",
+      "generatedAt": "2026-08-09T08:34:59.730Z"
     },
     {
       "episodeOrder": 4,

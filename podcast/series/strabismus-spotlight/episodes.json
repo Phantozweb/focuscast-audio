@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T06:08:14.945Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T06:08:30.287Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -371,14 +371,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Pediatric Strabismus: The Family Communication",
-      "description": "The patching adherence, the surgery anxiety, and the long-term binocular potential conversation.",
+      "title": "Pediatric Strabismus: How to Talk to Your Family About It",
+      "description": "Has your child just been diagnosed with strabismus, or do you suspect something may be off with their eye alignment? You are not alone — and knowing what to say next can make all the difference. In this episode of Focus Cast by Focuslinks.in, we dive deep into one of the most overlooked aspects of pediatric strabismus: family communication.\n\nWe break down exactly how to explain strabismus to children at every age, from toddlers who just need a simple, reassuring story, to teenagers navigating self-image and social anxiety. You will learn how to guide well-meaning grandparents and extended family members away from comments that can unintentionally undermine treatment, and how to turn them into a genuine support system instead. We also cover how to communicate with teachers and school staff so your child feels confident and protected in the classroom.\n\nBeyond the practical scripts and strategies, this episode speaks directly to parents carrying the emotional weight of managing a child's eye condition. Because the way you talk about strabismus at home shapes how your child sees themselves — and that matters just as much as any clinical treatment plan.\n\nWhether your child needs glasses, patching therapy, or eye muscle surgery, the journey is easier when the whole family is informed, aligned, and communicating well. Strabismus is common, it is treatable, and with the right conversations, it does not have to define a childhood.\n\nListen now and share this episode with any parent, grandparent, or educator who could use this guidance. Visit Focuslinks.in for more expert eye health resources for the whole family.\n\n---",
       "tags": "pediatric,communication,adherence,binocular",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-29.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "daf75d3a-114a-462b-905d-a869aa99b782",
+      "generatedAt": "2026-08-09T06:08:30.287Z"
     },
     {
       "episodeOrder": 30,

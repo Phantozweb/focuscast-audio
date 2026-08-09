@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T08:09:19.393Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T08:12:53.349Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,14 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "The Missed Appointment: The Recall and the Risk",
-      "description": "The system, the outreach, the documentation, and the liability that follows the no-show.",
+      "title": "The Missed Appointment: Recall Risks You Can't Afford to Ignore",
+      "description": "What happens when a safety recall notice arrives and you never follow through? In this eye-opening episode of Focus Cast, we explore the dangerous gap between knowing about a product recall and actually getting it fixed — and why that gap costs lives every year.\n\nFrom defective car airbags to faulty medical devices, recalls are issued every day to protect the public. Yet completion rates remain shockingly low, with millions of people driving recalled vehicles or using flagged products without ever taking action. But why? We break down the real psychology behind recall avoidance, including optimism bias, the friction of scheduling, and the simple lack of awareness that leaves so many people exposed to preventable risks.\n\nWe also look at what actually works. From mobile repair units that come directly to your door, to proactive healthcare outreach and smart technology that bridges the gap between notification and action, there are proven strategies that dramatically improve follow-through — and you can apply some of them starting today.\n\nWhether you have an unaddressed recall notice sitting in a drawer right now or you simply want to understand how safety systems succeed and fail, this episode gives you the clarity and the practical steps to act. Learn how to check open recalls, why registering your products matters more than you think, and how a simple mindset shift around recall notices could genuinely save your life.\n\nThe missed appointment is not inevitable. It is a solvable problem — and it starts with you.\n\nVisit [focuslinks.in](https://focuslinks.in) for more episodes and resources, and go check your recalls today.\n\n---",
       "tags": "missed,recall,outreach,liability",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-25.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7896f35e-42f8-467c-a878-833a0fbd4f5e",
+      "generatedAt": "2026-08-09T08:12:52.531Z"
     },
     {
       "episodeOrder": 26,

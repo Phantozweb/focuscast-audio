@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T06:23:16.549Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T06:23:24.554Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Diabetic Eye Care: The Annual Exam and the Beyond",
-      "description": "The screening schedule, the telehealth role, and the pregnancy and renal escalation.",
+      "title": "Diabetic Eye Care: Annual Exams & Beyond | FocusCast",
+      "description": "Did you know that most diabetes-related vision loss is completely preventable? In this eye-opening episode of FocusCast, we dive deep into diabetic eye care — starting with the one appointment that could save your sight: the annual dilated eye exam.\n\nIf you or someone you love is living with diabetes, this episode is essential listening. We break down exactly what happens during a diabetic eye exam, why pupil dilation matters, and how advanced tools like OCT imaging, retinal photography, and AI-powered diagnostics are transforming early detection of diabetic retinopathy and diabetic macular edema.\n\nBut we go beyond the exam room too. You'll learn how managing your blood sugar, blood pressure, and cholesterol directly protects your vision, why smoking dramatically raises your risk of diabetic eye complications, and which warning symptoms should never be ignored. We also tackle the emotional weight of managing a chronic condition and offer practical guidance for those facing cost or access barriers to eye care.\n\nWhether you were recently diagnosed with diabetes, have been managing it for years, or simply want to understand how to protect your long-term vision health, this episode gives you the knowledge and motivation to take action — starting today.\n\nBecause finding a problem early isn't bad news. It's the best possible news.\n\nListen now, share this episode with someone who needs it, and visit FocusLinks.in for more expert eye health resources, episodes, and everything you need to keep your vision sharp for years to come.\n\n---",
       "tags": "diabetes,screening,telehealth,pregnancy",
-      "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-03.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2ef106a4-6469-4ea7-9072-499477feb51f",
+      "generatedAt": "2026-08-09T06:23:24.554Z"
     },
     {
       "episodeOrder": 4,

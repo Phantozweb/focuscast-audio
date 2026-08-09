@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T05:29:53.907Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T05:30:10.208Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -284,14 +284,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Community Resources: The Agencies and the Programs",
-      "description": "The state services, the Library of Congress, the tax deductions, and the network that supports.",
+      "title": "Community Resources: Agencies & Programs That Change Lives",
+      "description": "Did you know billions of dollars in community resources go unclaimed every year simply because people don't know they exist or believe they qualify? In this eye-opening episode of Focus Cast, we break down the agencies, programs, and services available right in your neighborhood that can genuinely transform lives during times of crisis and beyond.\n\nFrom human services agencies like United Way's 211 helpline to federal programs like SNAP, Medicaid, WIC, and Section 8 housing assistance, we walk you through the major categories of community support and exactly how to access them. We also explore the powerful role of community-based nonprofits, food banks, domestic violence shelters, mental health organizations like NAMI, and healthcare resources such as Federally Qualified Health Centers that serve millions regardless of their ability to pay.\n\nWhether you're a single parent stretched thin, a professional looking to better serve your community, or someone who simply wants to know what safety nets exist, this episode gives you the practical knowledge to find help fast. Learn how to dial 211, connect with local social services, and navigate free mental health and substance use resources including the 988 Lifeline and SAMHSA's national helpline.\n\nCommunity resources aren't charity. They're infrastructure built for everyone. Using them is a sign of wisdom, and sharing them with others might be the most meaningful thing you do today.\n\nVisit Focuslinks.in to explore more episodes and resources designed to help you focus on what matters most.\n\n---",
       "tags": "resources,agency,library,deduction",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-22.mp3",
+      "duration": "12:44",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ebf53e89-2457-4b7d-a77a-9033ca62733d",
+      "generatedAt": "2026-08-09T05:30:10.208Z"
     },
     {
       "episodeOrder": 23,

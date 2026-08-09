@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T06:14:31.080Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T06:14:42.552Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Fundus Autofluorescence: The Lipofuscin Map",
-      "description": "The hyper- and hypo-patterns in AMD, Stargardt, hydroxychloroquine, and the retinal toxicity.",
+      "title": "Fundus Autofluorescence: Reading the Retina's Lipofuscin Map",
+      "description": "What if your eye could reveal disease years before symptoms ever appear? In this episode of Focus Cast, we explore fundus autofluorescence (FAF), the groundbreaking non-invasive imaging technique that maps the natural fluorescence of your retina to uncover hidden signs of eye disease.\n\nAt the heart of this technology is lipofuscin, a cellular waste pigment that accumulates in the retinal pigment epithelium over time. When captured under the right wavelength of light, lipofuscin produces a glowing map that tells clinicians exactly where the retina is thriving, where it is struggling, and where disease may be silently spreading.\n\nWe break down how FAF is transforming the diagnosis and monitoring of some of the most significant retinal conditions of our time, including age-related macular degeneration, Stargardt disease, retinitis pigmentosa, hydroxychloroquine toxicity, and central serous chorioretinopathy. You will learn how bright and dark patterns on an FAF image translate into real clinical decisions, from predicting the rate of geographic atrophy progression to evaluating patients for cutting-edge gene therapies.\n\nWe also look ahead at emerging innovations including near-infrared autofluorescence, ultra-widefield imaging, quantitative FAF, and the role of artificial intelligence in pattern recognition, painting a picture of where retinal imaging is headed next.\n\nWhether you are an eye care professional, a student, or simply someone fascinated by the science of vision, this episode offers a clear, engaging deep dive into one of ophthalmology's most powerful diagnostic tools.\n\nListen now and see the retina in a whole new light. Visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "faf,lipofuscin,hyper,hypo",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-09.mp3",
+      "duration": "12:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9b21bd01-60fd-4f7a-a02f-9b9a0114ab58",
+      "generatedAt": "2026-08-09T06:14:42.552Z"
     },
     {
       "episodeOrder": 10,

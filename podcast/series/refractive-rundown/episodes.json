@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T04:48:07.006Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T04:48:34.809Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -388,14 +388,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Refractive Surgery Counseling: The Informed Consent",
-      "description": "The risk-benefit conversation, the alternative discussion, and the documentation that protects patient and practice.",
+      "title": "Refractive Surgery Counseling: The Informed Consent Guide",
+      "description": "Thinking about LASIK, SMILE, or PRK? Before you sign anything, listen to this. In this episode of Focus Cast, we dive deep into one of the most overlooked yet critical parts of refractive surgery — the informed consent process. This isn't just about paperwork. It's about truly understanding what you're agreeing to, and why that understanding can make or break your surgical experience.\n\nWe walk you through what informed consent actually means beyond the legal fine print, what a thorough refractive surgery counseling session should cover, and why the reasonable patient standard matters more than a signature on a form. From evaluating your motivation and lifestyle to understanding procedure options like LASIK, PRK, ICL, and SMILE, we break down exactly what patients and clinicians need to know before stepping into the operating room.\n\nWe also explore the patient's perspective — how to come prepared, what questions to ask, and why it's completely okay to take your time or seek a second opinion. Plus, we highlight the four most common pitfalls in the consent process, including information overload, one-size-fits-all counseling, and treating consent as a single moment rather than an ongoing conversation.\n\nWhether you're an eye care professional looking to sharpen your counseling approach or someone seriously considering refractive surgery, this episode gives you the clarity and confidence to make informed decisions.\n\nThe best surgical outcome starts long before anyone picks up a laser.\n\nVisit [focuslinks.in](http://focuslinks.in) for more episodes, articles, and resources on eye health and vision care.\n\n---",
       "tags": "consent,risk-benefit,alternatives,documentation",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-30.mp3",
+      "duration": "12:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "19e025aa-bbb5-4b96-ba09-67ace552302c",
+      "generatedAt": "2026-08-09T04:48:34.809Z"
     }
   ]
 }

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T06:30:35.178Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T06:30:42.770Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Marfan Syndrome: The Lens and the Aorta",
-      "description": "The superolateral lens subluxation, the tall stature, and the cardiac surveillance and genetics.",
+      "title": "Marfan Syndrome: How One Gene Affects Your Eyes and Heart",
+      "description": "What connects a displaced lens in the eye to a life-threatening tear in the aorta? The answer is a single protein called fibrillin-1, and the condition it defines: Marfan Syndrome. In this episode of Focus Cast, we take a deep dive into one of medicine's most fascinating genetic disorders, exploring how a flaw in connective tissue can silently reshape the body from the inside out.\n\nWe break down exactly what happens to the crystalline lens when the tiny fibers holding it in place begin to weaken, why ectopia lentis is often the first clue that leads to a Marfan diagnosis, and how something as routine as a failed school vision test once saved a child's life. Then we turn to the aorta, the body's largest blood vessel, and explain why aortic root dilation, aortic regurgitation, and aortic dissection are the most serious threats facing people living with Marfan Syndrome today.\n\nYou'll also learn how modern echocardiography, beta-blockers, ARBs, and surgical advances have dramatically extended life expectancy for Marfan patients, and why early diagnosis truly changes everything. Along the way, we explore the historical figures who may have carried this condition, from Abraham Lincoln to Niccolò Paganini, and what their stories reveal about how Marfan Syndrome has quietly shaped history.\n\nWhether you're a patient, a caregiver, a medical professional, or simply someone who loves understanding the human body, this episode will leave you seeing the connection between the eye and the heart in a whole new way. Listen now, and visit Focuslinks.in for more episodes from Focus Cast.\n\n---",
       "tags": "marfan,subluxation,aorta,genetics",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-23.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "128b3448-fdaf-44e4-980e-7e8a13dea835",
+      "generatedAt": "2026-08-09T06:30:42.769Z"
     },
     {
       "episodeOrder": 24,

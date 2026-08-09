@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T08:39:27.362Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T08:39:40.252Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Pinhole Acuity: The Bedside Refractor",
-      "description": "Using the pinhole to separate refractive from pathological vision loss in under a minute.",
+      "title": "Pinhole Acuity: The Bedside Refractor Every Clinician Needs",
+      "description": "What if one of the most powerful diagnostic tools in eye care cost almost nothing and fit in your pocket? In this episode of Focus Cast by Focuslinks.in, we explore the science and clinical power of pinhole acuity — a simple yet remarkably effective bedside refraction technique that every eye care professional should master.\n\nWe break down exactly how the pinhole works, using the physics of light to bypass refractive error and deliver a clearer retinal image without lenses, electricity, or calibration. More importantly, we explore why pinhole acuity matters clinically — how it helps you quickly distinguish between a refractive problem and something more serious like retinal disease, optic nerve damage, or dense media opacity.\n\nThrough real-world clinical scenarios, from busy outreach camps to resource-limited settings, you will see how this tool guides faster, smarter decision-making at the bedside. We also cover the key limitations of pinhole testing — including its reduced effectiveness in small pupils, high astigmatism, and mature cataracts — so you can interpret results with confidence and clinical context.\n\nWhether you are an optometry student, an ophthalmologist, or a community health worker, this episode will deepen your appreciation for a tool that has been rooted in optical science for centuries and remains essential in modern eye care today.\n\nListen now and discover why the pinhole occluder might just be the most underrated instrument in your clinical toolkit. Visit Focuslinks.in for more episodes, resources, and everything eye care.\n\n---",
       "tags": "acuity,pinhole,refraction,screening",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-07.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "24e04780-ff91-43fa-950a-ce9ac3475511",
+      "generatedAt": "2026-08-09T08:39:39.682Z"
     },
     {
       "episodeOrder": 8,

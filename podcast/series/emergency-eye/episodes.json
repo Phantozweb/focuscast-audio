@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T04:50:47.182Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T04:51:04.186Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Acute Angle Closure: The Stone in the Eye",
-      "description": "The mid-dilated pupil, the corneal edema, and the immediate pressure-lowering and laser iridotomy.",
+      "title": "Acute Angle Closure Glaucoma: The Eye Emergency You Must Know",
+      "description": "What if a quiet evening at home suddenly turned into a vision-threatening emergency? In this episode of Focus Cast, we dive deep into acute angle closure glaucoma — a rapid, painful, and often misunderstood condition that can steal your sight within hours if left untreated.\n\nWe break down exactly what happens inside your eye when pressure builds with nowhere to go, why we're calling it \"the stone in the eye,\" and what that crushing sensation actually means for your optic nerve. You'll learn the surprising everyday triggers — from dim lighting and stress to common medications and reading habits — that can set off an acute attack without warning.\n\nWe also cover who is most at risk, including older adults, farsighted individuals, and people of South Asian and East Asian descent, and why knowing your risk profile could be the most important thing you do for your long-term vision. Plus, we explain the laser peripheral iridotomy procedure — a quick, elegant fix that can protect both eyes before a crisis ever occurs.\n\nPerhaps most critically, we talk about the subtle warning signs that people routinely ignore: recurring halos around lights, brief blurring in low light, and mild eye discomfort that resolves on its own. These sub-acute episodes are your eyes asking for help. This episode teaches you how to listen.\n\nWhether you're a patient, a caregiver, or simply someone who values their vision, this conversation could genuinely change your outcome.\n\nListen now, and visit focuslinks.in for more episodes and eye health resources. If this episode helped you, share it — because the best medical emergency is the one that never happens.\n\n---",
       "tags": "aac,iridotomy,pressure,edema",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-07.mp3",
+      "duration": "12:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0f95e9e5-c012-49b4-b350-b13f8828c034",
+      "generatedAt": "2026-08-09T04:51:04.186Z"
     },
     {
       "episodeOrder": 8,

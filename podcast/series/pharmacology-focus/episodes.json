@@ -9,7 +9,7 @@
   "order": 13,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T05:19:15.138Z",
+  "lastUpdated": "2026-08-09T05:19:12.639Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -317,27 +317,27 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Amiodarone and the Corneal Verticillata",
-      "description": "The whirl-like deposits, the vision impact, and the monitoring of the cardiac patient.",
+      "title": "Amiodarone & Corneal Verticillata: What Your Eyes Reveal",
+      "description": "Did you know that a heart medication could leave a tiny, swirling fingerprint inside your eye? In this episode of Focus Cast by Focuslinks.in, we explore the fascinating connection between amiodarone — one of the world's most widely used cardiac drugs — and a striking eye finding called corneal verticillata.\n\nAmiodarone is a powerful antiarrhythmic medication taken by millions of people worldwide. But because it is highly lipophilic, it accumulates in body tissues over time, including the cornea. The result is a whorl-like pattern of drug deposits visible only under a slit-lamp microscope — and it appears in up to 100% of long-term amiodarone users.\n\nIn this episode, we break down exactly how amiodarone travels from the bloodstream into the tear film and into the corneal epithelium, why this finding is almost always asymptomatic yet clinically significant, and what it signals about drug accumulation throughout the body. We also explore how corneal verticillata can be caused by other medications like hydroxychloroquine and tamoxifen, and how it serves as an early diagnostic clue in Fabry disease.\n\nWhether you are a patient on amiodarone, a medical student, or simply someone who loves understanding how the body works, this episode reveals why the eye truly is a window to the body — and why regular eye exams matter more than most people realize.\n\nListen now and discover the beautiful, unexpected ways the heart and the eye are connected. Visit Focuslinks.in for more episodes, articles, and eye health resources, and share this episode with anyone who loves learning something genuinely surprising about medicine.\n\n---",
       "tags": "amiodarone,verticillata,deposits,cardiac",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-25.mp3",
+      "duration": "11:59",
+      "imageUrl": "",
+      "status": "generated",
+      "runId": "3caef7c8-8f13-4fb7-be87-6ba514978f85",
+      "generatedAt": "2026-08-09T05:19:12.639Z"
+    },
+    {
+      "episodeOrder": 26,
+      "title": "Systemic Drugs and the Eye: The Side Effect Inventory",
+      "description": "From tamoxifen to sildenafil — the medications that bring ocular complaints to your chair.",
+      "tags": "systemic,tamoxifen,sildenafil,side-effects",
       "category": "Pharmacology",
       "audioUrl": "",
       "duration": "",
       "imageUrl": "",
       "status": "draft"
-    },
-    {
-      "episodeOrder": 26,
-      "title": "Systemic Drugs and Eye Side Effects: What Your Meds Do to Your Vision",
-      "description": "Could the medication you take every day be quietly affecting your eyesight? In this eye-opening episode of Focus Cast, we explore the hidden connection between systemic drugs and ocular side effects — a topic that impacts millions of people who never see it coming.\n\nFrom hydroxychloroquine retinopathy in lupus and arthritis patients, to steroid-induced cataracts and glaucoma, to the surprising visual effects of antidepressants, heart medications, and cancer treatments — we break down exactly how drugs that travel through your bloodstream can reach your eyes and alter what you see. Learn why digoxin can tint your world yellow, how Viagra temporarily shifts your color perception, and why tuberculosis antibiotic ethambutol demands careful vision monitoring.\n\nMore importantly, we explain what you can actually do about it. Whether you are a patient managing a chronic condition, a caregiver, or simply someone who takes medication regularly, this episode gives you the practical knowledge to protect your vision — without abandoning the treatments you need.\n\nThe key takeaway? Drug-related eye damage is often preventable and manageable when caught early. But that only happens when patients and doctors are communicating clearly and consistently.\n\nIf you or someone you love is on long-term medication, this episode could make a real difference. Listen now, share it widely, and visit Focuslinks.in for more expert eye health content, resources, and future episodes of Focus Cast.\n\n---",
-      "tags": "systemic,tamoxifen,sildenafil,side-effects",
-      "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-26.mp3",
-      "duration": "12:31",
-      "imageUrl": "",
-      "status": "generated",
-      "runId": "79ec1d8e-d0d3-4e97-b818-e6edc3ea9845",
-      "generatedAt": "2026-08-09T05:19:15.138Z"
     },
     {
       "episodeOrder": 27,

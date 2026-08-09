@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T06:17:43.312Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T06:18:01.384Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Specular Microscopy: The Endothelial Cell Count",
-      "description": "The cell density, the pleomorphism and polymegathism, and the IOL and glaucoma drop decisions.",
+      "title": "Specular Microscopy & Endothelial Cell Count Explained",
+      "description": "What's really happening at the back of your cornea — and why should you care? In this episode of Focus Cast, we pull back the curtain on one of the most overlooked yet critical aspects of eye health: the corneal endothelial cells and the remarkable technology used to study them — specular microscopy.\n\nYou'll discover why these tiny, non-regenerating cells are the unsung heroes of your visual system, working around the clock as microscopic pumps to keep your cornea crystal clear. We break down exactly what an endothelial cell count means, what a healthy number looks like, and what happens when that count starts to fall.\n\nWe also explore the real-world scenarios where specular microscopy becomes essential — from long-term contact lens wear and pre-cataract surgery screening to diagnosing Fuchs' endothelial dystrophy, evaluating donor corneas for transplant, and assessing candidacy for refractive procedures like LASIK and implantable collamer lenses.\n\nAlong the way, you'll learn what polymegethism and pleomorphism mean, why the hexagonal shape of healthy endothelial cells matters, and how modern AI-powered imaging is pushing this technology even further.\n\nWhether you're a patient, a contact lens wearer, or simply someone curious about how your eyes work, this episode gives you the knowledge to understand a test that could genuinely protect your long-term vision.\n\nListen now and share this episode with anyone who values their eye health. For more expert eye care content, visit us at Focuslinks.in.\n\n---",
       "tags": "specular,endothelium,density,polymegathism",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-19.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8f7879e2-b5ea-4875-8c0e-0c6d899510d3",
+      "generatedAt": "2026-08-09T06:18:01.384Z"
     },
     {
       "episodeOrder": 20,

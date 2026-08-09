@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T06:35:15.519Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T06:35:26.388Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "The Borderline Field: Reliability, Artifact, and Progression",
-      "description": "Distinguishing true progression from noise, the GPA, and the decision to escalate.",
+      "title": "Borderline Results: Reliability, Artifact & Progression Explained",
+      "description": "What does it actually mean when a test result, scan, or diagnostic reading comes back borderline? Not clearly normal, not clearly abnormal — just sitting in that uncomfortable gray zone. In this episode of Focus Cast, we break down the borderline field and why it holds some of the most critical information in any complex system.\n\nWe explore three powerful concepts that change the way you interpret uncertain results. First, reliability — why borderline readings are far less consistent than clear-cut results, and why a single measurement should never drive a major decision. Second, artifact — how false signals disguise themselves as real ones in everything from brain MRIs to athlete biomarkers, and why distinguishing ghost data from genuine findings is one of the most underrated skills in any technical field. Third, progression — why the direction of a borderline result over time matters far more than the number itself, and how tracking trajectory transforms ambiguous data into actionable insight.\n\nWhether you work in medicine, engineering, sports science, education, or simply want to make smarter decisions under uncertainty, this episode gives you a practical framework for navigating the gray zones that complex systems always produce. You will walk away understanding why the borderline field is not a flaw to be feared — it is where the deepest investigation begins.\n\nIf this episode shifted your thinking, share it with someone who needs a better way to read uncertainty. Visit Focus Cast at Focuslinks.in to explore more episodes designed to sharpen how you think about the world.\n\n---",
       "tags": "borderline-field,reliability,artifact,progression",
-      "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-06.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e5fb56d6-d99e-45cd-8c04-bd54a2328d90",
+      "generatedAt": "2026-08-09T06:35:26.388Z"
     },
     {
       "episodeOrder": 7,

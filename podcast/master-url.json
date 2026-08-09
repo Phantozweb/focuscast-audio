@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:02:45.871Z",
+  "lastUpdated": "2026-08-09T05:02:59.309Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 339,
+  "generatedEpisodes": 341,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -164,10 +164,10 @@
       "category": "Emergency Eye Care",
       "order": 11,
       "totalEpisodes": 30,
-      "generatedEpisodes": 29,
+      "generatedEpisodes": 30,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/episodes.json",
       "audioDir": "podcast/series/emergency-eye/audio",
-      "lastUpdated": "2026-08-09T04:59:10.852Z"
+      "lastUpdated": "2026-08-09T05:02:43.678Z"
     },
     {
       "slug": "practice-pulse",
@@ -179,10 +179,10 @@
       "category": "Practice Management",
       "order": 12,
       "totalEpisodes": 30,
-      "generatedEpisodes": 10,
+      "generatedEpisodes": 11,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/episodes.json",
       "audioDir": "podcast/series/practice-pulse/audio",
-      "lastUpdated": "2026-08-09T05:02:30.385Z"
+      "lastUpdated": "2026-08-09T05:02:45.104Z"
     },
     {
       "slug": "pharmacology-focus",

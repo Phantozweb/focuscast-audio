@@ -8,19 +8,21 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:37.636Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T04:36:13.644Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "LASIK: The Flap and the Laser",
-      "description": "The microkeratome and femtosecond flap, the excimer ablation, and the patient experience from start to finish.",
+      "title": "LASIK Explained: The Flap, The Laser & What Really Happens",
+      "description": "Ever wondered what actually happens during LASIK eye surgery? Most people either know too little or have heard something that scared them off — and neither is a great place to be when making a decision about your vision. In this episode of Focus Cast, we pull back the curtain on exactly what happens during a LASIK procedure, from the moment you sit in the chair to the moment you walk out seeing clearly.\n\nWe break down the two core steps of LASIK surgery — creating the corneal flap and reshaping the cornea with an excimer laser — in plain, easy-to-understand language. You will learn how bladeless LASIK uses a femtosecond laser to create a flap with micron-level precision, how wavefront analysis maps your eye in three dimensions to customize your treatment, and how the laser tracks your eye movements over a thousand times per second for maximum safety.\n\nWe also cover what to expect during recovery, common side effects like dry eye and night halos, and the important truth that LASIK is not right for everyone. If your corneas are too thin or your prescription falls outside the treatable range, there are alternatives worth knowing about.\n\nWhether you are seriously considering LASIK or simply curious about how the procedure works, this episode gives you the clear, honest information you need to make a confident, informed decision.\n\nListen now and see the science of clear vision in a whole new light. For more episodes and vision-related resources, visit Focuslinks dot in.\n\n---",
       "tags": "lasik,flap,excimer,femtosecond",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-01.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "70851919-2dea-462a-bcab-f42dc8e1d29c",
+      "generatedAt": "2026-08-09T04:36:13.644Z"
     },
     {
       "episodeOrder": 2,

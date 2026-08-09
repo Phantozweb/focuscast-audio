@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T06:30:19.425Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T06:30:35.178Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -343,14 +343,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Medication-Induced Ocular Disease: The Chronic Patient",
-      "description": "Hydroxychloroquine, ethambutol, amiodarone, tamoxifen — the surveillance schedule and the cessation.",
+      "title": "Drug-Induced Eye Damage: Protecting the Chronic Patient",
+      "description": "Could the medication you take every day be silently harming your vision? In this eye-opening episode of Focus Cast, we explore one of the most overlooked intersections in modern medicine: medication-induced ocular disease in patients managing chronic conditions.\n\nWith polypharmacy on the rise, millions of people are taking long-term medications for diabetes, hypertension, autoimmune disorders, and mental health conditions, often without realizing the serious risks these drugs can pose to their eyes. We break down exactly how and why the eye is uniquely vulnerable to systemic medications, and what that means for patients and clinicians alike.\n\nWe take a deep dive into some of the most common drug-related eye conditions, including hydroxychloroquine retinopathy in lupus and rheumatoid arthritis patients, steroid-induced cataracts and glaucoma from long-term corticosteroid use, pigmentary retinopathy linked to older antipsychotics, angle-closure glaucoma triggered by anticholinergic medications, and crystalline maculopathy associated with tamoxifen therapy.\n\nYou will learn why cumulative dose matters more than daily dose, how modern imaging tools like optical coherence tomography are changing early detection, and why communication between prescribing physicians and eye care providers is the single most important factor in preventing irreversible vision loss.\n\nWhether you are a healthcare professional managing complex patients or someone navigating your own long-term treatment plan, this episode gives you the knowledge to ask better questions, catch warning signs earlier, and protect your vision for the long term.\n\nListen now and share this episode with anyone who deserves to know the full picture of their medications. Visit Focuslinks dot in for more expert eye health content.\n\n---",
       "tags": "medication,toxicity,surveillance,cessation",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-27.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cf556373-5265-4716-aa6a-30b0714e3929",
+      "generatedAt": "2026-08-09T06:30:35.178Z"
     },
     {
       "episodeOrder": 28,

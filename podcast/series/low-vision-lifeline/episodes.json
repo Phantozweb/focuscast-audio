@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T05:28:26.344Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T05:29:53.907Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -271,14 +271,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Charles Bonnet Syndrome: The Visions of the Blind",
-      "description": "The formed hallucinations, the reassurance, and the patient relief when the syndrome is named.",
+      "title": "Charles Bonnet Syndrome: Why the Blind See Vivid Visions",
+      "description": "What if you started seeing tiny, elaborately dressed figures dancing across your floor — and you knew with absolute certainty they weren't real? This isn't a ghost story or a sign of mental illness. It's Charles Bonnet Syndrome, a fascinating neurological condition affecting millions of people with vision loss worldwide — and most of them have never even heard its name.\n\nIn this episode of Focus Cast, we explore the remarkable science behind Charles Bonnet Syndrome: what it is, why it happens, and why so many people suffer in silence, too afraid to tell even their own doctors. We trace the condition back to its eighteenth-century origins, when Swiss philosopher Charles Bonnet first documented his grandfather's vivid, wordless hallucinations — and later experienced them himself. We break down the neuroscience of why a brain deprived of visual input begins generating its own extraordinary imagery, from Lilliputian figures in top hats to blooming gardens on blank walls. And we explore the deeply human side of the condition — the fear, the isolation, and the profound relief that comes simply from knowing there is a name for what you are experiencing.\n\nWhether you are someone living with vision loss, a caregiver, a healthcare professional, or simply a curious mind, this episode will change the way you think about perception, reality, and the astonishing lengths the human brain will go to in order to make sense of the dark.\n\nListen now, and share this episode with anyone who might need to hear it. For more thought-provoking episodes, visit Focus Cast at Focuslinks.in.\n\n---",
       "tags": "charles-bonnet,hallucination,reassurance,syndrome",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-21.mp3",
+      "duration": "12:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5fbc2f36-1004-4b30-9bb7-9d2e1156ac07",
+      "generatedAt": "2026-08-09T05:29:53.907Z"
     },
     {
       "episodeOrder": 22,

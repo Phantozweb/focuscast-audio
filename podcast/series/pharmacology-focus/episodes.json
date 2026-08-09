@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T05:19:42.280Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T05:19:49.407Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -378,14 +378,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Compounding: The Art and the Risk",
-      "description": "When to compound, the pharmacy selection, and the safety and sterility that cannot be compromised.",
+      "title": "Compounding: The Art, the Risk & the Power of Time",
+      "description": "What if one penny could be worth more than a million dollars? That's the power of compounding — and in this episode of Focus Cast, we go far beyond the finance textbook version to explore what compounding really means for your money, your habits, your relationships, and your mindset.\n\nWe break down the art of compounding: why starting early and staying consistent matters more than how much you invest, and how small daily actions in learning, health, and relationships quietly build into extraordinary results over time. Then we flip the coin and confront the risk — because compounding doesn't have a moral compass. Debt compounds. Bad habits compound. Anxiety compounds. Misinformation compounds. Whatever you consistently feed, grows.\n\nWe also dig into the most overlooked part of any compounding journey — the inflection point. That long, frustrating stretch where nothing seems to be happening, but everything is being built. Drawing on insights from Warren Buffett's wealth-building story and James Clear's concept of the plateau of latent potential, this episode makes a compelling case for evidence-based patience in a world obsessed with instant results.\n\nWhether you're thinking about compound interest, personal growth, or breaking a cycle that's quietly working against you, this episode will change the way you see consistency, time, and daily choices.\n\nIf you've ever wondered why small decisions matter so much, this is the episode for you. Listen now, share it with someone who needs to hear it, and visit Focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "compounding,pharmacy,sterility,safety",
       "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-30.mp3",
+      "duration": "11:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2e95523f-a980-4927-ace5-b1cc677c835c",
+      "generatedAt": "2026-08-09T05:19:49.407Z"
     }
   ]
 }

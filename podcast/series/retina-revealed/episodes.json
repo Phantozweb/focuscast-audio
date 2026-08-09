@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T08:35:23.399Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T08:35:29.912Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "OCT Macula: Reading the Nine Layers on a Single Scan",
-      "description": "A reproducible method for interpreting macular OCT — identifying fluid, drusen, and atrophy in seconds.",
+      "title": "OCT Macula: Read All Nine Retinal Layers in One Scan",
+      "description": "You have ninety seconds, a busy macular OCT on your screen, and a patient in the chair. Can you make a confident, accurate clinical call every time? In this episode of Focus Cast, we build a reproducible, layer-by-layer system for interpreting macular OCT — designed specifically for licensed optometrists, residents, and clinical eye care practitioners who are reading scans every single day.\n\nWe walk through all nine retinal layers as seen on a high-resolution B-scan, from the internal limiting membrane to the RPE-Bruch's complex, and explain exactly what each layer looks like in health and disease. You will learn the outside-in method — a structured sixty-to-ninety-second approach that starts at the choroid and works inward through the outer retina, inner retina, and vitreoretinal interface — so nothing gets missed.\n\nFrom there, we go deep on the three most clinically significant macular OCT findings: fluid, drusen, and atrophy. You will learn how to localize subretinal fluid, intraretinal cystoid spaces, and pigment epithelial detachments — and why that localization directly determines your diagnosis and management. We cover drusen grading using AREDS classification, the clinical significance of reticular pseudodrusen, and how OCT detects geographic atrophy before it is visible on fundus exam.\n\nThe episode closes with a four-question chairside decision framework you can apply immediately in practice, plus clear guidance on when to refer, when to monitor, and how to counsel patients on prognosis.\n\nIf macular OCT interpretation is part of your daily clinical workflow, this episode will sharpen your reads and strengthen your decision-making. Visit Focuslinks dot in for more clinical episodes built exclusively for eye care professionals.\n\n---",
       "tags": "oct,macula,layers,fluid",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-05.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e52123fc-2f86-47e4-b045-5666c4277601",
+      "generatedAt": "2026-08-09T08:35:29.912Z"
     },
     {
       "episodeOrder": 6,

@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T08:37:22.692Z",
+  "lastUpdated": "2026-08-09T08:37:43.439Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,16 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Medical & Family History Through the Ocular Lens | FocusCast",
-      "description": "Every intake form tells a clinical story — are you reading it correctly? In this episode of FocusCast by Focuslinks.in, we break down how to translate systemic and hereditary disease history into precise, actionable ocular risk assessment at the chair.\n\nDesigned exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners, this episode covers four high-yield areas: diabetic eye disease and the role of OCT in detecting center-involving macular edema, hypertensive retinopathy grading using the Keith-Wagener-Barker classification and its vascular implications, autoimmune-related ocular conditions including HLA-B27-associated anterior uveitis, scleritis in rheumatoid arthritis, and the underdiagnosed ocular presentation of Sjögren's syndrome, and hereditary risk patterns for glaucoma, keratoconus, and retinal dystrophies including retinitis pigmentosa and Stargardt disease.\n\nYou'll walk away with sharper chairside decision-making skills, clearer referral thresholds, and a stronger framework for integrating slit lamp findings, fundus evaluation, IOP measurement, corneal topography, and OCT data with the systemic context your patients bring into the exam room.\n\nBecause the retinal vasculature is the only place in the human body where blood vessels can be directly visualized without invasive procedures — and that clinical privilege carries real responsibility.\n\nIf you're ready to elevate your medical history intake from administrative routine to diagnostic advantage, this episode is for you.\n\nListen now, and visit Focuslinks.in for more evidence-based clinical episodes built specifically for eye care professionals.\n\n---",
+      "title": "What Your Eyes Reveal About Your Medical & Family History",
+      "description": "Did you know your eyes could expose hidden health risks before any other doctor does? In this eye-opening episode of Focus Cast, we explore how a routine eye exam can uncover far more than just your vision prescription — it can reveal critical clues about your overall health and genetic future.\n\nWe dive deep into the powerful connection between your eyes and systemic conditions like diabetes, high blood pressure, autoimmune disorders, and even certain cancers. You'll discover why the eye is one of the only places in the human body where a doctor can observe living blood vessels and nerve tissue without a single incision — making it one of medicine's most underutilized diagnostic tools.\n\nWe also unpack the critical role of family medical history in eye care. From glaucoma — which raises your risk four to nine times if a close relative has it — to age-related macular degeneration and inherited retinal dystrophies like retinitis pigmentosa, knowing your family's eye health story could be the difference between early intervention and irreversible vision loss.\n\nFinally, we make the case for shifting from reactive to proactive eye care, sharing a real-life story of a woman whose routine eye exam led to the discovery of a brain tumor she never knew she had.\n\nWhether you've been skipping your annual eye exams or simply never thought to mention your family history to your eye doctor, this episode will change the way you think about vision care forever.\n\nDon't wait for symptoms to appear. Book your comprehensive eye exam today and visit Focuslinks.in for more expert eye health resources, tips, and episodes designed to help you see — and live — better.\n\n---",
       "tags": "systemic,medical-history,family-history,risk",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-04.mp3",
-      "duration": "12:39",
+      "duration": "11:58",
       "imageUrl": "",
       "status": "generated",
-      "runId": "c266fd05-a029-4e7d-9a04-5435bfd23210",
-      "generatedAt": "2026-08-09T08:37:20.244Z"
+      "runId": "9f0a66dd-ff43-484a-8ffa-678e5cfc2e10",
+      "generatedAt": "2026-08-09T08:37:42.590Z"
     },
     {
       "episodeOrder": 5,

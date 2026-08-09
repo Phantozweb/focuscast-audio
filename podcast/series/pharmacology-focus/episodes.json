@@ -1,0 +1,180 @@
+{
+  "slug": "pharmacology-focus",
+  "name": "Pharmacology Focus",
+  "tagline": "Drugs in Eye Care",
+  "description": "Antibiotics, antivirals, antifungals, anti-inflammatories, IOP-lowering agents, mydriatics, cycloplegics, anesthetics, dry eye drugs, and systemic medications with ocular effects.",
+  "icon": "Pill",
+  "accent": "#65a30d",
+  "category": "Pharmacology",
+  "order": 13,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:47.183Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Pharmacokinetics of the Eye: The Barriers to Drug Delivery",
+      "description": "Corneal and conjunctival absorption, the tear washout, and why drop frequency matters.",
+      "tags": "pharmacokinetics,absorption,barriers,washout",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Topical Antibiotics: The Spectrum and the Stewardship",
+      "description": "From erythromycin to fluoroquinolones — matching the drug to the organism and the severity.",
+      "tags": "antibiotics,spectrum,fluoroquinolone,stewardship",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Fortified Antibiotics: When the Bug Outruns the Drop",
+      "description": "Compounding vancomycin and tobramycin, the dosing schedule, and the inpatient-versus-outpatient line.",
+      "tags": "fortified,vancomycin,tobramycin,compounding",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Antivirals for Ocular HSV and HZV",
+      "description": "Topical trifluridine, oral acyclovir and valacyclovir, and the dose and duration for each.",
+      "tags": "antiviral,trifluridine,acyclovir,valacyclovir",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Antifungals: The Limited Armamentarium",
+      "description": "Natamycin, amphotericin, and voriconazole — when fungi threaten the cornea and the options are few.",
+      "tags": "antifungal,natamycin,amphotericin,voriconazole",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Acanthamoeba: The Biguanides That Work",
+      "description": "PHMB and chlorhexidine, the painful dosing schedule, and the months-long treatment course.",
+      "tags": "acanthamoeba,phmb,chlorhexidine,biguanide",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Topical Steroids: The Power and the Peril",
+      "description": "Prednisolone, loteprednol, fluorometholone — the potency ladder and the IOP and infection risks.",
+      "tags": "steroids,prednisolone,loteprednol,iop",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "NSAID Drops: The Steroid-Sparing Anti-Inflammatory",
+      "description": "Ketorolac, nepafenac, bromfenac — the post-op and the cystoid macular edema role.",
+      "tags": "nsaid,ketorolac,nepafenac,cme",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Allergy Drops: Antihistamines and Mast Cell Stabilizers",
+      "description": "Olopatadine and the dual-action class, the onset and duration, and the seasonal versus perennial choice.",
+      "tags": "allergy,olopatadine,mast-cell,antihistamine",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Mydriatics and Cycloplegics: The Dilating Drops",
+      "description": "Tropicamide, phenylephrine, cyclopentolate, atropine — the onset, duration, and the cycloplegia strength.",
+      "tags": "mydriatic,cycloplegic,tropicamine,cyclopentolate",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Anesthetic Drops: The Diagnostic Tool, Not the Therapy",
+      "description": "Proparacaine and tetracaine — why they are for diagnosis only and the abuse that destroys corneas.",
+      "tags": "anesthetic,proparacaine,tetracaine,abuse",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Glaucoma Drops: The Prostaglandin Analogues",
+      "description": "Latanoprost, travoprost, bimatoprost — the once-daily dosing, the side effects, and the color change.",
+      "tags": "pga,latanoprost,travoprost,bimatoprost",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Beta-Blockers: The Systemic Caution",
+      "description": "Timolol — the asthma and bradycardia contraindications and the bedtime dosing tip.",
+      "tags": "beta-blocker,timolol,asthma,bradycardia",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Alpha-2 Agonists: Brimonidine and the CNS Risk",
+      "description": "The IOP effect, the allergy rate, and the pediatric apnea warning.",
+      "tags": "alpha-2,brimonidine,allergy,pediatric",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Carbonic Anhydrase Inhibitors: Topical and Oral",
+      "description": "Dorzolamide and acetazolamide — the sulfonamide cross-reactivity and the oral side effects.",
+      "tags": "cai,dorzolamide,acetazolamide,sulfa",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T06:35:26.388Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T06:36:07.698Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -102,14 +102,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "The Prescribing Dilemma: When the Refraction Is Not the Answer",
-      "description": "The child with high plus, the adult with a change, and the systemic and surface causes to consider.",
+      "title": "The Prescribing Dilemma: When Refraction Isn't the Answer",
+      "description": "What happens when the refraction is technically correct — but prescribing it is actually the wrong clinical decision? In this thought-provoking episode of Focus Cast, we explore one of the most nuanced challenges in optometry and ophthalmology: knowing when the numbers on your refraction chart don't tell the whole story.\n\nWe walk through four critical areas where refraction alone can mislead even experienced clinicians. First, accommodative and binocular vision disorders — from pseudomyopia caused by ciliary spasm to convergence insufficiency masquerading as a simple refractive problem. Second, patient adaptation and neurological tolerance, including why a perfectly accurate prescription can leave someone dizzy, disoriented, and convinced their glasses are wrong. Third, the role of lifestyle and occupation in prescribing decisions — because a carpenter's visual needs are nothing like a musician's, and standard bifocals don't belong on every presbyopic patient. And fourth, the sobering reality that blurred vision isn't always a refractive issue — sometimes it's a sign of something far more serious hiding beneath the surface.\n\nWhether you're an optometrist, an ophthalmologist, an optometry student, or simply passionate about how vision works, this episode will challenge you to look beyond the prescription and treat the whole patient. Because the best clinical decision isn't always the most obvious one.\n\nListen now and rethink how you approach every refraction. Visit us at focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "prescribing,dilemma,child,change",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-08.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a6d369d4-5ac1-4206-8577-ca749b8e49a3",
+      "generatedAt": "2026-08-09T06:36:07.698Z"
     },
     {
       "episodeOrder": 9,

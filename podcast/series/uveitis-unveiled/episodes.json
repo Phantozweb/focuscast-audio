@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T05:34:16.515Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T05:34:25.221Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Granulomatous Versus Nongranulomatous: The KP Morphology",
-      "description": "Mutton-fat KPs and the sarcoid and TB differential — the morphology that redirects the workup.",
+      "title": "Granulomatous vs Nongranulomatous Uveitis: KP Morphology",
+      "description": "What if a single glance at the back of the cornea could tell you exactly what's inflaming your patient's eye? In this episode of Focus Cast, we break down one of ophthalmology's most clinically powerful diagnostic tools: keratic precipitate morphology and what it reveals about granulomatous versus nongranulomatous uveitis.\n\nWe start with the basics, explaining what keratic precipitates actually are, how inflammatory cells settle onto the corneal endothelium, and why their appearance varies so dramatically depending on the type of uveitis. You'll learn to distinguish the fine, dusty KPs of nongranulomatous uveitis, linked to HLA-B27 conditions like ankylosing spondylitis, from the large, greasy mutton fat KPs that signal granulomatous disease in conditions like sarcoidosis, tuberculosis, and Vogt-Koyanagi-Harada syndrome.\n\nWe walk through real clinical scenarios that show exactly how KP morphology shifts your differential diagnosis and drives your entire workup, from the questions you ask to the lab tests you order. We also cover the unique stellate KP pattern seen in Fuchs uveitis syndrome, the significance of old pigmented KPs as historical clues, and why KP findings must always be interpreted alongside other anterior and posterior segment signs.\n\nWhether you're a medical student building your ophthalmology foundation, a resident preparing for exams, or a clinician looking to sharpen your slit lamp skills, this episode delivers focused, high-yield clinical insight you can apply immediately.\n\nListen now and start reading KPs like a language. Visit Focuslinks.in for more episodes and clinical learning resources.\n\n---",
       "tags": "granulomatous,mutton-fat,sarcoid,tb",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-04.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9e831f9e-1ff2-484e-805d-46ee01e742ed",
+      "generatedAt": "2026-08-09T05:34:25.221Z"
     },
     {
       "episodeOrder": 5,

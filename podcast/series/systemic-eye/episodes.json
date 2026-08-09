@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T06:27:27.942Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T06:27:55.524Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -215,14 +215,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "HIV and the Eye: From CMV to Immune Recovery Uveitis",
-      "description": "The opportunistic infections, the HAART transformation, and the immune recovery uveitis paradox.",
+      "title": "HIV and the Eye: CMV Retinitis to Immune Recovery Uveitis",
+      "description": "What happens when a virus that destroys your immune system turns its attention to your eyes? In this eye-opening episode of Focus Cast, we explore one of the most dramatic intersections of immunology and ophthalmology — HIV and its profound effects on vision.\n\nWe take you back to the early days of the AIDS epidemic, when ophthalmologists were witnessing something terrifying through their instruments: CMV retinitis. Caused by cytomegalovirus, this opportunistic infection was silently destroying the retinas of immunocompromised patients, leading to irreversible blindness in up to forty percent of people with AIDS. We break down exactly how and why CMV retinitis develops, what it looks like, and how it was managed before effective HIV treatment existed.\n\nThen comes the twist. When combination antiretroviral therapy arrived in 1996 and began rebuilding patients' immune systems, a new and unexpected condition emerged — immune recovery uveitis. In a paradox that reveals just how complex the immune system truly is, the very treatment saving lives was triggering dangerous inflammation inside the eye. We explain the science behind this phenomenon, who is most at risk, and how ophthalmologists carefully manage it without allowing the original infection to return.\n\nThis episode is essential listening for anyone interested in HIV, uveitis, retinal disease, or the fascinating ways the immune system and the eye are connected. Whether you're a healthcare professional, a patient, or simply curious about how the body works, this story will change the way you think about vision and immunity.\n\nVisit Focuslinks.in to explore more episodes of Focus Cast and stay informed about the eye conditions that shape how we see the world.\n\n---",
       "tags": "hiv,cmv,haart,immune-recovery",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-17.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7a06256e-68b6-4d61-91ce-9d3a063c0d28",
+      "generatedAt": "2026-08-09T06:27:55.524Z"
     },
     {
       "episodeOrder": 18,

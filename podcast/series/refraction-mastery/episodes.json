@@ -1,0 +1,180 @@
+{
+  "slug": "refraction-mastery",
+  "name": "Refraction Mastery",
+  "tagline": "Advanced Refraction Techniques for the Optometrist",
+  "description": "A 15-episode deep dive into the art and science of refraction — retinoscopy, cross cylinder, cycloplegia, and the difficult refractions that separate competent optometrists from great ones.",
+  "icon": "Eye",
+  "accent": "#0ea5e9",
+  "category": "Refraction",
+  "order": 2,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T10:01:59.388Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Streak Retinoscopy: Working Distance, Sleeve Position, and Neutralisation",
+      "description": "Setting up the retinoscope, estimating working distance, and the exact technique for neutralising sphere before refining cylinder.",
+      "tags": "retinoscopy,streak,working-distance,neutralisation",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "The Jackson Cross Cylinder: Refining Cylinder Axis and Power Systematically",
+      "description": "The two-step JCC technique — axis first, then power — and the common errors that produce an unreliable cylinder.",
+      "tags": "jcc,cylinder,axis,power,refraction",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Duochrome and Binocular Balancing: Equalising the Final Endpoint",
+      "description": "Using the duochrome (red-green) test correctly, the \"leave them on the green\" rule, and prism dissociation for binocular balance.",
+      "tags": "duochrome,red-green,balance,refraction",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Cycloplegic Refraction: Indications, Agents, and Interpretation",
+      "description": "When cycloplegia is mandatory (children, hyperopes, suspected spasm), choosing cyclopentolate vs atropine, and interpreting the cycloplegic vs manifest difference.",
+      "tags": "cycloplegia,cyclopentolate,atropine,hyperopia,children",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Refracting the Pseudophakic Patient: IOL Power and Surprise Refractions",
+      "description": "Why some cataract patients end up myopic or hyperopic after surgery, refracting through a multifocal IOL, and managing the unhappy post-op patient.",
+      "tags": "pseudophakia,iol,post-cataract,refraction",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Refracting the Post-Refractive-Surgery Patient: LASIK, PRK, and RK",
+      "description": "Why standard keratometry fails after corneal refractive surgery, how to estimate corneal power for IOL calculations, and over-refraction techniques.",
+      "tags": "lasik,prk,rk,post-refractive,iol-calculation",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Over-Refraction with Contact Lenses: Spherical, Toric, and Scleral",
+      "description": "When to over-refract rather than re-fit, how to apply a spherical over-refraction to a toric lens, and interpreting a scleral lens over-refraction.",
+      "tags": "over-refraction,contact-lens,toric,scleral",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Refracting Children: Attention, Fixation, and the Worth 4 Dot",
+      "description": "Age-appropriate acuity tests (Teller, LEA, HOTV), maintaining attention, and when to trust a manifest vs cycloplegic result in a child.",
+      "tags": "pediatric-refraction,lea,teller,children",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Presbyopia: Measuring the Add and Selecting the Right Design",
+      "description": "Measuring amplitude of accommodation, calculating the add for the patient's working distance, and matching the add to lifestyle (single vision, PAL, computer).",
+      "tags": "presbyopia,near-add,pal,accommodation",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "High Refractive Errors: Myopia Above -10.00 and Hyperopia Above +6.00",
+      "description": "Optical consequences of high ametropia, minimising aniseikonia, lens material and design choices, and when contact lenses become the better option.",
+      "tags": "high-myopia,high-hyperopia,aniseikonia,lens-design",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Anisometropia and Aniseikonia: When the Image Sizes Differ",
+      "description": "Quantifying aniseikonia with the Awaya test, the \"knapp's rule\" for axial anisometropia, and strategies to minimise image size disparity.",
+      "tags": "anisometropia,aniseikonia,knapps-rule,iseikonia",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Irregular Astigmatism: Keratoconus, Post-Graft, and Epikeratophakia",
+      "description": "Detecting irregular astigmatism on refraction, when retinoscopy scissoring appears, and rigid gas permeable fitting principles for irregular corneas.",
+      "tags": "irregular-astigmatism,keratoconus,rgp,corneal-graft",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Astigmatic Dial and Fan-Block Techniques for Cylinder Determination",
+      "description": "When the JCC is unreliable (low vision, poor attention), using the astigmatic dial and fan-block to determine cylinder axis and power.",
+      "tags": "astigmatic-dial,fan-block,cylinder,refraction",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Vertex Distance and Pantoscopic Tilt: Compensating the Final Rx",
+      "description": "How vertex distance changes effective power in high Rx, converting spectacle to contact lens power, and the effect of pantoscopic tilt on cylinder.",
+      "tags": "vertex-distance,pantoscopic-tilt,effective-power,compensation",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Prescribed Prism: Decentration, Fresnel, and Ground-In Prism",
+      "description": "Calculating prism by decentration using Prentice's rule, when to use a Fresnel press-on prism, and prescribing yoked prism for neurologic patients.",
+      "tags": "prism,prentices-rule,fresnel,yoked-prism",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

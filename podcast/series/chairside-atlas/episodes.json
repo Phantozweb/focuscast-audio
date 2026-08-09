@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T08:32:04.708Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T08:32:15.468Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -96,14 +96,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Near Vision and Presbyopia: Reading the Add",
-      "description": "Assessing near demands, determining the add, and counseling patients on progressive versus single vision.",
+      "title": "Reading the Add: Presbyopia & Near Vision for Optometrists",
+      "description": "Presbyopia walks into your exam room multiple times a day — but are you prescribing the add with the clinical precision it deserves? In this episode of Focus Cast by Focuslinks.in, we break down the complete clinical approach to near vision assessment and presbyopia management, designed exclusively for licensed optometrists, residents, and eye care practitioners.\n\nWe cover the physiological basis of accommodative loss, Hofstetter's formula in practice, and why presbyopia presents differently in hyperopes versus myopes. You'll get a step-by-step framework for measuring accommodative amplitude, assessing real-world near demands, and determining the lowest effective add — refined at the phoropter, not estimated from an age chart. We also explore the critical nuances of binocular balance at near, associated phoria, and how esophoria or exophoria should influence your add decision.\n\nThe lens counseling section gives you practical, patient-ready language for progressive addition lenses versus single vision reading glasses, including how to set adaptation expectations for PALs, when short versus long corridor designs matter, and why occupational progressives are underutilized in most practices.\n\nWe also address the differentials that complicate near vision complaints — dry eye disease, nuclear sclerotic cataract, diabetic lens changes, and the importance of slit lamp evaluation, dilated fundus assessment, and OCT imaging as part of your standard of care.\n\nWhether you're refining your refraction technique or building chairside confidence with presbyopic patients, this episode delivers evidence-based, immediately applicable clinical guidance.\n\nListen now and sharpen your approach to one of optometry's most common — and most nuanced — presentations. Visit Focuslinks.in for more clinical content built for eye care professionals.\n\n---",
       "tags": "presbyopia,near-vision,add,progressives",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-08.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "99f6aa90-7649-4f77-98ec-d47197084944",
+      "generatedAt": "2026-08-09T08:32:15.468Z"
     },
     {
       "episodeOrder": 9,

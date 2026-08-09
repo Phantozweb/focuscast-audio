@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T05:58:50.561Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T06:00:05.911Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -89,14 +89,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Exotropia: The Outward Turn and the Intermittent",
-      "description": "The intermittent XT that decompensates in fatigue and distance and the surgical threshold.",
+      "title": "Exotropia Explained: Understanding Intermittent Outward Eye Turn",
+      "description": "Does your child's eye drift outward when they're tired or daydreaming? Do they squint in bright sunlight or lose their place while reading? They might have intermittent exotropia — and most parents have never even heard of it.\n\nIn this episode of Focus Cast, we break down everything you need to know about exotropia, the outward eye turn that affects millions of people worldwide, yet often goes undetected for years. We explain exactly what exotropia is, how it differs from being cross-eyed, and why the intermittent kind is so easy to miss — even on standard school vision screenings.\n\nWe dive into the science of binocular vision and explore why the brain sometimes suppresses one eye to avoid double vision, and what that means for long-term visual development. You'll learn about the warning signs to watch for in children as young as one year old, how exotropia can affect adults too, and why early detection genuinely changes outcomes.\n\nWe also walk through every major treatment option available today — from glasses and vision therapy to patching and eye muscle surgery — so you understand what the path forward can look like for your child or yourself.\n\nWhether you're a parent who noticed something off about your child's eyes, an adult wondering about a childhood condition that was never fully resolved, or simply someone curious about how vision works, this episode gives you clear, practical, medically grounded information without the jargon.\n\nListen now and learn why a comprehensive eye exam — not just a quick screening — could make all the difference. Visit Focuslinks.in for more eye health resources and episodes of Focus Cast.\n\n---",
       "tags": "exotropia,intermittent,distance,surgical",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Pediatric",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-07.mp3",
+      "duration": "12:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "15d43da9-8667-450a-b5cb-8ebf7d0635b3",
+      "generatedAt": "2026-08-09T06:00:05.911Z"
     },
     {
       "episodeOrder": 8,

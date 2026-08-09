@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T05:08:55.967Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T05:09:03.988Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -373,14 +373,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Practice Valuation: The Exit and the Succession",
-      "description": "The multiple, the goodwill, the associate-to-partner path, and the sale that rewards a career.",
+      "title": "Practice Valuation: How to Exit Your Practice on Your Terms",
+      "description": "What is your practice actually worth — and what happens to everything you have built when it is time to walk away? In this episode of Focus Cast by Focuslinks.in, we break down the essentials of practice valuation and succession planning for doctors, dentists, lawyers, financial advisors, and any professional running their own practice.\n\nWe cover the three core valuation methods — income-based, asset-based, and market-based — and explain why the value of your practice goes far beyond what it earns today. You will learn why a practice that depends entirely on you is worth significantly less to a buyer, and what you can do right now to change that.\n\nWe also walk through the four main types of exits: internal succession, external sale, merger, and wind-down — so you can understand which path makes the most sense for your situation. Through a real-world example of a dentist who waited too long to plan her exit, we show exactly what is at stake when succession planning gets pushed to the back burner.\n\nWhether you are five years from retirement or twenty-five, this episode gives you five practical steps you can start today — from getting a baseline valuation to cleaning up your financials and building systems that let your practice run without you.\n\nYour practice is likely one of the most valuable assets you own. It deserves a plan. Tune in, and start writing that final chapter with intention.\n\nListen now and visit Focuslinks.in for more episodes that help you think bigger, plan smarter, and build better.\n\n---",
       "tags": "valuation,succession,partner,sale",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-29.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ec2de351-5222-4040-9d11-e75694ccba7f",
+      "generatedAt": "2026-08-09T05:09:03.988Z"
     },
     {
       "episodeOrder": 30,

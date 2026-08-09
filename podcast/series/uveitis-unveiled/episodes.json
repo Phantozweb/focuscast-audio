@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T05:35:51.161Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T05:35:58.842Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -102,14 +102,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Toxoplasmosis: The “Headlight in the Fog”",
-      "description": "The necrotizing retinitis adjacent to a scar, the pyrimethamine and sulfadiazine, and the felis host.",
+      "title": "Toxoplasmosis: The Parasite That May Control Your Brain",
+      "description": "What if a microscopic parasite living inside your brain was quietly influencing your decisions, dialing down your fear, and nudging you toward riskier choices — all without you ever knowing? Welcome to the unsettling world of toxoplasmosis and the \"headlight in the fog\" phenomenon.\n\nIn this episode of Focus Cast, we explore Toxoplasma gondii, one of the most widespread parasites on Earth, estimated to infect up to half the global population. We break down how this single-celled organism manipulates the behavior of infected rodents, making them fatally attracted to the smell of cat urine, and what that chilling strategy might mean for human behavior.\n\nDrawing on decades of research, including the landmark work of evolutionary biologist Jaroslav Flegr, we examine how Toxoplasma infection has been linked to increased risk-taking, higher rates of traffic accidents, entrepreneurial behavior, and even associations with schizophrenia and depression. We also unpack the biological mechanism behind it all — the parasite's surprising ability to interfere with dopamine pathways in the human brain.\n\nThis episode goes beyond the science to ask a deeper question: how much of what we think of as our own personality, our boldness, our fears, our choices, is truly ours? Toxoplasmosis offers a fascinating and humbling lens through which to examine human autonomy, self-awareness, and the invisible forces that shape us every day.\n\nWhether you're a science enthusiast, a curious thinker, or just someone who owns a cat, this episode will leave you seeing the world a little differently. Listen now, and share it with someone who loves ideas that make them think twice.\n\n---",
       "tags": "toxo,headlight,necrotizing,pyrimethamine",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-08.mp3",
+      "duration": "12:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8a7fe36d-697e-4d3e-bcbc-c8e336da734b",
+      "generatedAt": "2026-08-09T05:35:58.842Z"
     },
     {
       "episodeOrder": 9,

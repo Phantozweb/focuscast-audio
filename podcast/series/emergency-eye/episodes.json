@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T04:57:51.385Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T04:58:17.078Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Pediatric Ocular Trauma: The Non-Accidental Consideration",
-      "description": "The retinal hemorrhage pattern, the inconsistent history, and the mandatory reporting duty.",
+      "title": "Pediatric Ocular Trauma: Spotting Child Abuse Through the Eyes",
+      "description": "What if a child's eyes could reveal the truth that their caregiver's story is hiding? In this deeply important episode of Focus Cast, we explore one of the most critical and emotionally charged intersections in medicine — pediatric ocular trauma and the non-accidental consideration.\n\nWhen a two-year-old arrives in the emergency department with a simple \"fell off the couch\" explanation, it's often the ophthalmologist who uncovers the real story. We break down exactly what clinicians look for — from bilateral multilayered retinal hemorrhages and retinoschisis to perimacular folds and subhyaloid bleeds — and why these findings are so specific to abusive head trauma in children.\n\nWe walk through the clinical examination process, the critical role of thorough documentation, and how ocular findings can become pivotal evidence in child protection cases. We also discuss the multidisciplinary approach required, the emotional weight carried by clinicians in this space, and why timing matters so much when retinal hemorrhages can fade within days.\n\nBeyond the clinical, this episode is a call to awareness. Whether you're an ophthalmologist, pediatrician, emergency physician, or nurse, understanding the ocular signs of non-accidental injury could be the difference between a child returning to danger or being protected.\n\nIf you work with children in any clinical capacity, this episode is essential listening. Share it with your colleagues, your students, and your team.\n\nVisit us at focuslinks.in for more episodes and resources from the world of eye care. Because sometimes, the most important things are hiding in plain sight.\n\n---",
       "tags": "pediatric,trauma,nat,reporting",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-26.mp3",
+      "duration": "12:48",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4e6aac07-5bb0-4a4b-9a32-ab20e05dd968",
+      "generatedAt": "2026-08-09T04:58:17.078Z"
     },
     {
       "episodeOrder": 27,

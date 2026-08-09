@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T08:52:48.589Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T08:53:36.440Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -77,14 +77,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Descemet’s Membrane and Endothelium: The Pump That Keeps the Cornea Clear",
-      "description": "Endothelial pump function, guttae, and why counting cells changes the management plan.",
+      "title": "Descemet's Membrane & Corneal Endothelium: The Pump Behind Clear Vision",
+      "description": "Why is your cornea perfectly transparent even though it's living tissue? The answer lies in two microscopic layers working silently at the back of your eye — Descemet's membrane and the corneal endothelium. In this episode of Focus Cast by Focuslinks.in, we break down exactly how these innermost corneal layers maintain the precise hydration balance that makes clear vision possible.\n\nWe explore the structure and composition of Descemet's membrane, including its two distinct zones and how it thickens throughout your lifetime. Then we dive into the corneal endothelium — a single layer of hexagonal cells that functions as a tireless biological pump, actively moving fluid out of the corneal stroma to prevent swelling and opacity. You will learn why endothelial cell loss is irreversible, what specular microscopy measures and why it matters before any intraocular surgery, and how polymegethism and pleomorphism signal early endothelial stress.\n\nWe also cover Fuchs endothelial corneal dystrophy in depth — what causes it, why vision is classically worse in the morning, and how the revolutionary surgical procedure DMEK has transformed treatment outcomes. Finally, we look at the cutting-edge science of endothelial cell therapy and what it could mean for the millions of patients worldwide waiting for corneal transplants.\n\nWhether you are an ophthalmology student, a clinician refreshing your fundamentals, or simply someone fascinated by how the human eye works, this episode delivers clear, clinically relevant insights in an accessible format.\n\nListen now and visit Focuslinks.in for more ophthalmology episodes, study resources, and clinical content designed to sharpen your knowledge.\n\n---",
       "tags": "endothelium,descemets,pump,guttae",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-05.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8862444e-8fc5-49f4-95c5-12005eeea275",
+      "generatedAt": "2026-08-09T08:53:35.408Z"
     },
     {
       "episodeOrder": 6,

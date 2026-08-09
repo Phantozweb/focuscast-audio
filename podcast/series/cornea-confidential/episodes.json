@@ -9,7 +9,7 @@
   "order": 3,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T08:56:28.512Z",
+  "lastUpdated": "2026-08-09T08:56:31.327Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -140,27 +140,27 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Herpes Zoster Ophthalmicus: Hutchinson's Sign & Ocular Risk",
-      "description": "When a patient walks in with a unilateral forehead rash and a red eye, the clock is already ticking. In this clinically focused episode of Focus Cast, we break down everything optometrists need to know about Herpes Zoster Ophthalmicus — from the anatomical significance of Hutchinson's sign to the slit lamp findings that change your management plan on the spot.\n\nWe explore why nasociliary nerve involvement is the critical link between forehead vesicles and serious ocular complications, and why the absence of nasal tip lesions never rules out ocular disease. You'll get a detailed walkthrough of anterior segment findings including zoster versus HSV dendrite differentiation, stromal keratitis patterns, trabeculitis-driven IOP spikes, and anterior uveitis management. We also cover posterior segment red flags — acute retinal necrosis, optic neuritis, and cranial nerve palsies — so you know exactly when to dilate, when to image, and when to refer urgently.\n\nBeyond diagnosis, this episode delivers practical chairside decision-making: antiviral prescribing windows, topical corticosteroid use with antiviral coverage, cycloplegic selection, IOP management strategies, and follow-up scheduling during the acute and chronic phases of HZO.\n\nWhether you're a seasoned clinician or an optometry resident building your cornea management skills, this episode gives you the clinical framework to protect your patients' vision from one of the most consequential conditions you'll encounter in practice.\n\nListen now, then share this episode with a colleague or resident who needs it. Visit FocusLinks.in for more evidence-based episodes built exclusively for eye care professionals.\n\n---",
+      "title": "Herpes Zoster Ophthalmicus: Hutchinson’s Sign and Beyond",
+      "description": "Forehead vesicles, the nasociliary branch, and the ocular complications that demand slit lamp follow-up.",
       "tags": "hzv,shingles,hutchinson,zoster",
-      "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-10.mp3",
-      "duration": "12:28",
-      "imageUrl": "",
-      "status": "generated",
-      "runId": "ab566e15-ee1f-493f-b328-73295f748902",
-      "generatedAt": "2026-08-09T08:56:28.512Z"
-    },
-    {
-      "episodeOrder": 11,
-      "title": "Corneal Dystrophies: Map-Dot-Fingerprint and Granular",
-      "description": "The anterior and stromal dystrophies an optometrist will see — patterns, inheritance, and management.",
-      "tags": "dystrophy,granular,map-dot,inheritance",
       "category": "Cornea",
       "audioUrl": "",
       "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Corneal Dystrophies: Map-Dot-Fingerprint & Granular Explained",
+      "description": "If a patient walks into your chair with recurrent morning eye pain, photophobia, and tearing — and your dry eye workup comes up empty — are you thinking corneal dystrophy? In this clinically focused episode of Focus Cast, we break down two of the most important corneal dystrophies you will encounter in optometric practice: Map-Dot-Fingerprint dystrophy (EBMD) and Granular corneal dystrophy.\n\nWe cover the pathophysiology behind epithelial basement membrane disruption and hemidesmosome failure, the TGFBI gene mutations driving both conditions, and the autosomal dominant inheritance patterns worth exploring in your patient history. At the slit lamp, we walk through the classic map, dot, and fingerprint patterns using retroillumination technique, and the discrete breadcrumb-like stromal opacities that define granular dystrophy — including that critical clear intervening stroma that separates it from lattice and macular dystrophy.\n\nYou will also get a practical differential diagnosis framework, guidance on when corneal topography and anterior segment OCT change your clinical decision-making, and a clear management pathway — from preservative-free lubricants and hypertonic saline to bandage contact lenses, PTK referral thresholds, and keratoplasty considerations. We also address why unrecognized EBMD is a contraindication to LASIK and how these dystrophies can quietly undermine your best-corrected visual acuity results.\n\nThis episode is built for licensed optometrists, residents, and clinical eye care practitioners who want evidence-based, chairside-ready content they can apply immediately.\n\nListen now and sharpen your slit lamp skills. Visit Focuslinks.in for more clinical episodes of Focus Cast made exclusively for eye care professionals.\n\n---",
+      "tags": "dystrophy,granular,map-dot,inheritance",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-11.mp3",
+      "duration": "12:21",
+      "imageUrl": "",
+      "status": "generated",
+      "runId": "cb977a46-271f-427c-87f6-9d3b6e22c72f",
+      "generatedAt": "2026-08-09T08:56:31.327Z"
     },
     {
       "episodeOrder": 12,

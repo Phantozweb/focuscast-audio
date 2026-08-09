@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T05:36:57.117Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T05:37:26.019Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Juvenile Idiopathic Arthritis: The Silent Uveitis of Children",
-      "description": "The ANA-positive oligoarthritis, the asymptomatic anterior uveitis, and the mandatory screening schedule.",
+      "title": "JIA & Silent Uveitis: Protecting Your Child's Vision",
+      "description": "Did you know a child could be silently losing their vision right now — with zero pain, zero redness, and zero warning signs? In this eye-opening episode of Focus Cast, we uncover one of the most overlooked complications of Juvenile Idiopathic Arthritis (JIA): uveitis in children. Unlike typical eye inflammation, JIA-associated uveitis causes no symptoms at all — making it nearly impossible to detect without regular eye screenings. Yet left untreated, it can lead to cataracts, glaucoma, and permanent vision loss.\n\nWe break down exactly what JIA is, why the immune system attacks the eyes, which children are most at risk (especially ANA-positive girls with oligoarticular JIA), and why the silence of this condition makes it so devastatingly dangerous. You'll also learn about the latest treatment options — from corticosteroid eye drops to biologic medications like adalimumab — and why early detection is the single most powerful tool we have.\n\nWhether you're a parent of a child with JIA, a pediatrician, a school nurse, or simply someone who cares about children's health, this episode delivers critical, potentially life-changing information. We also speak directly to teens living with JIA about why their eye appointments matter just as much as their joint check-ups.\n\nKnowledge is the first line of defense. If your child has been diagnosed with JIA, don't wait for symptoms — ask their doctor about pediatric ophthalmology screenings today. Listen now, share with someone who needs to hear this, and visit Focuslinks.in for more expert eye health content.\n\n---",
       "tags": "jia,ana,screening,oligoarthritis",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-12.mp3",
+      "duration": "12:02",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d37812a9-7935-4d50-bdde-79eb70c2a7f0",
+      "generatedAt": "2026-08-09T05:37:26.019Z"
     },
     {
       "episodeOrder": 13,

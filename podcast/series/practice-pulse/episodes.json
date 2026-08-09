@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T05:01:42.965Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T05:01:49.410Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Billing and Coding: The Eye Exam Codes",
-      "description": "The 92004/92014 versus 9920x decision, the medical versus vision plan, and the documentation that supports it.",
+      "title": "Eye Exam Billing Codes Explained: 92000 vs E&M Codes",
+      "description": "Confused about which billing codes to use for eye exams? You are not alone. In this episode of Focus Cast by Focuslinks.in, we break down everything eye care professionals need to know about billing and coding for eye exams — without the jargon.\n\nWe cover the two main families of eye exam codes: the ophthalmological services codes in the 92000 series (92002, 92004, 92012, and 92014) and the Evaluation and Management codes (99202 through 99215). You will learn exactly when to use each one, what distinguishes a comprehensive exam from an intermediate exam, and how to handle medical management visits for conditions like glaucoma, diabetic eye disease, and macular degeneration.\n\nWe also walk through the most common and costly billing mistakes providers make, including upcoding without proper documentation, misidentifying new versus established patients, and forgetting that refraction (code 92015) is always billed separately and rarely covered by medical insurance. Plus, we explain how to correctly bill both a 92000 series code and an E&M code on the same day using modifier 25 — and how to document it so it holds up to an audit.\n\nWhether you are an optometrist, ophthalmologist, or practice manager looking to reduce claim denials and stay compliant, this episode gives you a clear, practical framework for billing eye exams with confidence.\n\nVisit Focuslinks.in to explore more resources, tools, and episodes built specifically for eye care professionals.\n\n---",
       "tags": "coding,92004,92014,medical-vision",
-      "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-08.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "42a64cf9-a1ae-400d-bf8f-20a9298007ec",
+      "generatedAt": "2026-08-09T05:01:49.410Z"
     },
     {
       "episodeOrder": 9,

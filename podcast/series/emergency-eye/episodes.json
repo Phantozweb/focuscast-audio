@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T04:48:17.410Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T04:49:16.099Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Chemical Burns: The Irrigation That Saves Sight",
-      "description": "The copious, continuous, immediate irrigation, the Morgan lens, the pH target, and the limbal ischemia grading.",
+      "title": "Chemical Eye Burns: The Irrigation That Can Save Your Sight",
+      "description": "What would you do if a chemical splashed into your eye right now? In this eye-opening episode of Focus Cast, we break down everything you need to know about chemical eye burns — one of the most time-sensitive medical emergencies you may ever face. Discover why the first thirty seconds matter more than any hospital treatment, and why plain water flowing from your tap could be the difference between full recovery and permanent vision loss.\n\nWe explore the critical difference between acid burns and alkali burns, and why alkali injuries — from common household products like drain cleaners and ammonia — are far more dangerous than most people realize. You will learn the correct irrigation technique, why you must flush your eye for a full fifteen to twenty minutes, and what actually happens when you arrive at the emergency room after a chemical eye injury.\n\nFrom pH testing and limbal stem cell damage to amniotic membrane grafts and corneal transplantation, we cover the full spectrum of treatment — and explain why none of it works as well as fast, effective first aid at the scene. Real clinical cases illustrate just how dramatically early irrigation changes outcomes.\n\nWhether you work in a lab, a salon, a factory, or your own kitchen, this episode gives you the knowledge to act decisively when it counts most. Chemical eye injuries can happen to anyone, anywhere, and preparation is everything.\n\nListen now, share this episode with someone you care about, and visit Focuslinks.in for more expert eye health resources. Your vision is irreplaceable — protect it.\n\n---",
       "tags": "chemical,burn,irrigation,morgan-lens",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-02.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "76256d48-db52-49f0-bd26-017924c6fcf4",
+      "generatedAt": "2026-08-09T04:49:16.099Z"
     },
     {
       "episodeOrder": 3,

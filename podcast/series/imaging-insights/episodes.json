@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T06:19:59.614Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T06:20:51.805Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,14 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Meibography: The Infrared Gland Imaging",
-      "description": "The morphological grading, the dropout, and the tortuosity that the infrared reveals.",
+      "title": "Meibography: See Inside Your Eyelids with Infrared Light",
+      "description": "Ever wondered why your eyes feel dry, gritty, or uncomfortable no matter what you try? The answer might be hiding inside your eyelids — and a remarkable technology called meibography can finally reveal it. In this episode of Focus Cast by Focuslinks.in, we explore how infrared imaging is transforming the way eye doctors diagnose and treat dry eye disease.\n\nWe break down everything you need to know about the meibomian glands — the tiny oil-producing structures tucked inside your eyelids that keep your tears stable and your eyes comfortable. When these glands become blocked, damaged, or begin to atrophy, the result is meibomian gland dysfunction (MGD), one of the leading causes of chronic dry eye. For decades, doctors could only guess at what was happening beneath the surface. Meibography changed all of that.\n\nUsing safe, painless infrared light, meibography gives eye care professionals a clear, detailed image of gland structure — enabling early detection, accurate diagnosis, and objective treatment monitoring. We also cover who is most at risk, including contact lens wearers, heavy screen users, and even people who regularly wear eye makeup. Plus, we walk through the latest treatment options, from warm compresses to thermal pulsation therapy, intense pulsed light, and radiofrequency treatments.\n\nWhether you suffer from dry eyes or simply want to stay ahead of your eye health, this episode gives you the knowledge to have a more informed conversation with your eye care provider. Ask about meibography at your next visit — it could make all the difference.\n\nListen now and visit Focuslinks.in for more expert eye health content.\n\n---",
       "tags": "meibography,infrared,dropout,tortuosity",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-27.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a238d471-37e8-4f66-a9f7-278bf24fffef",
+      "generatedAt": "2026-08-09T06:20:51.805Z"
     },
     {
       "episodeOrder": 28,

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T06:30:08.901Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T06:30:19.425Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Leukemia and Lymphoma: The Systemic Malignancy at the Eye",
-      "description": "The retinal infiltrates, the choroidal involvement, and the oncology and pathology coordination.",
+      "title": "Leukemia & Lymphoma: When Blood Cancer Strikes the Eye",
+      "description": "Did you know that leukemia and lymphoma can show up in your eyes before you even know you have cancer? In this eye-opening episode of Focus Cast, we explore the surprising and often overlooked connection between blood cancers and eye health — and why your ophthalmologist might be the first person to save your life.\n\nWe break down exactly how leukemia and lymphoma affect different structures of the eye, from salmon-colored conjunctival lesions and leukemic uveitis to retinal hemorrhages, optic nerve infiltration, and the notoriously misdiagnosed primary vitreoretinal lymphoma. You'll learn why ocular symptoms like floaters, blurry vision, and a red painful eye that won't respond to treatment could be warning signs of something far more serious than a routine eye condition.\n\nWe also walk through how ophthalmologists diagnose these conditions using dilated fundus exams, OCT imaging, fluorescein angiography, and vitreous biopsy — and what treatment options exist when blood cancer reaches the eye. Through a compelling real-world patient scenario, you'll see exactly why early diagnosis makes all the difference in outcomes.\n\nWhether you're a patient living with leukemia or lymphoma, a caregiver, a medical professional, or simply someone passionate about health, this episode will change the way you think about eye exams and systemic disease.\n\nYour eyes are never just an eye problem — they reflect the health of your entire body. Don't miss this episode.\n\nListen now and visit **focuslinks.in** for more episodes, articles, and resources on eye health and vision science.\n\n---",
       "tags": "leukemia,lymphoma,infiltrate,oncology",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-22.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "086b0b9a-a984-4634-817a-7cbb79fd7f5b",
+      "generatedAt": "2026-08-09T06:30:19.425Z"
     },
     {
       "episodeOrder": 23,

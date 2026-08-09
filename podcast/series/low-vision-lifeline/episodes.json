@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T05:32:17.498Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T05:32:29.895Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -375,14 +375,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Family Education: The Support Network",
-      "description": "The family meeting, the home modification, and the role that loved ones play in adaptation.",
+      "title": "Family Education & Support Network: How Families Shape Us",
+      "description": "What if the most powerful classroom you ever entered had no desks, no textbooks, and no grades? In this episode of Focus Cast, we explore the profound role of family education and the support network that shapes who we become — long before and long after formal schooling ever begins.\n\nDrawing on research from the Harvard Family Research Project and real-life stories, we unpack how parents, grandparents, siblings, and extended family members serve as a child's first and most lasting teachers. From building emotional intelligence to fostering a love of learning, the family environment influences academic success, resilience, and personal identity in ways that no school curriculum can fully replicate.\n\nWe also have an honest conversation about the real challenges families face today — economic pressure, mental health struggles, digital inequality, and the erosion of extended family connections — and why acknowledging these barriers is the first step toward overcoming them.\n\nWhether you are a parent, grandparent, sibling, or caregiver, this episode offers practical, actionable strategies to strengthen your family's educational support network. Learn how open communication, shared reading, celebrating effort over outcomes, and emotional modeling can transform your home into a powerful learning environment.\n\nThis is not about being a perfect family. It is about showing up, staying connected, and understanding that every conversation, every moment of presence, and every act of care is quietly teaching something that lasts a lifetime.\n\nIf this episode resonates with you, share it with someone who needs to hear it. Visit Focuslinks.in for more episodes and resources designed to help you think deeper, learn smarter, and live better.\n\n---",
       "tags": "family,education,home,support",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-29.mp3",
+      "duration": "12:56",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1c073e2d-45c1-4f5f-afdd-668063b50d8f",
+      "generatedAt": "2026-08-09T05:32:29.895Z"
     },
     {
       "episodeOrder": 30,

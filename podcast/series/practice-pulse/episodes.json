@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T05:01:56.410Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T05:02:30.385Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -141,14 +141,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Insurance Verification: The Pre-Visit Discipline",
-      "description": "The benefits check, the patient responsibility estimate, and the conversation that prevents collections.",
+      "title": "Insurance Verification: The Pre-Visit Discipline That Protects Your Practice",
+      "description": "What if one simple process change could cut your claim denial rate by two-thirds? In this episode of Focus Cast, we break down insurance verification as a pre-visit discipline — not a last-minute checkbox, but a systematic habit that protects your patients, your revenue, and your team's sanity.\n\nWe start with the real cost of skipping or rushing insurance verification: surprise bills that erode patient trust, claim denials that drain your billing team's time, and write-offs that quietly eat into your practice's bottom line. Then we walk through exactly how to build a verification process that actually works — including the right timeline (hint: not the morning of the appointment), a standardized checklist covering everything from active coverage and deductibles to prior authorization requirements, and why thorough documentation is your best defense when disputes arise.\n\nWe also explore how technology — from payer portals to batch eligibility verification tools — can dramatically reduce the manual workload, and share a real-world example of a physical therapy clinic that dropped its denial rate from 18% to under 6% with one focused change.\n\nPerhaps most importantly, we reframe insurance verification as a patient communication opportunity. When you know what a patient's plan covers before they walk in, you can have honest, proactive conversations that build trust and eliminate billing surprises at checkout.\n\nIf you manage a medical, dental, or therapy practice and want cleaner claims, stronger cash flow, and a less stressed front desk team, this episode is for you.\n\nVisit Focuslinks.in for more tools, resources, and episodes designed to help healthcare professionals do their best work.\n\n---",
       "tags": "insurance,verification,benefits,estimate",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-11.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7b743f7f-0c72-4f73-a5bc-9ef5c5c264cb",
+      "generatedAt": "2026-08-09T05:02:30.385Z"
     },
     {
       "episodeOrder": 12,

@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T08:21:20.577Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T08:23:43.919Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -351,14 +351,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "The Longitudinal Patient: The 40-Year Relationship",
-      "description": "The records, the rapport, the transitions, and the joy and burden of the decades.",
+      "title": "The 40-Year Doctor-Patient Relationship: Why It Saves Lives",
+      "description": "What happens when a doctor and patient walk through four decades of life together? In this deeply human episode of Focus Cast, we explore the power of the longitudinal patient relationship and why long-term continuity of care may be one of the most undervalued forces in modern medicine.\n\nWe dive into the research, including a landmark British Medical Journal study linking higher continuity of care to lower mortality rates, and unpack what that truly means for how we build and protect relationships with our physicians. You will hear how biographical knowledge, the kind that lives in memory and relationship rather than medical records, allows doctors to catch what strangers simply cannot. From an early-stage lymphoma detected because a doctor knew his patient well enough to trust her discomfort, to the quiet ways grief and stress show up in the body over a lifetime, this episode makes the case that the relationship itself is the intervention.\n\nWe also turn the lens on physicians, exploring how long-term patient relationships protect doctors from burnout and restore meaning to a profession increasingly shaped by speed, fragmentation, and administrative overload.\n\nWhether you are a patient trying to navigate a fractured healthcare system, a clinician reflecting on what drew you to medicine, or simply someone who believes human connection belongs at the heart of healthcare, this conversation is for you.\n\nListen now and discover why continuity of care is not a soft ideal but a clinical and economic imperative. Visit Focuslinks dot in for more episodes, transcripts, and resources from Focus Cast.\n\n---",
       "tags": "longitudinal,records,rapport,decades",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-27.mp3",
+      "duration": "12:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e4948300-0e94-4be1-bb78-83ed0144518c",
+      "generatedAt": "2026-08-09T08:23:43.010Z"
     },
     {
       "episodeOrder": 28,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:05:31.637Z",
+  "lastUpdated": "2026-08-09T05:05:43.383Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 346,
+  "generatedEpisodes": 347,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -179,10 +179,10 @@
       "category": "Practice Management",
       "order": 12,
       "totalEpisodes": 30,
-      "generatedEpisodes": 16,
+      "generatedEpisodes": 17,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/episodes.json",
       "audioDir": "podcast/series/practice-pulse/audio",
-      "lastUpdated": "2026-08-09T05:05:16.178Z"
+      "lastUpdated": "2026-08-09T05:05:27.017Z"
     },
     {
       "slug": "pharmacology-focus",

@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T05:53:45.946Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T05:54:32.631Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Orbital Tumors: The Differential and the Imaging",
-      "description": "From cavernous hemangioma to lymphoma — the MRI, the biopsy, and the multidisciplinary approach.",
+      "title": "Orbital Tumors: Differential Diagnosis & Imaging Explained",
+      "description": "What's causing that slowly progressive proptosis? In this episode of Focus Cast, we break down one of the most clinically rich topics at the intersection of ophthalmology, radiology, and oncology — orbital tumors. Whether you're a clinician, a trainee, or simply a lover of diagnostic medicine, this episode gives you a clear, systematic framework for approaching orbital masses from presentation to imaging.\n\nWe walk through the essential intraconal versus extraconal classification, covering key lesions like cavernous venous malformations with their hallmark progressive fill-in enhancement, optic nerve sheath meningiomas and the classic tram-track sign, optic nerve gliomas in the pediatric population, dermoid cysts, lacrimal gland tumors including the critical distinction between pleomorphic adenoma and adenoid cystic carcinoma, and orbital lymphoma with its characteristic molding behavior. We also explore inflammatory mimics like idiopathic orbital inflammatory disease and thyroid eye disease, and discuss metastatic orbital disease including the counterintuitive enophthalmos caused by scirrhous breast carcinoma.\n\nOn the imaging side, we clarify when to reach for CT versus MRI, how fat-suppressed sequences and diffusion-weighted imaging sharpen your diagnostic accuracy, and what specific imaging features should raise red flags for malignancy.\n\nBy the end of this episode, you'll have a practical, memorable approach to orbital tumor diagnosis that integrates clinical clues with imaging findings. If you found this episode valuable, share it with a colleague and leave us a review. Visit Focuslinks dot in to explore more episodes and learning resources. Stay curious, stay sharp, and keep focusing on what matters.\n\n---",
       "tags": "orbital,tumor,mri,biopsy",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-23.mp3",
+      "duration": "12:08",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bfd32110-0933-4eb9-b8fb-6a6db56a6115",
+      "generatedAt": "2026-08-09T05:54:32.631Z"
     },
     {
       "episodeOrder": 24,

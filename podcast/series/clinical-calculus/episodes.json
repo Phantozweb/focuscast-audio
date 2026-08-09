@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T07:01:36.424Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T07:05:12.239Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Breaking Bad News: The SPIKES Protocol at the Eye Exam",
-      "description": "The setting, the perception, the invitation, the knowledge, the empathy, and the strategy and summary.",
+      "title": "Breaking Bad News in Eye Care: The SPIKES Protocol Guide",
+      "description": "How do you tell a patient their vision may never be the same? It's one of the most challenging moments in clinical practice — and most eye care professionals face it with little to no formal training. In this episode of Focus Cast, we explore the SPIKES protocol, a proven six-step communication framework that helps optometrists, ophthalmologists, and eye care students deliver difficult diagnoses with clarity, compassion, and confidence.\n\nWe break down each step of the SPIKES protocol — Setting, Perception, Invitation, Knowledge, Emotions, and Strategy — and bring them to life with real-world scenarios from the eye clinic. Whether you're delivering a glaucoma diagnosis, sharing results of a retinal scan, or navigating a conversation about progressive vision loss, this episode gives you a practical roadmap for one of medicine's most human moments.\n\nYou'll learn why the physical environment matters before you say a word, how asking patients what they already know can transform the conversation, why silence after delivering bad news is one of your most powerful tools, and how acknowledging emotion leads to better treatment outcomes and stronger patient trust.\n\nVision is deeply personal. When patients receive difficult eye health news, they're not just processing a diagnosis — they're confronting their independence, identity, and future. The way that news is delivered matters enormously. This episode makes the case that patient communication isn't a soft skill. In eye care, it's a clinical skill.\n\nListen now and share this episode with a colleague, student, or anyone working in patient care. Visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "bad-news,spikes,empathy,strategy",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-23.mp3",
+      "duration": "12:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "11158eb5-054f-4cf2-b5d3-6eec4d9fd89b",
+      "generatedAt": "2026-08-09T07:05:11.416Z"
     },
     {
       "episodeOrder": 24,

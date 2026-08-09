@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T05:49:35.800Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T05:49:49.156Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Chalazion: The Chronic Lipogranuloma",
-      "description": "The obstructed meibomian gland, the warm compress and intralesional steroid, and the surgery threshold.",
+      "title": "Chalazion Explained: Causes, Treatments & Prevention Tips",
+      "description": "Ever noticed a stubborn, painless lump on your eyelid that just won't go away? You might be dealing with a chalazion — and in this episode of Focus Cast, we break down everything you need to know about this surprisingly common eyelid condition.\n\nA chalazion is a chronic lipogranuloma that forms when a meibomian gland in your eyelid becomes blocked, trapping oil and triggering an inflammatory response deep within the eyelid tissue. Unlike a stye, it isn't an infection — but it can be just as frustrating to deal with, especially when it keeps coming back.\n\nIn this episode, we cover what a chalazion actually is and how it forms, the key differences between a chalazion and a stye, who is most at risk including people with blepharitis, rosacea, and seborrheic dermatitis, and why some people experience recurring chalazia. We also walk through every stage of treatment — from warm compresses and steroid injections to surgical drainage — and share practical prevention strategies including eyelid hygiene routines and the role of omega-3 fatty acids in supporting meibomian gland health. We also discuss a critical warning sign that should never be ignored when it comes to persistent eyelid lumps.\n\nWhether you are dealing with a chalazion right now or simply want to understand your eye health better, this episode gives you clear, medically grounded information in plain language.\n\nListen now and take the first step toward healthier eyes. For more episodes on eye health and everyday wellness, visit us at focuslinks.in.\n\n---",
       "tags": "chalazion,lipogranuloma,compress,steroid",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-10.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f604fd98-b6c3-4294-b2b8-814e04961a7f",
+      "generatedAt": "2026-08-09T05:49:49.156Z"
     },
     {
       "episodeOrder": 11,

@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T08:47:23.199Z",
+  "lastUpdated": "2026-08-09T08:48:26.081Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -178,16 +178,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Confrontation Visual Fields: The 1-Minute Eye Screen Explained",
-      "description": "What if a doctor wiggling their fingers could reveal a brain tumor, a stroke, or silent glaucoma — all in under a minute? In this episode of Focus Cast, we break down confrontation visual field testing, one of the most powerful yet underappreciated tools in clinical medicine. Whether you're a patient curious about what happens during your eye exam, a medical student building your clinical skills, or simply someone who loves understanding how the body works, this episode delivers clear, engaging answers.\n\nWe walk you through exactly how the test is performed, why the examiner mirrors your eye position, and what different patterns of vision loss actually mean. You'll learn the difference between homonymous hemianopia and bitemporal hemianopia, what each pattern reveals about the brain, and why a pituitary tumor can quietly steal your side vision before you ever notice it. We also explore how glaucoma silently erodes peripheral vision and why confrontation testing, while limited, remains a vital first screen in both ophthalmology and neurology.\n\nWe're honest about what this test can and can't do, comparing it to a smoke detector — fast, accessible, and remarkably useful as a first alert, even if it's not the full investigation. From emergency rooms to rural clinics, this no-equipment bedside test has stood the test of time for good reason.\n\nBy the end of this episode, you'll never look at a routine eye exam the same way again. Visit us at Focuslinks.in for more eye care content that actually makes sense, and subscribe so you never miss an episode of Focus Cast.\n\n---",
+      "title": "Confrontation Visual Fields: The 60-Second Eye Test Explained",
+      "description": "What if a simple one-minute test could reveal a stroke, a brain tumor, or early glaucoma — no equipment required? In this episode of Focus Cast, we break down the confrontation visual field test: what it is, how it works, and why this deceptively simple screening tool has remained a cornerstone of eye care and neurology for over a century.\n\nWe explore how the test is performed, walking through the face-to-face technique that allows clinicians to map a patient's peripheral and central vision using nothing more than their hands and careful observation. You'll learn how different diseases leave distinct fingerprints on the visual field — from the creeping peripheral loss of glaucoma to the dramatic hemianopia caused by stroke, to the classic bitemporal pattern that points toward a pituitary tumor pressing on the optic chiasm.\n\nWe also discuss who needs this test and when, covering high-risk groups including older adults, diabetic patients, and anyone experiencing unexplained headaches or subtle changes in side vision. And for clinicians and students, we make the case for why this sixty-second, zero-cost test should never be skipped.\n\nWhether you're a patient who wants to understand what happens during an eye exam, a student learning clinical skills, or a practitioner looking for a quick refresher, this episode delivers clear, practical insight into one of medicine's most elegant diagnostic tools.\n\nVisual field loss is silent, often invisible to the patient, and can be the earliest warning sign of something serious. Awareness is your first line of defense. Listen now, and visit Focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "visual-field,confrontation,screening,neuro",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-13.mp3",
-      "duration": "12:33",
+      "duration": "12:29",
       "imageUrl": "",
       "status": "generated",
-      "runId": "c0b38842-e320-4811-b1f1-a0e797e745ec",
-      "generatedAt": "2026-08-09T08:47:22.368Z"
+      "runId": "ce7e84f2-0a6d-490b-bb70-468ffc19afbb",
+      "generatedAt": "2026-08-09T08:48:25.277Z"
     },
     {
       "episodeOrder": 14,

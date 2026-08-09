@@ -1,0 +1,180 @@
+{
+  "slug": "chairside-atlas",
+  "name": "Chairside Atlas",
+  "tagline": "The Complete Optometry Journey",
+  "description": "A 30-episode grand tour of everything an optometrist encounters from the moment a patient sits down to the final prescription — exam workflow, history, acuity, pupils, motility, slit lamp, fundus, refraction, and prescribing.",
+  "icon": "Compass",
+  "accent": "#2563eb",
+  "category": "General",
+  "order": 1,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:29.791Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "The First Sixty Seconds: Building Rapport and Reading the Patient",
+      "description": "How the opening moments of an eye exam shape cooperation, trust, and the quality of history you can extract.",
+      "tags": "communication,history-taking,rapport,chairside",
+      "category": "General",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Chief Complaint and HPI: The Anchor of Every Exam",
+      "description": "Structuring the history of present illness so it drives differential diagnosis rather than padding the chart.",
+      "tags": "history,HPI,chief-complaint,documentation",
+      "category": "General",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Past Ocular History: What Old Records Reveal",
+      "description": "Mining prior exams, surgeries, and medications for clues that change today’s plan.",
+      "tags": "history,records,review,charting",
+      "category": "General",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Medical and Family History Through the Ocular Lens",
+      "description": "Translating systemic disease into ocular risk — diabetes, hypertension, autoimmune, and hereditary patterns.",
+      "tags": "systemic,medical-history,family-history,risk",
+      "category": "General",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Medication Reconciliation: Ocular Side Effects You Cannot Miss",
+      "description": "Building a mental library of drugs that threaten the retina, optic nerve, and surface.",
+      "tags": "pharmacology,side-effects,medications,toxicity",
+      "category": "Pharmacology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Visual Acuity: More Than a Snellen Letter",
+      "description": "Distance, near, contrast, and low-vision acuity — choosing the right chart and interpreting the number.",
+      "tags": "acuity,snellen,logmar,contrast",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Pinhole Acuity: The Bedside Refractor",
+      "description": "Using the pinhole to separate refractive from pathological vision loss in under a minute.",
+      "tags": "acuity,pinhole,refraction,screening",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Near Vision and Presbyopia: Reading the Add",
+      "description": "Assessing near demands, determining the add, and counseling patients on progressive versus single vision.",
+      "tags": "presbyopia,near-vision,add,progressives",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Color Vision Testing: Detecting Acquired Deficits",
+      "description": "Ishihara, D-15, and Hardy-Rand-Rittler — congenital versus acquired color loss and what it signals.",
+      "tags": "color-vision,ishihara,optic-nerve,acquired",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Contrast Sensitivity: The Hidden Dimension of Sight",
+      "description": "Pelli-Robson and beyond — why 20/20 patients still struggle to see at dusk or in glare.",
+      "tags": "contrast-sensitivity,pelli-robson,functional-vision,glare",
+      "category": "Refraction",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Pupil Examination: The Direct and Consensual Pathway",
+      "description": "A reproducible six-step pupil exam and what anisocoria at different light levels means.",
+      "tags": "pupils,anisocoria,rapd,neuro",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "The Swinging Flashlight Test: Catching a Relative Afferent Defect",
+      "description": "Mastering the technique and interpretation of the RAPD — the single most useful bedside neuro-ophthalmic sign.",
+      "tags": "rapd,swinging-flashlight,optic-nerve,afferent",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Confrontation Visual Fields: A One-Minute Screen",
+      "description": "Four-quadrant and target-counting methods that catch hemianopias and quadrantanopias before formal perimetry.",
+      "tags": "visual-field,confrontation,screening,neuro",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Extraocular Motility: The Six Muscles and Their Nerves",
+      "description": "Ductions, versions, cover-uncover in cardinal positions — and localizing a palsy in seconds.",
+      "tags": "motility,cranial-nerves,strabismus,versions",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "The Cover Test and Cover-Uncover: Quantifying Ocular Deviation",
+      "description": "Distinguishing tropia from phoria, measuring the shift, and knowing when to refer.",
+      "tags": "cover-test,tropia,phoria,strabismus",
+      "category": "Strabismus",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T05:12:35.369Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T05:12:45.970Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Mydriatics and Cycloplegics: The Dilating Drops",
-      "description": "Tropicamide, phenylephrine, cyclopentolate, atropine — the onset, duration, and the cycloplegia strength.",
+      "title": "Mydriatics & Cycloplegics: Why Eye Drops Blur Your Vision",
+      "description": "Ever walked out of an eye exam squinting like you were staring into the sun, or tried to read your phone only to find everything hopelessly blurry? Those effects are no accident. In this episode of Focus Cast, we pull back the curtain on mydriatics and cycloplegics, the dilating drops that eye care professionals rely on every single day.\n\nWe start with the basics: what your pupil actually is, how the iris and ciliary muscle work together to control light and focus, and why doctors need to temporarily override that system to get a clear look inside your eye. From spotting early signs of diabetic retinopathy and glaucoma to measuring a child's true glasses prescription without interference, dilating drops are far more than a minor inconvenience.\n\nWe then dive into the pharmacology behind the most commonly used agents, including atropine, tropicamide, cyclopentolate, and phenylephrine, covering how each one works, how long its effects last, and when each is the right tool for the job. You will also learn about the surprisingly glamorous history of atropine, rooted in Renaissance Italy, and discover how low-dose atropine is now being used to slow the progression of myopia in children, one of the most exciting developments in modern eye care.\n\nWe also cover the side effects you should know about, from light sensitivity and blurred near vision to rare but serious systemic effects, so you can feel informed and prepared before your next dilated eye exam.\n\nIf you have ever wondered what is really happening when those drops go in, this episode gives you the full picture. Listen now, and visit Focuslinks dot in for more eye care content that brings the science of vision straight to your ears.\n\n---",
       "tags": "mydriatic,cycloplegic,tropicamine,cyclopentolate",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-10.mp3",
+      "duration": "12:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f888c2fa-ca67-49ab-866d-2c52a30a4bf0",
+      "generatedAt": "2026-08-09T05:12:45.970Z"
     },
     {
       "episodeOrder": 11,

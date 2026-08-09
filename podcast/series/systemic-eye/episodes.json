@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T06:28:38.545Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T06:28:48.603Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Lyme Disease: The Tick-Borne and the Endemic",
-      "description": "The erythema migrans, the ELISA and Western blot, and the ocular and neurologic manifestations.",
+      "title": "Lyme Disease Explained: Symptoms, Treatment & Prevention",
+      "description": "Every year, hundreds of thousands of people are diagnosed with Lyme disease, yet most of us wouldn't recognize the warning signs until it's too late. In this eye-opening episode of Focus Cast, we break down everything you need to know about one of the most commonly reported tick-borne illnesses in the world.\n\nWe start with how Lyme disease is transmitted through the bite of infected black-legged ticks, why these tiny parasites are so easy to miss, and exactly how long a tick needs to be attached before infection can occur. From there, we walk you through the stages of Lyme disease, starting with the tell-tale bull's-eye rash and flu-like symptoms of early infection, all the way to the serious joint, heart, and neurological complications that can develop if the disease goes untreated.\n\nWe also tackle one of the most debated topics in modern medicine, Post-Treatment Lyme Disease Syndrome, and what science currently understands about why some patients continue to suffer long after completing antibiotic treatment. Plus, we cover the most effective prevention strategies, from proper tick checks and insect repellents to the promising new Lyme disease vaccine currently making headlines.\n\nWith tick habitats expanding due to climate change and cases rising across the United States and Europe, understanding Lyme disease has never been more important. Whether you spend time hiking, gardening, or simply enjoying the outdoors, this episode could genuinely protect your health.\n\nListen now and share this episode with someone who spends time outdoors. For more health-focused episodes, articles, and resources, visit us at Focuslinks.in.\n\n---",
       "tags": "lyme,tick,elisa,neurologic",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-18.mp3",
+      "duration": "12:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "19b59298-ef11-423c-95ae-fa64286ddaee",
+      "generatedAt": "2026-08-09T06:28:48.603Z"
     },
     {
       "episodeOrder": 19,

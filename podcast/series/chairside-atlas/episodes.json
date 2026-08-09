@@ -8,19 +8,21 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-09T08:27:29.791Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T08:30:08.858Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "The First Sixty Seconds: Building Rapport and Reading the Patient",
-      "description": "How the opening moments of an eye exam shape cooperation, trust, and the quality of history you can extract.",
+      "title": "The First 60 Seconds: Building Patient Rapport in Eye Exams",
+      "description": "What happens before you touch the slit lamp may be the most diagnostically powerful moment of your entire eye exam. In this episode of Focus Cast by Focuslinks.in, we explore how the opening sixty seconds of an optometric encounter directly shape the quality of your patient history, the reliability of your clinical findings, and the accuracy of your differential diagnosis.\n\nDesigned exclusively for licensed optometrists, residents, and eye care professionals, this episode breaks down the clinical strategy behind patient rapport — not as a soft skill, but as a precision diagnostic tool. You will learn how your exam room environment influences patient disclosure, why open-ended questioning outperforms traditional intake questions, and how careful observation before retinoscopy or IOP measurement can surface critical findings like subtle ptosis, reduced blink rate, photophobia, or signs of fourth nerve palsy hiding in plain sight.\n\nWe cover how a well-structured verbal opening can surface buried chief complaints — the flashes and floaters a patient almost did not mention, the monocular blur that shifts your differential toward macular pathology, the night halos that point toward early cataract or elevated intraocular pressure. Every topic connects directly to your slit lamp exam, fundus evaluation, OCT decision-making, and clinical management priorities.\n\nWhether you are a seasoned clinician refining your chairside technique or a resident building your clinical foundation, this episode delivers immediately applicable strategies for smarter, faster, and more complete optometric care.\n\nListen now and bring something genuinely useful into your practice tomorrow. Find more clinical episodes built for eye care professionals at Focuslinks.in.\n\n---",
       "tags": "communication,history-taking,rapport,chairside",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-01.mp3",
+      "duration": "12:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "dea32337-bd6c-4cff-b8a7-c5116cf0f2b5",
+      "generatedAt": "2026-08-09T08:30:08.858Z"
     },
     {
       "episodeOrder": 2,

@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T05:43:10.532Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T05:43:21.810Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -334,14 +334,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Tuberculosis and the Eye: The Diagnostic Dilemma",
-      "description": "The interferon-gamma release assay, the chest CT, and the latent TB treatment before biologics.",
+      "title": "Tuberculosis and the Eye: The Diagnostic Dilemma Explained",
+      "description": "Could tuberculosis be silently stealing your vision without a single chest symptom? In this eye-opening episode of Focus Cast by Focuslinks.in, we explore one of medicine's most challenging diagnostic puzzles — ocular tuberculosis. Most people associate TB with the lungs, but this ancient bacterium can travel through the bloodstream and quietly settle inside the eye, causing inflammation, vision loss, and even permanent blindness if left undetected.\n\nWe break down exactly how TB affects the eye, from uveitis and choroidal granulomas to retinal vasculitis and serpiginous-like choroiditis, and why none of these presentations immediately point to tuberculosis. You will learn why diagnosing ocular TB is so difficult, why standard tests like the Mantoux test and IGRAs often fall short, and why even advanced tools like PCR on ocular fluid can miss the diagnosis entirely.\n\nWe also discuss the real-world stakes of getting this wrong — both the risk of vision loss from untreated disease and the burden of unnecessary anti-TB treatment. With India accounting for roughly a quarter of global TB cases, ocular TB is a significant and underrecognized cause of preventable blindness in high-burden countries.\n\nWhether you are a patient dealing with unexplained eye inflammation, a healthcare professional navigating complex uveitis cases, or simply someone curious about the surprising ways infectious disease intersects with eye health, this episode offers valuable insight you will not want to miss.\n\nListen now and share this episode with someone who needs to hear it. For more episodes, articles, and resources on eye health, visit us at Focuslinks.in.\n\n---",
       "tags": "tb,igra,ct,latent",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-26.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e933fbfe-8a16-4bf2-9c20-13f3c0ff3d9d",
+      "generatedAt": "2026-08-09T05:43:21.810Z"
     },
     {
       "episodeOrder": 27,

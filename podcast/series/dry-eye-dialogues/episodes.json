@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T04:32:51.154Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T04:33:03.097Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -276,14 +276,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "LipiFlow: The Thermal Pulsation Treatment",
-      "description": "The 12-minute in-office procedure, the gland clearance, and the patient selection and expectation.",
+      "title": "LipiFlow: The Dry Eye Treatment That Actually Works",
+      "description": "If your eyes feel gritty, burning, or constantly uncomfortable no matter how many eye drops you use, the real problem might be hiding inside your eyelids. In this episode of Focus Cast, we break down LipiFlow, the FDA-cleared thermal pulsation treatment that is transforming dry eye care for millions of people worldwide.\n\nWe start with the science behind your tear film and explain why Meibomian Gland Dysfunction, the root cause of up to 86% of all dry eye cases, is so often missed and mismanaged. You will learn exactly how LipiFlow works, using controlled heat and gentle pulsating pressure to clear blocked Meibomian glands and restore your eye's natural protective oil layer, something no eye drop can actually do.\n\nWe also cover what to expect during the 12-minute in-office procedure, what clinical studies say about results lasting up to 12 months, how LipiFlow compares to warm compresses and other standard treatments, and how combining it with omega-3 supplementation or IPL therapy can deliver even better long-term outcomes.\n\nWhether you have been battling chronic dry eye for years or simply want to protect your eye health before symptoms worsen, this episode gives you the clear, honest information you need to have a smarter conversation with your eye doctor.\n\nVisit Focuslinks.in to explore more episodes on eye health, vision care, and the latest in treatment technology. Your eyes deserve real, lasting care, and it starts with understanding what is actually going on.\n\n---",
       "tags": "lipiflow,thermal-pulsation,in-office,clearance",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-22.mp3",
+      "duration": "11:52",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d6065759-762a-4d25-9df7-e3739dbbdba7",
+      "generatedAt": "2026-08-09T04:33:03.097Z"
     },
     {
       "episodeOrder": 23,

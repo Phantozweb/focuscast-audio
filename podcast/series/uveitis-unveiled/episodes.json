@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T05:35:58.842Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T05:36:02.364Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Panuveitis: The Full-Thickness Inflammation",
-      "description": "The anterior-to-posterior involvement, the systemic disease search, and the aggressive treatment.",
+      "title": "Panuveitis Explained: Full-Thickness Eye Inflammation",
+      "description": "What happens when inflammation doesn't just affect one part of your eye — but all of it? In this eye-opening episode of Focus Cast, we dive deep into panuveitis, one of the most complex and vision-threatening conditions in ophthalmology. Unlike other forms of uveitis that target a single segment of the eye, panuveitis engulfs the entire uveal tract — front, middle, and back — making it a uniquely challenging condition to diagnose and treat.\n\nWe break down exactly what panuveitis is, how it differs from anterior, intermediate, and posterior uveitis, and why it accounts for some of the most serious cases of preventable blindness worldwide. You'll learn about the wide range of causes behind this condition, from infectious triggers like tuberculosis, syphilis, and toxoplasmosis, to autoimmune diseases like Vogt-Koyanagi-Harada syndrome, Behcet's disease, and sympathetic ophthalmia — each with its own dramatic story and clinical significance.\n\nWe also walk you through how ophthalmologists diagnose panuveitis using slit-lamp examinations, dilated fundus evaluations, and comprehensive systemic workups, and explore the full spectrum of modern treatment options — from corticosteroids and immunosuppressive agents to biologic therapies and cutting-edge sustained-release drug delivery implants.\n\nMost importantly, we talk about the human side of living with panuveitis — the emotional weight, the unpredictability of flare-ups, and why early detection can make all the difference between preserved vision and permanent sight loss.\n\nIf you or someone you know is experiencing eye redness, pain, blurred vision, or floaters, don't wait — this episode could change everything. Tune in, share it, and visit Focuslinks.in for more expert eye health content.\n\n---",
       "tags": "panuveitis,systemic,treatment,aggressive",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-07.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8cb9ec73-c46c-4224-a693-c33908972151",
+      "generatedAt": "2026-08-09T05:36:02.364Z"
     },
     {
       "episodeOrder": 8,

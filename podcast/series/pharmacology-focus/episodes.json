@@ -9,7 +9,7 @@
   "order": 13,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T05:28:51.850Z",
+  "lastUpdated": "2026-08-09T05:29:41.673Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,16 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Intravitreal Steroid Implants: The Retinal Care Revolution",
-      "description": "What if a single injection could protect your patient's vision for three full years? In this episode of Focus Cast by Focuslinks.in, we explore the remarkable evolution of intravitreal steroid implants and how they have fundamentally transformed the treatment of chronic retinal diseases.\n\nWe trace the journey from early intravitreal triamcinolone injections to the landmark approval of Retisert for chronic non-infectious uveitis, a fluocinolone acetonide implant that slashed recurrence rates from sixty percent down to just seven. We then break down how Ozurdex, the biodegradable dexamethasone implant, brought sustained-release steroid therapy into the clinic setting, offering a practical, office-based solution for macular edema caused by retinal vein occlusion and uveitis. Finally, we examine Iluvien, the ultra-low-dose fluocinolone acetonide implant delivering up to thirty-six months of continuous therapy for diabetic macular edema, one of the leading causes of vision loss in working-age adults worldwide.\n\nAlong the way, we discuss the science behind ocular drug delivery, the blood-retinal barrier, the clinical trade-offs of steroid-related side effects, and why patient selection remains critical. We also look ahead at how the principles behind these implants are now shaping the future of sustained-release anti-VEGF therapy and gene delivery systems.\n\nWhether you are a retina specialist, an ophthalmology trainee, or simply passionate about the science of sight, this episode offers a clear, clinically grounded look at devices that have genuinely changed lives. Listen now and discover why these tiny implants represent one of the most important innovations in modern ophthalmology. For more episodes and resources, visit Focuslinks.in.\n\n---",
+      "title": "Steroid Implants in the Vitreous: The Implant Revolution",
+      "description": "What if a device smaller than a grain of rice could protect your vision for up to three years — no eye drops, no monthly clinic visits, no missed doses? In this episode of Focus Cast, we explore the fascinating world of steroid implants in the vitreous and how sustained-release drug delivery is transforming the treatment of serious retinal diseases.\n\nWe break down why the back of the eye is so difficult to treat, how the blood-retinal barrier blocks most conventional medications, and why getting steroids to the right place has been one of ophthalmology's greatest challenges. Then we dive into the implants changing all of that — including Ozurdex and Iluvien — explaining how they work, how they are placed, and why their ability to deliver medication continuously over months or years is a genuine game-changer.\n\nYou will learn how these implants are helping patients with diabetic macular edema, chronic uveitis, and retinal vein occlusion — conditions that once demanded relentless treatment schedules — and how sustained-release therapy is reducing that burden while improving visual outcomes. We also look honestly at the side effects, including elevated eye pressure and cataract risk, and how newer low-dose implant designs are addressing those concerns.\n\nFinally, we look ahead at the next generation of ocular implants — refillable devices, smart drug delivery systems, and platforms being explored for gene therapy and age-related macular degeneration — and what this revolution means for the future of medicine beyond the eye.\n\nIf you or a loved one is managing a chronic retinal condition, this episode is essential listening. Visit Focuslinks.in for more episodes, articles, and expert resources on eye health and ophthalmology.\n\n---",
       "tags": "implant,dexamethasone,fluocinolone,iop",
-      "category": "Cataract",
+      "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-20.mp3",
-      "duration": "12:12",
+      "duration": "12:59",
       "imageUrl": "",
       "status": "generated",
-      "runId": "bc414d47-51c0-4850-ba8d-776fdf862aab",
-      "generatedAt": "2026-08-09T05:28:41.947Z"
+      "runId": "d215ece5-7c2a-4f77-9345-4063bed6a160",
+      "generatedAt": "2026-08-09T05:29:40.886Z"
     },
     {
       "episodeOrder": 21,

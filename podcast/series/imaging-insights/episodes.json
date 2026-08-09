@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T06:15:37.789Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T06:15:54.163Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Wavefront Aberrometry: The Total Eye Aberration",
-      "description": "The Hartmann-Shack sensor, the higher-order map, and the customized ablation it enables.",
+      "title": "Wavefront Aberrometry: Understanding Total Eye Aberration",
+      "description": "Ever had a \"perfect\" glasses prescription that still left your vision feeling off — halos around headlights, blurry vision at night, or that nagging sense that something just isn't right? The answer lies beyond your standard prescription, and it's called wavefront aberrometry.\n\nIn this episode of Focus Cast, we break down one of the most powerful advances in modern eye care: total eye aberration mapping. We start with the basics — what a wavefront actually is and why no human eye is truly perfect — before exploring the difference between lower order aberrations like nearsightedness and astigmatism, and the more complex higher order aberrations like coma, trefoil, and spherical aberration that a standard prescription simply cannot correct.\n\nWe walk you through how the Hartmann-Shack aberrometer works, how it creates a complete optical fingerprint of your eye, and why that matters far beyond the eye chart. From wavefront-guided LASIK and premium intraocular lenses for cataract surgery, to specialty contact lens fitting for keratoconus and even dry eye disease management — wavefront aberrometry is quietly transforming personalized vision care in ways most patients never hear about.\n\nYou'll also discover the crucial difference between visual acuity and visual quality, and why two people with identical 20/20 vision can experience the world in dramatically different ways.\n\nWhether you're a patient curious about your own vision, a student of optometry, or simply a science enthusiast, this episode will change the way you think about how we see. Tune in, and visit Focuslinks.in for more episodes and vision care resources.\n\n---",
       "tags": "wavefront,aberrometry,higher-order,ablation",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-14.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "adb2bc1b-7766-4e0f-88c1-7bd17cfdd9a9",
+      "generatedAt": "2026-08-09T06:15:54.163Z"
     },
     {
       "episodeOrder": 15,

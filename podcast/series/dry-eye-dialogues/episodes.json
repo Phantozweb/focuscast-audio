@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T04:29:51.294Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T04:29:57.254Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -161,14 +161,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Blepharitis: Anterior Versus Posterior and the Overlap",
-      "description": "Staphylococcal, seborrheic, and MGD — the three forms and the tailored management of each.",
+      "title": "Blepharitis Explained: Anterior vs Posterior & the Overlap",
+      "description": "Ever wake up with crusty, sticky eyelids or deal with a burning sensation that just won't quit? You might be dealing with blepharitis — and there's a lot more to it than most people realize. In this episode of Focus Cast, we break down everything you need to know about this incredibly common but often misunderstood eyelid condition.\n\nWe explore the two main types: anterior blepharitis, caused by bacterial overgrowth or seborrheic dermatitis at the base of the lashes, and posterior blepharitis, driven by meibomian gland dysfunction deep within the eyelid. You'll learn exactly how each type develops, what symptoms to watch for, and why the distinction matters when it comes to treatment.\n\nBut here's where it gets really interesting — most people have both. We dig into the clinical overlap between anterior and posterior blepharitis, explaining the vicious cycle where bacterial activity worsens meibomian gland dysfunction and vice versa, ultimately contributing to evaporative dry eye disease and chronic ocular surface inflammation.\n\nWe also cover the connection between posterior blepharitis and conditions like rosacea, and walk through evidence-based treatment options — from lid hygiene and warm compresses to omega-3 supplementation, oral doxycycline, and advanced in-office therapies like thermal pulsation and intense pulsed light.\n\nIf you've been living with chronic eye irritation and artificial tears just aren't cutting it, this episode could change how you approach your eye care. Don't ignore what your eyelids are trying to tell you.\n\nListen now and visit Focuslinks.in for more eye health resources, episodes, and expert insights.\n\n---",
       "tags": "blepharitis,staph,seborrheic,mgd",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-13.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "35948602-2615-40e5-9df9-0c846cfb5aea",
+      "generatedAt": "2026-08-09T04:29:57.254Z"
     },
     {
       "episodeOrder": 14,

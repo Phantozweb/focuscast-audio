@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T05:52:55.954Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T05:53:06.909Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Lacrimal System Anatomy: From Punctum to Nose",
-      "description": "The canaliculus, the sac, the nasolacrimal duct, and the obstruction sites that cause tearing.",
+      "title": "Lacrimal System Anatomy: How Tears Travel From Eye to Nose",
+      "description": "Ever wondered why your nose runs when you cry, or why eye drops leave a bitter taste at the back of your throat? The answer lies in one of the body's most overlooked yet brilliantly engineered systems — the lacrimal system. In this episode of Focus Cast by Focuslinks.in, we take you on a fascinating journey through the complete anatomy of tear production and drainage, tracing every step from the lacrimal gland to your nasal cavity.\n\nWe break down how the lacrimal gland produces tears, what the three-layer tear film actually consists of, and why all three layers matter for healthy vision. You'll learn about the puncta — those tiny pinhole openings at the inner corners of your eyelids — and follow tears through the canaliculi, past the valve of Rosenmuller, into the lacrimal sac, and finally down the nasolacrimal duct through the valve of Hasner into your nose.\n\nWe also explore what happens when this system breaks down. From blocked tear ducts in newborns and epiphora in adults, to dry eye disease affecting hundreds of millions worldwide, understanding lacrimal anatomy is the key to understanding treatment — including punctal plugs, nasolacrimal probing, and the surgical procedure known as dacryocystorhinostomy (DCR).\n\nWhether you're a student, a healthcare professional, or simply someone curious about how your body works, this episode offers clear, engaging explanations that make complex anatomy genuinely accessible. Listen now and discover the remarkable little system quietly protecting your eyes every single day. For more episodes on eye anatomy and vision science, visit Focuslinks.in.\n\n---",
       "tags": "lacrimal,anatomy,obstruction,tearing",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Dry Eye",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-17.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4eb24a71-cff1-4791-82e4-5a942a1a5df8",
+      "generatedAt": "2026-08-09T05:53:06.909Z"
     },
     {
       "episodeOrder": 18,

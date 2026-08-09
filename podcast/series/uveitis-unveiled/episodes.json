@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T05:43:45.646Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T05:44:16.959Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -371,14 +371,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Uveitis and Pregnancy: The Treatment Tightrope",
-      "description": "Which immunosuppressants are safe, the steroid and biologic choices, and the postpartum flare risk.",
+      "title": "Uveitis and Pregnancy: Navigating the Treatment Tightrope",
+      "description": "What happens when uveitis strikes during pregnancy? In this eye-opening episode of Focus Cast, we explore one of medicine's most delicate balancing acts — managing uveitis while protecting a developing baby. If you've ever wondered how doctors treat eye inflammation during pregnancy without putting mother or child at risk, this episode has the answers.\n\nWe break down exactly what uveitis is, why women of reproductive age are among the most commonly affected groups, and how pregnancy's profound immune system shifts can actually change the course of the disease — sometimes for better, sometimes for worse. We walk through the full treatment landscape, from topical steroids and periocular injections to systemic corticosteroids and powerful immunosuppressants like methotrexate, azathioprine, and biologic therapies such as adalimumab — explaining what's considered safer, what's contraindicated, and why every decision is a carefully negotiated risk-benefit conversation.\n\nWe also cover the often-overlooked emotional toll on pregnant women managing vision loss, the challenges of breastfeeding while on uveitis medications, and what a truly comprehensive, multidisciplinary care plan looks like before, during, and after pregnancy.\n\nWhether you're a patient navigating this journey, a caregiver, or a healthcare professional, this episode offers clear, compassionate, and clinically grounded insight into a topic that deserves far more attention than it gets.\n\nDon't wait for a crisis — start the conversation early. Visit Focuslinks.in for more episodes, expert resources, and everything eye health.\n\n---",
       "tags": "pregnancy,immunosuppressant,biologic,postpartum",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-29.mp3",
+      "duration": "12:53",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "37087866-628a-434f-8c0c-63cbd0001740",
+      "generatedAt": "2026-08-09T05:44:16.959Z"
     },
     {
       "episodeOrder": 30,

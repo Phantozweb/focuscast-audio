@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T06:37:55.133Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T06:38:05.051Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Risk Communication: The Probability and the Plain Language",
-      "description": "How to convey risk so the patient decides — the absolute and relative, the framing, the numbers.",
+      "title": "Risk Communication: How Probability Shapes Your Decisions",
+      "description": "What if the way a risk is explained to you matters just as much as the risk itself? In this episode of Focus Cast, we explore the fascinating and often misunderstood world of risk communication — and why the language around probability can either empower your decisions or quietly mislead you, even when every fact is technically true.\n\nWe break down why human brains are wired to misread statistical risk, how the availability heuristic distorts our sense of danger, and why a single word like \"doubled\" once triggered a public health crisis in the UK. You will learn the critical difference between relative risk and absolute risk, and why that distinction changes everything about how you interpret health news, financial warnings, and safety data.\n\nDrawing on research from cognitive scientists like Gerd Gigerenzen and psychologist Paul Slovic, this episode walks you through the core principles of effective risk communication — using natural frequencies instead of percentages, providing meaningful context, and being honest about uncertainty. We also explore the emotional side of risk, including why nuclear power feels scarier than coal despite the data telling a very different story, and what the best doctors, forecasters, and communicators do to bridge the gap between facts and feelings.\n\nWhether you are a patient, a parent, a professional, or simply someone trying to make sense of an uncertain world, these ideas will change how you give and receive information about risk.\n\nListen now and start seeing probability not just as a number, but as a story — one worth understanding clearly. Visit Focuslinks dot in for more episodes that turn complex ideas into practical thinking you can use every day.\n\n---",
       "tags": "risk-communication,probability,framing,plain-language",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-13.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cdc19c6d-0b0c-4e85-9b84-d50b06507506",
+      "generatedAt": "2026-08-09T06:38:05.051Z"
     },
     {
       "episodeOrder": 14,

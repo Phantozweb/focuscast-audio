@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T06:12:17.587Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T06:12:45.778Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Anterior Segment OCT: The Angle and the Cornea",
-      "description": "Imaging the angle without gonioscopy, the scleral lens vault, and the corneal opacity behind.",
+      "title": "Anterior Segment OCT: Imaging the Angle and Cornea",
+      "description": "What if you could see the hidden architecture of the eye in extraordinary detail, without touching it, without discomfort, and in a matter of seconds? That is exactly what anterior segment OCT makes possible, and in this episode of Focus Cast, we break down how this powerful imaging technology is reshaping clinical practice across glaucoma, corneal disease, and refractive surgery.\n\nWe start with the anterior chamber angle, exploring how anterior segment OCT detects angle closure that gonioscopy can miss, why lighting conditions during examination matter more than most clinicians realize, and how configurations like plateau iris and high lens vault are now being identified and managed with far greater precision. If you work in a glaucoma clinic or see angle closure suspects, this discussion will change how you think about your imaging workflow.\n\nThen we move to the cornea, covering pachymetry mapping for keratoconus, preoperative screening for LASIK candidates at risk of post-operative ectasia, monitoring corneal edema in Fuchs dystrophy, and post-operative evaluation of endothelial transplants like DSAEK and DMEK. We also touch on its surprisingly elegant role in scleral lens fitting for irregular corneas.\n\nWhether you are a seasoned ophthalmologist, a resident building your clinical foundation, or an optometrist looking to deepen your understanding of anterior segment imaging, this episode delivers practical, evidence-informed insights you can apply directly to patient care.\n\nTune in, and discover why anterior segment OCT is not just a diagnostic tool but a clinical decision-making instrument that is raising the standard of eye care worldwide. Visit Focuslinks.in for more episodes, resources, and everything eye care.\n\n---",
       "tags": "as-oct,angle,vault,opacity",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-06.mp3",
+      "duration": "12:08",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8c5762cb-0d92-44b9-a7bd-eb80c48264f6",
+      "generatedAt": "2026-08-09T06:12:45.778Z"
     },
     {
       "episodeOrder": 7,

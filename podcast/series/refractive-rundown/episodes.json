@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T04:41:15.296Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T04:42:34.984Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "LASIK Flap Complications: Striae, Dislocation, and DLK",
-      "description": "The flap striae detection, the diffuse lamellar keratitis stages, and the urgent flap lift and irrigation.",
+      "title": "LASIK Flap Complications: Striae, Dislocation & DLK Explained",
+      "description": "What really happens when a LASIK flap goes wrong? In this episode of Focus Cast by Focuslinks.in, we break down three of the most clinically significant LASIK flap complications — flap striae, flap dislocation, and diffuse lamellar keratitis (DLK) — so you can recognize, understand, and respond to them with confidence.\n\nWe start with flap striae, exploring the difference between micro and macro-striae, why they form, and how early intervention can restore smooth vision. Next, we dive into flap dislocation — what causes it, why even minor eye trauma can be dangerous in the post-LASIK period, and why protective eyewear matters long after surgery. Finally, we unpack DLK, the sterile inflammatory condition nicknamed \"Sands of the Sahara,\" walking through its four clinical stages and the treatment protocols that can mean the difference between full recovery and permanent vision loss.\n\nWhether you are a patient trying to understand your post-operative risks, a medical student building your ophthalmology knowledge, or a clinician looking for a clear clinical refresher, this episode delivers practical, evidence-based insights in plain language.\n\nThe post-operative period after LASIK is not just a formality — it is where outcomes are made or broken. This episode will help you understand exactly why vigilance, early detection, and prompt management are non-negotiable.\n\nListen now and visit Focuslinks.in for more ophthalmology resources, episodes, and clinical tools to keep your practice sharp.\n\n---",
       "tags": "flap,striae,dlk,lift",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-14.mp3",
+      "duration": "12:43",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a36c3e94-2c21-4de9-bf54-f20de37fccc4",
+      "generatedAt": "2026-08-09T04:42:34.984Z"
     },
     {
       "episodeOrder": 15,

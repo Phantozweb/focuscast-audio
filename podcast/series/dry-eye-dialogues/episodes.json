@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T04:33:45.034Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T04:35:21.339Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -376,14 +376,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "Chronic DED: The Long Game and the Patient Partnership",
-      "description": "Setting expectations, the stepwise escalation, and the quality-of-life conversation that sustains adherence.",
+      "title": "Chronic Dry Eye Disease: Managing the Long Game Together",
+      "description": "Waking up every morning with burning, gritty, uncomfortable eyes is not just an inconvenience — for millions of people worldwide, it is the daily reality of living with chronic dry eye disease. In this episode of Focus Cast, we go beyond the basics to explore what chronic DED truly means, why it is so much more than just reaching for eye drops, and how to build the kind of patient-provider partnership that actually makes a difference over the long term.\n\nWe break down why chronic dry eye disease is a multifactorial condition affecting up to 50% of the global population, yet remains widely underdiagnosed and undertreated. You will learn why symptoms do not always reflect the true severity of the condition, and why the emotional and psychological toll of chronic DED — including its impact on quality of life, mood, and mental health — deserves far more attention than it typically receives.\n\nWe also cover the evolving landscape of dry eye treatments, from prescription anti-inflammatory drops and meibomian gland therapies to in-office procedures and emerging regenerative options, and explain why no single treatment works for everyone. Plus, we share practical lifestyle strategies that can meaningfully support your care every single day.\n\nMost importantly, this episode is about empowering you to show up fully in your own healthcare journey — communicating honestly with your eye care provider, giving treatments the time they need, and becoming an active partner in managing your condition.\n\nIf you or someone you love lives with chronic dry eye disease, this conversation is for you. Visit Focuslinks.in for more episodes of Focus Cast and start taking your eye health seriously today.\n\n---",
       "tags": "chronic,expectations,stepwise,quality-of-life",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-30.mp3",
+      "duration": "13:02",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "11683818-5bbd-45f3-bf12-7d54bd90852e",
+      "generatedAt": "2026-08-09T04:35:21.339Z"
     }
   ]
 }

@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 18,
-  "lastUpdated": "2026-08-09T06:04:39.074Z",
+  "generatedEpisodesCount": 19,
+  "lastUpdated": "2026-08-09T06:04:52.108Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -280,14 +280,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "Adult Strabismus: The Function and the Cosmesis",
-      "description": "The diplopia, the psychosocial impact, and the surgery that restores both.",
+      "title": "Adult Strabismus: Function, Cosmesis & Life-Changing Treatment",
+      "description": "What happens when your eyes don't align — and the world notices before you do? In this episode of Focus Cast, we take an honest, compassionate look at adult strabismus, a condition far more common than most people realise, and one that carries consequences well beyond the clinic.\n\nWe break down the two sides of this conversation that every patient deserves to hear. First, the functional side — how misaligned eyes disrupt binocular vision, trigger debilitating double vision, and make everyday tasks like driving, reading, and navigating stairs genuinely dangerous. Then, the cosmetic side — the part that often gets dismissed but shouldn't. Because when strabismus affects your eye contact, your confidence in job interviews, your ability to connect in conversation, that is not vanity. That is your quality of life.\n\nWe explore how adult strabismus can develop after stroke, head injury, thyroid disease, or even cataract surgery, and walk through the full range of treatment options available today — from prism glasses and Botulinum toxin injections to strabismus surgery — explaining what each involves and what kind of outcomes patients can realistically expect.\n\nWe also share real patient experiences and research that reveals just how significantly treatment can improve self-esteem, social confidence, and professional outcomes for adults living with this condition.\n\nIf you've ever been told it's too late to treat, or that your concerns are purely cosmetic, this episode is for you. The conversation has moved on — and so should your care.\n\nVisit Focuslinks.in for more episodes and eye health resources. Because understanding your vision is the first step to protecting it.\n\n---",
       "tags": "adult,diplopia,psychosocial,surgery",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-22.mp3",
+      "duration": "12:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2afb88cd-0e4c-429c-8a50-d8913a456997",
+      "generatedAt": "2026-08-09T06:04:52.108Z"
     },
     {
       "episodeOrder": 23,

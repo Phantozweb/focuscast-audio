@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T08:33:49.012Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T08:33:51.234Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -81,14 +81,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fundus Photography: Composing a Diagnostic Image",
-      "description": "Field definitions, stereo pairs, and the montage that captures the peripheral pathology a single frame misses.",
+      "title": "Fundus Photography: Fields, Stereo Pairs & Montage Techniques",
+      "description": "Are you capturing fundus images or building true clinical documents? In this episode of Focus Cast, we break down the diagnostic art and science behind fundus photography composition — a skill every optometrist needs to master to catch the pathology a single frame can miss.\n\nWe start with ETDRS field definitions, the standardized anatomical zones that form the foundation of every meaningful posterior segment image. You will learn why field selection is a clinical decision, not a default setting, and how choosing the wrong fields in a diabetic patient can leave peripheral hemorrhages completely undocumented.\n\nFrom there, we move into fundus montage construction — how overlapping fields by twenty to thirty percent eliminates blind spots and creates the panoramic view essential for detecting lattice degeneration, peripheral retinal breaks, and retinoschisis in high myopes and at-risk patients. We walk through real clinical scenarios, including a high myope with a horseshoe tear hiding beyond the posterior pole, to show exactly what is at stake when peripheral imaging is skipped.\n\nWe also cover stereo fundus photography, an underutilized technique that restores the depth perception critical for evaluating glaucomatous disc cupping, choroidal nevi elevation, and subretinal fluid — clinical distinctions that flat images simply cannot reliably convey.\n\nFinally, we tie it all together with a practical chairside decision-making framework: how to let your clinical question drive your imaging protocol, how to document methodology for co-management, and when peripheral findings cross the threshold from watch-and-educate to urgent retinal referral.\n\nIf you are ready to stop taking snapshots and start creating diagnostic records that protect your patients and elevate your practice, this episode is for you. Visit Focuslinks dot in for more clinical resources built exclusively for eye care professionals.\n\n---",
       "tags": "fundus-photo,montage,fields,stereo",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-07.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "44d6b0a8-8658-4c3d-a053-a40668211e0b",
+      "generatedAt": "2026-08-09T08:33:51.234Z"
     },
     {
       "episodeOrder": 8,

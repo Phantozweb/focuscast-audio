@@ -1,0 +1,180 @@
+{
+  "slug": "emergency-eye",
+  "name": "Emergency Eye",
+  "tagline": "Urgent & Emergent Presentations",
+  "description": "Chemical burns, open globes, retrobulbar hemorrhage, GCA/AION, endophthalmitis, retinal detachment, acute angle closure, and trauma protocols.",
+  "icon": "Siren",
+  "accent": "#b91c1c",
+  "category": "Emergency Eye Care",
+  "order": 11,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:44.453Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Triage in the Emergency Eye: What Cannot Wait",
+      "description": "The immediate versus urgent versus semi-urgent framework and the red-flag symptoms that demand same-day care.",
+      "tags": "triage,emergency,red-flags,urgent",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Chemical Burns: The Irrigation That Saves Sight",
+      "description": "The copious, continuous, immediate irrigation, the Morgan lens, the pH target, and the limbal ischemia grading.",
+      "tags": "chemical,burn,irrigation,morgan-lens",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Open Globe: The Signs You Cannot Miss",
+      "description": "The peaked pupil, the shallow chamber, the oculocardiac reflex, and the shield-and-no-manipulation protocol.",
+      "tags": "open-globe,peaked-pupil,shield,trauma",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Retrobulbar Hemorrhage: The Sight-Threatening Compression",
+      "description": "The tight orbit, the afferent pupillary defect, and the lateral canthotomy that decompresses.",
+      "tags": "retrobulbar,hemorrhage,canthotomy,rapd",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Giant Cell Arteritis: The Same-Day Steroid",
+      "description": "The jaw claudication, the ESR/CRP, and the immediate high-dose steroid before the biopsy.",
+      "tags": "gca,steroid,biopsy,blindness",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Central Retinal Artery Occlusion: The 90-Minute Window",
+      "description": "The cherry-red spot, the ocular massage, the anterior chamber paracentesis, and the stroke workup.",
+      "tags": "crao,cherry-red,paracentesis,stroke",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Acute Angle Closure: The Stone in the Eye",
+      "description": "The mid-dilated pupil, the corneal edema, and the immediate pressure-lowering and laser iridotomy.",
+      "tags": "aac,iridotomy,pressure,edema",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Endophthalmitis: The Post-Op and Post-Trauma Nightmare",
+      "description": "The hypopyon, the pain, the vitreous tap, and the intravitreal antibiotics that race the clock.",
+      "tags": "endophthalmitis,hypopyon,tap,antibiotics",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Retinal Detachment: The Curtain and the Photopsia",
+      "description": "The flashes, floaters, and curtain triad, the dilated fundus exam, and the urgent surgical referral.",
+      "tags": "rds,photopsia,curtain,referral",
+      "category": "Retina",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Corneal Ulcer: The Sight-Threatening Infection",
+      "description": "The infiltrate, the epithelial defect, the culture decision, and the fortified antibiotic protocol.",
+      "tags": "ulcer,infiltrate,culture,forgified",
+      "category": "Cornea",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Hyphema: The Blood in the Anterior Chamber",
+      "description": "The grading, the rebleed risk, the sickle cell screen, and the activity restriction and elevation.",
+      "tags": "hyphema,rebleed,sickle,restrict",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Traumatic Iritis: The Ciliary Spasm and the Steroid",
+      "description": "The cells and flare, the photophobia, and the cycloplegia and steroid that ease the pain.",
+      "tags": "iritis,cells,flare,cycloplegia",
+      "category": "Uveitis",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Traumatic Optic Neuropathy: The Vision Loss After Injury",
+      "description": "The afferent defect, the CT for canal fracture, and the steroid and surgical controversy.",
+      "tags": "ton,optic-canal,fracture,steroid",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Eyelid Laceration: The Canalicular and the Margin",
+      "description": "When to repair at the chair, the canalicular involvement that needs OR, and the tetanus update.",
+      "tags": "laceration,canaliculus,margin,tetanus",
+      "category": "Oculoplastics",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Intraocular Foreign Body: The Hidden Metal",
+      "description": "The high-speed history, the dilated exam, the CT localization, and the magnetic resonance contraindication.",
+      "tags": "iob,foreign-body,ct,mri",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

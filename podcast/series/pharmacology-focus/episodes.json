@@ -9,7 +9,7 @@
   "order": 13,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T05:26:45.890Z",
+  "lastUpdated": "2026-08-09T05:26:53.092Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,16 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Anti-VEGF Therapy: The Treatment Saving Millions from Blindness",
-      "description": "What if a single injection could save your sight? In this episode of Focus Cast, we explore one of the most groundbreaking advances in modern medicine — anti-VEGF therapy — and how it has completely transformed the treatment of serious retinal diseases like wet age-related macular degeneration and diabetic macular edema.\n\nWe break down exactly what VEGF (Vascular Endothelial Growth Factor) is, why it causes devastating vision loss when it goes into overdrive, and how anti-VEGF drugs work by blocking the signal that drives abnormal, leaky blood vessel growth in the retina. From the pioneering research of Napoleone Ferrara at Genentech in the 1990s to the landmark MARINA and ANCHOR clinical trials, we trace the remarkable scientific journey that gave ophthalmologists — and their patients — genuine hope for the very first time.\n\nWe also cover the key anti-VEGF medications you should know about, including ranibizumab (Lucentis), bevacizumab (Avastin), aflibercept (Eylea), and the newer dual-pathway agent faricimab, along with an honest look at the real-world challenges patients face — from treatment burden and access issues to treatment fatigue and variable response rates.\n\nAnd we look ahead at what is coming next: gene therapy, sustained-release implants, and combination treatments that could make this already life-changing therapy even more powerful and convenient.\n\nWhether you or someone you love is living with a retinal condition, or you simply want to understand one of medicine's greatest success stories, this episode is essential listening.\n\nVisit us at Focuslinks.in for more eye health resources and episodes of Focus Cast.\n\n---",
+      "title": "Anti-VEGF Therapy: The Treatment Restoring Vision in Retinal Disease",
+      "description": "What if a single molecule could be the difference between blindness and clear vision? In this episode of Focus Cast, we explore one of the most remarkable breakthroughs in modern medicine — anti-VEGF therapy — and how it completely transformed the treatment of retinal diseases like wet age-related macular degeneration and diabetic macular edema.\n\nWe break down exactly how conditions like wet AMD and diabetic macular edema silently destroy central vision, and why older treatments like laser therapy left patients with little hope. Then we dive deep into the science of VEGF — Vascular Endothelial Growth Factor — and how blocking this single protein changed everything. From the landmark FDA approval of ranibizumab (Lucentis) in 2006 to the widespread off-label use of bevacizumab (Avastin), the arrival of aflibercept (Eylea), and the dual-pathway innovation of faricimab, we trace the full evolution of anti-VEGF treatment.\n\nWe also look ahead at what is coming next — sustained-release implants, gene therapy, and the possibility of a one-time treatment that could replace years of monthly injections. And we put it all in perspective: a disease that once meant legal blindness within two years is now routinely managed, with many patients actually regaining lost vision.\n\nWhether you are a patient, a caregiver, or simply someone who wants to understand how modern ophthalmology is changing lives, this episode is essential listening.\n\nEarly diagnosis and timely treatment make all the difference. Visit Focuslinks.in to explore more episodes, eye care resources, and expert insights. Subscribe to Focus Cast so you never miss an episode — because your vision is worth protecting.\n\n---",
       "tags": "anti-vegf,bevacizumab,ranibizumab,aflibercept",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-19.mp3",
-      "duration": "12:32",
+      "duration": "12:17",
       "imageUrl": "",
       "status": "generated",
-      "runId": "21b38aa4-5d52-45f3-ac39-5db9aaafe74b",
-      "generatedAt": "2026-08-09T05:25:40.930Z"
+      "runId": "f0a579f5-23d7-4e6d-9b03-34e7d45e2fdd",
+      "generatedAt": "2026-08-09T05:26:53.092Z"
     },
     {
       "episodeOrder": 20,

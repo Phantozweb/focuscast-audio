@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T06:17:24.498Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T06:17:43.312Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Ultrasound Biomicroscopy: The Angle and the Ciliary Body",
-      "description": "The 50 MHz probe, the angle imaging, and the ciliary body lesions that hide behind the iris.",
+      "title": "Ultrasound Biomicroscopy: Seeing the Angle & Ciliary Body",
+      "description": "What's really happening inside your eye right now — and how do doctors see it? In this episode of Focus Cast, we explore one of the most powerful diagnostic tools in modern ophthalmology: ultrasound biomicroscopy, or UBM. This high-frequency imaging technology gives eye care specialists an unprecedented look at the anterior chamber angle and the ciliary body — two structures that are small in size but enormous in importance.\n\nWe break down exactly what the anterior chamber angle is, why it matters for fluid drainage, and how its shape — open, narrow, or closed — directly determines your risk for glaucoma. You'll learn why traditional gonioscopy has its limits, and how UBM goes far beyond what a mirrored lens can reveal, exposing hidden causes of angle closure like plateau iris, lens-related crowding, and ciliary body cysts.\n\nWe also take a deep dive into the ciliary body itself — the eye's fluid factory and the mechanical engine behind your ability to focus. From its role in aqueous humor production to its connection with accommodation through the zonules and lens, the ciliary body is central to how your eye functions every day. We cover how UBM guides glaucoma treatments like cyclophotocoagulation, helps diagnose rare conditions like uveal effusion, and assists surgeons in mapping trauma-related damage such as cyclodialysis.\n\nWhether you're a patient curious about your eye health, a student in the ophthalmic sciences, or a clinician looking for a clear refresher, this episode delivers real insight in plain language.\n\nListen now and discover the hidden architecture of your eye. Visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "ubm,angle,ciliary-body,probe",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-18.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6e371568-7422-4809-a5d8-657fa13922c6",
+      "generatedAt": "2026-08-09T06:17:43.312Z"
     },
     {
       "episodeOrder": 19,

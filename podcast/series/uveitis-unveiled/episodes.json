@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T05:39:31.607Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T05:39:47.018Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -254,14 +254,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Immunomodulatory Therapy: The Steroid-Sparing Agents",
-      "description": "Methotrexate, azathioprine, cyclosporine, biologics — the step-up and the monitoring.",
+      "title": "Steroid-Sparing Agents: Smarter Immunomodulatory Therapy",
+      "description": "What happens when the drug saving your life starts causing serious harm? That's the steroid dilemma millions of patients with chronic inflammatory and autoimmune diseases face every day — and it's exactly why steroid-sparing agents have become one of the most important advances in modern medicine.\n\nIn this episode of Focus Cast, we break down the world of immunomodulatory therapy in a way that's clear, engaging, and clinically relevant. We start with why long-term corticosteroid use — despite its power — leads to devastating side effects like osteoporosis, diabetes, and adrenal suppression. Then we walk through the drugs that changed everything.\n\nFrom conventional DMARDs like methotrexate and hydroxychloroquine, to the revolutionary biologics targeting TNF, interleukin-6, B cells, and T cells, to the newer oral JAK inhibitors like tofacitinib and baricitinib — we cover how each class works, what conditions they treat, and why they matter for real patients living with rheumatoid arthritis, lupus, Crohn's disease, psoriasis, and more.\n\nWe also tackle the honest challenges: cost, access, infection risk, cardiovascular considerations, and the critical role of patient education and monitoring. And we look ahead at where immunomodulatory therapy is going — personalized medicine, biomarker-driven treatment selection, and the possibility of true, lasting remission.\n\nWhether you're a medical student, a healthcare professional, or simply someone curious about how modern medicine manages the immune system, this episode gives you a solid, well-rounded understanding of a topic that's shaping clinical practice right now.\n\nListen now and visit Focuslinks.in for more focused, high-quality learning episodes like this one.\n\n---",
       "tags": "imt,methotrexate,biologic,monitoring",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-20.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5a9ffd16-3efc-4641-9227-4b6a0631bdcb",
+      "generatedAt": "2026-08-09T05:39:47.018Z"
     },
     {
       "episodeOrder": 21,

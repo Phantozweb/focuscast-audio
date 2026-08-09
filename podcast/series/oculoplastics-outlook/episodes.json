@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T05:47:17.091Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T05:47:44.766Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -63,14 +63,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Horner Syndrome and the Ptotic Pupil",
-      "description": "The miosis, the anhidrosis, and the localization and imaging that the combination demands.",
+      "title": "Horner Syndrome Explained: The Pupil That Reveals Everything",
+      "description": "What does a drooping eyelid and a tiny pupil have to do with a lung tumor, a torn artery, or a brainstem stroke? More than you might think. In this episode of Focus Cast, we take a deep dive into Horner Syndrome, one of the most clinically significant findings in all of ophthalmology and neurology. If you have ever wondered why a subtle asymmetry in someone's eyes could signal a medical emergency, this episode is for you.\n\nWe break down the classic triad of ptosis, miosis, and anhidrosis, and explain exactly why the affected pupil stays small, lags in the dark, and behaves so differently from other causes of unequal pupils. You will learn about the remarkable three-neuron sympathetic pathway that travels from the hypothalamus all the way to the eye, and why damage at any point along that journey, whether from a Pancoast tumor, carotid artery dissection, or a brainstem lesion, produces this recognizable pattern of signs.\n\nWe also walk through the pharmacological tests doctors use to confirm the diagnosis and localize the lesion, including cocaine drops, apraclonidine, and hydroxyamphetamine, and explain the imaging workup that follows. Plus, we touch on congenital Horner Syndrome and the fascinating reason it can change the color of the iris.\n\nWhether you are a medical student, a healthcare professional, or simply someone who loves understanding how the human body works, this episode will change the way you look at the eyes forever. Visit Focuslinks dot in to explore more episodes and dive deeper into the world of clinical ophthalmology and vision science.\n\n---",
       "tags": "horner,ptosis,miosis,localization",
       "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-05.mp3",
+      "duration": "12:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e0307c80-9b34-4fb7-a4c1-6ef933f37273",
+      "generatedAt": "2026-08-09T05:47:44.766Z"
     },
     {
       "episodeOrder": 6,

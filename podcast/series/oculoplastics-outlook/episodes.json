@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T05:56:56.327Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T05:57:13.632Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -377,14 +377,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Pediatric Oculoplastics: The Congenital Anomalies",
-      "description": "Coloboma, epiblepharon, and ptosis — the infant lid findings and the surgical timing.",
+      "title": "Pediatric Oculoplastics: Congenital Eye Anomalies Explained",
+      "description": "Have you ever wondered what happens when the delicate structures around a newborn's eyes don't develop quite as expected? In this episode of Focus Cast, we take a deep dive into pediatric oculoplastics and the congenital anomalies that every ophthalmologist, resident, and medical student needs to know.\n\nWe start with congenital ptosis, exploring why a drooping eyelid is far more than a cosmetic concern and how it can silently steal a child's vision through amblyopia. From there, we walk through congenital nasolacrimal duct obstruction, one of the most common conditions in infant eye care, covering everything from Crigler massage to probing and dacryocystorhinostomy. We then explore the orbit, discussing anophthalmia, microphthalmia, and the long-term challenge of stimulating orbital growth in the absence of a normal eye.\n\nThe episode also covers cryptophthalmos, eyelid and ocular colobomas, epibulbar dermoids and their association with Goldenhar syndrome, and capillary hemangiomas, including how propranolol has completely transformed treatment outcomes. Throughout, we keep coming back to the one concept that ties it all together: amblyopia, and why early recognition and timely intervention can genuinely change the course of a child's life.\n\nWhether you're studying for exams, refreshing your clinical knowledge, or simply passionate about ophthalmology, this episode gives you a clear, clinically grounded, and engaging overview of congenital ocular adnexal anomalies.\n\nListen now and visit Focuslinks.in for more ophthalmology episodes, resources, and updates from the Focus Cast team.\n\n---",
       "tags": "pediatric,coloboma,epiblepharon,timing",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-29.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b36f2ae7-7a22-4e7c-91c6-965bc80aed63",
+      "generatedAt": "2026-08-09T05:57:13.632Z"
     },
     {
       "episodeOrder": 30,

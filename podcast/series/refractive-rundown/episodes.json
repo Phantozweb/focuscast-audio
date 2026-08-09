@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T04:47:26.494Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T04:47:44.482Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -349,14 +349,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "Refractive Surgery and Glaucoma: The IOP Challenge",
-      "description": "Why post-LASIK IOP reads low, the Goldmann correction, and the OCT and field surveillance.",
+      "title": "Refractive Surgery & Glaucoma: The IOP Accuracy Challenge",
+      "description": "What happens when a patient who wants LASIK also has glaucoma — or is at risk for it? The answer lies in one critical number: intraocular pressure. In this episode of Focus Cast, we unpack one of the most underappreciated challenges in modern eye care — how refractive surgery permanently alters the cornea in ways that make IOP measurement less reliable, and why that matters enormously for glaucoma detection and management.\n\nWe break down exactly why procedures like LASIK and PRK cause standard tonometry to underestimate true eye pressure, and how a falsely normal reading could delay a glaucoma diagnosis by years. From Goldmann applanation tonometry and its built-in assumptions, to cutting-edge tools like the Corvis ST, Ocular Response Analyzer, and corneal-compensated IOP measurements, we explore how the field is evolving to meet this challenge head-on.\n\nWe also tackle the tough clinical question: should patients with glaucoma or ocular hypertension even consider refractive surgery? We discuss the IOP spike during LASIK flap creation, why PRK and SMILE may carry lower risk for vulnerable optic nerves, and how implantable collamer lenses offer a monitoring advantage for high-risk patients.\n\nWhether you are a patient who has already had refractive surgery, someone considering it with a history of elevated eye pressure, or a clinician navigating these complex cases, this episode gives you the context and clarity you need to make informed decisions.\n\nListen now and visit Focuslinks.in for more expert eye care content.\n\n---",
       "tags": "glaucoma,lasik,iop,correction",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-27.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4cadd81c-e3c2-4b95-9d4b-254dfcb9c81c",
+      "generatedAt": "2026-08-09T04:47:44.482Z"
     },
     {
       "episodeOrder": 28,

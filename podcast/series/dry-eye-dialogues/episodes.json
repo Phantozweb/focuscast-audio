@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T04:29:39.674Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T04:29:51.294Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -183,14 +183,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Lipid-Based Tears: The Evaporative DED Fix",
-      "description": "Why lipid-containing drops help MGD patients and the emulsion chemistry that delivers them.",
+      "title": "Lipid-Based Tears: The Real Fix for Evaporative Dry Eye",
+      "description": "If you've ever felt like your eye drops just aren't cutting it, there's a good reason — and it has everything to do with the science of your tear film. In this episode of Focus Cast, we break down why evaporative dry eye disease is the most common form of dry eye, affecting up to 90% of sufferers, and why standard aqueous artificial tears often fail to deliver lasting relief.\n\nWe start from the ground up, explaining the three-layer structure of your tear film and the critical role the lipid layer plays in keeping your eyes comfortable and hydrated. You'll learn how meibomian gland dysfunction quietly disrupts that protective lipid barrier, causing tears to evaporate faster than your eyes can handle — and why simply adding more water to the equation misses the point entirely.\n\nThen we get into the real solution: lipid-based artificial tears. We explore how these specially formulated drops work to restore and reinforce the tear film's lipid layer, what the clinical research actually shows about their effectiveness, and how ingredients like castor oil, mineral oil, and phospholipids make a measurable difference in tear film stability and symptom relief.\n\nWe also cover practical lifestyle habits that amplify the benefits of lipid-based drops, from warm compresses and omega-3 nutrition to mindful blinking during screen time. Plus, we take a look at the exciting future of lipid science in dry eye treatment.\n\nWhether you're managing chronic dry eye or just tired of reaching for drops every hour, this episode gives you the knowledge to ask better questions and make smarter choices for your eye health. Listen now and visit Focuslinks.in for more expert eye care content.\n\n---",
       "tags": "lipid,emulsion,mgd,drops",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Dry Eye",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-15.mp3",
+      "duration": "12:20",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "134973a2-a619-40b8-bd34-49160b130ca6",
+      "generatedAt": "2026-08-09T04:29:51.294Z"
     },
     {
       "episodeOrder": 16,

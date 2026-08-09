@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T05:11:07.690Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T05:11:30.477Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Antivirals for Ocular HSV and HZV",
-      "description": "Topical trifluridine, oral acyclovir and valacyclovir, and the dose and duration for each.",
+      "title": "Antivirals for Ocular HSV & HZV: What You Need to Know",
+      "description": "Did you know that one of the leading causes of infectious blindness in the developed world is a virus carried by two-thirds of the global population? In this episode of Focus Cast, we dive deep into antivirals for ocular herpes simplex virus (HSV) and herpes zoster virus (HZV) — two of the most clinically significant viral threats to vision.\n\nWe break down how HSV causes herpetic keratitis and those tell-tale dendritic ulcers, while HZV can trigger herpes zoster ophthalmicus, affecting everything from the eyelids to the retina. More importantly, we walk you through the antiviral medications that make a real difference — acyclovir, valacyclovir, and famciclovir — explaining how each one works, when to use it, and why timing within that critical 72-hour window can change everything.\n\nYou will also learn about the landmark HEDS trial and what it taught us about long-term suppressive therapy for recurrent HSV eye disease, the role of ganciclovir ophthalmic gel as a modern topical option, how to recognize Hutchinson's sign and why it demands urgent action, and what to do when antiviral resistance becomes a concern in immunocompromised patients.\n\nWe also cover the recombinant zoster vaccine Shingrix and its remarkable potential to reduce the burden of herpes zoster ophthalmicus at a population level.\n\nWhether you are an ophthalmologist, an optometrist, a medical student, or simply passionate about eye health, this episode gives you a clear, evidence-based framework for understanding and managing these conditions. Visit Focuslinks.in to explore more episodes of Focus Cast and stay current with the world of eye care.\n\n---",
       "tags": "antiviral,trifluridine,acyclovir,valacyclovir",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-04.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "33476c68-9de7-401f-b25a-ecbb57ff7a1d",
+      "generatedAt": "2026-08-09T05:11:30.477Z"
     },
     {
       "episodeOrder": 5,

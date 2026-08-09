@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T04:29:23.512Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T04:29:28.125Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -135,14 +135,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Lid Margin Assessment: The Anterior and Posterior Survey",
-      "description": "Telangiectasia, crusting, orifice plugging, and the expressibility test that completes the MGD workup.",
+      "title": "Lid Margin Assessment: Anterior & Posterior Survey Explained",
+      "description": "Are your patients complaining of dry eyes, burning, or blurry vision — but standard tests keep coming back normal? The answer might be hiding right at the lid margin. In this episode of Focus Cast, we take a deep dive into the clinical assessment of the lid margin, covering both the anterior and posterior surfaces in detail.\n\nWe walk through everything you need to know about the anterior lid margin, including how to evaluate lash direction, density, and health, how to identify trichiasis, distichiasis, and madarosis, and what collarettes at the lash base reveal about Demodex blepharitis. We also break down the differences between staphylococcal and seborrhoeic anterior blepharitis and why that distinction matters for treatment.\n\nThen we move to the posterior lid margin, where meibomian gland dysfunction often goes undetected. You will learn how to assess meibomian gland orifices, interpret secretion quality through gland expression, and understand the clinical significance of anterior migration of the Marx line. We also cover telangiectatic vessels, rosacea-associated blepharitis, and how meibography can elevate your diagnostic approach.\n\nTo bring it all together, we walk through a real-world clinical scenario that shows exactly how a thorough lid margin survey can transform your diagnosis and treatment plan for evaporative dry eye disease.\n\nWhether you are a student building your clinical foundation or a practitioner looking to sharpen your ocular surface skills, this episode delivers practical, evidence-informed insights you can apply immediately at the slit lamp.\n\nListen now and start seeing the lid margin the way it deserves to be seen. For more eye care content, visit Focuslinks dot in.\n\n---",
       "tags": "lid-margin,telangiectasia,plugging,expressibility",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-11.mp3",
+      "duration": "12:03",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "777fc5ea-c464-46c0-bb0f-07232a8abcd9",
+      "generatedAt": "2026-08-09T04:29:28.125Z"
     },
     {
       "episodeOrder": 12,

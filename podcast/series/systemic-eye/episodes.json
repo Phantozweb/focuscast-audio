@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T06:23:05.862Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T06:23:16.549Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Diabetes: The Microvascular Cascade From Retinopathy to Edema",
-      "description": "The pathophysiology, the staging, and the glycemic and blood pressure control that changes the trajectory.",
+      "title": "Diabetes & Vision Loss: From Retinopathy to Macular Edema",
+      "description": "Did you know that diabetes can silently steal your vision before you ever notice a single symptom? In this eye-opening episode of Focus Cast, we break down the microvascular cascade that connects uncontrolled blood sugar to one of the leading causes of preventable blindness worldwide.\n\nWe start with the basics — how chronic high glucose quietly damages the tiny blood vessels throughout your body — and trace the full journey from early diabetic retinopathy to the most common cause of vision loss in people with diabetes: diabetic macular edema. Along the way, you'll learn what microaneurysms actually are, why the body's attempt to grow new blood vessels backfires so dangerously, and how fluid leaking into the macula can blur and distort the central vision you rely on every single day.\n\nWe also cover the remarkable treatments that have transformed diabetic eye care, including anti-VEGF injections, laser therapy, and corticosteroid implants — and why none of them replace the power of prevention. You'll hear the real-world story of Rajan, a man who lost precious vision simply because no one told him his eyes were at risk.\n\nWhether you have diabetes, love someone who does, or simply want to understand how blood sugar affects the body beyond the numbers on a chart, this episode gives you the knowledge to act before damage is done.\n\nIf this episode resonated with you, share it with someone who needs to hear it — and if you have diabetes, book that eye exam today. Visit Focuslinks dot in for more episodes and health resources that actually make a difference.\n\n---",
       "tags": "diabetes,retinopathy,edema,glycemic",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-02.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4936d1fa-0ca8-442f-81ac-a67702c9b813",
+      "generatedAt": "2026-08-09T06:23:16.549Z"
     },
     {
       "episodeOrder": 3,

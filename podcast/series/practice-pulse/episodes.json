@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T05:04:26.659Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T05:05:01.268Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -206,14 +206,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Technology ROI: When to Buy the Next Device",
-      "description": "The OCT, the topographer, the autorefractor — the payback calculation and the patient benefit story.",
+      "title": "Technology ROI: When Should You Buy Your Next Device?",
+      "description": "Is your slow phone or crashing laptop a sign it's time to upgrade — or are you just falling for the latest tech hype? In this episode of Focus Cast, we break down the real meaning of technology ROI and give you a practical framework for deciding when buying a new device actually makes financial sense.\n\nWe explore why the law of diminishing returns applies directly to your upgrade decisions, and why that \"revolutionary\" new model may not change your daily life as much as the marketing promises. You'll learn how to calculate the true cost of staying with an outdated device versus the total cost of ownership of a new one — including accessories, subscriptions, and ecosystem lock-in.\n\nWe also dig into the environmental impact of e-waste and the psychology behind why new devices stop feeling exciting so quickly, a phenomenon known as the hedonic treadmill. Plus, we share actionable strategies you can use right now: how to set a personal upgrade threshold, why refurbished and previous-generation devices offer some of the best ROI in tech, and how simple repairs like a battery replacement or SSD upgrade can extend your device's life by years.\n\nWhether you're a student, freelancer, or professional, this episode will help you make smarter, more intentional decisions with your tech budget — and stop letting clever marketing make the choice for you.\n\nListen now and start getting more value from the devices you already own. For more focused, practical content, visit us at Focuslinks.in.\n\n---",
       "tags": "technology,roi,oct,investment",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-16.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6f85aa0f-6eae-4b95-a13f-e151cc80c44e",
+      "generatedAt": "2026-08-09T05:05:01.268Z"
     },
     {
       "episodeOrder": 17,

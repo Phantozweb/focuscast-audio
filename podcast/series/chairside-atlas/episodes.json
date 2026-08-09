@@ -9,20 +9,18 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T08:30:08.858Z",
+  "lastUpdated": "2026-08-09T08:30:09.364Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "The First 60 Seconds: Building Patient Rapport in Eye Exams",
-      "description": "What happens before you touch the slit lamp may be the most diagnostically powerful moment of your entire eye exam. In this episode of Focus Cast by Focuslinks.in, we explore how the opening sixty seconds of an optometric encounter directly shape the quality of your patient history, the reliability of your clinical findings, and the accuracy of your differential diagnosis.\n\nDesigned exclusively for licensed optometrists, residents, and eye care professionals, this episode breaks down the clinical strategy behind patient rapport — not as a soft skill, but as a precision diagnostic tool. You will learn how your exam room environment influences patient disclosure, why open-ended questioning outperforms traditional intake questions, and how careful observation before retinoscopy or IOP measurement can surface critical findings like subtle ptosis, reduced blink rate, photophobia, or signs of fourth nerve palsy hiding in plain sight.\n\nWe cover how a well-structured verbal opening can surface buried chief complaints — the flashes and floaters a patient almost did not mention, the monocular blur that shifts your differential toward macular pathology, the night halos that point toward early cataract or elevated intraocular pressure. Every topic connects directly to your slit lamp exam, fundus evaluation, OCT decision-making, and clinical management priorities.\n\nWhether you are a seasoned clinician refining your chairside technique or a resident building your clinical foundation, this episode delivers immediately applicable strategies for smarter, faster, and more complete optometric care.\n\nListen now and bring something genuinely useful into your practice tomorrow. Find more clinical episodes built for eye care professionals at Focuslinks.in.\n\n---",
+      "title": "The First Sixty Seconds: Building Rapport and Reading the Patient",
+      "description": "How the opening moments of an eye exam shape cooperation, trust, and the quality of history you can extract.",
       "tags": "communication,history-taking,rapport,chairside",
-      "category": "Glaucoma",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-01.mp3",
-      "duration": "12:55",
+      "category": "General",
+      "audioUrl": "",
+      "duration": "0:00",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "dea32337-bd6c-4cff-b8a7-c5116cf0f2b5",
-      "generatedAt": "2026-08-09T08:30:08.858Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 2,
@@ -81,14 +79,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Pinhole Acuity: The Bedside Refractor",
-      "description": "Using the pinhole to separate refractive from pathological vision loss in under a minute.",
+      "title": "Pinhole Acuity: Separate Refractive vs Pathological Vision Loss Fast",
+      "description": "Can a simple pinhole occluder tell you more about your patient's vision loss than a full refraction? In this episode of Focus Cast, we break down one of the most underutilized yet clinically powerful tools in your exam room — pinhole acuity testing — and show you exactly how to use it to make faster, sharper diagnostic decisions at the chair.\n\nIn under sixty seconds, the pinhole can help you answer the question every optometrist faces daily: is this reduced acuity a refractive problem or a pathological one? We cover the optics behind why the pinhole works, the correct technique for performing and interpreting the test, and a structured anatomical differential diagnosis — from keratoconus and posterior subcapsular cataracts to diabetic macular edema, epiretinal membrane, optic neuritis, and ischemic optic neuropathy.\n\nYou will also get a practical chairside decision-making framework that tells you when to prioritize refraction, when to go straight to dilation and OCT, and how to handle the clinically tricky mixed-picture cases where pinhole improvement is only partial. We also explore the test's unique value in difficult-to-refract patients and in urgent care presentations involving sudden vision loss.\n\nWhether you are a seasoned clinician looking to sharpen your systematic approach or an optometry resident building your clinical reasoning skills, this episode delivers evidence-based, immediately applicable content grounded in real-world optometric practice.\n\nListen now and rethink how you use the most low-tech tool in your exam room. Visit Focuslinks dot in for more clinical episodes and resources built exclusively for eye care professionals.\n\n---",
       "tags": "acuity,pinhole,refraction,screening",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-07.mp3",
+      "duration": "13:08",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "78becc06-6a17-4e48-8c24-d70adcf4bc94",
+      "generatedAt": "2026-08-09T08:30:09.364Z"
     },
     {
       "episodeOrder": 8,

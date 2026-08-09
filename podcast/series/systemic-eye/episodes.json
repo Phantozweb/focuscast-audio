@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T06:32:32.790Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T06:32:42.930Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -377,14 +377,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Wilson Disease: The Kayser-Fleischer Ring",
-      "description": "The copper accumulation, the Descemet ring, and the hepatic and neurologic management.",
+      "title": "Wilson Disease & the Kayser-Fleischer Ring Explained",
+      "description": "What if a tiny golden-brown ring in someone's eye could reveal a rare, life-threatening disease hiding deep inside the body? In this episode of Focus Cast, we explore Wilson Disease and the remarkable diagnostic clue known as the Kayser-Fleischer ring — one of the most fascinating signs in all of clinical medicine.\n\nWilson Disease is a genetic disorder caused by a mutation in the ATP7B gene, which disrupts the body's ability to process and eliminate copper. As copper accumulates in the liver, brain, and eyes, it leaves behind a visible trace — a golden-brown ring at the outer edge of the cornea called the Kayser-Fleischer ring. First documented in the early 1900s by German physicians Bernhard Kayser and Bruno Fleischer, this ring remains a critical diagnostic marker to this day.\n\nWe break down how Wilson Disease develops, why it is so frequently misdiagnosed, and how its symptoms — ranging from liver failure and tremors to depression and personality changes — can mimic dozens of other conditions. We also cover how doctors diagnose Wilson Disease through ceruloplasmin testing, urine copper levels, liver biopsy, and genetic testing, and why early detection makes all the difference.\n\nThe good news? Wilson Disease is treatable. With copper chelation therapy using medications like penicillamine or trientine, and zinc supplementation, many patients recover fully — and the Kayser-Fleischer ring itself can fade as copper levels normalize.\n\nWhether you are a medical professional, a student, or simply someone who loves learning about the hidden wonders of the human body, this episode will change the way you think about what the eyes can reveal.\n\nListen now and visit Focuslinks.in for more episodes that bring medical knowledge to life.\n\n---",
       "tags": "wilson,kayser-fleischer,copper,hepatic",
       "category": "Cornea",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-29.mp3",
+      "duration": "12:08",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bd0020fd-785c-4406-bed1-7029f7c95ba3",
+      "generatedAt": "2026-08-09T06:32:42.930Z"
     },
     {
       "episodeOrder": 30,

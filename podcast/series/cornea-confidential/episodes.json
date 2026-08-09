@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T08:54:38.687Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T08:55:32.603Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -93,14 +93,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Bacterial Keratitis: The Ulcer at the Slit Lamp",
-      "description": "Differentiating bacterial from fungal and Acanthamoeba — the morphological clues that guide empiric therapy.",
+      "title": "Bacterial Keratitis: Corneal Ulcers, Causes & Treatment",
+      "description": "What happens when a contact lens wearer walks into the emergency eye clinic at 2 AM with a white hazy infiltrate on their cornea? In this episode of Focus Cast, we take a deep dive into bacterial keratitis — one of the most urgent and sight-threatening conditions in eye care.\n\nWe break down exactly how bacterial corneal ulcers develop, why contact lens wearers are up to 80 times more at risk, and which organisms like Pseudomonas aeruginosa and Staphylococcus aureus are most commonly responsible. You will learn how to recognize the classic slit lamp findings — stromal infiltrates, epithelial defects, hypopyon — and understand what separates bacterial keratitis from fungal, acanthamoeba, and herpetic infections that can look deceptively similar.\n\nWe also walk through the full clinical approach: when to scrape for cultures, how to use intensive fluoroquinolone therapy, the role of fortified antibiotics in severe cases, the controversial use of topical steroids, and why daily follow-up in the early phase is non-negotiable. Whether you are an optometry or ophthalmology student, a practicing clinician, or a contact lens wearer who wants to understand the real risks, this episode gives you everything you need to know.\n\nThe cornea is irreplaceable. The decisions made in the first few hours of a corneal ulcer can determine whether a patient keeps their vision. Do not miss this one.\n\nListen now and share this episode with a colleague, student, or anyone who wears contact lenses. Visit Focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "bacterial,ulcer,keratitis,infection",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-06.mp3",
+      "duration": "13:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9fbf741d-7454-4a2f-99eb-635679e3be2d",
+      "generatedAt": "2026-08-09T08:55:31.593Z"
     },
     {
       "episodeOrder": 7,

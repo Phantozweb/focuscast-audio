@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 17,
-  "lastUpdated": "2026-08-09T04:54:45.972Z",
+  "generatedEpisodesCount": 18,
+  "lastUpdated": "2026-08-09T04:55:05.592Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Orbital Cellulitis: The Hospital and the IV Antibiotics",
-      "description": "The CT for abscess, the microbiology, and the surgical drainage threshold.",
+      "title": "Orbital Cellulitis: Why Eye Infections Mean IV Antibiotics",
+      "description": "What starts as a puffy eye can spiral into a medical emergency within hours. In this episode of Focus Cast, we break down orbital cellulitis — a serious bacterial infection of the soft tissues inside the eye socket — and explain exactly why it lands patients in the hospital on intravenous antibiotics.\n\nWe cover how orbital cellulitis differs from the less dangerous preseptal cellulitis, why sinusitis is the most common trigger, and which bacteria are most often responsible. You will learn what happens from the moment you arrive at the emergency department — the CT scan, the IV antibiotic regimen, and the round-the-clock monitoring that follows. We also explain why some cases require urgent surgical drainage when an abscess forms, and why acting fast is the single most important factor in protecting your vision and your life.\n\nWhether you are a parent whose child has recurring sinus infections, someone who has experienced a swollen eye that seemed to come out of nowhere, or simply someone who wants to understand what doctors are actually doing and why, this episode gives you clear, medically grounded answers without the jargon overload.\n\nOrbital cellulitis sits right on the edge between manageable and catastrophic — and knowing the warning signs could make all the difference. Listen now, and visit Focuslinks.in for more episodes that turn complex medical topics into knowledge you can actually use.\n\n---",
       "tags": "orbital,abscess,iv,surgical",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-18.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c016a888-7dbf-4d62-b0c5-233d44d84da9",
+      "generatedAt": "2026-08-09T04:55:05.591Z"
     },
     {
       "episodeOrder": 19,

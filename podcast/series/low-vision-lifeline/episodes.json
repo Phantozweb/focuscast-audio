@@ -8,19 +8,21 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T05:21:25.599Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T05:21:35.380Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Low Vision Defined: The Impairment Beyond the Correction",
-      "description": "The WHO thresholds, the functional impact, and the rehabilitation that medicine alone cannot provide.",
+      "title": "Low Vision Defined: The Eye Condition Glasses Can't Fix",
+      "description": "What if no glasses, contacts, or surgery could restore your sight? That's the reality of low vision — a widely misunderstood condition affecting over 250 million people worldwide. In this episode of Focus Cast, we break down exactly what low vision is, why it's so much more complex than most people realize, and why it deserves far greater awareness than it currently gets.\n\nWe start with the clinical definition from the World Health Organization — visual impairment that persists even after every available correction — and then go deeper into what that actually means for real people. You'll learn about the different ways low vision shows up, from central vision loss and tunnel vision to contrast sensitivity issues and light sensitivity, and why no two people with low vision experience the world the same way.\n\nWe also cover the most common causes, including macular degeneration, glaucoma, diabetic retinopathy, and retinitis pigmentosa, and explore the emotional weight of living with a progressive condition that medicine can slow but not stop.\n\nFinally, we shine a light on low vision rehabilitation — a specialized, life-changing field that remains massively underutilized — and explain how optical devices, adaptive technology, and specialized training can help people live fully with the vision they have.\n\nWhether you're personally navigating vision changes, supporting someone who is, or simply want to understand the full spectrum of human sight, this episode will change the way you think about vision. Visit Focuslinks.in for more episodes and resources on vision health and awareness.\n\n---",
       "tags": "low-vision,definition,who,rehabilitation",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-01.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6ce364df-1d2b-4993-8b11-08aee6d1107e",
+      "generatedAt": "2026-08-09T05:21:35.380Z"
     },
     {
       "episodeOrder": 2,

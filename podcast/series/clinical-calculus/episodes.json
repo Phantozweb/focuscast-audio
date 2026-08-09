@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T08:12:53.349Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T08:19:53.098Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Cultural Competence: The Eye Care Across Differences",
-      "description": "The language, the beliefs, the health literacy, and the adaptation that builds trust.",
+      "title": "Cultural Competence in Eye Care: Bridging the Vision Gap",
+      "description": "Have you ever felt misunderstood by a doctor? Now imagine that happening when your eyesight is on the line. In this eye-opening episode of Focus Cast by Focuslinks.in, we explore cultural competence in eye care and why it's one of the most critical yet overlooked factors in vision health today.\n\nWe break down what cultural competence really means beyond just language, diving into how culture, trust, and lived experience shape the way people seek and receive eye care. From the alarming rates of glaucoma in Black Americans to the rising burden of diabetic retinopathy in Hispanic, Latino, and South Asian communities, we unpack the real disparities that are costing people their vision and what can be done about it.\n\nYou'll hear about powerful community outreach models, the difference between cultural competence and cultural humility, why language access is a standard of care and not a luxury, and how representation in the eye care workforce directly improves patient outcomes. We also share a moving real-world story about how one multilingual optometrist transformed her community's relationship with eye care, one appointment at a time.\n\nWhether you're a patient, caregiver, eye care professional, or health advocate, this episode will change the way you think about vision health equity.\n\nListen now and share this episode with someone who deserves care that truly sees them. Explore more episodes and eye care resources at Focuslinks.in.\n\n---",
       "tags": "cultural,competence,literacy,trust",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-26.mp3",
+      "duration": "12:03",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f8c8fc98-35ea-444f-8ad0-d8e72209006c",
+      "generatedAt": "2026-08-09T08:19:52.669Z"
     },
     {
       "episodeOrder": 27,

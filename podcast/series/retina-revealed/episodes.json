@@ -9,7 +9,7 @@
   "order": 2,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T08:52:58.522Z",
+  "lastUpdated": "2026-08-09T08:56:35.418Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -109,16 +109,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fundus Photography: How to Compose a Diagnostic Image",
-      "description": "What separates a technically adequate fundus photograph from one that actually changes a patient's outcome? In this episode of Focus Cast, we break down the art and science of composing a truly diagnostic fundus image — the kind that gives clinicians everything they need to make confident, accurate decisions.\n\nWe start with the basics: what the fundus is, why it is one of the most information-rich surfaces in the human body, and why fundus photography demands far more than simply pointing a camera at the back of the eye. From there, we dive deep into the three pillars of great fundus imaging — focus and clarity, framing and field selection, and managing the real-world challenges that come with every patient encounter.\n\nYou will learn why autofocus is not always enough, how media opacity affects image interpretation, and why centering on the right anatomical landmark can make or break a clinical image. We also explore field protocols like the ETDRS seven-field standard, the rise of wide-field imaging systems, and practical techniques for handling small pupils, poor fixation, blink timing, and corneal glare.\n\nWhether you are a student entering optometry or ophthalmology, a clinical photographer refining your technique, or a practitioner who wants to better understand the images you rely on every day, this episode gives you a clear, practical framework for thinking about fundus photography as a clinical skill — not just a technical one.\n\nTune in, take notes, and raise your standard for what a diagnostic image should look like. Visit focuslinks.in for more episodes and eye care resources.\n\n---",
+      "title": "Fundus Photography: Fields, Stereo Pairs & Montage Imaging",
+      "description": "Are your fundus photos actually capturing the full clinical picture — or are you missing critical peripheral pathology between visits? In this episode of Focus Cast, we break down the diagnostic discipline behind fundus photography, moving well beyond routine documentation into strategic, clinically meaningful image composition.\n\nWe open with a sobering real-world scenario: a diabetic patient with moderate NPDR whose standard fundus photo looked clean — until a vitreous hemorrhage revealed peripheral neovascularization that a single-field image never could have caught. That case frames everything that follows.\n\nFirst, we unpack ETDRS field definitions and explain why understanding retinal geography — and redirecting patient gaze to access peripheral zones — directly impacts your diagnostic yield. Next, we explore stereo disc photography: why two images captured at slightly different angles restore the three-dimensional depth that flat photos strip away, and why stereo pairs remain the gold standard for longitudinal glaucoma monitoring and choroidal lesion evaluation alongside OCT. Finally, we dive into montage imaging — the technique of stitching overlapping fields into a panoramic retinal map that approximates ultra-widefield coverage using a standard fundus camera — and why it's clinically indispensable for diabetic retinopathy, retinitis pigmentosa, lattice degeneration, and peripheral uveitis.\n\nEvery concept is grounded in evidence, practical technique, and direct application to optometric practice. Whether you're refining your own imaging protocol or training your clinical staff, this episode gives you a framework to make every image count.\n\nVisit Focuslinks.in for more clinical content built exclusively for eye care professionals.\n\n---",
       "tags": "fundus-photo,montage,fields,stereo",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-07.mp3",
-      "duration": "12:48",
+      "duration": "12:57",
       "imageUrl": "",
       "status": "generated",
-      "runId": "ce934604-383f-4b79-83c3-64fcb3711337",
-      "generatedAt": "2026-08-09T08:52:15.677Z"
+      "runId": "99f28fe8-a6e3-4f48-917d-6243649963e4",
+      "generatedAt": "2026-08-09T08:56:35.418Z"
     },
     {
       "episodeOrder": 8,

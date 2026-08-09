@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T05:35:31.584Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T05:35:40.137Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Posterior Uveitis: The Retinitis and Choroiditis",
-      "description": "The lesions beyond the vitreous — toxoplasmosis, ARN, birdshot — and the sight-threatening urgency.",
+      "title": "Posterior Uveitis: Retinitis & Choroiditis Explained",
+      "description": "Could your vision be silently slipping away without a single warning sign? In this eye-opening episode of Focus Cast, we break down posterior uveitis, one of the leading causes of preventable blindness that far too many people have never heard of. We take a deep dive into the two major conditions at the heart of this diagnosis: retinitis and choroiditis.\n\nYou'll learn how CMV retinitis devastated the HIV-positive population before modern antiretroviral therapy, why toxoplasmic retinochoroiditis is the most common infectious cause of posterior uveitis worldwide, and what mysterious conditions like multifocal choroiditis and birdshot chorioretinopathy actually look like inside the eye. We also cover the subtle, easy-to-dismiss symptoms, such as new floaters, flashing lights, and blurry central vision, that signal it's time to see an eye doctor immediately.\n\nBeyond the eye itself, we explore how posterior uveitis is often a window into systemic diseases like sarcoidosis, tuberculosis, syphilis, Behçet's disease, and lupus, and why ophthalmologists frequently collaborate with specialists across medicine to find the root cause. From diagnostic tools like optical coherence tomography and fluorescein angiography to treatments ranging from antivirals to long-term immunosuppression, this episode gives you a complete, accessible picture of a condition that demands respect.\n\nWhether you're a patient, a caregiver, a medical student, or simply someone who values their vision, this episode is essential listening. Don't ignore new visual symptoms. Early detection truly saves sight.\n\nListen now and visit Focuslinks.in for more expert eye health content.\n\n---",
       "tags": "posterior,retinitis,choroiditis,toxo",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-06.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1138439f-a1a3-4efa-b1f9-c5e600f7bc09",
+      "generatedAt": "2026-08-09T05:35:40.137Z"
     },
     {
       "episodeOrder": 7,

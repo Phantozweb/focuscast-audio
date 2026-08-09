@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T04:38:58.717Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T04:39:33.863Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "PresbyLASIK: The Presbyopia Correction Attempt",
-      "description": "The monovision and multifocal ablation strategies and the compromise that each demands.",
+      "title": "PresbyLASIK: Can a Laser Really Fix Presbyopia?",
+      "description": "If you've ever held your phone at arm's length just to read a text, you already know the frustration of presbyopia. But what if a laser could fix it? In this episode of Focus Cast, we take a deep dive into PresbyLASIK, the laser eye surgery designed to correct age-related near vision loss and reduce your dependence on reading glasses.\n\nWe break down exactly how PresbyLASIK works, from multifocal corneal reshaping to the different surgical approaches like center-near, center-distance, and blended vision profiles. You'll learn who makes an ideal candidate, what real-world satisfaction rates actually look like, and why managing expectations is just as important as the surgery itself. We also tackle the tough questions, including what happens if your brain doesn't adapt, why the procedure is permanent, and how PresbyLASIK compares to other presbyopia correction options like intraocular lenses, corneal inlays, and prescription eye drops.\n\nWhether you're in your forties and actively exploring surgical options, or you're simply curious about the cutting edge of vision science, this episode gives you an honest, thorough, and genuinely fascinating look at one of ophthalmology's most active areas of research.\n\nReady to find out if PresbyLASIK could be right for you? Listen to the full episode and then visit Focuslinks.in for more expert resources on eye health, refractive surgery, and vision care.\n\n---",
       "tags": "presbylasik,monovision,multifocal,presbyopia",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-07.mp3",
+      "duration": "11:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "dbac55c4-4e01-40cc-9750-0d5f2cc561ae",
+      "generatedAt": "2026-08-09T04:39:33.863Z"
     },
     {
       "episodeOrder": 8,

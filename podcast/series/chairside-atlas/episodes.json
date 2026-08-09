@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T08:35:52.780Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T08:37:20.244Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Medical and Family History Through the Ocular Lens",
-      "description": "Translating systemic disease into ocular risk — diabetes, hypertension, autoimmune, and hereditary patterns.",
+      "title": "Medical & Family History Through the Ocular Lens | FocusCast",
+      "description": "Every intake form tells a clinical story — are you reading it correctly? In this episode of FocusCast by Focuslinks.in, we break down how to translate systemic and hereditary disease history into precise, actionable ocular risk assessment at the chair.\n\nDesigned exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners, this episode covers four high-yield areas: diabetic eye disease and the role of OCT in detecting center-involving macular edema, hypertensive retinopathy grading using the Keith-Wagener-Barker classification and its vascular implications, autoimmune-related ocular conditions including HLA-B27-associated anterior uveitis, scleritis in rheumatoid arthritis, and the underdiagnosed ocular presentation of Sjögren's syndrome, and hereditary risk patterns for glaucoma, keratoconus, and retinal dystrophies including retinitis pigmentosa and Stargardt disease.\n\nYou'll walk away with sharper chairside decision-making skills, clearer referral thresholds, and a stronger framework for integrating slit lamp findings, fundus evaluation, IOP measurement, corneal topography, and OCT data with the systemic context your patients bring into the exam room.\n\nBecause the retinal vasculature is the only place in the human body where blood vessels can be directly visualized without invasive procedures — and that clinical privilege carries real responsibility.\n\nIf you're ready to elevate your medical history intake from administrative routine to diagnostic advantage, this episode is for you.\n\nListen now, and visit Focuslinks.in for more evidence-based clinical episodes built specifically for eye care professionals.\n\n---",
       "tags": "systemic,medical-history,family-history,risk",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-04.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c266fd05-a029-4e7d-9a04-5435bfd23210",
+      "generatedAt": "2026-08-09T08:37:20.244Z"
     },
     {
       "episodeOrder": 5,

@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T05:03:55.093Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T05:04:24.771Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Key Performance Indicators: The Numbers That Matter",
-      "description": "Capture rate, revenue per exam, recall rate — the dashboard that diagnoses the practice.",
+      "title": "KPIs Explained: Track the Numbers That Actually Matter",
+      "description": "Are you busy every day but not sure if you're actually making progress? In this episode of Focus Cast by Focuslinks.in, we break down everything you need to know about Key Performance Indicators (KPIs) — the measurable numbers that tell you whether your business, team, or career is truly moving in the right direction.\n\nWe start with a simple but powerful analogy: driving without a map. That's exactly what running a business without KPIs feels like — lots of motion, zero direction. From there, we dive deep into what KPIs really are, why they matter more than most people realize, and how to choose the right ones without drowning in data.\n\nYou'll learn the critical difference between leading indicators and lagging indicators, why tracking too many metrics kills focus, and how one retail company grew revenue by 30% simply by measuring the right thing. We also walk through the SMART framework for setting KPIs that are specific, measurable, and tied to real outcomes — not vague wishes.\n\nWhether you're a business owner, team leader, startup founder, or freelancer, this episode gives you a clear, practical approach to identifying three to five KPIs that directly connect to your most important goals right now.\n\nWe also cover the four most common KPI mistakes — including vanity metrics, setting and forgetting, poor team communication, and being too rigid — so you can avoid the traps that make KPI tracking a useless exercise.\n\nIf you're ready to replace guesswork with clarity and make smarter decisions faster, this episode is for you. Listen now and start focusing on the numbers that actually matter. For more episodes and resources, visit Focuslinks.in.\n\n---",
       "tags": "kpi,capture-rate,revenue,recall",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-14.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f62dac27-4a75-4c57-9120-12e8f40fd98d",
+      "generatedAt": "2026-08-09T05:04:24.771Z"
     },
     {
       "episodeOrder": 15,

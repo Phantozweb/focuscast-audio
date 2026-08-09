@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T06:31:18.477Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T06:31:29.357Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -312,14 +312,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Ehlers-Danlos and the Eye: The Connective Tissue Link",
-      "description": "The blue sclera, the elastic skin, and the refractive and angioid streaks associations.",
+      "title": "Ehlers-Danlos Syndrome and Your Eyes: What You Must Know",
+      "description": "Did you know that Ehlers-Danlos Syndrome doesn't just affect your joints and skin — it can seriously impact your vision too? In this eye-opening episode of Focus Cast, we explore the powerful and often overlooked connection between Ehlers-Danlos Syndrome (EDS) and eye health, and why your ophthalmologist and geneticist may need to be on the same page.\n\nWe break down exactly how faulty collagen in EDS affects the structures of the eye, including the cornea, sclera, retina, and lens. You'll learn why people with EDS are at higher risk for myopia, keratoconus, glaucoma, retinal detachment, and lens dislocation — and why standard eye pressure readings can be dangerously misleading in EDS patients. We also cover the serious ocular fragility seen in kyphoscoliotic EDS, where even minor eye trauma can become a surgical emergency, and why dry eye syndrome is far more common and severe in people with connective tissue disorders.\n\nWhether you've been diagnosed with EDS, suspect you might have it, or simply care for someone who does, this episode gives you the knowledge to ask better questions, recognize warning signs early, and ensure your eye care is truly comprehensive.\n\nIf you ever experience sudden flashes, floaters, or a shadow across your vision, this episode will tell you exactly why you should never wait to seek help.\n\nListen now and share this episode with anyone living with EDS or a connective tissue disorder — because understanding the full picture could protect their sight. Visit Focuslinks.in for more expert eye health content and episodes of Focus Cast.\n\n---",
       "tags": "eds,blue-sclera,angioid-streaks,connective",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-24.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0079f176-0e24-4fc9-aa8d-f90f7131d8ae",
+      "generatedAt": "2026-08-09T06:31:29.357Z"
     },
     {
       "episodeOrder": 25,

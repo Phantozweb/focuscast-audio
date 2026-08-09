@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T05:06:43.823Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T05:07:17.586Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -295,14 +295,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Optical Inventory: The Frame Board That Sells",
-      "description": "The selection, the turns, the stock balance, and the vendor relationships that fill the gaps.",
+      "title": "Frame Board That Sells: Optical Inventory Strategy Tips",
+      "description": "Is your optical frame board silently costing you sales? In this episode of Focus Cast by Focuslinks.in, we uncover the powerful connection between visual merchandising and revenue in your optical practice — and how a strategically designed frame board can influence up to 40% of your patients' purchasing decisions before your team says a single word.\n\nWe break down the three display zones — hot, mid, and lower — and explain exactly which frames belong where to maximize perceived value and drive premium sales. You'll learn how to group frames by lifestyle, face shape, and color story to create an experience that feels personal, curated, and irresistible to patients.\n\nWe also tackle one of the most overlooked profit drains in optical retail: stale inventory. Discover how to audit your frame board every 90 days, apply the paradox of choice principle to curate a tighter, more effective selection, and run clearance strategies that move old stock without hurting your brand.\n\nFinally, we cover how to align your team with your display strategy so every patient interaction feels guided, intentional, and trust-building — turning your opticians into confident storytellers rather than passive frame-pullers.\n\nWhether you're running an independent optical shop or a multi-location practice, this episode gives you a clear, actionable roadmap to transform your frame board into your most powerful silent salesperson.\n\nListen now and then walk straight to your display with fresh eyes. Visit Focuslinks.in for more episodes and resources to help you build a stronger, smarter optical practice.\n\n---",
       "tags": "inventory,frames,turns,vendors",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-23.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8aec01e1-e047-44f6-987b-35f181234f86",
+      "generatedAt": "2026-08-09T05:07:17.586Z"
     },
     {
       "episodeOrder": 24,

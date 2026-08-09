@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T06:38:05.051Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T06:38:25.225Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Shared Decision-Making: The Patient in the Plan",
-      "description": "The evidence, the options, the values, and the conversation that places the patient at the center.",
+      "title": "Shared Decision-Making: Make Your Voice Count in Healthcare",
+      "description": "Have you ever walked out of a doctor's appointment feeling more confused than when you walked in? You are not alone. Millions of people leave medical visits every day feeling like passengers in their own healthcare journey — and it does not have to be that way.\n\nIn this episode of Focus Cast, we explore shared decision-making, the evidence-backed approach that transforms patients from passive recipients into active partners in their own care. We break down exactly what shared decision-making means, why the traditional paternalistic model of medicine often falls short, and how a genuine conversation between doctor and patient can lead to better treatment choices, higher satisfaction, and stronger health outcomes.\n\nWe walk through real-world examples — from prostate cancer treatment decisions to a mother choosing her path so she could be present at her daughter's wedding — to show how personal values, lifestyle, and priorities are just as important as clinical data when making medical decisions. We also cover practical tools like patient decision aids, the role of health literacy, and the three key steps that make a shared decision-making conversation actually work.\n\nWhether you are a patient preparing for your next appointment, a caregiver supporting a loved one, or a healthcare provider looking to strengthen patient relationships, this episode gives you the language, the mindset, and the confidence to make healthcare decisions that are right for your life — not just your medical chart.\n\nYour voice in your healthcare matters more than you think. Listen now, and share this episode with someone who needs to hear it. Visit Focuslinks dot in for more episodes and resources.\n\n---",
       "tags": "shared-decision,evidence,values,patient-centered",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-14.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5c25327c-36df-4556-8cc9-63381d787adc",
+      "generatedAt": "2026-08-09T06:38:25.225Z"
     },
     {
       "episodeOrder": 15,

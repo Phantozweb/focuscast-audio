@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T06:18:01.384Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T06:18:15.628Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Pachymetry: The CCT and the Glaucoma Correction",
-      "description": "The ultrasonic and optical, the OHTS correction, and the refractive surgery floor.",
+      "title": "Pachymetry & CCT: The Key to Accurate Glaucoma Risk Assessment",
+      "description": "Is your eye pressure reading actually telling the whole story? In this eye-opening episode of Focus Cast, we dive deep into pachymetry and central corneal thickness (CCT), the often-overlooked measurement that can make or break an accurate glaucoma diagnosis.\n\nMost people know that intraocular pressure (IOP) is the primary risk factor monitored in glaucoma. But here's what many patients and even some clinicians don't fully appreciate: IOP is never measured directly. It's estimated through the cornea, and corneal thickness varies significantly from person to person. A thicker-than-average cornea can make eye pressure appear falsely high, while a thinner cornea can mask dangerously elevated IOP, putting patients at serious risk of undetected glaucoma progression.\n\nWe break down the science behind why CCT matters, walk through the landmark Ocular Hypertension Treatment Study that cemented pachymetry's role in glaucoma risk assessment, and explain how IOP correction formulas work in real clinical practice. We also cover how refractive surgeries like LASIK permanently alter corneal thickness and why that creates unique challenges for glaucoma screening.\n\nWhether you're a patient who's been told your eye pressure is borderline, or a clinician looking to sharpen your diagnostic approach, this episode gives you the context you need to interpret IOP readings with far greater confidence and precision.\n\nListen now and discover why this simple, painless, two-minute test carries enormous clinical weight. Then visit **focuslinks.in** for more episodes, resources, and expert eye care content.\n\n---",
       "tags": "pachymetry,cct,ohts,refractive",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-20.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c6c1e684-565a-4ee6-87c2-5fb8975df2a5",
+      "generatedAt": "2026-08-09T06:18:15.628Z"
     },
     {
       "episodeOrder": 21,

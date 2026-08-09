@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T04:30:07.228Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T04:30:12.396Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -222,14 +222,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Omega-3 Supplementation: The Evidence and the Dosing",
-      "description": "The DREAM study, the EPA/DHA ratio, and the patient selection that defines success.",
+      "title": "Omega-3 Supplements: Real Evidence, Right Dosing Explained",
+      "description": "Are you taking omega-3 supplements but unsure if they're actually working? In this episode of Focus Cast, we cut through the confusion and give you a science-backed breakdown of everything you need to know about omega-3 fatty acids — from the research to the right dosage for your goals.\n\nWe start with the basics: what EPA and DHA actually are, why your body can't produce them on its own, and why the modern Western diet leaves most people dangerously deficient. Then we dive deep into the cardiovascular evidence, including the landmark REDUCE-IT trial that showed a 25% reduction in major heart events using high-dose EPA — and why that changes everything about how we think about fish oil dosing.\n\nWe also explore omega-3's powerful role in brain health, cognitive function, and depression, backed by peer-reviewed meta-analyses that reveal exactly which EPA-to-DHA ratios deliver real mental health benefits.\n\nBut the most practical part? The dosing breakdown. We explain why that \"1000 mg\" fish oil capsule on your pharmacy shelf may only be delivering 300 mg of actual EPA and DHA — and what therapeutic doses really look like depending on your health goals. We also cover the differences between ethyl ester, triglyceride, krill oil, and algae-based omega-3 forms, plus tips on absorption, avoiding rancid oil, and choosing third-party tested products.\n\nWhether you're optimizing for heart health, mental clarity, or general wellness, this episode gives you the tools to supplement smarter.\n\nListen now and visit Focuslinks.in for more episodes on focus, performance, and evidence-based wellbeing.\n\n---",
       "tags": "omega-3,dream,epa,dha",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-18.mp3",
+      "duration": "12:12",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4941e27e-21fb-4aa5-9cb1-d004c6a90b02",
+      "generatedAt": "2026-08-09T04:30:12.396Z"
     },
     {
       "episodeOrder": 19,

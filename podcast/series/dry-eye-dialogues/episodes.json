@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T04:44:24.208Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T04:44:41.232Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -312,14 +312,16 @@
     },
     {
       "episodeOrder": 24,
-      "title": "Scleral Lenses for Severe DED: The Reservoir Solution",
-      "description": "When drops and plugs fail, the fluid reservoir and the visual and comfort restoration.",
+      "title": "Scleral Lenses for Severe Dry Eye: The Reservoir Solution",
+      "description": "If you've ever felt like sandpaper lines your eyelids every morning, you already know that severe dry eye disease is far more than a minor inconvenience. For millions living with conditions like Sjögren's syndrome, graft-versus-host disease, or Stevens-Johnson syndrome, conventional treatments like drops, gels, and plugs simply don't go far enough. In this episode of Focus Cast, we explore why scleral lenses have become one of the most powerful and life-changing tools available for managing severe dry eye disease.\n\nWe break down exactly how scleral lenses work, vaulting completely over the cornea and creating a fluid-filled reservoir that keeps the ocular surface continuously bathed, protected, and shielded from the friction of every blink. We cover what the clinical research shows about improvements in comfort, visual acuity, and quality of life, and why patients who had given up on relief are finding their way back to daily activities they thought were lost forever.\n\nWe also dive into the fitting process, what to expect as a new wearer, and the exciting frontier of using therapeutic fluids like autologous serum inside the lens reservoir, turning a protective device into an active healing system. Plus, we discuss who makes a good candidate, what questions to ask your eye care provider, and how to find a specialist experienced in scleral lens fitting.\n\nIf you or someone you love is living with severe dry eye and feels like every option has been exhausted, this episode is for you. Listen now, and then visit focuslinks.in for more episodes and eye care resources that help you see and live better.\n\n---",
       "tags": "scleral,severe,reservoir,restoration",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-24.mp3",
+      "duration": "12:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6db955d5-a39e-4497-867c-850e83f47315",
+      "generatedAt": "2026-08-09T04:44:41.232Z"
     },
     {
       "episodeOrder": 25,

@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T04:57:40.810Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T04:57:51.385Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,14 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Painful Red Eye: The Decision Tree",
-      "description": "Iritis, keratitis, angle closure, scleritis — the features that separate urgent from emergent.",
+      "title": "Painful Red Eye: Know When It's an Emergency",
+      "description": "Woke up with a red, painful eye and not sure whether to rush to the doctor or just grab some eye drops? This episode of Focus Cast breaks down exactly how to think through that decision. Using a practical decision tree approach, we walk you through the key questions eye doctors ask to separate a harmless irritation from a genuine sight-threatening emergency.\n\nYou'll learn why the location of pain, whether it's surface-level and scratchy or deep and throbbing, is the single most important clue your eye can give you. We cover the critical warning signs that demand urgent attention, including vision changes, light sensitivity, and the pattern of redness around the iris, and explain what each symptom combination actually means.\n\nFrom common conditions like viral conjunctivitis and corneal abrasions to more serious diagnoses like uveitis, corneal ulcers, and acute angle-closure glaucoma, this episode gives you a clear, medically grounded understanding of what's happening inside your eye and why some conditions can cause permanent vision loss if left untreated even for a few hours.\n\nWhether you're a contact lens wearer, someone who's had a recent eye injury, or simply someone who wants to make smarter decisions about their eye health, this episode gives you the knowledge to act with confidence when it matters most.\n\nDon't wait until a red eye becomes a vision emergency. Listen now and share this episode with someone who needs it. For more eye health resources and episodes, visit Focuslinks dot in.\n\n---",
       "tags": "red-eye,pain,decision-tree,triage",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-25.mp3",
+      "duration": "13:04",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6b4a88ce-3872-429f-8e9b-95885dc71541",
+      "generatedAt": "2026-08-09T04:57:51.385Z"
     },
     {
       "episodeOrder": 26,

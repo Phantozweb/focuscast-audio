@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T08:17:19.266Z",
+  "lastUpdated": "2026-08-09T08:20:05.657Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 565,
+  "generatedEpisodes": 416,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -29,10 +29,10 @@
       "category": "Retina",
       "order": 2,
       "totalEpisodes": 30,
-      "generatedEpisodes": 30,
+      "generatedEpisodes": 0,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/episodes.json",
       "audioDir": "podcast/series/retina-revealed/audio",
-      "lastUpdated": "2026-08-05T19:43:12.944Z"
+      "lastUpdated": null
     },
     {
       "slug": "cornea-confidential",
@@ -44,10 +44,10 @@
       "category": "Cornea",
       "order": 3,
       "totalEpisodes": 30,
-      "generatedEpisodes": 30,
+      "generatedEpisodes": 0,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/episodes.json",
       "audioDir": "podcast/series/cornea-confidential/audio",
-      "lastUpdated": "2026-08-05T19:48:26.393Z"
+      "lastUpdated": null
     },
     {
       "slug": "glaucoma-guardian",
@@ -59,10 +59,10 @@
       "category": "Glaucoma",
       "order": 4,
       "totalEpisodes": 30,
-      "generatedEpisodes": 30,
+      "generatedEpisodes": 0,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/episodes.json",
       "audioDir": "podcast/series/glaucoma-guardian/audio",
-      "lastUpdated": "2026-08-05T19:53:56.866Z"
+      "lastUpdated": null
     },
     {
       "slug": "vision-scientists",
@@ -74,10 +74,10 @@
       "category": "Refraction",
       "order": 5,
       "totalEpisodes": 30,
-      "generatedEpisodes": 30,
+      "generatedEpisodes": 0,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/vision-scientists/episodes.json",
       "audioDir": "podcast/series/vision-scientists/audio",
-      "lastUpdated": "2026-08-05T19:59:03.734Z"
+      "lastUpdated": null
     },
     {
       "slug": "contact-lens-chronicles",
@@ -89,10 +89,10 @@
       "category": "Contact Lens",
       "order": 6,
       "totalEpisodes": 30,
-      "generatedEpisodes": 30,
+      "generatedEpisodes": 0,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/contact-lens-chronicles/episodes.json",
       "audioDir": "podcast/series/contact-lens-chronicles/audio",
-      "lastUpdated": "2026-08-05T20:12:58.532Z"
+      "lastUpdated": null
     },
     {
       "slug": "pediatric-perspectives",
@@ -299,10 +299,10 @@
       "category": "General",
       "order": 20,
       "totalEpisodes": 30,
-      "generatedEpisodes": 25,
+      "generatedEpisodes": 26,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/episodes.json",
       "audioDir": "podcast/series/clinical-calculus/audio",
-      "lastUpdated": "2026-08-09T08:12:53.349Z"
+      "lastUpdated": "2026-08-09T08:19:53.098Z"
     }
   ]
 }

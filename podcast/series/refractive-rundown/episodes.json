@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T04:42:34.984Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T04:43:10.507Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Post-PRK Care: The Epithelial Healing and the Haze",
-      "description": "The bandage lens timeline, the mitomycin C decision, and the subepithelial haze that follows UV exposure.",
+      "title": "PRK Recovery: Epithelial Healing and Corneal Haze Explained",
+      "description": "Just had PRK surgery and wondering why your vision is still blurry or why your eyes feel like they've been through a storm? You're not alone — and you're in the right place. In this episode of Focus Cast, we break down the two most misunderstood parts of PRK recovery: the epithelial healing process and corneal haze.\n\nWe start with the basics — what the corneal epithelium actually is, why PRK requires it to be fully removed, and what your eye is doing hour by hour as it rebuilds that surface layer from scratch. You'll learn why the first three to five days feel the way they do, what the bandage contact lens is really for, and why blurry or fluctuating vision in the early weeks is completely normal.\n\nThen we dive into corneal haze — what causes it, why some patients experience it more than others, and how tools like mitomycin C and post-operative steroid eye drops play a critical role in keeping it under control. We also cover the often-overlooked importance of UV protection after PRK and what your doctor can do if haze becomes a concern.\n\nWhether you're one day post-op or a few weeks into recovery and feeling impatient, this episode gives you the knowledge to understand what's happening inside your eye and the confidence to trust the process.\n\nListen now and walk away with practical, clear guidance on how to protect your healing cornea and set yourself up for the best possible outcome.\n\nFor more episodes and vision health resources, visit Focuslinks dot in.\n\n---",
       "tags": "prk,healing,haze,mitomycin",
-      "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-15.mp3",
+      "duration": "12:27",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6373ef2d-95e5-4223-b3b4-a0e242c8bf9e",
+      "generatedAt": "2026-08-09T04:43:10.507Z"
     },
     {
       "episodeOrder": 16,

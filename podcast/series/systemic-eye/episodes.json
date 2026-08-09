@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T06:31:46.811Z",
+  "generatedEpisodesCount": 27,
+  "lastUpdated": "2026-08-09T06:32:01.333Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,14 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Pseudoxanthoma Elasticum: The Angioid Streaks and the Skin",
-      "description": "The plucked-chicken skin, the retinal streaks, and the cardiovascular and GI surveillance.",
+      "title": "PXE Explained: Angioid Streaks, Skin Signs & What They Mean",
+      "description": "What do yellowish bumps on your neck and mysterious cracks at the back of your eye have in common? More than you'd ever expect. In this episode of Focus Cast, we break down Pseudoxanthoma Elasticum (PXE) — a rare but fascinating genetic disorder that quietly affects the skin, eyes, and cardiovascular system all at once.\n\nWe explore how a mutation in the ABCC6 gene triggers calcium deposits in elastic fibers throughout the body, leading to the classic cobblestone skin changes seen in the neck and armpits, and the striking eye finding known as angioid streaks — irregular cracks in Bruch's membrane that can cause serious vision loss through choroidal neovascularization. We also cover why even minor eye trauma can be dangerous for PXE patients, how anti-VEGF injections are changing outcomes, and why this condition is so frequently misdiagnosed for years.\n\nWhether you're a healthcare provider learning to recognize PXE in clinical practice, a patient or caregiver navigating a new diagnosis, or simply someone who loves understanding how the human body works, this episode connects the dots between genetics, connective tissue disease, dermatology, and ophthalmology in a way that's clear, engaging, and genuinely eye-opening.\n\nYou'll walk away understanding why PXE is far more than a skin condition — and why early diagnosis truly matters. Listen now, and visit Focuslinks.in to explore more episodes of Focus Cast.\n\n---",
       "tags": "pxe,angioid-streaks,skin,cardiovascular",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-25.mp3",
+      "duration": "12:44",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bddfea46-2caf-42c2-b078-b5eeaa67f7d2",
+      "generatedAt": "2026-08-09T06:32:01.333Z"
     },
     {
       "episodeOrder": 26,

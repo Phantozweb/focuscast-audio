@@ -9,7 +9,7 @@
   "order": 9,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T04:26:33.370Z",
+  "lastUpdated": "2026-08-09T04:26:34.361Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,16 +26,14 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Dry Eye Disease: The New Definition & DEWS Report Explained",
-      "description": "Did you know that dry eye disease affects hundreds of millions of people worldwide, yet for decades even eye care professionals couldn't agree on what it actually was? In this episode of Focus Cast, we dive deep into the landmark DEWS and DEWS Two reports published by the Tear Film and Ocular Surface Society (TFOS), and explore how they completely transformed our understanding of dry eye disease.\n\nWe break down the new clinical definition of dry eye, explaining what it means for a condition to be \"multifactorial\" and why the concept of tear film homeostasis is so central to modern diagnosis and treatment. You'll learn the critical difference between aqueous deficient dry eye and evaporative dry eye, why meibomian gland dysfunction is the leading cause affecting up to 86% of dry eye patients, and how the vicious cycle of hyperosmolarity and inflammation keeps the condition going.\n\nWe also cover the DEWS Two stepwise treatment framework, the surprising quality of life impact of chronic dry eye, and the growing role of digital screen use in fueling the dry eye epidemic. Whether you're a patient frustrated by symptoms that never seem to improve, a student studying ocular surface disease, or a clinician looking to refresh your foundational knowledge, this episode gives you a clear, evidence-based picture of where the science stands today.\n\nYour symptoms are real, your discomfort is valid, and better answers exist. Tune in and find out what the science says.\n\nVisit Focuslinks.in for more episodes and eye health resources, and subscribe to Focus Cast so you never miss an update from the world of ophthalmology and vision science.\n\n---",
+      "title": "Dry Eye Disease: The New Definition and the DEWS Report",
+      "description": "The multifactorial disease of tears and ocular surface — loss of homeostasis as the unifying concept.",
       "tags": "dews,definition,homeostasis,multifactorial",
-      "category": "Cornea",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-02.mp3",
-      "duration": "12:58",
+      "category": "Dry Eye",
+      "audioUrl": "",
+      "duration": "",
       "imageUrl": "",
-      "status": "generated",
-      "runId": "65d2a282-4f42-4bbd-a5a1-a3066a9b2f4d",
-      "generatedAt": "2026-08-09T04:26:33.370Z"
+      "status": "draft"
     },
     {
       "episodeOrder": 3,
@@ -98,14 +96,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Osmolarity: The Objective DED Biomarker",
-      "description": "Why osmolarity elevates in DED, the variability between eyes, and the role in staging.",
+      "title": "Tear Osmolarity: The Objective Biomarker Redefining Dry Eye Diagnosis",
+      "description": "Are your eyes constantly dry, gritty, or uncomfortable — and your doctor keeps telling you everything looks fine? You're not alone. Dry eye disease affects millions of people worldwide, yet it remains one of the most underdiagnosed conditions in eye care. The reason? For decades, clinicians lacked a reliable, objective way to measure it. That's changing — and tear osmolarity is leading the charge.\n\nIn this episode of Focus Cast, we break down exactly what tear osmolarity is, why it matters, and how this single measurable biomarker is transforming the way dry eye disease is diagnosed, monitored, and treated. We explore how the TearLab Osmolarity System works, what your osmolarity numbers actually mean, and why even the difference between your two eyes can reveal critical information about your tear film health.\n\nWe also get into the real-world impact — from validating patient experiences that have long been dismissed, to helping clinicians track whether treatments like prescription drops, punctal plugs, or intense pulsed light therapy are actually working. Plus, we look at who stands to benefit most from routine osmolarity testing: contact lens wearers, screen-heavy professionals, patients on tear-affecting medications, and post-menopausal women.\n\nIf you've been living with dry, uncomfortable eyes and feel like you're not getting real answers, this episode is for you. Learn what questions to ask at your next eye appointment — and why you deserve a diagnosis backed by objective data, not guesswork.\n\nListen now and visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "osmolarity,biomarker,staging,variability",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-08.mp3",
+      "duration": "12:47",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6b0b979f-67e0-464d-8ea9-6163436fa86e",
+      "generatedAt": "2026-08-09T04:26:34.361Z"
     },
     {
       "episodeOrder": 9,

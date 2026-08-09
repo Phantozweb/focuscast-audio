@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T06:11:24.158Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T06:11:45.476Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -53,13 +53,15 @@
     {
       "episodeOrder": 4,
       "title": "OCT Ganglion Cell Analysis: The Macular Glaucoma Complement",
-      "description": "The GCL+IPL layer, the hemifield asymmetry, and the early detection role before RNFL loss.",
+      "description": "What if glaucoma's earliest warning signs are hiding in plain sight — right at the center of the retina? In this episode of Focus Cast, we explore OCT ganglion cell analysis, the powerful macular imaging tool that is quietly transforming how clinicians detect and monitor glaucoma.\n\nFor decades, glaucoma diagnosis relied heavily on peripapillary RNFL measurements and optic nerve evaluation. But the macula — home to nearly 50% of all retinal ganglion cells — was being overlooked. Today, we break down exactly why macular ganglion cell analysis deserves a permanent place in your OCT protocol.\n\nWe cover how the ganglion cell inner plexiform layer (GCIPL) is measured, what arcuate thinning patterns and vertical asymmetry analysis reveal in early glaucoma, and why macular OCT often detects structural loss before classic RNFL defects even appear. We also discuss why this tool is especially valuable in highly myopic patients, where standard RNFL analysis frequently falls short, and how it helps clinicians make more confident decisions in glaucoma suspects.\n\nWe do not shy away from the limitations either — from macular comorbidities that can confound results to the floor effect in advanced disease — giving you a balanced, clinically grounded perspective.\n\nWhether you are an ophthalmologist, optometrist, trainee, or a patient navigating a glaucoma diagnosis, this episode offers clear, practical insights into one of the most important advances in structural glaucoma imaging.\n\nListen now and discover why the macula has a story to tell — and why it is worth listening to. Visit **focuslinks.in** for more episodes and ophthalmology resources.\n\n---",
       "tags": "gca,gcl,ipl,hemifield",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-04.mp3",
+      "duration": "12:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bc7a890f-6d49-47b6-9ce3-0aa5f93f7f36",
+      "generatedAt": "2026-08-09T06:11:45.476Z"
     },
     {
       "episodeOrder": 5,

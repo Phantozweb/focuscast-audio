@@ -8,8 +8,8 @@
   "category": "Neuro-Ophthalmology",
   "order": 8,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T04:20:32.179Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T04:24:26.682Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -377,14 +377,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "The Swollen Disc: A Decision Framework",
-      "description": "Bilateral versus unilateral, painful versus painless — the algorithm that separates emergent from benign.",
+      "title": "The Swollen Disc: A Smart Decision Framework for Back Pain",
+      "description": "Woke up with sharp lower back pain and heard the words \"bulging disc\" or \"herniated disc\" from your doctor? Before you spiral into late-night Google searches or agree to surgery out of fear, hit play on this episode. In today's Focus Cast, we break down exactly how to think clearly and make confident decisions when you or someone you love is dealing with a swollen disc.\n\nWe start with the surprising truth that disc problems on an MRI do not always mean you are in trouble, and why your symptoms matter far more than any scan. From there, we walk you through a practical four-part decision framework covering how to assess the severity of your condition and spot genuine red flags, why conservative treatment like physical therapy works for 80 to 90 percent of cases and why patience is a legitimate strategy, when surgery actually makes sense and what it can and cannot realistically fix, and how to build the right medical team and advocate for yourself every step of the way.\n\nWhether you are newly diagnosed, stuck in a cycle of chronic back pain, or simply trying to understand your options before your next doctor's appointment, this episode gives you the clarity and confidence to move forward without confusion or panic.\n\nVisit Focuslinks.in to explore more episodes designed to help you think better about the things that matter most. Share this episode with anyone navigating a disc problem. It could make a real difference in the decisions they make.\n\n---",
       "tags": "swollen-disc,framework,bilateral,unilateral",
-      "category": "Optic Nerve",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/neuro-navigator/audio/ep-29.mp3",
+      "duration": "12:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "2b31780a-2e23-46d2-8b56-d8748aaf7c80",
+      "generatedAt": "2026-08-09T04:24:25.887Z"
     },
     {
       "episodeOrder": 30,

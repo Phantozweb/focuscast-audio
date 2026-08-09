@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T06:36:15.941Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T06:36:54.326Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Progressive Myopia: The Prescribing and the Control Decision",
-      "description": "The adult and the child, the control options, and the risk-benefit conversation.",
+      "title": "Progressive Myopia: Prescribing & Control Decisions Explained",
+      "description": "Is your child's eyesight getting worse every year? You're not alone — and you're not powerless. In this episode of Focus Cast, we break down everything you need to know about progressive myopia: what's actually happening inside the eye, why the prescribing decision is more complex than most people realize, and what today's science says about slowing it down before it becomes a serious long-term threat to vision health.\n\nWe explore why standard single vision lenses may not be enough, and how peripheral defocus plays a surprising role in driving eye elongation. From orthokeratology and myopia control contact lenses to specialized spectacle lenses like MiYOSMART and Stellest, we walk through the most effective myopia control strategies available today — including low-dose atropine and the compelling evidence behind outdoor time as a protective factor.\n\nYou'll also learn how eye care professionals make individualized myopia management decisions based on a child's age, prescription, progression rate, and family history — and why asking the right questions at your next eye exam could make a real difference in your child's visual future.\n\nWhether you're a parent navigating a new diagnosis, an adult with a history of progressive myopia, or simply someone who wants to understand one of the biggest eye health challenges of our time, this episode gives you the knowledge to have a more informed, proactive conversation with your eye care provider.\n\nListen now and share with anyone who cares about a child's vision. Visit Focuslinks.in for more episodes and eye health resources.\n\n---",
       "tags": "progressive-myopia,control,adult,child",
-      "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-09.mp3",
+      "duration": "12:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4f579c3d-aa36-4786-8c69-f869c5d9b87f",
+      "generatedAt": "2026-08-09T06:36:54.326Z"
     },
     {
       "episodeOrder": 10,

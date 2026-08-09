@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T05:12:15.596Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T05:12:26.016Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -115,14 +115,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Allergy Drops: Antihistamines and Mast Cell Stabilizers",
-      "description": "Olopatadine and the dual-action class, the onset and duration, and the seasonal versus perennial choice.",
+      "title": "Allergy Drops Explained: Antihistamines vs Mast Cell Stabilizers",
+      "description": "Ever wondered why your allergy eye drops work so fast — or why your doctor tells you to start using them *before* allergy season even begins? In this episode of Focus Cast, we break down exactly how allergy drops work at the cellular level, so you can stop guessing and start making smarter choices about your allergy relief.\n\nWe start with the root of the problem: how your immune system triggers mast cells to release histamine, the chemical responsible for itchy eyes, a runny nose, and all the misery that comes with allergic reactions. From there, we explore the two major categories of allergy drops — antihistamines and mast cell stabilizers — and explain how each one targets the allergic response in a completely different way.\n\nAntihistamine drops like ketotifen work fast by blocking histamine receptors the moment symptoms strike. Mast cell stabilizers like cromolyn sodium take a proactive approach, preventing histamine from being released in the first place. We also cover combination drops like olopatadine, which deliver both immediate relief and long-term protection in a single formula — and why allergists often recommend a layered approach for predictable allergen exposure.\n\nWhether you are managing seasonal pollen allergies, pet dander, or chronic eye irritation, understanding the science behind these drops puts you in control of your own care.\n\nIf you found this episode helpful, share it with someone who dreads every spring — they will genuinely thank you for it. Visit Focuslinks dot in for more episodes of Focus Cast, where complex topics become clear, useful conversations.\n\n---",
       "tags": "allergy,olopatadine,mast-cell,antihistamine",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-09.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f1e88ce7-4e5e-432d-a1c1-6cb08b1aa025",
+      "generatedAt": "2026-08-09T05:12:26.016Z"
     },
     {
       "episodeOrder": 10,

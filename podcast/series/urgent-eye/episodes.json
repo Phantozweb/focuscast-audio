@@ -1,0 +1,180 @@
+{
+  "slug": "urgent-eye",
+  "name": "Urgent Eye",
+  "tagline": "Ocular Emergencies and Urgent Presentations",
+  "description": "A 15-episode series on the ocular emergencies that walk into optometry practice — from the red eye and sudden vision loss to chemical burns and open globes.",
+  "icon": "Siren",
+  "accent": "#dc2626",
+  "category": "Emergency",
+  "order": 16,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T10:02:18.734Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Red Eye Triage: The Three Questions That Separate Emergency from Routine",
+      "description": "The pain, vision, and photophobia triage questions, the slit lamp findings that demand same-day referral, and the empiric treatment errors to avoid.",
+      "tags": "red-eye,triage,emergency,pain-vision-photophobia",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Sudden Painless Vision Loss: CRAO, CRVO, and the Time-Critical Workup",
+      "description": "The sudden painless loss differential, the immediate fundus exam, and the stroke risk and carotid workup urgency.",
+      "tags": "sudden-vision-loss,crao,crvo,stroke",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Acute Angle-Closure Glaucoma: The Foggy, Painful, Mid-Dilated Pupil",
+      "description": "The acute ACG presentation, the immediate IOP-lowering protocol (acetazolamide, pilocarpine, hyperosmotic), and the laser iridotomy timing.",
+      "tags": "aacg,angle-closure,iridotomy,emergency-treatment",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Contact Lens Keratitis: The Ulcer Depth, Culture, and the Antibiotic Protocol",
+      "description": "The ulcer assessment (size, depth, location), the culture indications, and the fortified antibiotic vs fluoroquinolone monotherapy decision.",
+      "tags": "keratitis,ulcer,culture,fortified-antibiotics",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Chemical Burns: The 15-Minute Irrigation and the Limbal Stem Cell Assessment",
+      "description": "The immediate copious irrigation, the pH check and recheck, the Roper-Hall and Dua classification, and the stem cell damage prognostication.",
+      "tags": "chemical-burn,irrigation,ph,roper-hall,limbal-stem-cell",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Traumatic Iritis: The Ciliary Flush, Cells, and Flare and the Steroid Decision",
+      "description": "The ciliary flush and photophobia presentation, the slit lamp cell and flare grading, and the cycloplegia and topical steroid protocol.",
+      "tags": "traumatic-iritis,ciliary-flush,cells-flare,cycloplegia",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Hyphema: The Layered Blood, the Sickling Test, and the Bed Rest Debate",
+      "description": "The hyphema grading, the sickle cell screening, the rebleed risk, and the activity restriction and IOP control and surgical evacuation threshold.",
+      "tags": "hyphema,sickle-cell,rebleed,bed-rest",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Orbital Cellulitis vs Preseptal: The CT Scan and the IV Antibiotic Decision",
+      "description": "The clinical signs of orbital cellulitis (proptosis, restricted motility, RAPD), the CT indication, and the urgent ENT or ophthalmology referral.",
+      "tags": "orbital-cellulitis,preseptal,ct-scan,iv-antibiotics",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Retinal Detachment: The Flashes, Floaters, Curtain, and the Same-Day Referral",
+      "description": "The rhegmatogenous RD symptoms, the peripheral exam for the break, the macula-on vs macula-off urgency, and the immediate surgical referral.",
+      "tags": "retinal-detachment,flashes-floaters,curtain,surgical-referral",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Giant Cell Arteritis: The Jaw Claudication, the ESR/CRP, and the IV Steroids",
+      "description": "The age-60+ headache and vision loss, the immediate ESR and CRP, the high-dose IV steroid before biopsy, and the bilateral blindness risk.",
+      "tags": "gca,jaw-claudication,esr-crp,iv-steroids",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Endophthalmitis: The Post-Cataract, Post-Injection, and Post-Trauma Causes",
+      "description": "The postoperative endophthalmitis window, the hypopyon and pain presentation, the vitreous tap and inject protocol, and the visual prognosis.",
+      "tags": "endophthalmitis,hypopyon,vitreous-tap,inject",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Open Globe Injury: The Peaking Pupil, the CT for IOFB, and the Surgical Shield",
+      "description": "The open globe signs (peaked pupil, shallow AC, hyphema), the no-pressure-shield protection, the CT for foreign body, and the urgent surgery.",
+      "tags": "open-globe,peaked-pupil,iofb,shield,surgical-emergency",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Traumatic Optic Neuropathy: The Fracture, the Steroid Controversy, and the Prognosis",
+      "description": "The traumatic vision loss with a normal fundus, the CT for canal fracture, the high-dose steroid debate (CRASH trial), and the prognosis.",
+      "tags": "ton,traumatic-optic-neuropathy,canal-fracture,steroid-controversy",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Eyelid Lacerations: The Canalicular Involvement and the Repair Timing",
+      "description": "The eyelid laceration assessment (canalicular, orbital fat, levator), the tetanus status, and the repair timing and the referral.",
+      "tags": "eyelid-laceration,canalicular,tetanus,repair-timing",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "When to Send to the Emergency Department: The Optometrist's Triage Map",
+      "description": "A summary triage map of the eye emergencies that demand ED vs urgent ophthalmology vs next-day referral, and the documentation for the handoff.",
+      "tags": "triage-map,emergency-department,referral-pathway",
+      "category": "Emergency",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

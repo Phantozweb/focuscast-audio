@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T05:27:00.533Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T05:27:14.716Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Optical Character Recognition: The Reading Machine",
-      "description": "The standalone and app-based OCR, the speed and accuracy, and the patient who rediscovers reading.",
+      "title": "Optical Character Recognition: How Machines Learned to Read",
+      "description": "What happens the moment your phone transforms a photo of a printed flyer into editable, searchable text? The answer is Optical Character Recognition — and it is far more fascinating than most people realize. In this episode of Focus Cast, we take a deep dive into OCR technology, exploring how it works, where it came from, and why it quietly powers so much of the digital world around you.\n\nWe trace the remarkable history of OCR from Emanuel Goldberg's character-reading machine in 1914 to Ray Kurzweil's groundbreaking reading device for the blind in the 1970s, all the way to the AI-powered intelligent document processing systems reshaping industries today. You will learn how modern OCR uses neural networks and machine learning to recognize text across hundreds of fonts, languages, and conditions — even messy handwriting.\n\nWe also uncover the surprising places OCR shows up in everyday life: banking apps, passport scanners, Google Books, accessibility tools like Microsoft's Seeing AI, hospital records, and logistics systems. Plus, we get into the honest limitations of the technology, the fascinating arms race between OCR and CAPTCHAs, and the exciting future of real-time OCR in augmented reality.\n\nWhether you are a tech enthusiast, a curious learner, or someone who simply wants to understand the invisible technologies shaping modern life, this episode delivers clear, engaging answers. If you enjoyed this episode, share it with someone who loves exploring how technology works, and visit Focuslinks dot in for more episodes of Focus Cast.\n\n---",
       "tags": "ocr,reading,app,standalone",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-16.mp3",
+      "duration": "13:01",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f0872854-529b-44a5-9914-d198b812cf4f",
+      "generatedAt": "2026-08-09T05:27:14.716Z"
     },
     {
       "episodeOrder": 17,

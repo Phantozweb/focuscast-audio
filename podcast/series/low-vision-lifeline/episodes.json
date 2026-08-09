@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T05:33:15.928Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T05:37:12.345Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "Orientation and Mobility: The White Cane and the Guide Dog",
-      "description": "The O&M specialist referral, the cane techniques, and the independence that specialized training restores.",
+      "title": "White Cane & Guide Dog: Tools for Blind Independence",
+      "description": "What does it truly take to navigate the world without sight? In this eye-opening episode of Focus Cast, we explore the fascinating world of orientation and mobility — the field dedicated to helping people who are blind or have low vision move through life with confidence, safety, and independence.\n\nWe dive deep into the history and science behind the white cane, from its humble origins in 1921 to the sophisticated touch techniques that allow users to read their environment through sound and vibration. You will discover how experienced cane users can detect obstacles, surfaces, and even nearby objects using skills remarkably similar to echolocation.\n\nThen we turn to one of the most extraordinary partnerships in human history — the guide dog. Learn how these highly trained animals practice intelligent disobedience to protect their handlers, what the rigorous one-to-two-year training process looks like, and why handlers often describe their guide dogs as life-changing companions rather than mere mobility aids.\n\nWe also discuss the real challenges around guide dog accessibility in India, the role of orientation and mobility specialists, and how emerging technologies like smart canes and AI navigation tools are shaping the future of blind mobility — without replacing the timeless tools that have stood the test of time.\n\nWhether you are someone with vision loss, a caregiver, a student, or simply curious about accessibility and inclusion, this episode offers genuine insight into what independence looks like for millions of people around the world.\n\nListen now and share this episode with someone who needs to hear it. Visit Focuslinks dot in for more conversations about vision, accessibility, and the world of people who see differently.\n\n---",
       "tags": "mobility,cane,guide-dog,om",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-20.mp3",
+      "duration": "12:44",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8adf5b15-f783-45c9-b860-0c3496722c37",
+      "generatedAt": "2026-08-09T05:37:11.540Z"
     },
     {
       "episodeOrder": 21,

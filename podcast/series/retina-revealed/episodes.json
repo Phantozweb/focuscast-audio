@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T08:35:51.455Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T08:36:07.988Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -174,14 +174,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Dry AMD: Drusen, Pigment, and the AREDS2 Decision",
-      "description": "Classifying drusen, stratifying risk, and counseling on supplements, diet, and Amsler monitoring.",
+      "title": "Dry AMD: Drusen Classification, Risk Stratification & AREDS2",
+      "description": "How confident are you when a patient with soft confluent drusen sits in your chair? In this clinically focused episode of Focus Cast, we break down everything optometrists need to know about dry age-related macular degeneration — from accurate drusen classification to the AREDS2 supplement decision and beyond.\n\nWe cover the three-tier drusen sizing framework, the critical difference between hard and soft confluent drusen on fundus exam and OCT, and how pigmentary changes independently shift your risk stratification. You'll get a clear walkthrough of the AREDS2 severity scale, the exact patient profile that warrants supplement counseling, and the important safety nuance around beta-carotene in current and former smokers.\n\nWe also tackle differential diagnosis — including basal laminar drusen, drusenoid pigment epithelial detachments, and pattern dystrophies — so you're not missing a diagnosis hiding behind a familiar presentation. On the management side, we discuss your imaging protocol, how to counsel patients on the Mediterranean diet, Amsler grid home monitoring, and when to refer urgently for suspected choroidal neovascularization. We also touch on the newly FDA-approved treatments for geographic atrophy and your role in identifying candidates.\n\nThis episode is built exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners who want evidence-based, chairside-ready guidance they can apply immediately.\n\nListen now and sharpen the clinical skills that protect your patients' central vision long-term. For more episodes built specifically for eye care professionals, visit us at focuslinks.in.\n\n---",
       "tags": "amd,drusen,areds2,dry-amd",
-      "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-14.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bc675f7a-66c8-4407-a6fe-a1d762153278",
+      "generatedAt": "2026-08-09T08:36:07.988Z"
     },
     {
       "episodeOrder": 15,

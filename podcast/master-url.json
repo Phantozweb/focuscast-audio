@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T08:52:50.296Z",
+  "lastUpdated": "2026-08-09T08:53:00.010Z",
   "totalEpisodes": 300,
   "generatedEpisodes": 35,
   "series": [
@@ -47,7 +47,7 @@
       "generatedEpisodes": 4,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/episodes.json",
       "audioDir": "podcast/series/cornea-confidential/audio",
-      "lastUpdated": "2026-08-09T08:52:39.270Z"
+      "lastUpdated": "2026-08-09T08:52:48.589Z"
     },
     {
       "slug": "glaucoma-guardian",

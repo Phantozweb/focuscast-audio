@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T05:58:07.141Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T05:58:12.372Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Tropia Versus Phoria: The Manifest and the Latent",
-      "description": "The cover-uncover and the alternate cover, the manifest versus latent, and the control that distinguishes.",
+      "title": "Tropia vs Phoria: Understanding Eye Alignment & Vision",
+      "description": "Ever wondered why your eyes feel strained after hours of screen time — even with a perfect prescription? Or why a child struggles to read despite being clearly intelligent? The answer might lie in something most people have never heard of: the difference between a tropia and a phoria.\n\nIn this eye-opening episode of Focus Cast, we break down two of the most important — and most misunderstood — concepts in vision health. A tropia is a manifest eye deviation, meaning one eye is visibly misaligned even when both eyes are open. A phoria, on the other hand, is a latent deviation — a hidden tendency for the eyes to drift that the brain quietly suppresses through constant effort. When that effort breaks down, the symptoms can be surprisingly disruptive: headaches, blurred vision, difficulty concentrating, and even struggles in school that get mistaken for learning disabilities.\n\nWe explore how binocular vision works, what causes these conditions, how eye care professionals test for them using the cover-uncover test, and what treatment options — from prismatic lenses to vision therapy — can do to restore comfort and clarity. We also cover the fascinating concept of decompensation, when a hidden phoria crosses the line into a visible tropia under stress or illness.\n\nWhether you're a parent concerned about a child's reading difficulties, someone who experiences chronic eye strain, or simply curious about how your visual system works, this episode will change the way you think about your eyes.\n\nVisit Focuslinks.in to explore more episodes and connect with trusted eye care resources. Your eyes are working harder than you know — it's time to give them the attention they deserve.\n\n---",
       "tags": "tropia,phoria,cover-test,control",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-02.mp3",
+      "duration": "12:52",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5766849c-9437-4ea9-8bbc-174b4f56a241",
+      "generatedAt": "2026-08-09T05:58:12.372Z"
     },
     {
       "episodeOrder": 3,

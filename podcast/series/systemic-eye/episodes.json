@@ -9,7 +9,7 @@
   "order": 19,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 30,
-  "lastUpdated": "2026-08-09T06:34:35.338Z",
+  "lastUpdated": "2026-08-09T06:35:26.493Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -325,16 +325,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "PXE Explained: Angioid Streaks, Skin Signs & What They Mean",
-      "description": "What do yellowish bumps on your neck and mysterious cracks at the back of your eye have in common? More than you'd ever expect. In this episode of Focus Cast, we break down Pseudoxanthoma Elasticum (PXE) — a rare but fascinating genetic disorder that quietly affects the skin, eyes, and cardiovascular system all at once.\n\nWe explore how a mutation in the ABCC6 gene triggers calcium deposits in elastic fibers throughout the body, leading to the classic cobblestone skin changes seen in the neck and armpits, and the striking eye finding known as angioid streaks — irregular cracks in Bruch's membrane that can cause serious vision loss through choroidal neovascularization. We also cover why even minor eye trauma can be dangerous for PXE patients, how anti-VEGF injections are changing outcomes, and why this condition is so frequently misdiagnosed for years.\n\nWhether you're a healthcare provider learning to recognize PXE in clinical practice, a patient or caregiver navigating a new diagnosis, or simply someone who loves understanding how the human body works, this episode connects the dots between genetics, connective tissue disease, dermatology, and ophthalmology in a way that's clear, engaging, and genuinely eye-opening.\n\nYou'll walk away understanding why PXE is far more than a skin condition — and why early diagnosis truly matters. Listen now, and visit Focuslinks.in to explore more episodes of Focus Cast.\n\n---",
+      "title": "Pseudoxanthoma Elasticum: Skin, Eyes & Hidden Dangers",
+      "description": "What if a single gene mutation could silently damage your skin, steal your vision, and harden your arteries all at once? In this episode of Focus Cast, we unravel the fascinating and little-known world of Pseudoxanthoma Elasticum, or PXE, a rare genetic disorder that targets the body's elastic tissue with far-reaching consequences.\n\nWe break down exactly what PXE is, how a mutation in the ABCC6 gene triggers abnormal calcification of elastic fibers, and why that matters across three major organ systems. You will learn about the telltale yellowish skin papules that often appear first, why they are more than just a cosmetic concern, and what they are really signaling beneath the surface.\n\nThen we dive deep into one of medicine's most visually striking findings, angioid streaks, the dramatic cracks in Bruch's membrane at the back of the eye that can lead to choroidal neovascularization and serious vision loss, sometimes in patients as young as their thirties. We also explore the cardiovascular risks tied to PXE, including peripheral arterial disease, coronary artery disease, and gastrointestinal bleeding, along with current management strategies and emerging research directions.\n\nBeyond the science, we share the remarkable story of PXE International and how two parents with no medical background helped identify the very gene behind their children's diagnosis, proving that patient advocacy can genuinely drive scientific discovery.\n\nWhether you are a healthcare professional, a patient, a caregiver, or simply someone who loves exploring the unexpected corners of medicine, this episode will change the way you think about rare diseases and the body's hidden connections. Listen now and visit Focuslinks dot in for more episodes like this one.\n\n---",
       "tags": "pxe,angioid-streaks,skin,cardiovascular",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-25.mp3",
-      "duration": "12:44",
+      "duration": "12:41",
       "imageUrl": "",
       "status": "generated",
-      "runId": "bddfea46-2caf-42c2-b078-b5eeaa67f7d2",
-      "generatedAt": "2026-08-09T06:32:01.333Z"
+      "runId": "98b3cda5-5cfb-42d4-8e44-8eebda3807af",
+      "generatedAt": "2026-08-09T06:35:26.031Z"
     },
     {
       "episodeOrder": 26,

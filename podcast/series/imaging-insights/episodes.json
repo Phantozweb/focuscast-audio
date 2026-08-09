@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 16,
-  "lastUpdated": "2026-08-09T06:16:32.319Z",
+  "generatedEpisodesCount": 17,
+  "lastUpdated": "2026-08-09T06:17:24.498Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -221,14 +221,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "B-Scan Ultrasound: When You Cannot See the Fundus",
-      "description": "The dense cataract and vitreous hemorrhage, the retinal detachment and tumor, and the measurements.",
+      "title": "B-Scan Ultrasound: See the Fundus When You Can't See It",
+      "description": "What do you do when a dense cataract, vitreous hemorrhage, or corneal opacity blocks your view of the fundus? You reach for the B-scan ultrasound probe. In this episode of Focus Cast, we take a deep dive into one of ophthalmology's most essential yet underutilized diagnostic tools: B-scan ultrasound.\n\nWe break down exactly how B-scan works, using high-frequency sound waves to create real-time cross-sectional images of the eye and orbit, and walk you through the technique step by step, including probe placement, gaze direction, and systematic scanning across meridians. Whether you are a student just learning the basics or a clinician looking to sharpen your skills, this episode gives you a clear, practical framework for understanding and applying B-scan in everyday clinical practice.\n\nWe cover the most important clinical applications, including the detection of retinal detachment behind vitreous hemorrhage, the characteristic ultrasound features of choroidal melanoma and retinoblastoma, optic nerve head drusen, posterior staphyloma, and the differentiation between rhegmatogenous, tractional, and exudative retinal detachments using the shifting fluid sign. We also discuss the optic nerve sheath diameter as a marker for raised intracranial pressure, and the critical precautions to take in cases of open globe injury.\n\nThis episode also addresses the real-world gap in B-scan training and why every eye care professional with access to this technology should be using it confidently.\n\nIf you want to be the clinician who never misses a retinal detachment hiding behind a hazy media, this episode is for you. Listen now, and then visit Focuslinks dot in for more eye care education that meets you where you are.\n\n---",
       "tags": "bscan,ultrasound,dense,hemorrhage",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-17.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7390800c-39da-44b5-ba15-23a60c1907e9",
+      "generatedAt": "2026-08-09T06:17:24.498Z"
     },
     {
       "episodeOrder": 18,

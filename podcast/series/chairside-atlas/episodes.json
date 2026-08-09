@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T08:43:52.366Z",
+  "lastUpdated": "2026-08-09T08:44:50.895Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -146,16 +146,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Pupil Examination: Direct & Consensual Reflex Explained",
-      "description": "What happens inside your eyes the moment light hits them? In this episode of Focus Cast, we break down one of the most clinically powerful reflexes in the human body — the pupillary light reflex — and trace exactly how the direct and consensual pathways work from retina to response.\n\nWe start with the basics: why your pupils constrict when light enters one eye, and why the other eye responds too, even without any direct stimulus. From there, we walk step by step through the complete neural pathway — the retina, optic nerve, optic chiasm, pretectal nucleus, Edinger-Westphal nucleus, and the third cranial nerve — explaining each structure in plain language that actually sticks.\n\nBut this episode goes beyond anatomy. We explore what happens when the pathway breaks down, covering afferent and efferent pupillary defects, the swinging flashlight test, and the relative afferent pupillary defect (RAPD). We also dive into clinically important conditions including Horner's syndrome, the Argyll Robertson pupil, and how drugs like opioids and stimulants alter pupil size in ways that guide emergency diagnosis.\n\nWhether you're a medical or optometry student preparing for exams, a healthcare professional refreshing your clinical knowledge, or simply someone who loves understanding how the body works, this episode gives you a clear, memorable framework for pupil examination that you can actually apply.\n\nBy the end, a simple flashlight test will never look the same again.\n\nListen now, and visit Focuslinks.in for more episodes and learning resources. If this episode helped you, share it with a classmate or colleague who could use it too.\n\n---",
+      "title": "Pupil Examination: Direct & Consensual Light Reflex Explained",
+      "description": "Ever wondered what your eye doctor is actually looking for when they shine that little torch into your eye? In this episode of Focus Cast, we break down one of the most powerful and elegant neurological tests in clinical medicine — the pupillary light reflex — and explain exactly why both of your pupils respond even when only one eye receives the light.\n\nWe walk you through the complete reflex arc, starting with how light hits the retina and activates intrinsically photosensitive retinal ganglion cells, traveling along the optic nerve, crossing at the optic chiasm, and reaching the pretectal nucleus in the midbrain. From there, we explore how bilateral projections to the Edinger-Westphal nucleus create the consensual reflex, and how the efferent parasympathetic pathway through the third cranial nerve drives pupil constriction via the sphincter pupillae muscle.\n\nBut this episode goes beyond anatomy. We dive into the real clinical significance of the direct and consensual pupillary responses, including how doctors use the swinging flashlight test to detect a relative afferent pupillary defect (RAPD), what findings like Horner's syndrome reveal about the sympathetic pathway, and why the Argyll Robertson pupil is a classic sign of neurosyphilis. Each of these conditions tells a story about where in the nervous system something has gone wrong — all from a thirty-second bedside test.\n\nWhether you're a student, a healthcare professional, or simply someone who loves understanding how the human body works, this episode will change the way you think about that routine moment in the examination chair.\n\nListen now and visit Focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "pupils,anisocoria,rapd,neuro",
       "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-11.mp3",
-      "duration": "12:38",
+      "duration": "12:54",
       "imageUrl": "",
       "status": "generated",
-      "runId": "88115934-0ec4-474e-a018-800e3676957b",
-      "generatedAt": "2026-08-09T08:43:51.574Z"
+      "runId": "f1a821bb-6c31-424f-8a54-f90c869d8fa3",
+      "generatedAt": "2026-08-09T08:44:50.116Z"
     },
     {
       "episodeOrder": 12,

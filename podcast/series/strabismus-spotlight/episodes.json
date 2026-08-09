@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T06:01:27.814Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T06:01:56.324Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -167,14 +167,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Brown Syndrome: The Superior Oblique Tightness",
-      "description": "The inability to elevate in adduction, the click, and the congenital versus acquired causes.",
+      "title": "Brown Syndrome: Why Some Eyes Can't Look Up",
+      "description": "Have you ever seen a child's eye suddenly stop moving — like it hit an invisible wall? That's exactly what happens in Brown Syndrome, a fascinating and often misunderstood eye condition caused by a tight superior oblique tendon that restricts upward eye movement. In this episode of Focus Cast, we break down everything you need to know about Brown Syndrome in a way that's clear, engaging, and genuinely eye-opening.\n\nWe start with the origin of the name, tracing it back to ophthalmologist Harold Whaley Brown, who first described the condition in 1950. From there, we walk you through the anatomy behind it — how the superior oblique tendon threads through a tiny pulley called the trochlea, and what happens when that system gets too tight or inflamed. You'll learn the difference between congenital and acquired Brown Syndrome, explore surprising causes like rheumatoid arthritis, trauma, and sinus surgery, and even discover the unusual clicking sensation some patients experience when their eye moves.\n\nWe also cover how doctors diagnose Brown Syndrome using clinical eye movement assessments and forced duction testing, and what treatment options are available — from watchful waiting and steroid injections to surgical tendon release. Plus, we touch on the real-world impact this condition has on children's confidence, head posture, and quality of life.\n\nWhether you're a curious listener, a parent seeking answers, or a healthcare enthusiast, this episode gives you a complete picture of a condition that's small in scale but significant in impact. Tune in and discover how one tiny tendon can change the way someone sees the world. For more eye health content, visit us at focuslinks.in.\n\n---",
       "tags": "brown,so-tightness,click,acquired",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Pediatric",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-13.mp3",
+      "duration": "13:03",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b1fc7ce3-7122-4009-a5c0-1b4025c3de23",
+      "generatedAt": "2026-08-09T06:01:56.324Z"
     },
     {
       "episodeOrder": 14,

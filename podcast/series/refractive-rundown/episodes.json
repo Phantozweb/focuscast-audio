@@ -8,8 +8,8 @@
   "category": "Refractive Surgery",
   "order": 10,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T04:47:55.455Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T04:48:07.006Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -375,14 +375,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Enhancement Surgery: When and How",
-      "description": "The timing, the flap relift versus surface ablation, and the refractive stability prerequisite.",
+      "title": "Enhancement Surgery: When, How & What You Must Know",
+      "description": "Thinking about enhancement surgery but not sure where to start? In this honest, judgment-free episode of Focus Cast, we break down everything you need to know before making one of the most personal decisions of your life. Whether you've been casually curious or seriously considering a procedure, this episode gives you the real information that most people never talk about openly.\n\nWe cover the full spectrum of enhancement surgery, from cosmetic procedures like rhinoplasty, breast augmentation, and facelifts, to reconstructive surgeries and non-surgical options like Botox and dermal fillers. You'll learn how to identify the right timing based on your motivations, physical health, mental wellbeing, and life circumstances, because timing truly matters more than most people realize.\n\nWe also walk you through exactly how to choose a qualified, board-certified surgeon, what to look for in before-and-after portfolios, how to navigate consultations with confidence, and why price should never be your primary deciding factor. Finally, we set realistic expectations around recovery timelines, post-operative care, and long-term results, so you are never caught off guard.\n\nThis episode is for anyone who has ever looked in the mirror and wondered, what if? Because you deserve accurate, thoughtful information to make a decision that is truly yours. No fluff, no pressure, just clarity.\n\nListen now and take the first step toward making an informed choice. Visit Focus Cast at Focuslinks.in for more episodes and resources designed to help you focus on what matters most.\n\n---",
       "tags": "enhancement,timing,relift,stability",
       "category": "Refractive Surgery",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/audio/ep-29.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3754b787-1f45-4fee-87ec-f6853b6a8ecf",
+      "generatedAt": "2026-08-09T04:48:07.006Z"
     },
     {
       "episodeOrder": 30,

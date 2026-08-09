@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T04:29:57.254Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T04:30:06.076Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -231,14 +231,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Anti-Inflammatory Drops: Cyclosporine and Lifitegrast",
-      "description": "The T-cell inhibition mechanism, the onset of action, and the stinging and adherence conversation.",
+      "title": "Cyclosporine vs Lifitegrast: Best Anti-Inflammatory Eye Drops",
+      "description": "If your eyes feel like sandpaper every morning and artificial tears just aren't cutting it, this episode is exactly what you need to hear. In today's episode of Focus Cast, we break down two of the most powerful prescription anti-inflammatory eye drops in modern eye care — cyclosporine (Restasis, Cequa) and lifitegrast (Xiidra) — and explain how they're changing the way doctors treat chronic dry eye disease.\n\nDry eye isn't just a moisture problem. It's a chronic inflammatory condition, and simply adding lubricating drops doesn't stop the underlying damage. We explain why inflammation is the real culprit behind the dry eye cycle, and how these two FDA-approved medications target that inflammation at the cellular level to deliver lasting relief.\n\nYou'll learn exactly how cyclosporine works as a calcineurin inhibitor to suppress overactive T-cells, why it takes three to six months to show full results, and what side effects to expect. We also cover how lifitegrast uses a completely different mechanism as an integrin antagonist to block inflammatory signals faster, sometimes within just two weeks for some patients.\n\nWe also walk you through how doctors decide between the two, when both might be used together, what lifestyle habits can boost their effectiveness, and why these medications represent a landmark shift in how dry eye disease is understood and treated.\n\nWhether you've been struggling with dry eye for years or you're just starting to explore your treatment options, this episode gives you the knowledge to have a more informed conversation with your eye doctor.\n\nVisit Focuslinks.in for more eye health resources, and share this episode with anyone who deserves real relief from dry eye symptoms.\n\n---",
       "tags": "cyclosporine,lifitegrast,anti-inflammatory,t-cell",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-19.mp3",
+      "duration": "12:33",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5c587165-a74f-4fc6-a4f9-c77c0e9459ef",
+      "generatedAt": "2026-08-09T04:30:06.076Z"
     },
     {
       "episodeOrder": 20,

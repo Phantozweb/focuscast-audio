@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T05:24:45.222Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T05:24:57.913Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -167,14 +167,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Lighting: The Often-Overlooked Intervention",
-      "description": "The lux level, the color temperature, the position, and the glare control that transforms function.",
+      "title": "Lighting & Focus: The Overlooked Tool That Changes Everything",
+      "description": "What if the reason you can't concentrate has nothing to do with your habits, your diet, or your sleep schedule — and everything to do with the light you're sitting in? In this episode of Focus Cast, we explore why lighting is one of the most powerful and most ignored tools for improving focus, mood, energy, and sleep quality.\n\nWe break down the science of how light directly influences your circadian rhythm, cortisol levels, melatonin production, and serotonin — and why working in dim, warm-toned light is essentially telling your brain it's time to go to sleep. You'll learn what lux and color temperature actually mean for your daily performance, and why the gap between outdoor daylight and your average office light is far bigger than most people realize.\n\nDrawing on research from the Journal of Clinical Sleep Medicine, the Lighting Research Center, and the work of Stanford neuroscientist Dr. Andrew Huberman, this episode gives you a clear, practical framework for optimizing your lighting across three key windows of the day — morning, working hours, and evening — so your environment starts working with your biology instead of against it.\n\nWhether you're struggling with afternoon brain fog, poor sleep, low motivation, or just a general sense of feeling off, this episode offers a simple, low-cost intervention that most productivity advice completely overlooks.\n\nListen now and try the three-day lighting experiment we walk you through at the end. For more episodes and resources, visit focuslinks.in.\n\n---",
       "tags": "lighting,lux,temperature,glare",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-13.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "cf99ada4-dda7-43ab-8f31-dad0e65231df",
+      "generatedAt": "2026-08-09T05:24:57.913Z"
     },
     {
       "episodeOrder": 14,

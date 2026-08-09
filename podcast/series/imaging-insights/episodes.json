@@ -8,19 +8,21 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:57.515Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T06:09:26.154Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "OCT Principles: The Low-Coherence Interferometry",
-      "description": "How optical coherence tomography works and why it revolutionized retinal and glaucoma care.",
+      "title": "OCT Explained: How Low-Coherence Interferometry Works",
+      "description": "How does a beam of light reveal the microscopic layers of your retina without touching a single cell? The answer lies in one of the most elegant principles in modern medical physics — low-coherence interferometry, the core technology behind Optical Coherence Tomography (OCT).\n\nIn this episode of Focus Cast, we break down exactly how OCT works, starting from the fundamentals of light coherence and wave interference, all the way through to the two major generations of OCT technology. You'll learn why low-coherence light is the secret ingredient that makes depth measurement possible, how splitting a beam of light into a sample arm and a reference arm produces a precise, layer-by-layer map of retinal tissue, and why the interference signal — subtle enough to detect path length differences of just a few micrometers — can resolve structures ten times thinner than a human hair.\n\nWe also explore the key differences between Time-Domain OCT and Fourier-Domain OCT, unpack the distinction between Spectral-Domain and Swept-Source systems, and explain why OCT's axial resolution leaves ultrasound far behind. Whether you're a student encountering OCT for the first time, a clinician looking to deepen your understanding, or simply someone curious about the science behind that machine at your eye doctor's office, this episode gives you a clear, accessible, and genuinely fascinating look at the physics powering one of ophthalmology's most important diagnostic tools.\n\nListen now and discover why OCT is often called optical biopsy — and why that description is well earned. For more episodes, visit Focuslinks dot in and keep focusing on what matters.\n\n---",
       "tags": "oct,interferometry,principles,revolution",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-01.mp3",
+      "duration": "12:45",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3dc42782-48d8-4399-9d33-df6f9c927d80",
+      "generatedAt": "2026-08-09T06:09:26.154Z"
     },
     {
       "episodeOrder": 2,

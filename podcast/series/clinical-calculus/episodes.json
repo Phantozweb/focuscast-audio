@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-09T08:27:58.185Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T08:28:36.696Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -175,6 +175,19 @@
       "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
+    },
+    {
+      "episodeOrder": 28,
+      "title": "Lifelong Learning: The Continuing Education Discipline",
+      "description": "What separates people who keep growing from those who feel stuck? The answer might be simpler — and more powerful — than you think. In this episode of Focus Cast, we dive deep into continuing education as a lifelong learning discipline, exploring why the habit of intentional learning is no longer optional in a world that's changing faster than ever before.\n\nWe break down the psychology behind the growth mindset, drawing on Carol Dweck's groundbreaking research, and challenge the deeply ingrained belief that intelligence is fixed. You'll discover why being a beginner is actually the most exciting place to be — at any age, in any area of life.\n\nFrom there, we get practical. Learn how the five-hour rule, practiced by Warren Buffett, Bill Gates, and Oprah Winfrey, can be adapted to fit even the busiest schedule. We explore how small, consistent learning habits — not marathon study sessions — produce the most lasting results through spaced repetition.\n\nWe also unpack the fascinating science of neuroplasticity and cognitive reserve, revealing how lifelong learning physically rewires your brain, boosts mental flexibility, and even protects against cognitive decline as you age.\n\nFinally, we tackle the hardest part: staying consistent when the novelty fades. You'll walk away with real strategies for building intrinsic motivation, creating accountability, and maintaining a learner's identity for the long haul.\n\nWhether you're looking to future-proof your career, sharpen your mind, or simply reignite your curiosity, this episode gives you the mindset and tools to make learning a non-negotiable part of your life.\n\nListen now and start building your lifelong learning habit today. Visit Focuslinks.in for more episodes and resources to help you stay focused and keep growing.\n\n---",
+      "tags": "ce,lifelong,journals,curiosity",
+      "category": "Neuro-Ophthalmology",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-28.mp3",
+      "duration": "12:34",
+      "imageUrl": "",
+      "status": "generated",
+      "runId": "45eff5a5-28de-47ed-bbdc-751f6c8c2a62",
+      "generatedAt": "2026-08-09T08:28:36.317Z"
     }
   ]
 }

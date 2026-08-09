@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T08:35:36.727Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T08:35:40.792Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -148,14 +148,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Diabetic Macular Edema: CSME Criteria and Anti-VEGF Thresholds",
-      "description": "Recognizing clinically significant macular edema and the OCT features that trigger treatment.",
+      "title": "Diabetic Macular Edema: CSME Criteria & Anti-VEGF Thresholds",
+      "description": "Are you confident in your ability to recognize clinically significant macular edema before it steals your patient's vision? In this episode of Focus Cast, we break down the CSME criteria from the landmark ETDRS trial and translate decades of retinal evidence into practical, chairside decision-making for today's optometrist.\n\nWe cover exactly what you need to know: the three defining CSME criteria, how to identify retinal thickening and hard exudates at the slit lamp, and the critical OCT biomarkers that should be driving your anti-VEGF referral thresholds. You'll learn how to interpret central subfield thickness measurements, recognize intraretinal cysts, subretinal fluid, ellipsoid zone disruption, and disorganization of the retinal inner layers (DRIL), and understand what each finding means for your patient's prognosis and urgency of care.\n\nWe also walk through the differential diagnosis of macular edema in diabetic patients, including pseudophakic CME, epiretinal membrane, vitreomacular traction, and branch retinal vein occlusion, so you can confidently distinguish diabetic macular edema from mimicking conditions. The episode closes with a clear, evidence-based framework for referral timing, documentation best practices, and the critical role of systemic co-management in optimizing outcomes.\n\nWhether you're a seasoned clinician or an optometry resident building your retinal foundation, this episode delivers the clinical clarity you need to protect your diabetic patients' vision.\n\nVisit Focuslinks.in for more episodes and clinical resources built exclusively for eye care professionals.\n\n---",
       "tags": "dme,csme,anti-vegf,oct",
-      "category": "Macula",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-12.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3eac3c06-e7c7-4912-9de3-8cb239fef690",
+      "generatedAt": "2026-08-09T08:35:40.792Z"
     },
     {
       "episodeOrder": 13,

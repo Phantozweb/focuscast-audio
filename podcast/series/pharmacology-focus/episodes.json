@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T05:28:41.947Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T05:28:51.850Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Systemic Drugs and the Eye: The Side Effect Inventory",
-      "description": "From tamoxifen to sildenafil — the medications that bring ocular complaints to your chair.",
+      "title": "Systemic Drugs and Eye Side Effects: What You Must Know",
+      "description": "Did you know that the medication you take for your heart, joints, or mental health could silently be affecting your vision? In this eye-opening episode of Focus Cast, we break down how systemic drugs interact with the eye — and why every patient on long-term medication needs to pay attention.\n\nWe walk through the most clinically significant drug categories and their ocular side effects, starting with hydroxychloroquine and its risk of irreversible retinal damage, through to corticosteroids and their link to steroid-induced glaucoma and cataracts. We explore how cardiovascular drugs like amiodarone can deposit in the cornea, how beta-blockers worsen dry eye, and why phosphodiesterase inhibitors like sildenafil can temporarily distort color vision. We also cover psychiatric and neurological medications, including vigabatrin's risk of permanent visual field loss and how certain antidepressants and antipsychotics can trigger angle-closure glaucoma in vulnerable patients.\n\nWhether you are a patient managing a chronic condition, a caregiver, or simply someone who wants to make more informed decisions about their health, this episode gives you the knowledge to ask the right questions and take the right precautions. The key message is simple but powerful: always tell your eye doctor every medication you are taking, and never hesitate to ask your prescribing doctor whether a new drug could affect your eyes.\n\nEarly detection saves vision. Awareness saves lives. Tune in, stay informed, and protect your sight from the inside out. For more expert eye health content, visit us at focuslinks.in.\n\n---",
       "tags": "systemic,tamoxifen,sildenafil,side-effects",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-26.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8d4e46bc-022d-4790-9125-86b0ce2b346a",
+      "generatedAt": "2026-08-09T05:28:51.850Z"
     },
     {
       "episodeOrder": 27,

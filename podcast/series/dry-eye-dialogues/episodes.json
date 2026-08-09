@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T04:29:28.125Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T04:29:39.674Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -148,14 +148,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Demodex: The Mite That Lives in the Lash",
-      "description": "The cylindrical dandruff, the epilation microscopy, and the tea tree oil protocol.",
+      "title": "Demodex Blepharitis: The Eyelash Mite Affecting Your Eyes",
+      "description": "Did you know microscopic mites could be living in your eyelashes right now? In this eye-opening episode of Focus Cast by Focuslinks.in, we dive deep into Demodex — the tiny parasitic mite found on nearly every adult human — and explore what happens when these creatures overpopulate and trigger a condition called Demodex blepharitis.\n\nIf you have been struggling with itchy eyelids, crusty lashes in the morning, a persistent gritty or burning sensation, or blurry vision that just will not go away, Demodex blepharitis could be the hidden culprit behind your symptoms. Many people mistake these signs for dry eye or seasonal allergies, leaving the real cause untreated for years.\n\nIn this episode, we cover everything you need to know: what Demodex mites are and where they live, why certain people are more vulnerable to overpopulation, the telltale sign known as cylindrical dandruff, how Demodex disrupts your tear film and contributes to chronic dry eye, and the groundbreaking FDA-approved treatment lotilaner ophthalmic solution that changed how eye care professionals manage this condition. We also share practical eyelid hygiene tips you can start using today.\n\nWhether you are dealing with unexplained eye irritation or simply want to stay informed about your eye health, this episode gives you the knowledge to take action and have a more informed conversation with your eye doctor.\n\nVisit Focuslinks.in for more episodes, articles, and trusted eye health resources. If this episode helped you, share it with someone you care about — because good eye health information is always worth passing on.\n\n---",
       "tags": "demodex,mite,cylindrical,tea-tree",
-      "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-12.mp3",
+      "duration": "11:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "221f7ba2-1122-4aa0-86f0-2f53f014e492",
+      "generatedAt": "2026-08-09T04:29:39.674Z"
     },
     {
       "episodeOrder": 13,

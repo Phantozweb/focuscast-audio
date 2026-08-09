@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 22,
-  "lastUpdated": "2026-08-09T05:19:31.451Z",
+  "generatedEpisodesCount": 23,
+  "lastUpdated": "2026-08-09T05:19:42.280Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -365,14 +365,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Drug Interactions at the Eye: The Drop and the Pill",
-      "description": "How systemic medications change topical effects and the chart review that catches the risk.",
+      "title": "Drug Interactions & Eye Drops: What Your Doctors Must Know",
+      "description": "Did you know that the eye drops you use every day could be silently entering your bloodstream and interacting with your heart or blood pressure medications? In this eye-opening episode of Focus Cast, we explore the critical world of drug interactions at the eye — and why that tiny bottle on your bathroom shelf deserves far more attention than it gets.\n\nWe break down exactly how eye drops travel through the nasolacrimal duct into your bloodstream, and why that makes them systemic medications in disguise. You'll learn why beta blocker eye drops like timolol can dangerously amplify the effects of heart medications, how anticholinergic eye drops can combine with common pills to cause confusion or even delirium in older adults, and which everyday medications — from antidepressants to antihistamines — can silently trigger a sight-threatening acute glaucoma attack.\n\nWe also flip the story around and explore how systemic medications affect the eye. From hydroxychloroquine causing irreversible retinal damage in lupus patients, to tamoxifen, amiodarone, steroids, and even aspirin leaving their mark on your vision — the connection between your general health and your eye health is deeper than most people realize.\n\nWhether you manage glaucoma, take medications for a chronic condition, or simply want to protect your vision long-term, this episode gives you practical, actionable steps — including a simple technique called punctal occlusion that can reduce how much of your eye drop enters your bloodstream.\n\nListen now and share this episode with anyone managing multiple medications or an eye condition. Visit focuslinks.in for more expert eye health content, and subscribe to Focus Cast for a new episode every week.\n\n---",
       "tags": "interactions,topical,systemic,chart-review",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-29.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f963de93-da07-41cf-94dd-18dcccf378d7",
+      "generatedAt": "2026-08-09T05:19:42.280Z"
     },
     {
       "episodeOrder": 30,

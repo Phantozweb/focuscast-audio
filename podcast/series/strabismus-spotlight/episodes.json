@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T06:00:05.911Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T06:00:26.247Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -102,14 +102,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Convergence Insufficiency: The Near Exophoria",
-      "description": "The near point of convergence, the exophoria at near, and the office-based vision therapy evidence.",
+      "title": "Convergence Insufficiency: The Hidden Near Vision Problem",
+      "description": "Do your eyes feel strained, tired, or blurry after reading or screen time? You might be dealing with convergence insufficiency — one of the most common yet underdiagnosed vision conditions affecting millions of people worldwide. In this episode of Focus Cast, we break down exactly what convergence insufficiency (also called near exophoria) is, why it so often goes undetected on standard eye tests, and why it's frequently mistaken for ADHD, learning disabilities, or simple laziness.\n\nWe explore how the eyes are supposed to work together during near tasks, what happens when that coordination breaks down, and why the resulting strain can make reading, studying, and screen work feel genuinely exhausting. You'll learn about the real-world impact on school-age children and adults alike, especially in today's screen-heavy environment where our eyes are pushed harder than ever before in human history.\n\nWe also cover how convergence insufficiency is properly diagnosed through a binocular vision assessment, what the near point of convergence test reveals, and — most importantly — what you can actually do about it. From pencil push-up exercises to office-based vision therapy and prism glasses, effective treatments exist, and the research backs them up.\n\nWhether you've been struggling with unexplained eye strain, headaches after close work, or double vision while reading, this episode could be the answer you've been looking for. Don't let a treatable condition go unaddressed any longer.\n\nVisit Focuslinks.in to explore more resources and find binocular vision specialists near you.\n\n---",
       "tags": "ci,convergence,near,vt",
       "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-08.mp3",
+      "duration": "12:06",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6f71f040-fac9-4b26-a425-b900e48abfbc",
+      "generatedAt": "2026-08-09T06:00:26.247Z"
     },
     {
       "episodeOrder": 9,

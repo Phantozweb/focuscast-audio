@@ -8,8 +8,8 @@
   "category": "General",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T08:41:00.946Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T08:42:58.412Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -146,14 +146,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Pupil Examination: The Direct and Consensual Pathway",
-      "description": "A reproducible six-step pupil exam and what anisocoria at different light levels means.",
+      "title": "Pupil Examination: Direct & Consensual Light Reflex Explained",
+      "description": "Ever wondered what your doctor is actually checking when they shine a light in your eye? It turns out that simple ten-second test is one of the most powerful neurological assessments in medicine. In this episode of Focus Cast, we break down the pupillary light reflex, specifically the direct and consensual pathways, in a way that's clear, engaging, and genuinely fascinating.\n\nWe start with the basics: how the pupil works, what controls its size, and why both pupils constrict when only one eye receives light. Then we walk through the complete neural pathway, from the retina and optic nerve, through the pretectal nucleus and posterior commissure in the midbrain, all the way to the Edinger-Westphal nucleus and the sphincter pupillae muscle. You'll understand exactly why the direct response and consensual response happen, and what each one tells a clinician about the health of your nervous system.\n\nWe also cover the clinical significance of these pathways, including how to detect a relative afferent pupillary defect using the swinging flashlight test, what a fixed dilated pupil means in a head injury emergency, and how conditions like Horner's syndrome and Argyll Robertson pupils reveal damage to very specific parts of the nervous system. Plus, we touch on the fascinating field of pupillometry and what your pupils reveal about your mental state in real time.\n\nWhether you're a student, a healthcare professional, or simply someone who loves understanding how the human body works, this episode will change the way you think about eye examinations forever.\n\nListen now and visit us at focuslinks.in for more episodes of Focus Cast.\n\n---",
       "tags": "pupils,anisocoria,rapd,neuro",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-11.mp3",
+      "duration": "12:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "34e9420a-6acb-4caf-bbe0-963ff720cef8",
+      "generatedAt": "2026-08-09T08:42:57.981Z"
     },
     {
       "episodeOrder": 12,

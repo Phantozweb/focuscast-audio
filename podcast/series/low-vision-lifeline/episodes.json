@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T05:25:08.274Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T05:25:15.635Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Glare Control: Filters, Tints, and Shields",
-      "description": "The 511nm filter, the polarized lens, and the wrap and side-shield that complete the solution.",
+      "title": "Glare Control: Filters, Tints & Shields for Eye Protection",
+      "description": "Glare isn't just annoying — it's silently damaging your eyes, draining your productivity, and in some cases, putting you in real danger. In this episode of Focus Cast, we break down everything you need to know about glare control, from the science of why glare happens to the practical tools that can stop it in its tracks.\n\nWe start by explaining the two types of glare — discomfort glare and the more serious disability glare — and why your eyes simply aren't built to handle extreme contrasts in brightness. From there, we explore anti-glare screen filters and how they can cut screen glare by up to 90%, plus the anti-reflective coatings on your eyeglass lenses that are literally performing physics on your behalf every day.\n\nThen we dive into the fascinating world of lens tints. Yellow, grey, amber, green, and mirrored — each color serves a specific purpose depending on your environment and activity. Whether you're driving at night, fishing, skiing, or staring at a screen all day, there's a tint designed for exactly what you're doing.\n\nFinally, we cover glare shields — from car sun visors and cockpit panels in aviation to industrial welding shields and simple office monitor side panels. We even make the case for why a basic baseball cap might be one of the most underrated pieces of eye protection ever made.\n\nIf you've ever squinted at a screen, struggled with oncoming headlights, or wondered whether blue light glasses actually work, this episode is for you. Listen now and start making smarter choices for your long-term eye health. Visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "glare,filter,tint,shield",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-14.mp3",
+      "duration": "11:57",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "51b5376f-2a3b-4655-9a9e-efcce4f5a1a9",
+      "generatedAt": "2026-08-09T05:25:15.635Z"
     },
     {
       "episodeOrder": 15,

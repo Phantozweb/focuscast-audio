@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T04:57:55.223Z",
+  "lastUpdated": "2026-08-09T04:58:07.900Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 324,
+  "generatedEpisodes": 325,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -164,10 +164,10 @@
       "category": "Emergency Eye Care",
       "order": 11,
       "totalEpisodes": 30,
-      "generatedEpisodes": 24,
+      "generatedEpisodes": 25,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/episodes.json",
       "audioDir": "podcast/series/emergency-eye/audio",
-      "lastUpdated": "2026-08-09T04:57:40.810Z"
+      "lastUpdated": "2026-08-09T04:57:51.385Z"
     },
     {
       "slug": "practice-pulse",

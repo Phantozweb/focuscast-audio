@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T05:49:15.079Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-09T05:49:22.596Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -115,14 +115,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Trichiasis: The Misdirected Lash Without Lid Malposition",
-      "description": "The epilation, electrolysis, cryotherapy, and argon laser options and the recurrence that frustrates.",
+      "title": "Trichiasis: When Eyelashes Grow the Wrong Way",
+      "description": "What happens when your own eyelashes become the enemy? In this episode of Focus Cast by Focuslinks.in, we dive deep into trichiasis — a condition where eyelashes grow inward and rub against the surface of the eye, causing chronic irritation, corneal damage, and in severe cases, permanent vision loss. Unlike entropion, where the entire eyelid turns inward, trichiasis involves a perfectly normal lid position with misdirected lash growth rooted in damaged or scarred hair follicles — and that distinction changes everything about how it is diagnosed and treated.\n\nWe explore the surprising range of causes behind trichiasis, from trachoma — the world's leading infectious cause of blindness affecting millions across sub-Saharan Africa, the Middle East, and South Asia — to chronic blepharitis, herpes zoster ophthalmicus, autoimmune conditions like ocular cicatricial pemphigoid, chemical burns, and even prior eyelid surgeries. You will learn how repeated lash-to-cornea contact leads to abrasions, ulcers, and scarring that can rob a person of their sight, and why this seemingly minor condition is actually a serious, vision-threatening diagnosis.\n\nWe also walk through the full spectrum of treatment options — from simple epilation and electrolysis to laser ablation and surgical procedures like tarsal rotation and lid splitting — and explain why treating the underlying cause is just as critical as removing the offending lashes.\n\nWhether you are a medical student, an eye care professional, or someone experiencing unexplained eye irritation, this episode offers clear, clinically grounded insights you will not want to miss. Listen now and visit Focuslinks.in for more episodes on eye health that matter.\n\n---",
       "tags": "trichiasis,epilation,electrolysis,cryotherapy",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-09.mp3",
+      "duration": "12:44",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fab2128c-a290-405e-8f0f-c295710093ad",
+      "generatedAt": "2026-08-09T05:49:22.596Z"
     },
     {
       "episodeOrder": 10,

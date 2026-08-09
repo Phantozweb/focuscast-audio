@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-09T06:12:45.778Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-09T06:12:57.473Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Fundus Photography: The Standard Fields and the Montage",
-      "description": "The seven standard fields, the stereo pair, and the widefield montage that captures the periphery.",
+      "title": "Fundus Photography: Standard Fields & Montage Explained",
+      "description": "Ever wondered what's actually happening when a bright flash goes off during your eye exam? In this episode of Focus Cast, we pull back the curtain on fundus photography — one of the most essential tools in modern eye care — and break down exactly how clinicians capture, document, and interpret the health of your retina.\n\nWe explore the seven standard fields of fundus photography, a framework rooted in the landmark ETDRS study, and explain why each field is centered on a specific anatomical landmark — from the optic disc and macula to the peripheral retina. You'll learn why standardization matters so much in clinical practice, how conditions like diabetic retinopathy, glaucoma, and age-related macular degeneration are monitored using this system, and why capturing a sharp, well-centered image is far more skill-dependent than it looks.\n\nWe then dive into the fundus montage — a composite wide-angle view of the retina stitched together from multiple overlapping images — and show how it gives clinicians a powerful bird's-eye perspective that individual fields simply can't provide. We also touch on ultra-widefield fundus photography and how it complements the standard field approach in real-world screening programs.\n\nTo bring it all to life, we walk through a real-world diabetic eye screening scenario that shows exactly how standard fields and a montage work together to drive smarter, faster clinical decisions.\n\nWhether you're an eye care professional, a student, or simply curious about the science behind your eye exam, this episode gives you a clear, engaging, and clinically grounded understanding of retinal imaging.\n\nListen now, and visit focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "fundus-photo,fields,stereo,montage",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-07.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3a44c716-c504-4deb-b8d9-cbf33918f3a2",
+      "generatedAt": "2026-08-09T06:12:57.473Z"
     },
     {
       "episodeOrder": 8,

@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T04:51:42.029Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T04:52:04.745Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Hyphema: The Blood in the Anterior Chamber",
-      "description": "The grading, the rebleed risk, the sickle cell screen, and the activity restriction and elevation.",
+      "title": "Hyphema Explained: Blood in the Eye Causes & Treatment",
+      "description": "What happens when blood floods the front of your eye after a hit? In this episode of Focus Cast, we break down hyphema, one of the most visually alarming and commonly misunderstood eye injuries, so you know exactly what it is, what causes it, and what to do if it ever happens to you.\n\nWe start with the basics: what hyphema actually is, why blood collects in the anterior chamber, and how it forms that striking red layer visible in the eye. From there, we explore the most common causes, including blunt trauma from sports injuries, car accidents, and falls, as well as spontaneous hyphemas linked to sickle cell disease, blood thinners, and diabetic retinopathy.\n\nYou will learn about the two biggest risks that make hyphema more than just a surface injury: dangerous spikes in intraocular pressure that can lead to traumatic glaucoma, and the threat of rebleeding between days three and five. We also cover how hyphema is graded and diagnosed, what conservative treatment looks like, and when surgical intervention becomes necessary.\n\nSpecial attention is given to high-risk groups, including children at risk for amblyopia and patients with sickle cell conditions who face unique complications. We also discuss practical prevention strategies, because the right protective eyewear can make all the difference.\n\nWhether you are a parent, an athlete, a healthcare student, or simply someone who wants to understand eye health better, this episode gives you the knowledge to act quickly and confidently when it matters most.\n\nListen now and visit Focuslinks.in for more episodes, articles, and trusted resources on eye health and vision science.\n\n---",
       "tags": "hyphema,rebleed,sickle,restrict",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-11.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a235bc35-c87f-4df4-9811-9cf585f93ed6",
+      "generatedAt": "2026-08-09T04:52:04.745Z"
     },
     {
       "episodeOrder": 12,

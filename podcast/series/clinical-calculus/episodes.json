@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T06:34:02.273Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T06:34:10.949Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "The Differential Diagnosis: Building and Pruning the List",
-      "description": "The anatomy-based and syndrome-based approaches, and the VINDICATE mnemonic for the systemic.",
+      "title": "Differential Diagnosis: How Doctors Build and Prune the List",
+      "description": "What separates a great clinician from an average one? It's not just knowledge — it's the ability to think systematically when the answer isn't obvious. In this episode of Focus Cast, we break down one of the most essential skills in clinical medicine: the differential diagnosis.\n\nUsing a real-world patient scenario — a 45-year-old woman with fatigue, weight gain, dry skin, and cold intolerance — we walk you through exactly how experienced doctors approach an unknown diagnosis. You'll learn how to build a broad, structured list of possible conditions using frameworks like the VINDICATE mnemonic, why casting a wide net early prevents dangerous diagnostic errors, and how to organize your differential by both likelihood and risk.\n\nBut building the list is only half the battle. We also explore the art of pruning — how every question you ask, every physical exam finding, and every lab result raises or lowers the probability of each diagnosis on your list. We discuss cognitive traps like anchoring bias, the concept of illness scripts, and why even confident clinicians should always ask, \"What else could this be?\"\n\nWhether you're a medical student building your clinical reasoning from scratch, a resident sharpening your diagnostic thinking, or simply a curious mind who wants to understand how doctors actually think, this episode gives you a clear, practical framework you can apply immediately.\n\nListen, think broadly, and never close your differential too soon.\n\nVisit Focuslinks.in for more episodes and learning resources from Focus Cast. If this episode helped you think more clearly, share it with a classmate or colleague who's on the same journey.\n\n---",
       "tags": "differential,vindicate,anatomy,syndrome",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-03.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8e3becd2-c7f4-4fe0-b351-92b429b712d0",
+      "generatedAt": "2026-08-09T06:34:10.949Z"
     },
     {
       "episodeOrder": 4,

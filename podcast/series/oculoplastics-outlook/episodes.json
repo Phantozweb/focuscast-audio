@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T05:54:57.328Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T05:55:24.073Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,14 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Bell’s Palsy: The Lid That Cannot Close",
-      "description": "The exposure keratopathy, the lubrication and taping, and the recovery timeline and gold weight.",
+      "title": "Bell's Palsy & the Eye That Won't Close: What You Must Know",
+      "description": "What happens when one side of your face suddenly stops working — and your eye can no longer close? In this episode of Focus Cast, we dive deep into Bell's Palsy, one of the most startling and misunderstood neurological conditions affecting thousands of people every year. We go beyond the drooping face and explore the most overlooked danger of Bell's Palsy: the exposed, unblinking eye and the serious corneal damage it can silently cause.\n\nYou'll learn exactly what Bell's Palsy is, how the seventh cranial nerve controls your ability to blink, and why losing that function is a medical emergency for your eye — not something to manage later. We break down the condition known as lagophthalmos, explain exposure keratopathy, and walk through every treatment option available, from lubricating eye drops and moisture chamber glasses to gold eyelid weights and temporary tarsorrhaphy procedures.\n\nWe also cover the standard medical treatments for Bell's Palsy itself, including corticosteroids and antivirals, and why starting treatment early makes all the difference for recovery. And because healing isn't only physical, we talk honestly about the emotional toll Bell's Palsy takes — the identity disruption, the anxiety, and the importance of a well-rounded care team that includes facial retraining therapy.\n\nWhether you or someone you love is navigating Bell's Palsy right now, or you simply want to understand how something as automatic as blinking protects your vision, this episode will leave you informed, prepared, and genuinely hopeful. Most people recover — and with the right care, so can you.\n\nListen now and visit Focuslinks.in for more episodes and resources.\n\n---",
       "tags": "bells-palsy,exposure,lubrication,gold-weight",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-26.mp3",
+      "duration": "12:21",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4469cdc1-03b6-4704-99a8-fb6ab33795df",
+      "generatedAt": "2026-08-09T05:55:24.073Z"
     },
     {
       "episodeOrder": 27,

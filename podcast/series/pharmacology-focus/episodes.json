@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T05:11:30.477Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T05:11:39.011Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Antifungals: The Limited Armamentarium",
-      "description": "Natamycin, amphotericin, and voriconazole — when fungi threaten the cornea and the options are few.",
+      "title": "Antifungal Drugs: Why Our Limited Options Are a Crisis",
+      "description": "Fungal infections kill over 1.5 million people every year — a death toll rivaling tuberculosis — yet most people have never heard of the antifungal drug shortage threatening lives worldwide. In this eye-opening episode of Focus Cast, we explore why the antifungal armamentarium is dangerously small and what that means for patients fighting life-threatening infections right now.\n\nWe break down the core biological challenge: fungi are eukaryotes, meaning their cells closely resemble human cells, making it extraordinarily difficult to develop drugs that destroy the fungus without harming the patient. We walk through the three main classes of antifungal medications — polyenes like Amphotericin B, azoles like fluconazole, and echinocandins like caspofungin — examining how each works, what makes them valuable, and where they fall short.\n\nWe also confront the growing crisis of antifungal resistance, including the alarming rise of multidrug-resistant Candida auris in hospitals worldwide and azole-resistant Aspergillus fumigatus linked to agricultural fungicide use. With mortality rates reaching sixty percent in some outbreaks, the stakes could not be higher.\n\nBut there is cautious hope. New drug classes like orotomides, the WHO's first-ever fungal priority pathogens list, and advances in rapid diagnostics are beginning to shift the landscape. The question is whether progress will come fast enough.\n\nIf you care about infectious disease, global health, or the future of medicine, this episode will change how you think about fungal infections forever. Listen now and share it with someone who needs to hear this. Visit Focuslinks dot in for more sharp, focused conversations on the topics that matter most.\n\n---",
       "tags": "antifungal,natamycin,amphotericin,voriconazole",
       "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-05.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7a877ad1-81e0-4f16-b147-59a9a7b2345c",
+      "generatedAt": "2026-08-09T05:11:39.010Z"
     },
     {
       "episodeOrder": 6,

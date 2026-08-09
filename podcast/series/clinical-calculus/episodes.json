@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T06:38:25.225Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T06:38:40.511Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Medico-Legal Awareness: The Chart That Protects",
-      "description": "The informed consent, the documentation, the referral, and the follow-up that define defensible care.",
+      "title": "Medical Documentation & Medico-Legal Protection for Clinicians",
+      "description": "What happens when a patient files a legal complaint six months after treatment? The first thing anyone asks is: show us the chart. In this eye-opening episode of Focus Cast, we explore why medical documentation is far more than a clinical formality — it is the single most powerful legal protection available to healthcare professionals today.\n\nAs medico-legal cases against doctors, nurses, and hospitals continue to rise across India and globally, the quality of your medical records can mean the difference between a defensible case and a devastating one. We break down exactly what good documentation looks like, from capturing presenting complaints and examination findings to treatment plans and patient responses. We take a deep dive into informed consent documentation — one of the most legally significant and most poorly handled aspects of medical practice — and share a real-world case that shows precisely what is at stake when counselling conversations go unrecorded.\n\nWe also cover the critical rules around timing and authenticity of entries, the hidden risks of copy-paste errors in electronic health records, and why the language you use in clinical notes matters just as much as the content itself. Learn how to document patient refusals, write objective and defensible notes, and build documentation habits that protect both you and your patients.\n\nWhether you are a physician, nurse, hospital administrator, or healthcare manager, this episode delivers practical, actionable awareness that every clinical professional needs. Good documentation is not just risk management — it is good patient care.\n\nVisit Focuslinks.in to explore more focused, practical content designed to sharpen your professional thinking and strengthen your practice.\n\n---",
       "tags": "medico-legal,consent,documentation,defensible",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-15.mp3",
+      "duration": "11:54",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "fb9cf701-d155-4a2b-b0bc-618d6b0bdd4c",
+      "generatedAt": "2026-08-09T06:38:40.511Z"
     },
     {
       "episodeOrder": 16,

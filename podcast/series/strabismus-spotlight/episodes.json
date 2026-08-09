@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T06:15:44.432Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T06:19:34.226Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -299,14 +299,16 @@
     },
     {
       "episodeOrder": 23,
-      "title": "Diplopia: The Workup Beyond the Cover Test",
-      "description": "The monocular versus binocular, the imaging, and the myasthenia and thyroid screens.",
+      "title": "Diplopia Workup: Beyond the Cover Test | FocusCast",
+      "description": "When a patient says \"I'm seeing double,\" the cover test is just the beginning. In this episode of FocusCast by Focuslinks.in, we take a deep dive into the complete clinical workup for diplopia — the kind of systematic, methodical approach that separates a good clinician from a great one.\n\nWe start where it matters most: distinguishing monocular from binocular diplopia and understanding why that single question changes everything about your management. From there, we walk through the three cranial nerves that drive your differential — the third, fourth, and sixth — breaking down their classic presentations, the subtle clues each one leaves behind, and the red flags you absolutely cannot afford to miss. A dilated pupil in a third nerve palsy? That is a neurosurgical emergency until proven otherwise. A patient tilting their head in every old photograph? That fourth nerve palsy may have been there for years.\n\nWe also cover the history questions that sharpen your diagnosis, including how fluctuating diplopia at the end of the day could point to myasthenia gravis, and why the ice pack test belongs in every clinician's toolkit. You will learn when to image, what to image, and which blood tests to order — from thyroid panels and acetylcholine receptor antibodies to ESR and CRP when giant cell arteritis enters the picture.\n\nFinally, we discuss practical management strategies including prisms, patching, and when surgery becomes the right conversation to have.\n\nWhether you are a trainee building your clinical framework or a seasoned practitioner looking for a sharp refresher, this episode delivers real, applicable insight into one of ophthalmology's most neurologically rich presentations.\n\nListen now and visit Focuslinks.in for more episodes and eye care resources.\n\n---",
       "tags": "diplopia,workup,imaging,screen",
-      "category": "Neuro-Ophthalmology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-23.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ffe58777-35e3-4baa-9717-df166e70c861",
+      "generatedAt": "2026-08-09T06:19:33.418Z"
     },
     {
       "episodeOrder": 24,

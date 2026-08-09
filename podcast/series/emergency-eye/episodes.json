@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T04:55:42.387Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T04:56:29.199Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -273,14 +273,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Globe Rupture After Blunt Trauma: The Indirect Signs",
-      "description": "The decreased vision, the chemosis, the IOP check, and the shield and imaging before any manipulation.",
+      "title": "Globe Rupture After Blunt Trauma: Spot the Indirect Signs",
+      "description": "A cricket ball. A piece of flying metal. One moment of impact — and a patient's vision hangs in the balance. In this episode of Focus Cast by Focuslinks.in, we break down one of the most deceptive emergencies in ophthalmology: globe rupture after blunt trauma. The challenge? A ruptured globe doesn't always look ruptured. No gushing fluid. No obvious wound. Just subtle, easy-to-miss indirect signs that, if overlooked, can cost a patient their sight permanently.\n\nWe walk you through every critical indirect sign you need to recognize — from a soft, hypotonus eye and 360-degree subconjunctival hemorrhage, to a peaked teardrop pupil, shallow anterior chamber, and prolapsed uveal tissue hiding under the conjunctiva. We also cover the Seidel test, what it can and cannot tell you, and the essential do's and don'ts of managing a suspected open globe in the emergency setting — including why a rigid eye shield matters more than a pressure patch, and why ultrasound takes a back seat to CT imaging in these cases.\n\nWhether you're a medical student preparing for exams, a resident on a busy emergency shift, or a clinician brushing up on high-stakes ophthalmology, this episode delivers practical, memorable clinical knowledge you can apply immediately.\n\nBecause in globe rupture, the window for saving vision is narrow — and knowing what to look for makes all the difference.\n\nListen now, and visit Focuslinks.in for more sharp clinical content designed to help you see medicine more clearly.\n\n---",
       "tags": "rupture,blunt,chemosis,shield",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-21.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "203e7e2d-7962-496a-94e0-2220c3531422",
+      "generatedAt": "2026-08-09T04:56:29.199Z"
     },
     {
       "episodeOrder": 22,

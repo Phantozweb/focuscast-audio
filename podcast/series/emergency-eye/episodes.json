@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-09T04:50:41.906Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-09T04:50:47.182Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -79,13 +79,15 @@
     {
       "episodeOrder": 6,
       "title": "Central Retinal Artery Occlusion: The 90-Minute Window",
-      "description": "The cherry-red spot, the ocular massage, the anterior chamber paracentesis, and the stroke workup.",
+      "description": "What if losing your vision took less than 90 minutes — and most people don't even know it's happening? In this urgent episode of Focus Cast, we break down one of medicine's most overlooked emergencies: Central Retinal Artery Occlusion, or CRAO — often called a stroke of the eye.\n\nYou'll learn exactly why the retina is one of the most vulnerable tissues in your body, how a blocked central retinal artery can cause permanent vision loss within minutes, and why so many people miss their only chance at recovery simply because they didn't recognize the warning signs. We cover who is most at risk — including those with high blood pressure, atrial fibrillation, diabetes, and carotid artery disease — and why CRAO is not just an eye emergency, but a critical signal of systemic vascular disease.\n\nWe also explore the evolving treatment landscape, including the use of thrombolytic therapy and intra-arterial tPA, and why acting fast is the single most important factor in saving vision. Through a real-world story that illustrates the devastating cost of delayed action, this episode drives home one essential message: sudden, painless vision loss in one eye is a medical emergency. Treat it like a stroke. Call for help immediately.\n\nWhether you're a patient, a caregiver, or a healthcare professional, this episode could change how you respond in a critical moment — and potentially save someone's sight.\n\nListen now, and share this episode with someone who needs to hear it. Visit Focuslinks.in for more eye health resources and episodes of Focus Cast.\n\n---",
       "tags": "crao,cherry-red,paracentesis,stroke",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-06.mp3",
+      "duration": "12:37",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9ffb932e-6816-48fc-b7d2-9562ddc0410a",
+      "generatedAt": "2026-08-09T04:50:47.182Z"
     },
     {
       "episodeOrder": 7,

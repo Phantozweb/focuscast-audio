@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T05:41:00.161Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T05:41:11.181Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Behçet Disease: The Triple Symptom Complex",
-      "description": "The oral and genital ulcers, the hypopyon uveitis, and the Silk Road geography.",
+      "title": "Behçet Disease: Understanding the Triple Symptom Complex",
+      "description": "What do mouth sores, genital ulcers, and eye inflammation have in common? They are the three defining features of Behçet Disease, a rare and mysterious inflammatory condition that has puzzled doctors for centuries. In this episode of Focus Cast, we break down everything you need to know about Behçet Disease, also known as the Silk Road Disease, in a way that is clear, engaging, and genuinely eye-opening.\n\nWe explore how Turkish dermatologist Hulusi Behçet first identified the Triple Symptom Complex in 1937 and why his discovery was so groundbreaking. You will learn how this chronic vasculitis goes far beyond its three hallmark symptoms, affecting the skin, joints, nervous system, gut, and cardiovascular system. We also cover why Behçet Disease is notoriously difficult to diagnose, what the pathergy test reveals about the immune system, and why patients wait an average of six years before receiving a correct diagnosis.\n\nFrom the genetic link to HLA-B51 and the geographic mystery of its Silk Road distribution, to the latest biologic therapies offering hope for severe cases, this episode gives you a comprehensive yet accessible look at one of medicine's most fascinating rare diseases.\n\nWhether you are a patient searching for answers, a caregiver supporting a loved one, or simply someone who loves learning about the human body, this episode is for you. If you found value in this conversation, share it with someone who needs to hear it. Visit Focuslinks dot in to explore more episodes that make complex medical topics easy to understand.\n\n---",
       "tags": "behcet,hypopyon,ulcer,silk-road",
       "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-13.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "607ed1f1-feab-4251-a217-5d97d28ece40",
+      "generatedAt": "2026-08-09T05:41:10.359Z"
     },
     {
       "episodeOrder": 14,

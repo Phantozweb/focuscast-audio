@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-09T05:58:34.744Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-09T05:58:50.561Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Accommodative Esotropia: The High Plus and the Bifocal",
-      "description": "The AC/A ratio, the full plus correction, and the bifocal that reduces the near deviation.",
+      "title": "Accommodative Esotropia: High Plus Lenses & Bifocals Explained",
+      "description": "Does your child's eye turn inward? It could be accommodative esotropia — a surprisingly common condition in young children that's deeply connected to how the eyes focus. In this episode of Focus Cast, we break down exactly what accommodative esotropia is, why farsightedness triggers it, and how the right pair of glasses can straighten a child's eyes without surgery.\n\nWe start with the science of accommodation and convergence, explaining why an overactive focusing response causes the eyes to cross inward. From there, we explore the role of high plus lenses — often the first and most powerful tool in treatment — and why full optical correction matters more than parents might expect.\n\nThen we go deeper into the high AC/A ratio type of accommodative esotropia, where crossing is significantly worse at near distances. This is where bifocals for children enter the picture. We explain how pediatric bifocals work, why the bifocal segment needs to sit high on the lens, and what's at stake for a child who isn't properly corrected during critical years of visual development.\n\nWe also cover how this condition evolves over time, what careful follow-up looks like, and when surgery might still be needed alongside optical correction.\n\nWhether you're a parent who noticed something unusual about your child's eyes, or an eye care student looking for a clear clinical explanation, this episode gives you the full picture — from mechanism to management.\n\nVisit Focuslinks.in for more eye care resources, articles, and episodes designed to make complex topics genuinely understandable. If this episode helped you, share it with someone who needs to hear it.\n\n---",
       "tags": "accommodative,ac-a,plus,bifocal",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Refraction",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-05.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e920d7f5-a12f-4c5f-afb6-939d6e8b830a",
+      "generatedAt": "2026-08-09T05:58:50.561Z"
     },
     {
       "episodeOrder": 6,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T08:44:03.517Z",
+  "lastUpdated": "2026-08-09T08:45:00.940Z",
   "totalEpisodes": 300,
   "generatedEpisodes": 33,
   "series": [
@@ -32,7 +32,7 @@
       "generatedEpisodes": 14,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/episodes.json",
       "audioDir": "podcast/series/retina-revealed/audio",
-      "lastUpdated": "2026-08-09T08:43:07.840Z"
+      "lastUpdated": "2026-08-09T08:44:46.264Z"
     },
     {
       "slug": "cornea-confidential",

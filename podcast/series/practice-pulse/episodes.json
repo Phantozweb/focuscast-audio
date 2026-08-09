@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T05:10:26.062Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T05:14:08.176Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,14 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Social Media for the Practice: Beyond the Selfie",
-      "description": "The content calendar, the platform choice, and the patient engagement that fills the chair.",
+      "title": "Social Media for Your Practice: Beyond the Selfie",
+      "description": "Are your potential clients scrolling past your profile — or stopping to trust you? In this episode of FocusCast, we dive deep into social media strategy for professional practices, and why most doctors, lawyers, therapists, and financial advisors are getting it completely wrong.\n\nDid you know that over 70% of patients check a healthcare provider's social media before booking an appointment? The same holds true across legal, financial, and mental health services. Your social media presence is no longer optional — it is your first impression, your trust signal, and your most powerful growth tool, all rolled into one.\n\nIn this episode, we break down four game-changing ideas that will transform how you show up online. You will learn why your social media should function as a conversation, not a billboard, and how to use education-driven content to build the know, like, and trust factor with your audience before they ever contact you. We also tackle the consistency vs. perfection trap that keeps so many practice owners stuck, and explain why genuine engagement — not just posting — is what truly drives results.\n\nWhether you are just starting out on social media or looking to make your existing presence actually work for your practice, this episode gives you a clear, actionable framework you can begin using today.\n\nNo dancing required.\n\nVisit FocusLinks.in to explore more episodes and resources designed to help you grow your practice with clarity, confidence, and real strategy.\n\n---",
       "tags": "social-media,content,engagement,platform",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-19.mp3",
+      "duration": "12:36",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8d71bc9d-5d4b-43fa-9721-99c34f74ab6f",
+      "generatedAt": "2026-08-09T05:14:07.375Z"
     },
     {
       "episodeOrder": 20,

@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T08:48:49.230Z",
+  "lastUpdated": "2026-08-09T08:54:40.024Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -178,16 +178,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Confrontation Visual Fields: The 60-Second Eye Test Explained",
-      "description": "What if a simple one-minute test could reveal a stroke, a brain tumor, or early glaucoma — no equipment required? In this episode of Focus Cast, we break down the confrontation visual field test: what it is, how it works, and why this deceptively simple screening tool has remained a cornerstone of eye care and neurology for over a century.\n\nWe explore how the test is performed, walking through the face-to-face technique that allows clinicians to map a patient's peripheral and central vision using nothing more than their hands and careful observation. You'll learn how different diseases leave distinct fingerprints on the visual field — from the creeping peripheral loss of glaucoma to the dramatic hemianopia caused by stroke, to the classic bitemporal pattern that points toward a pituitary tumor pressing on the optic chiasm.\n\nWe also discuss who needs this test and when, covering high-risk groups including older adults, diabetic patients, and anyone experiencing unexplained headaches or subtle changes in side vision. And for clinicians and students, we make the case for why this sixty-second, zero-cost test should never be skipped.\n\nWhether you're a patient who wants to understand what happens during an eye exam, a student learning clinical skills, or a practitioner looking for a quick refresher, this episode delivers clear, practical insight into one of medicine's most elegant diagnostic tools.\n\nVisual field loss is silent, often invisible to the patient, and can be the earliest warning sign of something serious. Awareness is your first line of defense. Listen now, and visit Focuslinks.in for more eye care episodes and resources.\n\n---",
+      "title": "Confrontation Visual Fields: Catch Hemianopias in 60 Seconds",
+      "description": "What if a one-minute bedside test could reveal a pituitary adenoma, an acute stroke, or a dense homonymous hemianopia before your patient ever reaches the Humphrey perimeter? In this episode of Focus Cast, we break down the clinical power of confrontation visual fields — a tool every optometrist performs but few perform optimally.\n\nWe move beyond casual finger wiggling and into two structured, evidence-based techniques: the four-quadrant method and the target-counting method. You'll learn exactly how to execute each approach chairside, why testing each eye separately is non-negotiable, and how simultaneous bilateral presentation can unmask subtle parietal extinction that a standard screen will miss entirely.\n\nFrom there, we walk through the visual pathway anatomy that makes field defect localization possible — connecting bitemporal hemianopias to chiasmal compression, homonymous defects to retrochiasmal pathology, and quadrantanopias to specific lobar involvement in the temporal and parietal cortex. We also cover altitudinal defects and their relationship to anterior ischemic optic neuropathy, including the urgent workup for giant cell arteritis.\n\nYou'll leave this episode knowing when to escalate to formal Humphrey perimetry, how to choose between the 24-2 and 30-2 protocols for neuro cases, and how to write a referral letter that communicates your findings with precision — including how OCT of the optic nerve and ganglion cell layer supports chronicity assessment.\n\nThis is practical, anatomy-driven, neuro-ophthalmology content built exclusively for licensed optometrists, residents, and clinical eye care professionals.\n\nListen now, then share this episode with a colleague or resident who wants to sharpen their neuro-ophthalmology clinical skills. New episodes available at Focuslinks dot in.\n\n---",
       "tags": "visual-field,confrontation,screening,neuro",
       "category": "Glaucoma",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-13.mp3",
-      "duration": "12:29",
+      "duration": "12:21",
       "imageUrl": "",
       "status": "generated",
-      "runId": "ce7e84f2-0a6d-490b-bb70-468ffc19afbb",
-      "generatedAt": "2026-08-09T08:48:25.277Z"
+      "runId": "9452626c-866c-43d5-a721-287f86a00dbd",
+      "generatedAt": "2026-08-09T08:54:40.024Z"
     },
     {
       "episodeOrder": 14,

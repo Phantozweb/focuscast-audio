@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T08:34:24.547Z",
+  "lastUpdated": "2026-08-09T08:34:34.004Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -27,15 +27,15 @@
     {
       "episodeOrder": 2,
       "title": "Chief Complaint & HPI: The Anchor of Every Clinical Exam",
-      "description": "What separates a good clinician from a great one? It often comes down to those first two minutes of a patient encounter. In this episode of Focus Cast by Focuslinks.in, we break down two of the most foundational skills in all of medicine: the chief complaint and the history of present illness (HPI).\n\nWe start with why the chief complaint must be captured in the patient's own words, not translated into medical jargon before the full story is even heard. Then we dive deep into how to build a rich, clinically powerful HPI using frameworks like OLD CARTS and OPQRST, with a real-world headache example that shows exactly how structured questioning transforms a vague symptom into a focused differential diagnosis.\n\nBut this episode goes beyond checklists. We explore the art of listening, including the research showing that most physicians interrupt patients within eleven seconds, and why giving patients just ninety seconds to speak can change everything. We also discuss the illness narrative, the idea that every patient brings not just a symptom but a story shaped by fear, culture, and lived experience, and why understanding that story makes you a better clinician.\n\nWhether you are a medical student preparing for clinical rotations, a nursing student learning patient history-taking, or a practicing clinician looking to sharpen your diagnostic skills, this episode will change how you walk into an exam room.\n\nListen now and discover why experienced clinicians say the history alone gets you eighty percent of the way to a diagnosis. Visit Focuslinks.in for more episodes and clinical learning resources.\n\n---",
+      "description": "What if the most powerful diagnostic tool you have isn't a lab test or an imaging scan — it's a conversation? In this episode of Focus Cast by Focuslinks.in, we dive deep into the chief complaint and history of present illness (HPI), the two foundational elements that anchor every clinical encounter and drive accurate diagnosis.\n\nWhether you're a medical student stepping into your first clinical posting or a resident refining your patient interaction skills, this episode breaks down exactly why the HPI is where medicine truly begins. We explore the OLDCARTS and SOCRATES frameworks, unpack the art of active listening, and discuss why studies show up to 80% of diagnoses can be made from the history alone — before a single test is ordered.\n\nYou'll also learn about the famous Beckman and Frankel study on physician interruptions, the \"doorknob phenomenon,\" and the four most common mistakes clinicians make when taking a history — from leading questions and medical jargon to treating the HPI as a formality.\n\nMost importantly, this episode reframes the chief complaint and HPI not just as clinical tools, but as relational ones — the foundation of trust between a clinician and their patient.\n\nIf you want to sharpen your clinical reasoning, improve your patient communication, and build the habits that define great clinicians, this episode is essential listening.\n\nVisit Focuslinks.in to explore more episodes and resources designed to help you stay sharp, stay curious, and show up fully for your patients.\n\n---",
       "tags": "history,HPI,chief-complaint,documentation",
       "category": "General",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-02.mp3",
-      "duration": "12:58",
+      "duration": "12:16",
       "imageUrl": "",
       "status": "generated",
-      "runId": "70b7334a-1c7b-4241-b14c-2e15474d1e45",
-      "generatedAt": "2026-08-09T08:34:23.953Z"
+      "runId": "3e8ef6f1-ee5e-4592-9425-5c1b40179e87",
+      "generatedAt": "2026-08-09T08:34:33.653Z"
     },
     {
       "episodeOrder": 3,

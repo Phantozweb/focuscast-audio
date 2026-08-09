@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T06:32:42.930Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T06:33:26.730Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,14 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "The Systemic Eye Exam: The Report and the Referral",
-      "description": "The written communication to the primary care and specialist, the urgency, and the shared care plan.",
+      "title": "Systemic Eye Exam: The Report, Referral & Your Health",
+      "description": "Did you know a routine eye exam could detect high blood pressure, diabetes, or even early signs of a stroke — before you feel a single symptom? In this eye-opening episode of Focus Cast, we dive deep into the systemic eye exam: what it actually involves, why it goes far beyond checking your vision, and what happens after the exam with the clinical report and the referral.\n\nWe break down how eye care professionals use the retina as a living window into your vascular and neurological health, spotting conditions like hypertensive retinopathy, diabetic retinopathy, papilledema, and more. You'll learn why the language in an eye exam report matters enormously, how a well-written referral can be the difference between timely treatment and preventable vision loss, and why the handoff between your eye doctor and the rest of your healthcare team is one of the most critical moments in modern medicine.\n\nWhether you're a patient who keeps putting off that annual eye check, a healthcare professional looking to sharpen your understanding of integrated care, or simply someone curious about what your eyes reveal about your overall health, this episode will change the way you think about a simple eye appointment.\n\nKey topics covered include retinal findings in systemic disease, diabetic retinopathy grading and referral urgency, the anatomy of a strong clinical report, and why integrated care models matter for patient outcomes.\n\nDon't let a missed referral cost you your health. Listen now, share this episode with someone who needs it, and visit Focuslinks dot in for more resources and episodes that bring eye care into focus.\n\n---",
       "tags": "report,referral,communication,shared-care",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-30.mp3",
+      "duration": "11:60",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a1a4f817-5bc0-4a01-9625-860d51de56a5",
+      "generatedAt": "2026-08-09T06:33:26.730Z"
     }
   ]
 }

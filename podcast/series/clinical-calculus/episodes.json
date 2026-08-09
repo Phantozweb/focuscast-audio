@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 19,
-  "lastUpdated": "2026-08-09T06:50:41.679Z",
+  "generatedEpisodesCount": 20,
+  "lastUpdated": "2026-08-09T06:54:18.860Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -260,14 +260,16 @@
     },
     {
       "episodeOrder": 20,
-      "title": "The Referral Letter: The Structure and the Content",
-      "description": "The question, the findings, the imaging, the urgency, and the continuity that the letter achieves.",
+      "title": "How to Write a Referral Letter: Structure & Content Guide",
+      "description": "Ever received a referral letter that just said \"please see this patient\"? Frustrating, right? In this episode of Focus Cast, we break down exactly how to write a referral letter that is clear, complete, and clinically useful — the kind that specialists actually appreciate.\n\nWhether you are a medical student, junior doctor, GP, or experienced clinician, mastering the referral letter is one of the most practical skills you can sharpen. Yet it remains one of the most poorly taught in medical education. That changes today.\n\nWe walk you through the six essential layers of a well-structured referral letter: the administrative foundation, the reason for referral, the clinical history, investigations already completed, your clinical impression, and — most importantly — the specific ask. We also cover tone, language, appropriate length, and the common mistakes that make specialists cringe.\n\nTo make it all concrete, we work through two real-world examples, including a GP referring a high-risk cardiac patient to a cardiologist, showing you exactly what good looks like in practice.\n\nBy the end of this episode, you will have a repeatable framework you can apply immediately, whether you are writing your very first referral or your thousandth. A great referral letter saves time, prevents duplication of investigations, protects your patient, and reflects the quality of your clinical thinking.\n\nListen now and start writing referral letters that actually work. Visit Focuslinks.in for more episodes and clinical learning resources from Focus Cast.\n\n---",
       "tags": "referral-letter,structure,urgency,continuity",
       "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-20.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7b3622b8-370c-4d86-bd4f-2a15447bb07f",
+      "generatedAt": "2026-08-09T06:54:18.041Z"
     },
     {
       "episodeOrder": 21,

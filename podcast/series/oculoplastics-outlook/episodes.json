@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-09T05:46:46.730Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-09T05:47:17.091Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Involutional Ptosis: The Aging Levator",
-      "description": "The disinsertion, the thinning, the surgical repair, and the bilateral even if unilateral presentation.",
+      "title": "Involutional Ptosis: Why Your Eyelids Droop With Age",
+      "description": "Ever noticed your eyelids looking a little more tired or hooded as the years go by? You're not imagining it. In this episode of Focus Cast, we break down involutional ptosis — the most common form of age-related eyelid drooping — and explain exactly what's happening beneath the surface of your skin.\n\nWe start with the anatomy of the upper eyelid, introducing the levator palpebrae superioris muscle and its tendon, the levator aponeurosis, which gradually stretches and weakens over decades of blinking, eye rubbing, and contact lens wear. You'll learn how this slow mechanical breakdown causes the eyelid to fall lower than it should, sometimes enough to obstruct your vision entirely.\n\nWe also cover the surprising factors that speed up the process — from long-term contact lens use to genetics — and explain the fascinating neurological phenomenon known as Hering's Law, which is why ptosis often looks asymmetric and why surgery requires such careful planning.\n\nOn the treatment side, we walk through levator aponeurosis repair surgery, how it works, and what recovery looks like. We also explore non-surgical alternatives, including ptosis crutch glasses and FDA-approved oxymetazoline eye drops, so you understand the full range of options available.\n\nWhether you've noticed drooping eyelids in yourself or a loved one, or you're simply curious about how aging affects your eyes, this episode gives you a clear, science-backed understanding of what's happening and what can be done about it.\n\nListen now and see the world through a sharper lens. For more eye health content, visit Focuslinks.in and explore our full library of Focus Cast episodes.\n\n---",
       "tags": "involutional,disinsertion,repair,bilateral",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-03.mp3",
+      "duration": "12:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9a9346d5-be26-43ac-88f8-ede62d845c0f",
+      "generatedAt": "2026-08-09T05:47:17.090Z"
     },
     {
       "episodeOrder": 4,

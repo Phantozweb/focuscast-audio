@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T08:41:35.584Z",
+  "lastUpdated": "2026-08-09T08:41:43.195Z",
   "totalEpisodes": 300,
-  "generatedEpisodes": 29,
+  "generatedEpisodes": 30,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -29,10 +29,10 @@
       "category": "Retina",
       "order": 2,
       "totalEpisodes": 15,
-      "generatedEpisodes": 12,
+      "generatedEpisodes": 13,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/episodes.json",
       "audioDir": "podcast/series/retina-revealed/audio",
-      "lastUpdated": "2026-08-09T08:41:21.411Z"
+      "lastUpdated": "2026-08-09T08:41:31.051Z"
     },
     {
       "slug": "cornea-confidential",

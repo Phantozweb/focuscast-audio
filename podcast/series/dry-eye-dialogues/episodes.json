@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T04:43:52.546Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T04:44:24.208Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -349,14 +349,16 @@
     },
     {
       "episodeOrder": 27,
-      "title": "DED and Contact Lenses: The Chicken-and-Egg",
-      "description": "How CL wear worsens DED, the modality selection, and the rewetting and replacement strategy.",
+      "title": "Dry Eye & Contact Lenses: The Chicken-and-Egg Problem Solved",
+      "description": "Do your contact lenses cause dry eyes, or were your eyes already dry before you ever put a lens in? It is one of the most common and frustrating questions in eye care, and in this episode of Focus Cast, we break it all down with clarity and science.\n\nDry eye disease affects up to 80 percent of contact lens wearers, yet most people either push through the discomfort or give up on lenses entirely without knowing there are real, effective solutions. We explore exactly what dry eye disease is, how the tear film works, and why contact lenses disrupt it in ways that can trigger or worsen symptoms over time. We also dig into the research on meibomian gland dysfunction, long-term gland damage from lens wear, and why some people had subclinical dry eye long before they ever wore a contact lens.\n\nMore importantly, we cover what you can actually do about it. From daily disposable lenses and silicone hydrogel materials to scleral lenses, prescription eye drops, omega-3 supplements, and in-office treatments like intense pulsed light therapy, there are more options available today than ever before. Dry eye and contact lens wear do not have to be mutually exclusive.\n\nWhether you are a long-time contact lens wearer dealing with end-of-day dryness, someone newly diagnosed with dry eye disease, or a patient who has been told lenses are not an option for you, this episode gives you the knowledge to have a better, more informed conversation with your eye care provider.\n\nListen now and take the first step toward more comfortable, healthier vision. Visit Focuslinks dot in for more episodes and eye health resources.\n\n---",
       "tags": "contact-lens,worsens,modality,rewetting",
-      "category": "Contact Lens",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-27.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1bed889e-b740-4815-b1e9-d1ecfcd4537d",
+      "generatedAt": "2026-08-09T04:44:24.208Z"
     },
     {
       "episodeOrder": 28,

@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T04:52:50.962Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T04:53:29.016Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -180,14 +180,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Eyelid Laceration: The Canalicular and the Margin",
-      "description": "When to repair at the chair, the canalicular involvement that needs OR, and the tetanus update.",
+      "title": "Eyelid Laceration: Canalicular & Lid Margin Repair Explained",
+      "description": "Not all eyelid lacerations are created equal — and the wrong repair can leave a patient with chronic tearing, corneal damage, or a permanent notch in their eyelid. In this episode of Focus Cast, we break down two of the most critical and commonly mismanaged eyelid injuries: canalicular lacerations and lid margin lacerations.\n\nWe start with a focused anatomy refresher, walking through the structure of the eyelid, the lid margin, and the lacrimal drainage system — because you cannot truly appreciate these injuries without understanding what is at stake. From there, we dive deep into canalicular lacerations: why they are so easy to miss, how to identify them at the bedside, and why silicone stent placement within the first 24 to 48 hours is the gold standard for repair. We then shift to lid margin lacerations, unpacking the layered closure technique, the significance of the gray line, and why even a millimeter of misalignment can cause lasting harm to the cornea and the patient's quality of life.\n\nWe also cover the consequences of missed or poorly executed repairs — from epiphora and exposure keratopathy to the psychological impact of visible periocular scarring — and explain when to call in an oculoplastic surgeon.\n\nWhether you are a medical student encountering these injuries for the first time, a resident refining your surgical approach, or an emergency physician deciding who needs an urgent ophthalmology consult, this episode gives you the clinical clarity to act with confidence.\n\nListen now and sharpen your approach to eyelid trauma. Visit Focuslinks.in for more ophthalmology episodes, resources, and learning tools from Focus Cast.\n\n---",
       "tags": "laceration,canaliculus,margin,tetanus",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-14.mp3",
+      "duration": "11:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "093dc909-ee5c-4f30-b0c0-01eb4372fe05",
+      "generatedAt": "2026-08-09T04:53:29.016Z"
     },
     {
       "episodeOrder": 15,

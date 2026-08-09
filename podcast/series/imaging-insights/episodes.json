@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T06:20:51.805Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T06:21:54.772Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -364,14 +364,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Artificial Intelligence in Ocular Imaging: The Horizon",
-      "description": "The diabetic retinopathy screening approvals, the AMD and glaucoma AI, and the clinical integration.",
+      "title": "AI in Ocular Imaging: The Future of Eye Care & Diagnosis",
+      "description": "What if a single photograph of your retina could predict a heart attack, detect Alzheimer's disease, or reveal diabetes before any symptoms appear? It sounds like science fiction — but it's happening right now in clinics around the world.\n\nIn this episode of Focus Cast by Focuslinks.in, we take a deep dive into the rapidly evolving world of artificial intelligence in ocular imaging. Discover how AI and deep learning are transforming retinal photography, OCT scans, and wide-field imaging into powerful diagnostic tools capable of detecting over fifty eye and systemic diseases with accuracy that rivals expert ophthalmologists.\n\nWe explore the landmark FDA approval of IDx-DR, the first autonomous AI diagnostic system for diabetic retinopathy screening, and unpack groundbreaking research from Google Health and Nature Biomedical Engineering that is redefining what a retinal scan can tell us about your overall health. From glaucoma and macular degeneration to cardiovascular risk and early Alzheimer's detection, the eye is proving to be the most remarkable diagnostic portal in the human body.\n\nWe also look ahead at emerging frontiers — continuous retinal monitoring through wearable devices, federated learning for ethical AI development, and the democratization of world-class eye care for underserved communities across the globe.\n\nWhether you are an eye care professional, a medical student, or simply someone fascinated by the future of healthcare, this episode will change the way you think about your eyes.\n\nListen now and share this episode with anyone who loves science, medicine, or innovation. Visit Focuslinks.in for more episodes at the cutting edge of eye care and optical technology.\n\n---",
       "tags": "ai,screening,amd,glaucoma",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-28.mp3",
+      "duration": "13:01",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "284ea2f5-2379-4acf-8e53-7905ef5bbd58",
+      "generatedAt": "2026-08-09T06:21:54.772Z"
     },
     {
       "episodeOrder": 29,

@@ -1,0 +1,180 @@
+{
+  "slug": "glaucoma-guardian",
+  "name": "Glaucoma Guardian",
+  "tagline": "Protecting the Optic Nerve",
+  "description": "Open-angle, angle-closure, and secondary glaucomas — IOP, gonioscopy, visual fields, OCT RNFL, progression analysis, and medical, laser, and surgical management.",
+  "icon": "Shield",
+  "accent": "#dc2626",
+  "category": "Glaucoma",
+  "order": 4,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T08:27:34.331Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Glaucoma Defined: The Optic Neuropathy, Not the Pressure",
+      "description": "Why IOP is a risk factor and not the diagnosis — reframing glaucoma for patients and practice.",
+      "tags": "glaucoma,definition,neuropathy,iop",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Aqueous Dynamics: Production, Outflow, and the Uveoscleral Path",
+      "description": "How aqueous is made and drained — the physiology that every glaucoma drug targets.",
+      "tags": "aqueous,outflow,trabecular,physiology",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Intraocular Pressure: The Number and Its Fluctuations",
+      "description": "Diurnal variation, the value of multiple readings, and why a single “normal” IOP can mislead.",
+      "tags": "iop,diurnal,fluctuation,tonometry",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Central Corneal Thickness: The Pachymetry Correction",
+      "description": "How CCT changes the interpretation of IOP and the OHTS threshold that guides treatment.",
+      "tags": "cct,pachymetry,ohts,iop",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Open-Angle vs Angle-Closure: The Gonioscopic Divide",
+      "description": "Why every glaucoma suspect needs gonioscopy and the landmarks that classify the angle.",
+      "tags": "gonioscopy,angle,open-angle,closure",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Primary Open-Angle Glaucoma: The Silent Thief",
+      "description": "The natural history, the asymptomatic progression, and the optometric role in early detection.",
+      "tags": "poag,silent,progression,detection",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Normal-Tension Glaucoma: When IOP Is Not the Whole Story",
+      "description": "Vascular risk factors, the NTG phenotype, and the lower target pressures these patients need.",
+      "tags": "ntg,low-tension,vascular,risk",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Ocular Hypertension: To Treat or Not to Treat",
+      "description": "The OHTS risk calculator, the 5-year probability, and the shared decision-making conversation.",
+      "tags": "oht,ohts,risk-calculator,decision",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Primary Angle-Closure Suspect: Anatomy and Risk",
+      "description": "Shallow chamber, plateau iris, and the laser peripheral iridotomy that prevents the acute attack.",
+      "tags": "pacg,suspect,iridotomy,anatomy",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Acute Angle Closure: The Emergency at Your Slit Lamp",
+      "description": "The painful red eye, mid-dilated pupil, and the immediate pressure-lowering sequence that saves vision.",
+      "tags": "aac,emergency,iridotomy,pressure",
+      "category": "Emergency Eye Care",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Secondary Glaucomas: PEX, Pigmentary, and Neovascular",
+      "description": "Recognizing the secondary causes — pseudoexfoliation, pigment dispersion, and the ischemic NVG.",
+      "tags": "secondary,pex,pigmentary,nvg",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Pseudoexfoliation Syndrome: The White Flakes and the Pressure Spike",
+      "description": "How PEX weakens the zonules, raises IOP, and changes cataract surgery risk.",
+      "tags": "pex,pseudoexfoliation,zonules,cataract",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Pigment Dispersion Syndrome: The Krukenberg Spindle",
+      "description": "Midperipheral transillumination, the concave iris, and exercise-induced pigment release.",
+      "tags": "pigment-dispersion,krukenberg,iris,exercise",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Neovascular Glaucoma: The Consequence of Ischemia",
+      "description": "NVI on the pupillary margin, the CRVO and diabetes link, and the urgent anti-VEGF and tube pathway.",
+      "tags": "nvg,nvi,ischemia,anti-vegf",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "Steroid-Induced Glaucoma: The Pressure Response",
+      "description": "Who responds, how quickly, and the topical steroid ladder that keeps patients safe.",
+      "tags": "steroid-induced,topical,response,iop",
+      "category": "Glaucoma",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

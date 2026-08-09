@@ -8,8 +8,8 @@
   "category": "General",
   "order": 20,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 21,
-  "lastUpdated": "2026-08-09T06:57:57.508Z",
+  "generatedEpisodesCount": 22,
+  "lastUpdated": "2026-08-09T07:01:36.424Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -286,14 +286,16 @@
     },
     {
       "episodeOrder": 22,
-      "title": "The Difficult Patient: The Angry, the Non-Adherent, the Frequent",
-      "description": "The de-escalation, the motivational interviewing, and the boundary-setting that sustains the relationship.",
+      "title": "The Difficult Patient: Angry, Non-Adherent & Frequent Attenders",
+      "description": "Have you ever seen a patient's name on your list and felt your stomach drop? You're not alone — and you're not a bad clinician for feeling it. In this episode of Focus Cast, we dive deep into one of healthcare's most challenging realities: the difficult patient.\n\nWe break down three of the most common and misunderstood patient types — the angry patient, the non-adherent patient, and the frequent attender — and explore what's really driving the behavior beneath the surface. Because here's the truth: difficult patients are rarely difficult by choice. Behind the raised voices, the missed medications, and the endless appointments are fear, grief, isolation, and unmet need.\n\nYou'll learn why anger in clinical settings is almost always a secondary emotion, how motivational interviewing can transform conversations with non-adherent patients, and why frequent attenders are among the most vulnerable people in primary care. We also explore practical, evidence-based strategies — from validation techniques and the named clinician approach to shifting consultation goals — that can genuinely change how these interactions feel for both you and your patient.\n\nWhether you're a GP, nurse, specialist, or any healthcare professional who has ever felt helpless, frustrated, or burned out by a particular patient, this episode offers a new framework: stay curious, stay compassionate, and stay connected.\n\nThe difficult patient isn't your enemy. They may be your most important teacher.\n\nListen now and share this episode with a colleague who needs to hear it. Visit Focuslinks.in for more episodes and resources designed to help you think more clearly and practice more meaningfully.\n\n---",
       "tags": "difficult,angry,non-adherent,motivational",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-22.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f2b49c8b-e181-4807-90ef-8ea09bf6668e",
+      "generatedAt": "2026-08-09T07:01:35.978Z"
     },
     {
       "episodeOrder": 23,

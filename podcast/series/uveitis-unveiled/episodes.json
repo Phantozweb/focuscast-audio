@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T05:37:26.019Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T05:39:12.381Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -215,14 +215,16 @@
     },
     {
       "episodeOrder": 17,
-      "title": "Masquerade Syndromes: The Uveitis That Is Not",
-      "description": "From lymphoma to leukemia to retinoblastoma — when malignancy presents as inflammation.",
+      "title": "Masquerade Syndromes: When Uveitis Is Not Uveitis",
+      "description": "What if the uveitis diagnosis was wrong all along? In this eye-opening episode of Focus Cast, we dive deep into masquerade syndromes — dangerous conditions that mimic uveitis so convincingly that even experienced ophthalmologists can be fooled. From intraocular lymphoma hiding behind a hazy vitreous to retinoblastoma presenting as childhood eye inflammation, these imposters don't just delay the right diagnosis — they can cost patients their lives.\n\nWe explore the most critical masquerade syndromes in ophthalmology, starting with primary vitreoretinal lymphoma, a life-threatening malignancy that partially responds to steroids and masquerades as posterior uveitis in older adults. We break down the diagnostic clues — including the IL-10 to IL-6 ratio — that separate true inflammation from intraocular malignancy. We also cover retinoblastoma in children, uveal melanoma, ocular metastases from breast and lung cancer, leukemic infiltration, and even non-malignant mimics like pigment dispersion syndrome and Schwartz-Matsuo syndrome.\n\nMost importantly, we walk through the red flags every clinician should know: poor steroid response, unusual patient age, atypical cell morphology, and the absence of systemic associations. Because recognizing what uveitis is not can be just as critical as diagnosing what it is.\n\nWhether you are an ophthalmology resident, a practicing clinician, or a curious learner fascinated by diagnostic medicine, this episode will sharpen your clinical thinking and remind you why questioning your diagnosis is never a weakness — it is a skill.\n\nListen now and share this episode with a colleague who needs to hear it. Visit Focuslinks.in for more ophthalmology episodes, resources, and clinical insights from Focus Cast.\n\n---",
       "tags": "masquerade,lymphoma,leukemia,retinoblastoma",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-17.mp3",
+      "duration": "11:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "917e6e37-a057-4589-a1b3-c9145aa9c515",
+      "generatedAt": "2026-08-09T05:39:12.381Z"
     },
     {
       "episodeOrder": 18,

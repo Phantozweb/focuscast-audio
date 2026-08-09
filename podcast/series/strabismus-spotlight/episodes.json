@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T06:02:06.952Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-09T06:02:15.382Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -193,14 +193,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Restrictive Strabismus: Thyroid and Post-Trauma",
-      "description": "The forced duction test, the restrictive versus paretic, and the surgery that addresses the mechanism.",
+      "title": "Restrictive Strabismus: Thyroid Eye Disease & Orbit Trauma",
+      "description": "Ever noticed one eye that just won't move the way it should? You might be dealing with restrictive strabismus — a condition where the eye is physically held back from moving freely. Unlike common eye misalignment caused by weak muscles, restrictive strabismus involves a mechanical restriction that makes the eye feel truly stuck. In this episode of Focus Cast, we break down two of the most significant causes: thyroid eye disease and post-traumatic orbital injury.\n\nWe explore how thyroid eye disease, an autoimmune condition also known as Graves' orbitopathy, triggers inflammation and fibrosis in the muscles surrounding the eye — leading to debilitating double vision and restricted upward gaze. You'll learn why the thyroid and eyes are more connected than most people realize, and why the eyes can actually show symptoms before a thyroid problem is even diagnosed.\n\nWe also dive into orbital trauma and blowout fractures — what happens when the delicate floor of the eye socket breaks and traps the inferior rectus muscle, causing restricted eye movement and double vision. We cover the critical trapdoor fracture in children, why it's a surgical emergency, and how timing can make all the difference in preserving muscle function.\n\nFrom understanding the two phases of thyroid eye disease to the surgical techniques used to correct restrictive strabismus — including muscle recession and adjustable sutures — this episode gives you a clear, practical picture of how these conditions are diagnosed and treated.\n\nIf you or someone you love is experiencing double vision after a thyroid diagnosis or facial injury, this episode is essential listening. Visit [focuslinks.in](https://focuslinks.in) for more expert eye health content, and don't wait to get the evaluation you deserve.\n\n---",
       "tags": "restrictive,thyroid,forced-duction,mechanism",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-15.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9c5d74cc-605d-42b1-9c0e-e0e31eb67714",
+      "generatedAt": "2026-08-09T06:02:15.382Z"
     },
     {
       "episodeOrder": 16,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T05:25:03.129Z",
+  "lastUpdated": "2026-08-09T05:25:15.044Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 396,
+  "generatedEpisodes": 399,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -194,10 +194,10 @@
       "category": "Pharmacology",
       "order": 13,
       "totalEpisodes": 30,
-      "generatedEpisodes": 25,
+      "generatedEpisodes": 26,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/episodes.json",
       "audioDir": "podcast/series/pharmacology-focus/audio",
-      "lastUpdated": "2026-08-09T05:21:39.455Z"
+      "lastUpdated": "2026-08-09T05:25:01.550Z"
     },
     {
       "slug": "low-vision-lifeline",
@@ -209,10 +209,10 @@
       "category": "Low Vision",
       "order": 14,
       "totalEpisodes": 30,
-      "generatedEpisodes": 11,
+      "generatedEpisodes": 13,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/episodes.json",
       "audioDir": "podcast/series/low-vision-lifeline/audio",
-      "lastUpdated": "2026-08-09T05:24:45.222Z"
+      "lastUpdated": "2026-08-09T05:25:08.274Z"
     },
     {
       "slug": "uveitis-unveiled",

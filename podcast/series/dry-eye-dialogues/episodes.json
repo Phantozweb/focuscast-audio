@@ -8,8 +8,8 @@
   "category": "Dry Eye",
   "order": 9,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T04:36:36.321Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T04:36:41.823Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Mixed Mechanism DED: The Most Common Presentation",
-      "description": "Why most patients have both components and why treating only one fails.",
+      "title": "Mixed Mechanism Dry Eye: Why Most Cases Are More Complex",
+      "description": "If your eyes feel gritty, watery, or just never quite right — no matter what you try — this episode might finally explain why. In today's Focus Cast, we dive deep into mixed mechanism dry eye disease, the most common yet most misunderstood form of dry eye affecting patients today.\n\nMost people think dry eye is simple: either you don't make enough tears, or your tears evaporate too fast. But the reality is that between 60 and 80 percent of dry eye patients have both problems happening simultaneously — and each one is actively making the other worse. That's mixed mechanism dry eye, and understanding it could completely change how you approach your eye health.\n\nIn this episode, we break down exactly how aqueous deficient dry eye and evaporative dry eye interact in a vicious, self-reinforcing cycle. We explain why symptoms like constant tearing, fluctuating discomfort, and treatment plateaus are classic signs of mixed mechanism disease. We also walk through what a proper diagnosis looks like, covering everything from Schirmer tests and tear breakup time to meibography and ocular surface assessment.\n\nMost importantly, we cover what effective treatment actually requires — addressing both mechanisms at the same time, managing inflammation, and making smart lifestyle changes like reducing screen time and improving blink habits.\n\nIf you've tried artificial tears, warm compresses, or prescription drops and still aren't getting full relief, this episode is essential listening. Single-target treatments often deliver only partial results — and now you'll understand exactly why.\n\nVisit Focuslinks.in for more episodes and eye health resources. Share this episode with anyone who's been struggling with dry, uncomfortable eyes and hasn't found answers yet.\n\n---",
       "tags": "mixed,mechanism,both,treatment",
       "category": "Dry Eye",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-05.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9b6d8de7-d3d2-4056-805b-32df021a15a5",
+      "generatedAt": "2026-08-09T04:36:41.823Z"
     },
     {
       "episodeOrder": 6,

@@ -9,7 +9,7 @@
   "order": 20,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 26,
-  "lastUpdated": "2026-08-09T08:20:11.339Z",
+  "lastUpdated": "2026-08-09T08:21:20.577Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -338,16 +338,16 @@
     },
     {
       "episodeOrder": 26,
-      "title": "Cultural Competence in Eye Care: Seeing Every Patient Clearly",
-      "description": "What happens when your eye doctor doesn't truly understand you? In this eye-opening episode of Focus Cast by Focuslinks.in, we explore cultural competence in eye care and why it's not just a soft skill — it's a clinical necessity. Through the story of Priya, a patient whose lifestyle and cultural background were overlooked during her eye exam, we uncover how cultural blind spots in healthcare lead to misdiagnosis, poor treatment adherence, and preventable vision loss.\n\nWe break down how culture shapes everything from how patients describe symptoms to whether they trust their provider at all. You'll learn why glaucoma disproportionately affects people of African descent and why that gap is as much about systemic barriers as biology. We dive into how traditional practices like kajal application, herbal eye remedies, and beliefs around the evil eye intersect with modern eye care — and how providers can navigate these conversations with curiosity and respect rather than dismissal.\n\nWe also tackle the role of family in health decisions, the dangers of language assumptions, the impact of diet and lifestyle across cultures on conditions like diabetic retinopathy and vitamin A deficiency, and why diverse representation in eye care teams is a proven clinical strategy — not just a feel-good goal.\n\nWhether you're an eye care professional, a healthcare advocate, or someone who has ever felt unseen in a medical setting, this episode will change how you think about what truly good eye care looks like. Listen now and share it with someone who needs to hear it. Visit Focuslinks.in for more episodes and resources that bring eye care into sharp focus.\n\n---",
+      "title": "Cultural Competence in Eye Care: Bridging the Gap",
+      "description": "What does it really mean to deliver effective eye care across cultures, languages, and lived experiences? In this thought-provoking episode of Focus Cast, we explore why cultural competence is not a soft skill in eye care — it is an essential clinical one.\n\nWe open with a powerful story of an elderly patient whose appointment technically went by the book, yet left her without the care she truly needed. From there, we unpack four critical areas where culture and eye care intersect: how health beliefs shape whether patients seek help at all, how language barriers go far deeper than translation, how historical mistrust of medical systems affects patient behavior, and how providers must examine their own assumptions and blind spots to deliver genuinely equitable care.\n\nWith over 2.2 billion people globally living with vision impairment — many of them in preventable or treatable situations — the barriers to care are not always financial. Often, they are cultural. This episode draws on real-world examples from India's diverse communities to show how clinics and providers can build trust, improve communication, and dramatically improve patient outcomes simply by meeting people where they are.\n\nWhether you are an optometrist, a healthcare student, a clinic administrator, or someone passionate about equitable health access, this conversation will challenge you to think differently about what good eye care actually looks like.\n\nVisit Focuslinks.in to listen to more episodes of Focus Cast and join a growing community of eye care professionals and enthusiasts committed to vision health for all.\n\n---",
       "tags": "cultural,competence,literacy,trust",
-      "category": "Glaucoma",
+      "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/clinical-calculus/audio/ep-26.mp3",
-      "duration": "12:54",
+      "duration": "12:39",
       "imageUrl": "",
       "status": "generated",
-      "runId": "2d6ffcda-d495-4cd7-b56d-4f9a87552fe5",
-      "generatedAt": "2026-08-09T08:20:10.963Z"
+      "runId": "bd592105-b61f-4f44-bbd0-d159a2cc9b8e",
+      "generatedAt": "2026-08-09T08:21:19.319Z"
     },
     {
       "episodeOrder": 27,

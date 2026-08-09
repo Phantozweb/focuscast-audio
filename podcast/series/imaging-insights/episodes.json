@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T06:21:54.772Z",
+  "generatedEpisodesCount": 29,
+  "lastUpdated": "2026-08-09T06:22:04.917Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -377,14 +377,16 @@
     },
     {
       "episodeOrder": 29,
-      "title": "Imaging Reimbursement: The CPT Codes and the Documentation",
-      "description": "The 92133 and 92134, the medical necessity, and the documentation that supports the claim.",
+      "title": "Imaging Reimbursement: CPT Codes & Documentation Explained",
+      "description": "Ever received a denial letter that made no sense after doing everything right clinically? You are not alone. In this episode of Focus Cast, we break down the two pillars of imaging reimbursement — CPT codes and documentation — and show you exactly where claims go wrong and how to fix them.\n\nWe walk through the most commonly billed imaging CPT codes, from chest X-rays and abdominal ultrasounds to high-scrutiny CT scans and MRIs, highlighting the specific pitfalls that trigger denials and audits. You will learn why contrast documentation can make or break a claim, how template-based reporting creates compliance risks, and why the clinical indication on an order matters more than most people realize.\n\nWe also cover modifiers — including Modifier 26, TC, and the heavily scrutinized Modifier 59 — and explain how getting them wrong leads to duplicate billing or underpayment. Plus, we discuss how Local Coverage Determinations (LCDs) affect claim approvals and why communication between radiologists, referring physicians, and billing staff is the single most underrated factor in clean claims.\n\nWhether you are a radiologist, practice manager, referring physician, or medical biller, this episode gives you practical, actionable insights to improve reimbursement accuracy and stay compliant.\n\nListen now and share this episode with anyone on your team who touches the imaging billing process. For more healthcare content that actually makes sense, visit us at focuslinks.in.\n\n---",
       "tags": "reimbursement,cpt,92134,necessity",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-29.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "00e94360-191c-45e5-be7b-c66f4ff4f398",
+      "generatedAt": "2026-08-09T06:22:04.917Z"
     },
     {
       "episodeOrder": 30,

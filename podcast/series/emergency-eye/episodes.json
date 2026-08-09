@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 15,
-  "lastUpdated": "2026-08-09T04:54:02.304Z",
+  "generatedEpisodesCount": 16,
+  "lastUpdated": "2026-08-09T04:54:09.657Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Subconjunctival Hemorrhage: Benign and Sometimes Not",
-      "description": "The spontaneous and traumatic forms, the Valsalva and anticoagulant links, and the reassure-versus-workup.",
+      "title": "Subconjunctival Hemorrhage: When a Red Eye Is No Big Deal",
+      "description": "You wake up, look in the mirror, and your eye is bright red — like something out of a horror movie. Before you spiral into a panic, hit play. In this episode of Focus Cast by Focuslinks.in, we break down exactly what a subconjunctival hemorrhage is, why it happens, and — most importantly — whether you actually need to worry about it.\n\nWe cover what causes that alarming red patch on the white of your eye, from something as simple as a sneeze or a cough to more significant triggers like high blood pressure, blood thinners, eye injuries, and diabetes. You will learn how the condition progresses, what the healing process looks like, and why it almost always resolves completely on its own within one to three weeks without any treatment.\n\nBut this episode goes beyond reassurance. We walk you through the specific warning signs that mean a subconjunctival hemorrhage deserves professional attention — including recurrence without an obvious cause, pain, vision changes, trauma-related hemorrhages, and cases that simply do not resolve on schedule. We also discuss why older adults should pay particular attention and what this condition might signal about broader cardiovascular health.\n\nWhether you are dealing with a red eye right now, have had one in the past, or just want to be prepared, this episode gives you the clear, practical knowledge to know when to wait it out and when to call your eye doctor.\n\nVisit Focuslinks.in for more eye health episodes and resources, and share this episode with anyone who has ever been startled by an unexplained red eye — because chances are, they needed this conversation too.\n\n---",
       "tags": "sch,hemorrhage,valsalva,anticoagulant",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-16.mp3",
+      "duration": "12:57",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "166f9a25-22c0-4fc4-9591-a95ebfa98188",
+      "generatedAt": "2026-08-09T04:54:09.656Z"
     },
     {
       "episodeOrder": 17,

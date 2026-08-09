@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-09T05:23:28.060Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-09T05:23:35.716Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Bioptic Driving: The Legal and Clinical Framework",
-      "description": "The state laws, the acuity and field criteria, the training, and the independence it restores.",
+      "title": "Bioptic Driving: Legal Rules, Clinical Steps & Low Vision",
+      "description": "Can people with low vision legally drive? The answer might surprise you. In this eye-opening episode of Focus Cast, we dive deep into the world of bioptic driving — a carefully regulated, clinically supervised practice that gives many people with visual impairments the freedom to get behind the wheel.\n\nWe break down exactly how a bioptic telescope works, why it's not just a workaround but a legitimate, evidence-based system, and what the legal landscape looks like across the United States and beyond. From state-by-state eligibility requirements to the clinical assessment process, driver rehabilitation training, and the latest safety research, this episode covers everything you need to understand the full picture.\n\nYou'll learn how conditions like Stargardt disease, albinism, and cone dystrophy affect driving eligibility, what visual acuity and visual field standards bioptic drivers must meet, and why crash rate studies from established programs like Florida's are changing the conversation around low vision and road safety.\n\nBeyond the clinical and legal details, we explore why bioptic driving matters — for independence, employment, mental health, and quality of life — and what advocates are doing to push for more consistent national standards.\n\nWhether you're a person with low vision exploring your options, a caregiver, or an eye care professional looking to better serve your patients, this episode gives you the clarity and context to take the next step.\n\nVisit Focuslinks.in to explore more episodes and low vision resources from Focus Cast.\n\n---",
       "tags": "bioptic,driving,law,independence",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Macula",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-10.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "676a5eab-0845-4efa-8e95-3e6ae44c4184",
+      "generatedAt": "2026-08-09T05:23:35.716Z"
     },
     {
       "episodeOrder": 11,

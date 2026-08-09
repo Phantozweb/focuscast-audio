@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T05:25:15.635Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T05:26:15.256Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Assistive Technology: Screen Readers and Magnification Software",
-      "description": "The iOS and Android accessibility, the ZoomText and JAWS, and the training that unlocks independence.",
+      "title": "Screen Readers & Magnification Software: Assistive Tech Guide",
+      "description": "What happens when the digital world becomes invisible to you? In this eye-opening episode of Focus Cast, we explore the assistive technology that gives hundreds of millions of people with vision impairment full access to the digital world — screen readers and magnification software.\n\nWe break down exactly how screen readers like JAWS, NVDA, VoiceOver, and TalkBack work, and why they are far more powerful than most people realize. You will discover how skilled users navigate complex websites through sound and memory, and hear the inspiring story of deaf-blind Harvard Law graduate Haben Girma, whose achievements remind us what becomes possible with the right tools.\n\nWe also dive into magnification software — from ZoomText to built-in OS tools — exploring how features like color contrast adjustment, cursor enhancement, and text-to-speech integration support people with low vision in their everyday lives.\n\nBeyond the tools themselves, we unpack the critical concept of digital accessibility, the Web Content Accessibility Guidelines (WCAG), and the powerful curb cut effect — why designing for disability almost always makes technology better for everyone. We also look ahead at how artificial intelligence, voice assistants, and haptic feedback are shaping the future of assistive technology.\n\nWhether you are a developer, designer, caregiver, or simply someone curious about how technology can change lives, this episode will leave you with a deeper appreciation for the independence and dignity these tools provide.\n\nListen now and visit Focuslinks.in for more episodes exploring the technology that shapes our world.\n\n---",
       "tags": "assistive,screen-reader,zoomtext,jaws",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-15.mp3",
+      "duration": "12:49",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "488b888d-a5cf-493c-ad6c-b0cb9e0b87d3",
+      "generatedAt": "2026-08-09T05:26:15.256Z"
     },
     {
       "episodeOrder": 16,

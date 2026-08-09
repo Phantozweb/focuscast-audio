@@ -8,8 +8,8 @@
   "category": "Retina",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T08:36:07.988Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T08:37:39.582Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -137,14 +137,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Diabetic Retinopathy: Staging from Mild NPDR to PDR",
-      "description": "The ETDRS-derived severity scale, what each stage looks like at the slit lamp, and what it means for the patient.",
+      "title": "Diabetic Retinopathy Staging: Mild NPDR to PDR Explained",
+      "description": "How confident are you the next time a diabetic fundus is sitting in front of you at the slit lamp? In this clinically focused episode of Focus Cast, we break down diabetic retinopathy staging from the ground up, giving licensed optometrists and eye care professionals a precise, evidence-based framework they can apply immediately in practice.\n\nDrawing directly from the ETDRS-derived International Clinical Diabetic Retinopathy Disease Severity Scale, we walk through every stage of diabetic retinopathy, from a clean fundus with no apparent retinopathy through mild NPDR, moderate NPDR, severe NPDR, and into proliferative diabetic retinopathy. For each stage, you will get the specific slit lamp findings to look for, the clinical significance behind them, and the management and referral thresholds that protect your patients' vision.\n\nWe cover the critical 4-2-1 rule for identifying severe NPDR, how to differentiate IRMA from neovascularization, why cotton wool spots signal emerging ischemia, and how to distinguish microaneurysms from dot hemorrhages. We also address diabetic macular edema staging, the role of OCT in your diabetic exam protocol, and why center-involving DME is a referral indication at any stage of retinopathy.\n\nEvery diabetic patient who walks into your practice deserves a precise staging diagnosis, a defined follow-up interval, and a clear referral plan when the disease demands it. This episode gives you the clinical language and decision-making confidence to deliver exactly that.\n\nVisit Focus Cast at Focuslinks.in for more evidence-based content built exclusively for eye care professionals.\n\n---",
       "tags": "diabetes,npdr,pdr,staging",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-11.mp3",
+      "duration": "12:05",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ff10cce5-ee32-4bb7-9306-dbb0dc80772b",
+      "generatedAt": "2026-08-09T08:37:39.582Z"
     },
     {
       "episodeOrder": 12,

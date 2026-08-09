@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 24,
-  "lastUpdated": "2026-08-09T06:08:06.213Z",
+  "generatedEpisodesCount": 25,
+  "lastUpdated": "2026-08-09T06:08:14.945Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -208,14 +208,16 @@
     },
     {
       "episodeOrder": 16,
-      "title": "Amblyopia: The Sensory Consequence of Strabismus",
-      "description": "The cortical suppression, the amblyopia risk, and the patching and atropine that treat it.",
+      "title": "Amblyopia & Lazy Eye: The Sensory Consequence of Strabismus",
+      "description": "What if your brain quietly decided to stop listening to one of your eyes — and you never even knew it was happening? In this episode of Focus Cast, we dive deep into amblyopia, commonly known as lazy eye, and uncover why this condition is far more complex than its nickname suggests. Affecting two to three percent of people worldwide, amblyopia isn't a problem with the eye itself — it's a problem with how the brain processes vision, and it's almost always triggered by strabismus, or misaligned eyes.\n\nWe explore exactly how strabismus causes the brain to suppress signals from one eye, why that suppression leads to permanent vision loss if left untreated, and why the window for effective treatment is so critically tied to a child's early years. Through the story of a young girl named Priya, we bring the real-world impact of delayed diagnosis to life — and show what's possible when treatment begins in time.\n\nYou'll also learn about the full range of treatment options available today, from traditional eye patching and atropine drops to cutting-edge dichoptic video game therapies and emerging adult treatments using virtual reality. We also tackle the often-overlooked importance of binocular vision and stereopsis, and why amblyopia is a public health issue that demands greater awareness.\n\nWhether you're a parent, a caregiver, or someone who has always wondered about your own vision, this episode will change the way you think about eye health and early detection.\n\nVisit Focuslinks.in for more episodes and eye health resources. If this episode helped you, share it with someone who needs to hear it.\n\n---",
       "tags": "amblyopia,suppression,patching,atropine",
       "category": "Pediatric",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-16.mp3",
+      "duration": "12:31",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "707537ad-ddc5-4563-bb3d-571ec5668500",
+      "generatedAt": "2026-08-09T06:08:14.147Z"
     },
     {
       "episodeOrder": 17,

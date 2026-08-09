@@ -8,8 +8,8 @@
   "category": "Strabismus",
   "order": 17,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 27,
-  "lastUpdated": "2026-08-09T06:08:55.974Z",
+  "generatedEpisodesCount": 28,
+  "lastUpdated": "2026-08-09T06:12:06.893Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -234,14 +234,16 @@
     },
     {
       "episodeOrder": 18,
-      "title": "Vision Therapy: The Evidence and the Application",
-      "description": "The convergence insufficiency treatment trial, the office-based protocol, and the patient selection.",
+      "title": "Vision Therapy Explained: Evidence, Benefits & Real Results",
+      "description": "Is vision therapy the missing piece your eyes have been waiting for? In this episode of Focus Cast, we break down everything you need to know about vision therapy — what it actually is, what the science says, and how it's being applied to transform lives that glasses and contacts simply couldn't fix.\n\nWe start with the basics: vision therapy is not about strengthening eye muscles. It's a structured, brain-based training program designed to improve how your eyes and nervous system work together. From there, we explore the conditions it treats most effectively — including convergence insufficiency, where peer-reviewed research backed by the National Eye Institute shows clear, measurable results — as well as amblyopia, strabismus, and learning-related visual processing problems.\n\nBut we don't stop at the success stories. We give you an honest look at where the evidence is strong, where it's still developing, and where some claims in the vision therapy space go further than the research supports. Because if you're a parent, a patient, or someone who's spent years battling unexplained eye strain and reading fatigue, you deserve straight answers — not hype.\n\nWe also cover what a typical vision therapy program looks like, how long it takes, what questions to ask a provider, and why early identification of visual problems in children can genuinely change their educational journey.\n\nWhether you're exploring this for yourself, your child, or simply want to understand a topic that affects millions of people worldwide, this episode gives you the clarity to make informed decisions.\n\nListen now, and visit Focuslinks.in for more episodes and vision health resources.\n\n---",
       "tags": "vision-therapy,citt,protocol,selection",
-      "category": "Strabismus",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Contact Lens",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/audio/ep-18.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "4c90a0cb-ef3a-4205-b429-c6fb31bfe8c0",
+      "generatedAt": "2026-08-09T06:12:06.101Z"
     },
     {
       "episodeOrder": 19,

@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 23,
-  "lastUpdated": "2026-08-09T05:30:38.816Z",
+  "generatedEpisodesCount": 24,
+  "lastUpdated": "2026-08-09T05:31:45.874Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -323,14 +323,16 @@
     },
     {
       "episodeOrder": 25,
-      "title": "Low Vision and Diabetic Retinopathy: The Fluctuating Vision",
-      "description": "The day-to-day variation, the glycemic link, and the magnification that adapts to the fluctuation.",
+      "title": "Diabetic Retinopathy: Understanding Fluctuating Low Vision",
+      "description": "Have you ever wondered why someone with diabetes might see clearly in the morning but struggle to read by afternoon? In this eye-opening episode of Focus Cast, we dive deep into one of the most misunderstood aspects of diabetic retinopathy — fluctuating vision — and what it truly means to live with unpredictable low vision every single day.\n\nWe break down exactly how diabetic retinopathy damages the delicate blood vessels of the retina, why blood sugar fluctuations directly impact how clearly you see from hour to hour, and how conditions like diabetic macular edema make vision even harder to predict. Through the relatable story of Meena, a schoolteacher navigating vision changes alongside type 2 diabetes, we bring the science to life in a way that is honest, human, and deeply practical.\n\nYou will also learn what low vision really means, how it differs from blindness, and why its variable nature makes it uniquely challenging to adapt to. We explore the world of low vision rehabilitation, including eccentric viewing techniques, magnification tools, assistive technology, and the emotional support that is just as critical as any device or treatment.\n\nMost importantly, we talk about prevention — because catching diabetic retinopathy early, before vision loss sets in, is still the most powerful tool we have.\n\nWhether you are living with diabetes, caring for someone who is, or simply want to understand how this condition shapes daily life, this episode will leave you better informed and better prepared.\n\nListen now, and visit Focuslinks.in for more episodes, expert resources, and practical guidance on protecting your vision for life.\n\n---",
       "tags": "diabetes,fluctuation,glucose,adapt",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-25.mp3",
+      "duration": "12:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d5dfe6b8-2407-4f35-937a-d2337ec0420c",
+      "generatedAt": "2026-08-09T05:31:45.874Z"
     },
     {
       "episodeOrder": 26,

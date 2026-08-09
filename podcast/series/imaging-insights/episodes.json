@@ -8,8 +8,8 @@
   "category": "Ocular Imaging",
   "order": 18,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T06:15:12.295Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T06:15:20.427Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "ICG Angiography: The Choroidal Vasculature",
-      "description": "When ICG beats FA — occult CNV, PCV, and the choroidal lesions that FA cannot resolve.",
+      "title": "ICG Angiography: Unlocking the Hidden Choroidal Vasculature",
+      "description": "What if one of the most critical layers of the eye had been hiding in plain sight for decades? In this episode of Focus Cast, we pull back the curtain on ICG angiography and explore how indocyanine green transformed our understanding of the choroidal vasculature — the dense, highly vascular layer that silently powers your vision.\n\nWe start with the basics: why the choroid matters, how its layered architecture supports the photoreceptors, and why fluorescein angiography simply could not tell the whole story. Then we dive into what makes ICG angiography so powerful — its near-infrared optical properties, its tight protein binding, and its unique ability to penetrate the retinal pigment epithelium and reveal choroidal circulation in real time.\n\nFrom there, we walk through the clinical conditions where ICG angiography has been genuinely game-changing: polypoidal choroidal vasculopathy, central serous chorioretinopathy, choroidal neovascularization, and the white dot syndromes. You will learn how ICG has not only improved diagnosis but fundamentally reshaped how clinicians think about these diseases at a mechanistic level.\n\nWe also cover how the procedure is performed, what each phase of the angiogram reveals, safety considerations, and how ICG fits alongside OCT and OCT angiography in modern multimodal retinal imaging.\n\nWhether you are a retina specialist, an ophthalmology resident, or a curious learner, this episode offers a clear and clinically grounded guide to one of the most valuable tools in posterior segment imaging.\n\nListen now and see the back of the eye in a whole new way. For more ophthalmology episodes and resources, visit Focuslinks dot in.\n\n---",
       "tags": "icg,choroid,cnv,pcv",
-      "category": "Ocular Imaging",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/audio/ep-11.mp3",
+      "duration": "12:01",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "97c76a07-b3d9-4ec4-88c6-b383802b29ba",
+      "generatedAt": "2026-08-09T06:15:20.427Z"
     },
     {
       "episodeOrder": 12,

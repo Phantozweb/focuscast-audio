@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 25,
-  "lastUpdated": "2026-08-09T05:08:45.720Z",
+  "generatedEpisodesCount": 26,
+  "lastUpdated": "2026-08-09T05:08:55.967Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -360,14 +360,16 @@
     },
     {
       "episodeOrder": 28,
-      "title": "Financial Statements: Reading the Practice P&L",
-      "description": "The revenue, the cost of goods, the overhead, and the doctor’s compensation that the numbers reveal.",
+      "title": "How to Read Your Practice P&L Like a Pro",
+      "description": "Do your financial statements feel like a foreign language? You're not alone — and this episode is here to change that. In this focused breakdown, we walk you through exactly how to read a Profit and Loss statement for a professional practice, whether you run a dental clinic, law firm, physiotherapy center, or any service-based business.\n\nWe start with the basics: what a P&L actually is, why revenue and profit are not the same thing, and how a busy practice can still lose money without the owner even realizing it. From there, we move through the full structure of the statement — revenue, cost of services, gross profit, operating expenses, and net profit — explained in plain language with real-world examples.\n\nBut the real value comes from what most practice owners skip entirely: the ratios and trends hidden inside the numbers. We cover revenue per working day, staff costs as a percentage of revenue, and occupancy cost benchmarks — practical tools that turn your P&L from a static report into a powerful diagnostic instrument for your business.\n\nYou'll also hear a story about a small consulting firm that kept hitting cash crunches despite being profitable, and how a simple habit of monthly P&L reviews revealed the answer hiding in plain sight.\n\nIf you've ever avoided looking at your financials because you weren't sure what you were looking at, this episode gives you the clarity and confidence to change that — starting today.\n\nVisit Focuslinks.in for more episodes and resources designed to help practice owners grow smarter. Listen now, and start leading your practice with numbers on your side.\n\n---",
       "tags": "financials,pl,overhead,compensation",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-28.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6e88852a-f798-4eb0-8542-7c0a2071a79a",
+      "generatedAt": "2026-08-09T05:08:55.967Z"
     },
     {
       "episodeOrder": 29,

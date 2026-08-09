@@ -9,7 +9,7 @@
   "order": 2,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-09T08:35:35.369Z",
+  "lastUpdated": "2026-08-09T08:35:36.727Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -113,27 +113,27 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Fluorescein Angiography: Phases, Leakage & Window Defects Explained",
-      "description": "If fluorescein angiography interpretation has ever felt uncertain or inconsistent in your clinical workflow, this episode is your reset. In this focused, clinically driven episode of Focus Cast by Focuslinks.in, we break down fluorescein angiography from the ground up — built specifically for optometrists, residents, and eye care professionals who want a practical, systematic framework they can apply immediately.\n\nWe walk through every phase of the FA study — choroidal, arterial, arteriovenous, venous, and late — explaining exactly what each phase reveals about retinal perfusion and vascular integrity. More importantly, we tackle the single most critical interpretive skill in FA reading: distinguishing true leakage from window defects. These two patterns of hyperfluorescence can look deceptively similar in early phases, but their late-phase behavior tells completely different clinical stories — and confusing them leads to very different management decisions.\n\nYou'll learn how to recognize the FA signatures of diabetic macular edema, choroidal neovascularization in neovascular AMD, central serous chorioretinopathy, geographic atrophy, and retinal vascular occlusions. We also cover hypofluorescence from blocking — hemorrhage, pigment, and exudates — and how to localize the source anatomically.\n\nEvery finding is tied directly to chairside decision-making: when to observe, when to co-manage, and when to make an urgent referral to a retinal specialist. Whether you order FA studies yourself or interpret reports from retinal colleagues, this episode sharpens your clinical edge.\n\nVisit Focuslinks.in for more evidence-based content built exclusively for eye care professionals. Subscribe, share with a colleague, and keep your clinical skills as sharp as your optics.\n\n---",
+      "title": "Fluorescein Angiography: Phases, Leakage, and Blocking",
+      "description": "Interpreting the arterial, venous, and late phases — and distinguishing leakage from window defects.",
       "tags": "fa,angiography,leakage,phases",
-      "category": "Retina",
-      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-09.mp3",
-      "duration": "12:35",
-      "imageUrl": "",
-      "status": "generated",
-      "runId": "74e58293-6f92-465d-be3e-70330d5c2801",
-      "generatedAt": "2026-08-09T08:35:35.369Z"
-    },
-    {
-      "episodeOrder": 10,
-      "title": "ICG Angiography: Seeing Choroidal Lesions Fluorescein Misses",
-      "description": "When to reach for ICG — occult CNV, polypoidal choroidal vasculopathy, and choroidal tumors.",
-      "tags": "icg,cnv,pcv,choroid",
       "category": "Ocular Imaging",
       "audioUrl": "",
       "duration": "0:00",
       "imageUrl": "",
       "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "ICG Angiography: Choroidal Lesions Fluorescein Misses",
+      "description": "When fluorescein angiography leaves you with more questions than answers, ICG angiography is the diagnostic tool that fills the gap. In this clinical episode of Focus Cast by Focuslinks.in, we break down exactly when and why to reach for indocyanine green angiography in your posterior segment workup — and how that decision can directly change patient outcomes.\n\nDesigned exclusively for licensed optometrists, optometry residents, and clinical eye care practitioners, this episode covers three high-stakes scenarios where ICG outperforms fluorescein: occult choroidal neovascularization, polypoidal choroidal vasculopathy (PCV), and choroidal tumors. You'll learn how ICG's protein-binding properties and near-infrared fluorescence allow it to penetrate the RPE and reveal choroidal pathology that standard FA simply cannot image.\n\nWe walk through the clinical presentations, key OCT findings including the double-layer sign and dome-shaped PEDs, differential diagnosis considerations, and the specific ICG patterns — hot spots, halo signs, and early hyperfluorescence — that guide treatment planning. We also cover the TFSOM risk factor mnemonic for choroidal lesions and discuss how to write precise, actionable referrals that get your patients the right imaging faster.\n\nWhether you're managing a patient with unexplained subretinal fluid, recurrent hemorrhagic AMD that isn't responding to anti-VEGF, or a suspicious pigmented fundus lesion, this episode gives you a sharper clinical framework for chairside decision-making and timely specialist referral.\n\nVisit Focuslinks.in for more evidence-based clinical episodes built specifically for eye care professionals.\n\n---",
+      "tags": "icg,cnv,pcv,choroid",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/retina-revealed/audio/ep-10.mp3",
+      "duration": "12:43",
+      "imageUrl": "",
+      "status": "generated",
+      "runId": "5d38e8f7-e63d-4555-b5ae-745bfd8e5c5e",
+      "generatedAt": "2026-08-09T08:35:36.727Z"
     },
     {
       "episodeOrder": 11,

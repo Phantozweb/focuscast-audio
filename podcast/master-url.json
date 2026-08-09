@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T06:13:13.260Z",
+  "lastUpdated": "2026-08-09T06:14:18.770Z",
   "totalEpisodes": 600,
   "generatedEpisodes": 515,
   "series": [
@@ -257,7 +257,7 @@
       "generatedEpisodes": 28,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/strabismus-spotlight/episodes.json",
       "audioDir": "podcast/series/strabismus-spotlight/audio",
-      "lastUpdated": "2026-08-09T06:12:06.893Z"
+      "lastUpdated": "2026-08-09T06:13:58.776Z"
     },
     {
       "slug": "imaging-insights",

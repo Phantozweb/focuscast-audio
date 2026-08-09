@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-09T05:24:57.913Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-09T05:25:08.274Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Field Enhancement: Prisms and Reverse Telescopes",
-      "description": "The peripheral prism, the field-expanding lens, and the hemianopia rehabilitation role.",
+      "title": "Field Enhancement: How Prisms & Reverse Telescopes Expand Your View",
+      "description": "What if the secret to seeing more wasn't more zoom — but less? In this episode of Focus Cast by Focuslinks.in, we explore the fascinating world of field enhancement through two surprisingly powerful optical tools: prisms and reverse telescopes.\n\nWe start by breaking down what field of view really means and why standard magnification can actually work against you in real-world situations — from tracking birds in flight to monitoring a sports field. Then we dive deep into how prisms do far more than split light into rainbows. Discover how wide-angle and field-flattening prisms fold and stretch light paths to deliver a broader, clearer image — a technology with roots in Second World War naval optics that now lives inside your favorite pair of binoculars.\n\nNext, we flip things around — literally — with reverse telescopes. Learn why making things appear smaller can sometimes be the smartest optical move you can make, how artists used this principle centuries ago with the Claude glass, and where reverse telescope optics quietly power everything from security cameras to aircraft heads-up displays. We even explore what happens to your brain when you wear one for an extended period — the results are genuinely surprising.\n\nFinally, we bring both concepts together to show how the best wide-field binoculars, birding optics, and wide-field astronomy instruments combine prism technology and controlled minification to deliver that rare, breathtaking sense of seeing the whole world at once.\n\nIf you love optics, vision science, photography, birdwatching, or simply understanding how the tools around you work, this episode is for you.\n\nListen now and visit Focuslinks.in for more episodes, articles, and resources on optics and vision technology.\n\n---",
       "tags": "prism,field-expansion,hemianopia,reverse",
       "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-11.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5e3abead-169b-460d-8f80-89243b29b73a",
+      "generatedAt": "2026-08-09T05:25:08.274Z"
     },
     {
       "episodeOrder": 12,

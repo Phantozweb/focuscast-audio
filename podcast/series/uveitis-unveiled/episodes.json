@@ -8,8 +8,8 @@
   "category": "Uveitis",
   "order": 15,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T05:36:05.760Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T05:36:57.117Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Cytomegalovirus Retinitis: The AIDS-Defining Illness",
-      "description": "The pizza-pie fundus, the HAART immune recovery, and the ganciclovir implant legacy.",
+      "title": "Cytomegalovirus Retinitis: The AIDS-Defining Eye Disease",
+      "description": "What if a tiny visual disturbance was the first sign of an infection silently destroying your sight? In this episode of Focus Cast, we explore Cytomegalovirus Retinitis, one of the most significant AIDS-defining illnesses ever documented, and a condition that changed how the world understood HIV disease progression.\n\nCMV is one of the most common viruses on the planet, quietly living in the bodies of up to 80% of adults worldwide. But when the immune system collapses, as it does in advanced HIV infection, this dormant virus reactivates and attacks the retina with devastating speed. We break down exactly how CMV retinitis develops, why it almost exclusively strikes when CD4 counts fall below 50, and what the characteristic \"pizza pie\" appearance of retinal necrosis actually means for a patient's vision and survival.\n\nWe also trace the remarkable turning point brought by antiretroviral therapy, which slashed CMV retinitis rates by over 75% in countries where treatment became accessible, and explore why this condition remains a serious, ongoing threat in regions where HIV care is still out of reach. From immune reconstitution inflammatory syndrome to intravitreal injections, we cover the full clinical picture in a way that is clear, engaging, and genuinely eye-opening.\n\nWhether you are a medical student, a healthcare professional, or simply someone passionate about understanding how the human body works, this episode connects immunology, virology, and ophthalmology in one compelling story.\n\nListen now and visit Focuslinks.in to explore more episodes of Focus Cast.\n\n---",
       "tags": "cmv,aids,pizza-pie,ganciclovir",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/uveitis-unveiled/audio/ep-10.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ee5aae85-53f3-4047-93f8-e5954cef0a70",
+      "generatedAt": "2026-08-09T05:36:57.117Z"
     },
     {
       "episodeOrder": 11,

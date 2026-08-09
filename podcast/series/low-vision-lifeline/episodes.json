@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-09T05:23:35.716Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-09T05:24:45.222Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -154,14 +154,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Eccentric Viewing Training: The Preferred Retinal Locus",
-      "description": "The PRL identification, the training steps, and the practice that builds the habit.",
+      "title": "Eccentric Viewing Training & the Preferred Retinal Locus Explained",
+      "description": "What if the secret to seeing better was learning to look away? For millions of people living with central vision loss caused by conditions like age-related macular degeneration, Stargardt disease, or diabetic macular edema, that is not a paradox — it is a life-changing reality.\n\nIn this episode of Focus Cast, we dive deep into Eccentric Viewing Training (EVT) and the science behind the Preferred Retinal Locus (PRL). We break down exactly what happens when the macula is damaged, why a central scotoma makes direct vision impossible, and how the brain's remarkable adaptability opens the door to a new way of seeing.\n\nYou will learn how low vision specialists use tools like microperimetry and scanning laser ophthalmoscopy to map functional retinal tissue, how structured EVT exercises train the brain to use an off-center retinal point as a new visual anchor, and why starting rehabilitation early can significantly improve outcomes. We also explore the role of technology, including biofeedback software that acts like a GPS for your own gaze, and how EVT fits into a broader low vision rehabilitation program.\n\nMost importantly, this episode is a reminder that vision loss does not have to mean a diminished life. With the right training, people are reading books, recognizing faces, and reclaiming their independence — one carefully practiced glance at a time.\n\nWhether you are a patient, caregiver, student, or simply curious about the science of human vision, this episode will change the way you think about sight.\n\nListen now and share with someone who needs to hear this. Visit Focuslinks.in for more episodes and vision health resources.\n\n---",
       "tags": "prl,eccentric,training,habit",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-12.mp3",
+      "duration": "12:41",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f5426926-3e36-4b7b-a615-19d1be858676",
+      "generatedAt": "2026-08-09T05:24:45.222Z"
     },
     {
       "episodeOrder": 13,

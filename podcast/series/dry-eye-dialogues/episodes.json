@@ -9,7 +9,7 @@
   "order": 9,
   "totalEpisodes": 30,
   "generatedEpisodesCount": 28,
-  "lastUpdated": "2026-08-09T04:41:07.409Z",
+  "lastUpdated": "2026-08-09T04:43:52.546Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -247,16 +247,16 @@
     },
     {
       "episodeOrder": 19,
-      "title": "Cyclosporine vs Lifitegrast: Best Anti-Inflammatory Eye Drops",
-      "description": "Do your eyes feel gritty, burning, or uncomfortable every single day? You might be dealing with more than just dry eyes — you could be dealing with chronic inflammation. In this episode of Focus Cast, we break down everything you need to know about the two most important prescription anti-inflammatory eye drops available today: Cyclosporine (Restasis, Cequa) and Lifitegrast (Xiidra).\n\nWe start by explaining why dry eye disease is fundamentally an inflammatory condition — and why over-the-counter artificial tears alone often fall short of real relief. From there, we dive deep into how Cyclosporine works by calming T-cell activation to help restore your eye's natural tear production, and how Lifitegrast takes a completely different approach by blocking the LFA-1 and ICAM-1 interaction that triggers inflammation on the eye surface.\n\nWe also cover what sets these two treatments apart — including onset of relief, side effect profiles, and how eye care providers decide which option is right for each patient. Whether you are newly diagnosed with dry eye disease or have been managing symptoms for years without satisfying results, this episode gives you the clear, science-backed information you need to have a more informed conversation with your eye doctor.\n\nIf you have been living with persistent dry eye discomfort and wondering whether a prescription drop could help, this episode is for you. Listen now, and then visit Focuslinks.in to explore more eye health episodes from Focus Cast.\n\n---",
+      "title": "Cyclosporine vs Lifitegrast: Best Dry Eye Drops Explained",
+      "description": "If your eyes feel like sandpaper every morning and artificial tears just aren't cutting it anymore, this episode is for you. On today's Focus Cast, we dive deep into two prescription anti-inflammatory eye drops that have genuinely transformed how dry eye disease is treated — cyclosporine (Restasis, Cequa) and lifitegrast (Xiidra).\n\nDry eye isn't simply a lubrication problem. At its core, it's a chronic inflammatory condition where a damaged tear film triggers an immune response that destroys the very cells responsible for tear production. Understanding that root cause is what makes these two medications so groundbreaking — they don't just mask symptoms, they target the underlying biology.\n\nWe break down exactly how cyclosporine works by blocking T-cell activation through the calcineurin pathway, why it takes three to six months to show full results, and what the newer nanomicellar formulation Cequa brings to the table. Then we explore lifitegrast's clever molecular mechanism — blocking the LFA-1 and ICAM-1 interaction that allows inflammatory cells to attach to your eye surface — and why its faster onset makes it a compelling option for many patients.\n\nWe also tackle the big question: which one is better? The honest, evidence-based answer might surprise you. Plus, we discuss how dry eye connects to systemic conditions, hormones, screen time, and why a holistic treatment approach often works best.\n\nWhether you've been managing dry eye for years or you're just starting to explore your options, this episode gives you the knowledge to have a more informed conversation with your eye doctor.\n\nListen now and visit Focuslinks.in for more expert eye health content, articles, and resources.\n\n---",
       "tags": "cyclosporine,lifitegrast,anti-inflammatory,t-cell",
-      "category": "Contact Lens",
+      "category": "Cornea",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/dry-eye-dialogues/audio/ep-19.mp3",
-      "duration": "12:40",
+      "duration": "12:33",
       "imageUrl": "",
       "status": "generated",
-      "runId": "c584dcff-38eb-4cef-bd82-d7a9cd092844",
-      "generatedAt": "2026-08-09T04:40:48.082Z"
+      "runId": "c3bee761-51ed-484f-bed5-e39e55fa1540",
+      "generatedAt": "2026-08-09T04:43:51.743Z"
     },
     {
       "episodeOrder": 20,

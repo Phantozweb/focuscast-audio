@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T04:43:24.274Z",
+  "lastUpdated": "2026-08-09T04:43:41.358Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 283,
+  "generatedEpisodes": 284,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -149,10 +149,10 @@
       "category": "Refractive Surgery",
       "order": 10,
       "totalEpisodes": 30,
-      "generatedEpisodes": 15,
+      "generatedEpisodes": 16,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refractive-rundown/episodes.json",
       "audioDir": "podcast/series/refractive-rundown/audio",
-      "lastUpdated": "2026-08-09T04:43:10.507Z"
+      "lastUpdated": "2026-08-09T04:43:25.767Z"
     },
     {
       "slug": "emergency-eye",

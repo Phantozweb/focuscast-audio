@@ -8,8 +8,8 @@
   "category": "Oculoplastics",
   "order": 16,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 29,
-  "lastUpdated": "2026-08-09T05:57:13.632Z",
+  "generatedEpisodesCount": 30,
+  "lastUpdated": "2026-08-09T05:57:20.550Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -390,14 +390,16 @@
     },
     {
       "episodeOrder": 30,
-      "title": "The Oculoplastics Referral: What to Send and When",
-      "description": "The triage of lid, lacrimal, and orbit — the urgent, the elective, and the shared care plan.",
+      "title": "Oculoplastics Referrals: What to Send and When to Refer",
+      "description": "Are you unsure when to refer a patient to oculoplastics — or what to actually include in that referral letter? You are not alone. In this episode of Focus Cast by Focuslinks.in, we break down the oculoplastics referral process so that general ophthalmologists, optometrists, and GPs can refer with clarity and confidence.\n\nWe walk through the most common oculoplastics referral categories, including ptosis, entropion, ectropion, lacrimal system problems, thyroid eye disease, orbital masses, and periocular skin cancers. For each condition, we cover what clinical details the oculoplastics team actually needs, how to assess urgency, and which red flags demand same-day attention versus a routine appointment.\n\nYou will learn why a child with ptosis is a very different referral from an elderly adult with a slow droop, how to describe epiphora in a way that is actually useful, when thyroid eye disease becomes a sight-threatening emergency, and why a recurrent chalazion in an older patient should raise your suspicion for something more serious.\n\nBy the end of this episode, you will have a practical framework for writing oculoplastics referrals that are specific, well-timed, and genuinely helpful to the receiving team — and more importantly, to your patient.\n\nWhether you are early in your career or simply looking to sharpen your referral practice, this episode delivers clear, clinically grounded guidance you can apply immediately.\n\nListen now and start referring smarter. Visit Focuslinks.in for more eye care episodes and resources, and share this episode with a colleague who could use it.\n\n---",
       "tags": "referral,triage,urgent,shared-care",
-      "category": "Oculoplastics",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/oculoplastics-outlook/audio/ep-30.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "128bda45-23f3-488c-a374-870ffcf793bd",
+      "generatedAt": "2026-08-09T05:57:20.550Z"
     }
   ]
 }

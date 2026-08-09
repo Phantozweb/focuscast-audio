@@ -8,8 +8,8 @@
   "category": "Low Vision",
   "order": 14,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:47.960Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T05:21:20.092Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -24,14 +24,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "The Low Vision Assessment: Beyond the Acuity Chart",
-      "description": "Distance, near, contrast, glare, field, and the functional history that defines the goals.",
+      "title": "Low Vision Assessment: What Happens Beyond the Eye Chart",
+      "description": "What does it really mean to see? Not just reading letters off a wall chart, but recognizing a loved one's face, navigating a busy street, or simply reading a medicine label. For the 246 million people worldwide living with low vision, a standard eye exam often falls dangerously short of answering that question.\n\nIn this episode of Focus Cast, we go deep into what a truly comprehensive low vision assessment looks like and why it matters far more than most people realize. We explore why understanding a patient's daily life and personal goals is the clinical foundation of any meaningful assessment, and how factors like contrast sensitivity, visual field mapping, glare tolerance, and dark adaptation paint a far richer picture of functional vision than acuity alone ever could.\n\nWe also tackle the dimension of low vision care that rarely gets the attention it deserves: the emotional and psychological impact of vision loss. With nearly 30% of people with low vision experiencing clinically significant depression, addressing mental wellbeing isn't optional. It's essential to successful rehabilitation.\n\nFrom optical aids and electronic magnification to eccentric viewing training and environmental modifications, we walk through what a personalized low vision rehabilitation plan can actually look like in practice, and share a story that shows how the right assessment can genuinely restore quality of life, even when sight itself cannot be restored.\n\nWhether you're an eye care professional looking to deepen your practice, or someone living with low vision searching for better answers, this episode will change how you think about vision care.\n\nListen now, and visit Focuslinks.in for more episodes and resources from Focus Cast.\n\n---",
       "tags": "assessment,contrast,glare,functional",
-      "category": "Low Vision",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/low-vision-lifeline/audio/ep-02.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "720de104-a533-4b8d-9c34-10ea883a16ca",
+      "generatedAt": "2026-08-09T05:21:20.092Z"
     },
     {
       "episodeOrder": 3,

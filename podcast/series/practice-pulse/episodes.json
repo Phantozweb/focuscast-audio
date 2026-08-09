@@ -8,8 +8,8 @@
   "category": "Practice Management",
   "order": 12,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-09T04:58:21.353Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-09T05:00:14.829Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "The Front Desk: The First and Last Impression",
-      "description": "Phone skills, greeting, and the insurance verification that prevents billing surprises.",
+      "title": "The Front Desk: Why First Impressions Make or Break Your Business",
+      "description": "What happens in the first seven seconds someone walks through your door can determine whether they trust you, return, or walk away forever. In this episode of Focus Cast, we dive deep into the often-overlooked power of the front desk — the single most important touchpoint in your entire customer experience.\n\nWe explore the psychology behind first impressions, including how oxytocin, body language, and even scent shape the way visitors feel about your business before a single meeting takes place. You'll discover what separates a truly great receptionist from an average one, why the words you choose at the front desk create completely different emotional experiences, and how the Ritz-Carlton's legendary hospitality philosophy applies to businesses of every size.\n\nBut it doesn't stop at the welcome. We also unpack the recency effect and why your last impression matters just as much as your first — and how a simple goodbye can transform an entire customer experience. Plus, we bring it into the digital age, exploring how websites, chatbots, and automated phone systems are your virtual front desk, and what it takes to make them feel human.\n\nWhether you're a business owner, office manager, clinic administrator, or team leader, this episode will change the way you see your reception area — and inspire you to invest in the people and moments that build lasting trust.\n\nListen now and then go sit in your own reception area. You might be surprised by what you discover.\n\nVisit Focuslinks.in for more episodes and insights designed to help your business grow.\n\n---",
       "tags": "front-desk,phone,insurance,verification",
       "category": "Practice Management",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/practice-pulse/audio/ep-02.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "e857f1c1-1b23-467c-91a9-8ebc520c432b",
+      "generatedAt": "2026-08-09T05:00:14.829Z"
     },
     {
       "episodeOrder": 3,

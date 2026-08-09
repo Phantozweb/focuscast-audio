@@ -1,0 +1,180 @@
+{
+  "slug": "lens-cataract",
+  "name": "Lens & Cataract",
+  "tagline": "Cataract Diagnosis, Pre-Op, and Co-Management",
+  "description": "A 15-episode series on the crystalline lens — cataract types, pre-operative assessment, IOL selection, and the post-operative care that optometrists provide.",
+  "icon": "Aperture",
+  "accent": "#6366f1",
+  "category": "Cataract",
+  "order": 19,
+  "totalEpisodes": 15,
+  "generatedEpisodesCount": 0,
+  "lastUpdated": "2026-08-09T10:02:22.615Z",
+  "episodes": [
+    {
+      "episodeOrder": 1,
+      "title": "Crystalline Lens Anatomy and the Mechanism of Cataract Formation",
+      "description": "The lens anatomy (capsule, epithelium, cortex, nucleus), the optical function, and the biochemical mechanisms (oxidation, glycation) of cataract.",
+      "tags": "lens-anatomy,capsule,cortex,nucleus,cataract-mechanism",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 2,
+      "title": "Cortical Cataracts: The Spokes, the Wedges, and the Glare Symptom",
+      "description": "The cortical cataract slit lamp appearance, the glare and monocular diplopia symptoms, and the LOCS III grading.",
+      "tags": "cortical-cataract,spokes,glare,locs-iii",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 3,
+      "title": "Nuclear Sclerosis: The Brown Lens, the Myopic Shift, and the \"Second Sight\"",
+      "description": "The nuclear cataract colour grading, the index myopia and the \"second sight of the aged\", and the IOL calculation challenge.",
+      "tags": "nuclear-sclerosis,myopic-shift,second-sight,locs-iii",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 4,
+      "title": "Posterior Subcapsular Cataracts: The Younger Patient and the Steroid Cause",
+      "description": "The PSC location and the disproportionate glare and near vision impact, the steroid and diabetes causes, and the earlier surgery indication.",
+      "tags": "psc,posterior-subcapsular,steroid,diabetes",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 5,
+      "title": "Congenital and Juvenile Cataracts: The Deprivation Amblyopia Risk",
+      "description": "The congenital cataract types (nuclear, lamellar, posterior polar), the deprivation amblyopia urgency, and the genetic and metabolic workup.",
+      "tags": "congenital-cataract,juvenile,deprivation,workup",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 6,
+      "title": "Traumatic Cataracts: The Rosette, the Phacodonesis, and the Zonular Assessment",
+      "description": "The traumatic rosette cataract, the zonular dialysis assessment, and the surgical complexity and the IOL fixation challenge.",
+      "tags": "traumatic-cataract,rosette,zonular,phacodonesis",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 7,
+      "title": "Pre-Operative Cataract Assessment: The Vision, the Glare, and the Patient Goal",
+      "description": "The pre-op acuity and contrast and glare testing, the patient lifestyle and visual goal, and the IOL candidacy and the ocular surface optimisation.",
+      "tags": "pre-op,cataract-assessment,glare,iol-candidacy",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 8,
+      "title": "Biometry and IOL Calculations: The Axial Length, the Keratometry, and the Formulas",
+      "description": "The IOLMaster and Lenstar biometry, the axial length and keratometry, the Barrett and Hill-RBF and the post-refractive challenge.",
+      "tags": "biometry,iol-master,barrett,hill-rbf,axial-length",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 9,
+      "title": "Premium IOL Selection: Multifocal, EDOF, and Toric — The Patient Match",
+      "description": "The patient personality and lifestyle assessment, the IOL selection (multifocal, EDOF, toric), and the dysphotopsia and contrast counselling.",
+      "tags": "premium-iol,multifocal,edof,toric,patient-match",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 10,
+      "title": "Toric IOL Alignment: The Axis Marking, the Post-Op Rotation, and the IOL Exchange",
+      "description": "The pre-op axis marking at the slit lamp, the post-op rotation assessment, and the threshold for IOL repositioning.",
+      "tags": "toric-iol,axis-marking,rotation,exchange",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 11,
+      "title": "Post-Cataract Visual Recovery: The 1-Day, 1-Week, and 1-Month Milestones",
+      "description": "The expected visual recovery timeline, the post-op medication taper, and the optometric co-management schedule.",
+      "tags": "post-cataract,recovery,co-management,schedule",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 12,
+      "title": "Posterior Capsule Opacification: The YAG Laser Indication and Timing",
+      "description": "The PCO presentation, the visual impact, the YAG capsulotomy timing (after refractive stability), and the RD and IOP risks.",
+      "tags": "pco,yag,capsulotomy,retinal-detachment-risk",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 13,
+      "title": "Cystoid Macular Edema After Cataract Surgery: The Irvine-Gass Syndrome",
+      "description": "The post-cataract CME (Irvine-Gass), the OCT confirmation, the topical NSAID and steroid treatment, and the chronic case management.",
+      "tags": "cme,irvine-gass,nsaid,oct",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 14,
+      "title": "Endophthalmitis Prophylaxis: The Antibiotic Choice and the Post-Op Red Eye Triage",
+      "description": "The pre- and intra- and post-operative antibiotic protocols, the post-op red eye triage, and the urgent endophthalmitis referral.",
+      "tags": "endophthalmitis,prophylaxis,antibiotic,red-eye-triage",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    },
+    {
+      "episodeOrder": 15,
+      "title": "When to Refer for Cataract Surgery: The Functional Impairment Standard",
+      "description": "The cataract surgery indication (functional impairment, not acuity alone), the shared decision-making, and the timing and the second-eye surgery.",
+      "tags": "cataract-referral,functional-impairment,shared-decision",
+      "category": "Cataract",
+      "audioUrl": "",
+      "duration": "0:00",
+      "imageUrl": "",
+      "status": "draft"
+    }
+  ]
+}

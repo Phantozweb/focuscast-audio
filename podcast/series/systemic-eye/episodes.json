@@ -8,19 +8,21 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-07-30T16:56:59.677Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-09T06:23:05.862Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "The Eye as the Window: The Systemic Exam at the Fundus",
-      "description": "Why every dilated exam is a systemic screen and the communication with the primary care physician.",
+      "title": "The Eye as a Window: What Your Fundus Reveals About Your Health",
+      "description": "What if a single, non-invasive exam could reveal hidden signs of diabetes, high blood pressure, brain tumors, and neurological disease — all without a single blood draw or scan? In this eye-opening episode of Focus Cast, we explore the fundus, the inner back surface of the eye, and why it may be the most powerful diagnostic tool in medicine that most people completely overlook.\n\nWe break down how diabetic retinopathy signals damage happening far beyond the eye, affecting the kidneys, heart, and nerves long before symptoms appear. We explore how hypertensive retinopathy leaves unmistakable fingerprints on retinal blood vessels, and how grading those changes can predict stroke and heart attack risk. We share a remarkable real-world case where a routine eye exam caught a brain tumor in a patient who felt completely fine. And we dive into how conditions like multiple sclerosis, sickle cell disease, sarcoidosis, and even severe immune deficiency all leave their mark on the retina.\n\nWhether you have diabetes, high blood pressure, or simply haven't had a comprehensive eye exam in years, this episode will change the way you think about eye care. The fundus is not just an eye doctor's concern — it is a shared diagnostic resource for internists, neurologists, cardiologists, and endocrinologists alike.\n\nWe also look at how artificial intelligence is transforming fundus photography into a biological passport capable of detecting cardiovascular risk, anemia, and thyroid disease from a single image.\n\nDon't skip your next dilated eye exam. It could reveal far more than you expect. Listen now, and visit Focuslinks dot in for more episodes on eye health and systemic medicine.\n\n---",
       "tags": "systemic,window,fundus,communication",
-      "category": "General",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-01.mp3",
+      "duration": "12:58",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6a07c224-2d6a-4503-aea0-50852824d5cd",
+      "generatedAt": "2026-08-09T06:23:05.862Z"
     },
     {
       "episodeOrder": 2,

@@ -8,8 +8,8 @@
   "category": "Pharmacology",
   "order": 13,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T05:12:26.016Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T05:12:35.369Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "NSAID Drops: The Steroid-Sparing Anti-Inflammatory",
-      "description": "Ketorolac, nepafenac, bromfenac — the post-op and the cystoid macular edema role.",
+      "title": "NSAID Eye Drops: The Steroid-Sparing Anti-Inflammatory",
+      "description": "Why does your eye doctor prescribe so many drops after surgery — and what is each one actually doing? In this episode of Focus Cast, we break down one of the most important yet overlooked tools in eye care: NSAID eye drops, or non-steroidal anti-inflammatory drops.\n\nWe start with the basics — how inflammation works in the eye and why steroids, while powerful, come with serious long-term risks like elevated eye pressure and accelerated cataract formation. Then we explore how NSAID drops work by blocking the COX enzyme and reducing prostaglandins, targeting inflammation at the source without those steroid-related side effects.\n\nFrom cataract surgery and LASIK to PRK recovery and allergic conjunctivitis, NSAID drops play a critical role across a wide range of conditions. We explain the steroid-sparing effect and why it matters most for patients with glaucoma or those sensitive to steroids. We also walk through the key differences between commonly used NSAID drops — ketorolac, diclofenac, bromfenac, and nepafenac — and what makes each one unique in clinical practice.\n\nWe do not shy away from the risks either. Corneal toxicity, dry eye concerns, and the nuanced debate around NSAID use after LASIK versus PRK are all covered honestly and clearly.\n\nWhether you are a patient trying to understand your prescription, a student studying ocular pharmacology, or simply someone curious about how eye care works, this episode gives you a clear, science-backed picture of why NSAID eye drops matter.\n\nListen now and visit Focuslinks.in for more episodes covering the science of eye care — one topic at a time.\n\n---",
       "tags": "nsaid,ketorolac,nepafenac,cme",
-      "category": "Pharmacology",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/pharmacology-focus/audio/ep-08.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3b9a7903-db93-4638-8cb1-2ce6fe86ea0c",
+      "generatedAt": "2026-08-09T05:12:35.369Z"
     },
     {
       "episodeOrder": 9,

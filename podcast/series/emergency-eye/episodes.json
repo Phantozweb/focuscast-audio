@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-09T04:52:04.745Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-09T04:52:50.962Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Traumatic Iritis: The Ciliary Spasm and the Steroid",
-      "description": "The cells and flare, the photophobia, and the cycloplegia and steroid that ease the pain.",
+      "title": "Traumatic Iritis: Ciliary Spasm, Light Sensitivity & Treatment",
+      "description": "Ever taken a hit to the eye and woken up the next day barely able to open it in a lit room? That sharp, stabbing pain every time light enters your eye, the deep aching pressure behind it, the blurry vision — that is not just bruising. That is traumatic iritis, and in this episode of Focus Cast, we break down exactly what is happening inside your eye when blunt trauma triggers this painful inflammatory condition.\n\nWe explore how a single impact sends a shockwave through the eye, causing the iris and ciliary body to become inflamed and go into spasm. You will understand why photophobia in iritis is genuinely excruciating — not just uncomfortable — and what the ciliary spasm is actually doing to your vision and pain levels. We also walk you through what an eye doctor sees under the slit lamp, from floating white blood cells to protein flare in the anterior chamber, and why those findings matter for guiding treatment.\n\nMost importantly, we cover the two-medication approach that forms the backbone of traumatic iritis treatment: topical corticosteroid eye drops like prednisolone acetate to suppress inflammation, and cycloplegic agents like cyclopentolate to break the painful muscle spasm and prevent dangerous complications like posterior synechiae.\n\nWhether you are a patient, a caregiver, a student, or simply someone who loves understanding how the human body works, this episode gives you a clear, vivid picture of a condition that is far more common than most people realize.\n\nIf you found this episode valuable, share it with someone who could benefit. Visit us at focuslinks.in for more eye care content, and subscribe to Focus Cast so you never miss an episode.\n\n---",
       "tags": "iritis,cells,flare,cycloplegia",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-12.mp3",
+      "duration": "12:40",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "eeda2c6a-96d0-48e3-bfca-6418db0c5dd6",
+      "generatedAt": "2026-08-09T04:52:50.962Z"
     },
     {
       "episodeOrder": 13,

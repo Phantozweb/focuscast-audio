@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-09T06:27:55.524Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-09T06:28:03.113Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -193,14 +193,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Syphilis: The Great Imitator in Eye Care",
-      "description": "The resurgence, the panuveitis, the RPR and FTA-ABS, and the intravenous penicillin.",
+      "title": "Ocular Syphilis: When the Great Imitator Targets Your Eyes",
+      "description": "Syphilis is back — and it's quietly threatening vision in ways that even experienced clinicians can miss. In this eye-opening episode of Focus Cast, we explore one of medicine's most deceptive infections: ocular syphilis. Known for centuries as \"the great imitator,\" syphilis can mimic dozens of other eye conditions, from uveitis and retinal inflammation to optic nerve disease, making it dangerously easy to overlook in the clinic.\n\nWe break down exactly how Treponema pallidum crosses the blood-ocular barrier and what damage it causes once inside the eye. You'll learn why a misdiagnosis can lead to steroid treatment that actually worsens a syphilitic infection, and why delayed diagnosis so often means permanent vision loss. We also cover who is at risk, what the diagnostic workup looks like — including RPR, VDRL, FTA-ABS, and TPPA testing — and why intravenous penicillin G remains the gold-standard treatment for ocular syphilis today.\n\nWhether you're an eye care professional looking to sharpen your uveitis differential, a patient navigating unexplained vision changes, or simply someone who wants to stay informed about a growing public health concern, this episode delivers clear, clinically grounded insights you won't want to miss.\n\nThe message is simple: if you don't think of syphilis, you won't diagnose syphilis. And that one oversight can cost someone their sight.\n\nListen now, and visit Focuslinks.in for more episodes, resources, and everything in eye care.\n\n---",
       "tags": "syphilis,imitator,rpr,penicillin",
-      "category": "Uveitis",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-15.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ebd4d0d2-ba4d-4fc4-bfc4-8097952170be",
+      "generatedAt": "2026-08-09T06:28:03.113Z"
     },
     {
       "episodeOrder": 16,

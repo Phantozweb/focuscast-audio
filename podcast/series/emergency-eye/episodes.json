@@ -8,8 +8,8 @@
   "category": "Emergency Eye Care",
   "order": 11,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-09T04:50:07.040Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-09T04:50:11.960Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Retrobulbar Hemorrhage: The Sight-Threatening Compression",
-      "description": "The tight orbit, the afferent pupillary defect, and the lateral canthotomy that decompresses.",
+      "title": "Retrobulbar Hemorrhage: The Eye Emergency That Steals Sight",
+      "description": "What if a routine eye injury quietly turned into a race against blindness — and nobody noticed until it was almost too late? In this episode of Focus Cast, we dive deep into retrobulbar hemorrhage, one of the most time-critical emergencies in ophthalmology. This is bleeding that occurs behind the eyeball inside the bony orbit, a confined space with no room to spare. As blood accumulates, it compresses the optic nerve and threatens permanent vision loss within a window as narrow as ninety minutes.\n\nWe break down exactly how retrobulbar hemorrhage happens, from blunt facial trauma and orbital fractures to post-surgical complications and spontaneous bleeding in high-risk patients. You will learn to recognize the classic triad of warning signs: proptosis, elevated intraocular pressure, and an afferent pupillary defect. We also walk through the definitive emergency treatment, lateral canthotomy and cantholysis, explaining the anatomy, the logic, and why this procedure is taught to emergency physicians, not just ophthalmologists.\n\nBeyond the clinical mechanics, this episode covers why patient education after orbital surgery can be the difference between saving and losing vision, and what every clinician working near the face and orbit needs to keep on their radar.\n\nWhether you are a medical student, a practicing clinician, or simply passionate about eye health, this episode gives you the knowledge to recognize a sight-threatening emergency and understand exactly what needs to happen next.\n\nListen now, and share this episode with a colleague or student who works in emergency medicine, ophthalmology, or surgical care. For more clinical deep dives into the world of eye care, visit us at Focuslinks dot in.\n\n---",
       "tags": "retrobulbar,hemorrhage,canthotomy,rapd",
-      "category": "Emergency Eye Care",
-      "audioUrl": "",
-      "duration": "",
+      "category": "Optic Nerve",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/emergency-eye/audio/ep-04.mp3",
+      "duration": "12:13",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3411ebb5-9532-4b77-b4b6-8b7906721c98",
+      "generatedAt": "2026-08-09T04:50:11.960Z"
     },
     {
       "episodeOrder": 5,

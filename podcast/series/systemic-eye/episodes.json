@@ -8,8 +8,8 @@
   "category": "General",
   "order": 19,
   "totalEpisodes": 30,
-  "generatedEpisodesCount": 20,
-  "lastUpdated": "2026-08-09T06:30:00.860Z",
+  "generatedEpisodesCount": 21,
+  "lastUpdated": "2026-08-09T06:30:08.901Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -273,14 +273,16 @@
     },
     {
       "episodeOrder": 21,
-      "title": "Sickle Cell Disease: The Sea-Fan and the Hemorrhage",
-      "description": "The retinal vascular occlusion, the proliferative retinopathy, and the scatter laser and surgery.",
+      "title": "Sickle Cell & Vision Loss: Sea Fans and Vitreous Hemorrhage",
+      "description": "What does coral have to do with blindness? More than you'd think. In this eye-opening episode of Focus Cast, we explore one of the most visually striking and least talked-about complications of Sickle Cell Disease — proliferative sickle cell retinopathy — and the sudden, devastating event it can trigger: a vitreous hemorrhage.\n\nWe start from the ground up, breaking down how abnormal hemoglobin causes red blood cells to sickle, clump, and block blood flow throughout the body — including the delicate vessels that feed the retina. When those vessels get blocked, the retina fights back by growing new ones. But these fragile, fan-shaped formations, known as sea fans, are structurally weak and prone to bleeding directly into the eye, sometimes causing vision loss overnight with zero warning.\n\nHere's the most important part: in its early stages, sickle cell retinopathy causes no pain and no symptoms whatsoever. That makes regular dilated eye exams absolutely critical for anyone living with Sickle Cell Disease.\n\nIn this episode, you'll learn how sea fan formations develop and why they're dangerous, what happens during a vitreous hemorrhage and how it's treated, and what tools doctors have today — from laser photocoagulation and vitrectomy to anti-VEGF injections and gene therapy — to protect vision before it's too late.\n\nWe also talk about the awareness gap and healthcare access barriers that put many patients at higher risk than they need to be.\n\nIf you or someone you love has Sickle Cell Disease, this episode could genuinely change how you approach eye care. Listen now, and visit Focuslinks.in for more episodes that make complex medical science clear and actionable.\n\n---",
       "tags": "sickle,sea-fan,proliferative,laser",
       "category": "Retina",
-      "audioUrl": "",
-      "duration": "",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/systemic-eye/audio/ep-21.mp3",
+      "duration": "12:30",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "66e01911-ec0a-499c-8c67-d5d9994a9865",
+      "generatedAt": "2026-08-09T06:30:08.901Z"
     },
     {
       "episodeOrder": 22,

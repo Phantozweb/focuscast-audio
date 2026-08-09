@@ -8,8 +8,8 @@
   "category": "Cornea",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-09T08:56:13.514Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-09T08:56:28.512Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -140,14 +140,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Herpes Zoster Ophthalmicus: Hutchinson’s Sign and Beyond",
-      "description": "Forehead vesicles, the nasociliary branch, and the ocular complications that demand slit lamp follow-up.",
+      "title": "Herpes Zoster Ophthalmicus: Hutchinson's Sign & Ocular Risk",
+      "description": "When a patient walks in with a unilateral forehead rash and a red eye, the clock is already ticking. In this clinically focused episode of Focus Cast, we break down everything optometrists need to know about Herpes Zoster Ophthalmicus — from the anatomical significance of Hutchinson's sign to the slit lamp findings that change your management plan on the spot.\n\nWe explore why nasociliary nerve involvement is the critical link between forehead vesicles and serious ocular complications, and why the absence of nasal tip lesions never rules out ocular disease. You'll get a detailed walkthrough of anterior segment findings including zoster versus HSV dendrite differentiation, stromal keratitis patterns, trabeculitis-driven IOP spikes, and anterior uveitis management. We also cover posterior segment red flags — acute retinal necrosis, optic neuritis, and cranial nerve palsies — so you know exactly when to dilate, when to image, and when to refer urgently.\n\nBeyond diagnosis, this episode delivers practical chairside decision-making: antiviral prescribing windows, topical corticosteroid use with antiviral coverage, cycloplegic selection, IOP management strategies, and follow-up scheduling during the acute and chronic phases of HZO.\n\nWhether you're a seasoned clinician or an optometry resident building your cornea management skills, this episode gives you the clinical framework to protect your patients' vision from one of the most consequential conditions you'll encounter in practice.\n\nListen now, then share this episode with a colleague or resident who needs it. Visit FocusLinks.in for more evidence-based episodes built exclusively for eye care professionals.\n\n---",
       "tags": "hzv,shingles,hutchinson,zoster",
-      "category": "Cornea",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/cornea-confidential/audio/ep-10.mp3",
+      "duration": "12:28",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ab566e15-ee1f-493f-b328-73295f748902",
+      "generatedAt": "2026-08-09T08:56:28.512Z"
     },
     {
       "episodeOrder": 11,

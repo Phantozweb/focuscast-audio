@@ -9,7 +9,7 @@
   "order": 1,
   "totalEpisodes": 15,
   "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-09T08:39:55.299Z",
+  "lastUpdated": "2026-08-09T08:40:00.047Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -95,15 +95,15 @@
     {
       "episodeOrder": 7,
       "title": "Pinhole Acuity: The Bedside Refractor Every Clinician Needs",
-      "description": "What if a tiny hole in a piece of cardboard could tell you whether a patient's blurry vision is a simple glasses problem or a sign of something far more serious? In this episode of Focus Cast by Focuslinks.in, we explore the surprisingly powerful world of pinhole acuity testing and why this centuries-old technique is one of the most underrated tools in clinical medicine today.\n\nWe break down the physics behind how a pinhole bypasses refractive error to deliver near-best corrected visual acuity without a single lens, and why that matters enormously at the bedside. You will learn how to perform the test correctly, what a positive result means, and critically, what it means when the pinhole does not help at all. That distinction between a refractive problem and a pathological one can be the difference between a prescription and an urgent referral.\n\nWe also cover real-world applications, from emergency rooms and rural clinics to global health programs where community health workers are using pinhole acuity screening to reach millions of people who have never seen an eye care professional. With over two billion people worldwide living with unaddressed vision impairment, this simple test carries extraordinary impact.\n\nWhether you are a medical student, general practitioner, nurse, or eye care professional, this episode gives you practical knowledge you can apply immediately. Understand the technique, interpret the results, and know when to refer.\n\nListen now and discover why the most elegant clinical tools are often the simplest ones. Visit Focuslinks.in for more episodes, resources, and everything we are building for the eye care community.\n\n---",
+      "description": "What if one of the most powerful diagnostic tools in eye care costs almost nothing and fits in your pocket? In this episode of Focus Cast by Focuslinks.in, we explore the science and clinical power of pinhole acuity — a simple yet brilliantly effective technique that every doctor, optometrist, and eye care student should understand inside and out.\n\nWe break down exactly how the pinhole works optically, why it bypasses refractive error without correcting it, and what it means clinically when vision improves — or does not — through that tiny aperture. From the physics of light and the camera obscura to Ibn al-Haytham's foundational work in optics, we trace the timeless principles behind this everyday clinical tool.\n\nYou will learn how to use a pinhole occluder correctly at the bedside, what to watch out for in low-light conditions, and how pupil size naturally mimics the pinhole effect in bright environments. We also walk through real-world clinical scenarios — including the unspectacled patient, diabetic macular oedema, functional visual loss, and community vision screening in resource-limited settings — where pinhole acuity testing genuinely changes clinical decisions and patient outcomes.\n\nWhether you are a medical student on your first ophthalmology rotation, a junior doctor on a night shift, or a seasoned clinician looking to sharpen your fundamentals, this episode delivers practical, evidence-grounded insights you can apply immediately.\n\nListen now and discover why the pinhole truly earns its title as the bedside refractor. For more eye care episodes and resources, visit Focuslinks.in.\n\n---",
       "tags": "acuity,pinhole,refraction,screening",
-      "category": "Cataract",
+      "category": "Retina",
       "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-07.mp3",
-      "duration": "13:04",
+      "duration": "12:21",
       "imageUrl": "",
       "status": "generated",
-      "runId": "a7e92166-698c-42d0-abd6-4979a0a8ae65",
-      "generatedAt": "2026-08-09T08:39:48.570Z"
+      "runId": "461b7d98-a6d8-4aa7-97f6-09d03cafc4f1",
+      "generatedAt": "2026-08-09T08:39:59.486Z"
     },
     {
       "episodeOrder": 8,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-09T06:21:46.810Z",
+  "lastUpdated": "2026-08-09T06:22:02.820Z",
   "totalEpisodes": 600,
-  "generatedEpisodes": 537,
+  "generatedEpisodes": 538,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -269,10 +269,10 @@
       "category": "Ocular Imaging",
       "order": 18,
       "totalEpisodes": 30,
-      "generatedEpisodes": 27,
+      "generatedEpisodes": 28,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/imaging-insights/episodes.json",
       "audioDir": "podcast/series/imaging-insights/audio",
-      "lastUpdated": "2026-08-09T06:20:51.805Z"
+      "lastUpdated": "2026-08-09T06:21:54.772Z"
     },
     {
       "slug": "systemic-eye",

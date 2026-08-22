@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-22T18:07:28.830Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-22T18:10:50.288Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Astigmatic Dial and Fan-Block Techniques for Cylinder Determination",
-      "description": "When the JCC is unreliable (low vision, poor attention), using the astigmatic dial and fan-block to determine cylinder axis and power.",
+      "title": "Astigmatic Dial & Fan-Block Techniques for Cylinder Determination",
+      "description": "Ever wondered what that clock-like chart in your optometrist's office is actually doing? In this episode of Focus Cast by Focuslinks.in, we break down two of the most reliable and time-tested subjective refraction techniques used to determine the cylindrical component of a spectacle prescription — the Astigmatic Dial and the Fan and Block method.\n\nWe start with the fundamentals of astigmatism, explaining why the eye behaves more like a football than a basketball and why that matters for prescribing accurate corrective lenses. From there, we walk through the step-by-step logic of the Astigmatic Dial, including the critical role of fogging, how to calculate cylinder axis from the dial's clock positions, and how to refine cylinder power until all meridians appear equally clear.\n\nWe then explore the Fan and Block technique, a more targeted comparison-based approach that makes axis determination easier for patients who struggle with open-ended questions. You will learn why this method reduces cognitive load, improves response accuracy, and remains especially valuable in challenging clinical scenarios.\n\nWhether you are an optometry student preparing for clinical placements, a practitioner revisiting the fundamentals, or simply curious about how prescriptions are determined, this episode gives you a clear, practical, and deeply satisfying understanding of both techniques. We also discuss why these classic methods remain indispensable even in an era of autorefractors and wavefront technology.\n\nListen now and sharpen your clinical knowledge. Visit Focuslinks.in for more episodes, study resources, and everything you need to grow as an eye care professional.\n\n---",
       "tags": "astigmatic-dial,fan-block,cylinder,refraction",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-13.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5104b05e-1689-49c6-9af5-21991bb08140",
+      "generatedAt": "2026-08-22T18:10:49.478Z"
     },
     {
       "episodeOrder": 14,

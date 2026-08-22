@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-22T17:42:36.516Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-22T17:46:10.634Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Refracting the Post-Refractive-Surgery Patient: LASIK, PRK, and RK",
-      "description": "Why standard keratometry fails after corneal refractive surgery, how to estimate corneal power for IOL calculations, and over-refraction techniques.",
+      "title": "Refracting Post-Refractive Surgery Eyes: LASIK, PRK & RK",
+      "description": "Ever refracted a post-LASIK patient and felt like the numbers just weren't adding up? You're not alone. In this episode of Focus Cast, we dive deep into one of the most clinically challenging scenarios in optometry — refracting the post-refractive surgery patient.\n\nWhether your patient had LASIK, PRK, or the older radial keratotomy procedure, each surgery leaves behind a cornea that plays by its own rules. We break down exactly why standard autorefractors and keratometers can mislead you in post-LASIK and post-PRK eyes, how oblate corneal shapes cause instrument errors that push you toward over-minusing, and why fogging and a plus-first approach are non-negotiable in this population.\n\nWe also take a close look at radial keratotomy — a procedure that's decades old but very much alive in your patient chair today. From diurnal refractive fluctuation to progressive hyperopic shifts and irregular astigmatism, RK corneas demand a completely different clinical mindset. Plus, we cover why IOL power calculations in post-RK cataract patients carry a higher margin of error and what your role is in managing those outcomes.\n\nYou'll walk away with five practical, clinic-ready takeaways you can apply immediately, along with a clear understanding of how corneal topography can transform both your diagnostic accuracy and your patient communication.\n\nPost-refractive patients are a growing, aging population — and they deserve care that matches the complexity of their eyes. This episode gives you the framework to deliver exactly that.\n\nListen now, and if this episode added value to your practice, share it with a colleague and leave us a review. Visit Focuslinks.in for more clinical content from Focus Cast.\n\n---",
       "tags": "lasik,prk,rk,post-refractive,iol-calculation",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-06.mp3",
+      "duration": "12:16",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "6c5791d7-5d2b-4570-8d57-0c83ccce66ed",
+      "generatedAt": "2026-08-22T17:46:10.031Z"
     },
     {
       "episodeOrder": 7,

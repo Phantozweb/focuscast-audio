@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-22T17:01:02.202Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-22T17:04:21.006Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Fundus Evaluation: Direct Ophthalmoscopy vs Indirect vs Slit Lamp Hruby",
-      "description": "Choosing the right fundus view for the clinical question. Direct ophthalmoscope for disc detail, 90D for stereoscopic macula, and 20D indirect for the periphery.",
+      "title": "Fundus Evaluation: Direct vs Indirect vs Slit Lamp Hruby",
+      "description": "Ever wondered what your doctor actually sees when they shine that bright light into your eye? In this episode of Focus Cast, we break down the three essential methods of fundus evaluation — direct ophthalmoscopy, indirect ophthalmoscopy, and slit lamp biomicroscopy with the Hruby lens — so you can understand not just how each technique works, but when and why a clinician chooses one over another.\n\nWe start with direct ophthalmoscopy, the classic handheld tool that delivers a magnified, upright view of the optic disc but a frustratingly narrow field of view. Then we move to binocular indirect ophthalmoscopy, the gold standard for peripheral retinal examination, offering a wide field of view that makes it indispensable for detecting retinal detachments, peripheral tears, and retinopathy of prematurity. Finally, we explore slit lamp biomicroscopy with the Hruby lens, a powerful method for detailed, stereoscopic evaluation of the posterior pole, including the macula and optic disc.\n\nWhether you are a medical student picking up the ophthalmoscope for the first time, an optometry student preparing for clinical exams, or a practising clinician looking to sharpen your fundus examination skills, this episode gives you a clear, practical framework for understanding these three techniques side by side.\n\nBy the end, you will know exactly which tool belongs in which clinical situation — and why that decision matters for your patients.\n\nListen now and take your fundus examination knowledge to the next level. Visit Focuslinks.in for more ophthalmology and optometry resources, and subscribe to Focus Cast so you never miss an episode.\n\n---",
       "tags": "fundus,ophthalmoscopy,90d,20d,indirect",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-09.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "86f91dfd-96db-4a2b-b0d3-b39cdab8e3d2",
+      "generatedAt": "2026-08-22T17:04:20.419Z"
     },
     {
       "episodeOrder": 10,

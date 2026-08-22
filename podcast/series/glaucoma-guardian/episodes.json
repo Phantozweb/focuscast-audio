@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-22T18:52:47.362Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-22T18:56:22.898Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Primary Open-Angle Glaucoma: Diagnostic Criteria and Risk Stratification",
-      "description": "When ocular hypertension becomes POAG, the OHTS trial findings, and risk calculators that guide the decision to treat.",
+      "title": "Primary Open-Angle Glaucoma: Diagnosis & Risk Stratification",
+      "description": "Over 80 million people worldwide are living with glaucoma — and most don't even know it. Primary Open-Angle Glaucoma is one of the leading causes of irreversible blindness, yet it progresses silently, without pain or obvious warning signs. In this episode of Focus Cast by Focuslinks.in, we break down everything clinicians need to know about diagnosing POAG and identifying who is truly at risk before irreversible damage occurs.\n\nWe walk through the three diagnostic pillars of POAG — optic nerve assessment, visual field analysis, and gonioscopy — explaining why each one is non-negotiable for an accurate diagnosis. You'll learn how to interpret cup-to-disc ratio asymmetry, recognize violations of the ISNT rule, identify classic visual field defect patterns like arcuate scotomas and nasal steps, and understand why OCT-based RNFL imaging is changing the game for early detection.\n\nWe also dive deep into risk stratification, covering the key findings from the Ocular Hypertension Treatment Study, the role of central corneal thickness in IOP interpretation, and how factors like age, race, family history, myopia, and systemic conditions influence disease progression. You'll come away with a practical framework for setting target IOP, determining treatment intensity, and tailoring follow-up schedules to each patient's unique risk profile.\n\nWhether you're a seasoned ophthalmologist or a trainee building your clinical foundation, this episode gives you the tools to approach POAG with greater confidence and precision.\n\nListen now, and if you find this episode valuable, share it with a colleague and leave us a review. Visit Focuslinks.in for more clinically focused eye health content.\n\n---",
       "tags": "poag,oht,ohts,risk-stratification",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-07.mp3",
+      "duration": "12:07",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "ec861e90-5f61-4c69-8c61-cd5ea4c6abe0",
+      "generatedAt": "2026-08-22T18:56:22.550Z"
     },
     {
       "episodeOrder": 8,

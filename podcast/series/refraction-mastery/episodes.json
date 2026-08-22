@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-22T17:39:01.464Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-22T17:42:36.516Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Refracting the Pseudophakic Patient: IOL Power and Surprise Refractions",
-      "description": "Why some cataract patients end up myopic or hyperopic after surgery, refracting through a multifocal IOL, and managing the unhappy post-op patient.",
+      "title": "Refracting Pseudophakic Patients & IOL Power Surprises",
+      "description": "What happens when a cataract surgery patient sits in your chair and something just doesn't feel right? In this episode of Focus Cast by Focuslinks.in, we dive deep into one of the most clinically nuanced topics in eye care — refracting the pseudophakic patient and managing IOL power surprises.\n\nWe break down why refracting a pseudophakic eye is fundamentally different from refracting a phakic one, and why that actually works in your favor. Then we get into the real challenge — refractive surprises. We explore the three major culprits: biometry error, formula selection, and effective lens position, and explain why post-LASIK and post-PRK eyes demand a completely different approach using tools like the Barrett True-K formula and the ASCRS online calculator.\n\nWe also cover how to systematically investigate an unexpected postoperative refraction, when glasses or contact lenses are enough, and when surgical options like IOL exchange, piggyback IOL implantation, or laser vision correction become the right conversation to have. Plus, we tackle the unique challenges of refracting patients with multifocal and extended depth of focus IOLs, including the outsized impact of residual astigmatism and the critical role of neuroadaptation.\n\nWhether you are an ophthalmologist, optometrist, or optical professional involved in cataract care, this episode gives you practical, evidence-based insights you can apply immediately in your clinic.\n\nListen now and sharpen both your clinical skills and your patient communication. Visit Focuslinks.in for more episodes and eye care resources, and don't forget to share this episode with a colleague who could use it.\n\n---",
       "tags": "pseudophakia,iol,post-cataract,refraction",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-05.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "75714265-e218-49b2-8aa8-e955f50d162e",
+      "generatedAt": "2026-08-22T17:42:35.913Z"
     },
     {
       "episodeOrder": 6,

@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-22T16:54:05.895Z",
+  "lastUpdated": "2026-08-22T16:57:38.699Z",
   "totalEpisodes": 300,
-  "generatedEpisodes": 6,
+  "generatedEpisodes": 7,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -14,10 +14,10 @@
       "category": "Clinical Exam",
       "order": 1,
       "totalEpisodes": 15,
-      "generatedEpisodes": 6,
+      "generatedEpisodes": 7,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/episodes.json",
       "audioDir": "podcast/series/chairside-atlas/audio",
-      "lastUpdated": "2026-08-22T16:53:54.666Z"
+      "lastUpdated": "2026-08-22T16:57:29.962Z"
     },
     {
       "slug": "refraction-mastery",

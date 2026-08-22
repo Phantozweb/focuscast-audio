@@ -8,19 +8,21 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-09T10:12:22.150Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-22T17:28:30.450Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Streak Retinoscopy: Working Distance, Sleeve Position, and Neutralisation",
-      "description": "Setting up the retinoscope, estimating working distance, and the exact technique for neutralising sphere before refining cylinder.",
+      "title": "Streak Retinoscopy: Working Distance, Sleeve & Neutralisation",
+      "description": "Ever watched an optometrist sweep a streak of light across a patient's eye and wondered exactly what they're looking for? In this episode of Focus Cast by Focuslinks.in, we break down streak retinoscopy into its three essential pillars: working distance, sleeve position, and neutralisation — the concepts that separate a confident clinician from a confused one.\n\nWe start with working distance, explaining why sitting at 66 cm or 50 cm from your patient isn't arbitrary, and how forgetting the working distance correction can send every patient home with the wrong prescription. Next, we unpack sleeve position — what happens when the sleeve is up versus down, why the plane mirror setting is the go-to for most clinicians, and how a single accidental sleeve flip can make your reflex behave in completely baffling ways. Finally, we walk you through neutralisation, that satisfying moment when the reflex floods the pupil with a steady, brilliant glow and all movement disappears — and how experienced retincopists bracket the endpoint from both sides to confirm accuracy.\n\nWe also touch on how retinoscopy extends beyond sphere to detecting astigmatism across meridians, and how reflex quality can hint at deeper ocular conditions like cataracts or keratoconus.\n\nWhether you're an optometry student preparing for clinical placements, a practitioner revisiting the fundamentals, or simply curious about how prescriptions are determined objectively, this episode gives you a clear, practical, and memorable guide to one of optometry's most powerful skills.\n\nListen now, and visit Focuslinks.in for more episodes and clinical resources to sharpen your optometry knowledge.\n\n---",
       "tags": "retinoscopy,streak,working-distance,neutralisation",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-01.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "7a7bdd9e-aba4-48ea-a121-d0a57cfce3c5",
+      "generatedAt": "2026-08-22T17:28:30.151Z"
     },
     {
       "episodeOrder": 2,

@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-22T17:46:10.634Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-22T17:49:45.253Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Over-Refraction with Contact Lenses: Spherical, Toric, and Scleral",
-      "description": "When to over-refract rather than re-fit, how to apply a spherical over-refraction to a toric lens, and interpreting a scleral lens over-refraction.",
+      "title": "Over-Refraction with Contact Lenses: Spherical, Toric & Scleral",
+      "description": "Still getting blurry vision complaints after fitting contact lenses? The answer might lie in your over-refraction technique. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into one of the most essential yet underappreciated skills in contact lens practice — over-refraction across three lens types: spherical, toric, and scleral.\n\nWe start with spherical lenses, covering how to detect residual cylinder, why vertex distance matters at higher prescriptions, and how lens flexure can quietly skew your results. Then we move into toric lenses, where rotation assessment is everything — learn how to apply the LARS rule (Left Add, Right Subtract) to get your axis calculations right and avoid chasing a prescription that was never the real problem. Finally, we explore scleral lens over-refraction, breaking down how the fluid reservoir neutralizes corneal irregularity, what lens tilt can do to your cylinder findings, and why patience during lens settling is non-negotiable.\n\nWhether you are a student building your clinical foundation or an experienced practitioner looking to sharpen your technique, this episode gives you practical, real-world guidance you can apply immediately. We also cover the role of patient communication during subjective refraction and why repeat over-refractions at follow-up visits are a hallmark of truly patient-centred care.\n\nIf you want to stop guessing and start delivering consistently excellent contact lens outcomes, this episode is for you. Listen now, and visit Focuslinks.in for more optometry resources, tools, and articles to support your practice.\n\n---",
       "tags": "over-refraction,contact-lens,toric,scleral",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-07.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "34dfd5e2-62b5-4213-880b-6b0fcacb5a62",
+      "generatedAt": "2026-08-22T17:49:44.884Z"
     },
     {
       "episodeOrder": 8,

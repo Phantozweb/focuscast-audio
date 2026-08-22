@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-22T16:43:43.137Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-22T16:47:01.442Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Extraocular Motility and the Cover-Uncover Test: Detecting Phorias and Tropias",
-      "description": "Performing the cover-uncover and alternate prism cover test, measuring phorias and tropias at distance and near, and recognising cranial nerve palsies chairside.",
+      "title": "Cover-Uncover Test: Detecting Eye Phorias and Tropias",
+      "description": "Ever noticed an eye that drifts when someone is tired, or a child who squints more on one side? There is a good chance something is happening with their extraocular motility — and a simple clinical tool called the cover-uncover test can reveal exactly what. In this episode of Focus Cast, we break down everything you need to know about how the eyes move, what happens when they do not move together correctly, and how clinicians detect the difference between phorias and tropias.\n\nWe start with the six extraocular muscles and the three cranial nerves that control them, explaining how conjugate gaze and binocular vision are supposed to work. From there, we unpack the critical distinction between a tropia — a constant, visible misalignment like esotropia or exotropia — and a phoria, the sneaky latent deviation that only shows itself when fusion is disrupted. You will learn why a decompensated phoria can cause headaches, eye strain, and reading difficulties, and why catching a tropia early in children is so important for preventing amblyopia.\n\nThen we walk through the cover-uncover test step by step, explaining exactly what each part of the test is detecting, how to interpret eye movement, and what the alternate cover test adds to the picture. A real-world clinical scenario ties it all together, showing how this simple test can guide meaningful decisions about treatment.\n\nWhether you are an optometry or ophthalmology student, a clinician refreshing your fundamentals, or simply someone curious about how vision works, this episode gives you a clear, practical understanding of one of eye care's most essential diagnostic techniques. Visit Focuslinks.in to explore more episodes and resources from Focus Cast.\n\n---",
       "tags": "motility,cover-test,strabismus,cranial-nerves",
       "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-04.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5634b6f6-9e21-40db-ae26-1befcc465232",
+      "generatedAt": "2026-08-22T16:47:01.035Z"
     },
     {
       "episodeOrder": 5,

@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-22T16:36:39.985Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-22T16:40:13.000Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Visual Acuity Testing Beyond Snellen: LogMAR, ETDRS, and Low-Vision Acuity",
-      "description": "Why LogMAR charts outperform Snellen for monitoring disease. Testing the low-vision patient, counting fingers, hand motions, and light perception — and documenting it correctly.",
+      "title": "Beyond Snellen: LogMAR, ETDRS & Low-Vision Acuity Testing",
+      "description": "That familiar eye chart on your doctor's wall has been around since 1862 — but is it actually the best way to measure your vision? In this episode of Focus Cast, we pull back the curtain on the science of visual acuity testing and explore why modern eye care has moved far beyond the classic Snellen chart.\n\nWe break down exactly what LogMAR means, why its logarithmic scale makes it so much more reliable for tracking vision changes over time, and how the ETDRS chart — born from a landmark diabetic retinopathy study in the 1980s — became the gold standard for ophthalmology research worldwide. You'll learn why researchers can't simply average Snellen fractions, how letter-by-letter ETDRS scoring can detect even the smallest clinically meaningful changes, and why all of this matters when testing new treatments for conditions like macular degeneration.\n\nWe also shine a light on an often-overlooked area: measuring vision in people with very low sight. From counting fingers and hand motion to specialized tools like the Feinbloom chart and Lea symbols, discover how clinicians extend the LogMAR scale to capture vision across its full spectrum — because vision isn't binary, and every level of sight deserves to be measured accurately.\n\nWhether you're a curious patient, a student of eye care, or a vision science enthusiast, this episode gives you a genuinely new way to think about something you've done dozens of times without a second thought.\n\nListen now and visit Focuslinks.in for more episodes covering the fascinating science of how we see the world.\n\n---",
       "tags": "visual-acuity,logmar,snellen,low-vision",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-02.mp3",
+      "duration": "12:38",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "8438b47a-be49-4d07-ae2a-e3dfb67611be",
+      "generatedAt": "2026-08-22T16:40:12.424Z"
     },
     {
       "episodeOrder": 3,

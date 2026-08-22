@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-22T18:28:15.185Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-22T18:45:53.859Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Optic Nerve Evaluation: Cup-to-Disc, RNFL Defects, and Disc Haemorrhages",
-      "description": "Documenting the optic nerve with the 5R framework, recognising focal notching, splinter haemorrhages, and bayonetting vessels.",
+      "title": "Optic Nerve Evaluation: Cup-to-Disc Ratio, RNFL & Disc Haemorrhages",
+      "description": "What does the optic disc really tell us — and are you reading it correctly? In this episode of Focus Cast by Focuslinks.in, we take a deep dive into optic nerve evaluation, one of the most critical and nuanced skills in clinical eye care. Whether you are preparing for your optometry or ophthalmology exams or looking to sharpen your fundus assessment technique, this episode breaks it all down in a way that is clear, practical, and genuinely fascinating.\n\nWe start with the cup-to-disc ratio — what is normal, what raises a red flag, and why a large CDR is not always pathological. From there, we explore the neuroretinal rim and the ISNT rule, explaining how subtle changes in rim tissue can be the earliest structural clue to glaucomatous damage. We then move into retinal nerve fiber layer defects, discussing how wedge-shaped RNFL loss often precedes visual field changes and how OCT has transformed our ability to detect these findings early. Finally, we cover disc haemorrhages — those easy-to-miss splinter bleeds that carry enormous clinical significance, particularly in normal tension glaucoma.\n\nBy the end of this episode, you will have a systematic framework for evaluating the optic disc with confidence, understanding not just what to look for, but why each finding matters. Because the optic nerve is not just part of the eye — it is a direct window into the brain, and learning to read it is one of the most powerful skills you can develop as a clinician.\n\nListen now and start seeing the optic disc in a whole new way. Visit Focuslinks.in for more episodes and clinical resources.\n\n---",
       "tags": "optic-nerve,cup-to-disc,rnfl,haemorrhage",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-04.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f73b88e1-0dc8-4cfa-99d3-71c78aa34b2b",
+      "generatedAt": "2026-08-22T18:45:53.430Z"
     },
     {
       "episodeOrder": 5,

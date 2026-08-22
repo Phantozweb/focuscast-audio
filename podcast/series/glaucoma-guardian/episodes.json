@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-22T18:45:53.859Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-22T18:49:28.464Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Visual Field Testing in Glaucoma: 24-2, 10-2, and the Glaucoma Hemifield Test",
-      "description": "Choosing the right strategy (SITA-Standard vs SITA-Fast), recognising glaucomatous field defects, and distinguishing true progression from noise.",
+      "title": "Visual Field Testing in Glaucoma: 24-2, 10-2 & GHT Explained",
+      "description": "Ever wondered what those flashing lights and button presses during a visual field test actually reveal about your eye health? In this episode of Focus Cast, we break down one of the most essential tools in glaucoma care — visual field testing — and make it genuinely easy to understand.\n\nGlaucoma is one of the leading causes of irreversible blindness worldwide, and it steals your peripheral vision so gradually that most people never notice until serious damage has already occurred. That is exactly why visual field testing matters so much. We walk you through the 24-2 test, which maps 54 points across the central 24 degrees of your visual field and remains the gold standard for detecting classic glaucomatous damage patterns like arcuate scotomas and nasal steps. Then we zoom in on the 10-2 test, which densely maps the critical central 10 degrees — the zone responsible for reading, face recognition, and sharp detail — an area the 24-2 can miss in early or advanced disease.\n\nWe also unpack the Glaucoma Hemifield Test, the built-in analysis that compares the upper and lower halves of your visual field to flag the asymmetric damage patterns characteristic of glaucoma. Think of it as the smoke detector on your visual field report.\n\nWhether you are a glaucoma patient trying to understand your results, a student learning perimetry for the first time, or a clinician looking for a clearer way to explain these concepts, this episode delivers practical, clinically grounded insights you can actually use.\n\nListen now and visit Focuslinks.in for more episodes covering everything in eye health and vision science.\n\n---",
       "tags": "visual-field,24-2,10-2,ghs,progression",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-05.mp3",
+      "duration": "13:07",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "5b0760a8-91cf-4c7c-b59d-814879892a8e",
+      "generatedAt": "2026-08-22T18:49:28.025Z"
     },
     {
       "episodeOrder": 6,

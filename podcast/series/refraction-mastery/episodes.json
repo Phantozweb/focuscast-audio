@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-22T17:28:30.450Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-22T17:31:50.768Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "The Jackson Cross Cylinder: Refining Cylinder Axis and Power Systematically",
-      "description": "The two-step JCC technique — axis first, then power — and the common errors that produce an unreliable cylinder.",
+      "title": "Jackson Cross Cylinder: Refining Cylinder Axis & Power",
+      "description": "Ever wondered what's really happening when your eye doctor flips that lens and asks \"which is clearer, one or two?\" That simple moment is part of one of the most precise and time-tested tools in clinical optometry — the Jackson Cross Cylinder (JCC). In this episode of Focus Cast, we break down exactly how this elegant instrument works and why it remains the gold standard for refining astigmatism corrections more than a century after its invention.\n\nWe start with the basics of astigmatism — what it is, why it causes directional blur, and why getting both the cylinder axis and cylinder power exactly right is so critical to a comfortable, accurate prescription. Then we walk through the two-stage JCC process step by step: how axis refinement works by positioning the cross cylinder at 45 degrees to the trial cylinder, and how power refinement locks in the correct strength while keeping the spherical equivalent balanced.\n\nWe also explore why subjective refraction with the JCC still matters even in an era of advanced autorefractors and wavefront technology — because what your eye measures and what your brain actually perceives aren't always the same thing. Plus, we touch on the fascinating history of Edward Jackson, the ophthalmologist who transformed cylinder correction from guesswork into a reproducible science.\n\nWhether you're a student of optometry, a curious patient, or simply someone who wears glasses and wants to understand the process behind your prescription, this episode gives you a clear, engaging look at the science of seeing well. Tune in, and the next time you sit in that chair, you'll know exactly what's happening.\n\nVisit focuslinks.in for more episodes and resources on vision science.\n\n---",
       "tags": "jcc,cylinder,axis,power,refraction",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-02.mp3",
+      "duration": "12:17",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "150e0427-d74a-4078-9962-68ffe64d0633",
+      "generatedAt": "2026-08-22T17:31:50.368Z"
     },
     {
       "episodeOrder": 3,

@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-22T17:56:40.804Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-22T18:00:16.123Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "High Refractive Errors: Myopia Above -10.00 and Hyperopia Above +6.00",
-      "description": "Optical consequences of high ametropia, minimising aniseikonia, lens material and design choices, and when contact lenses become the better option.",
+      "title": "High Refractive Errors: Myopia Above -10 & Hyperopia +6",
+      "description": "What does it really mean to have a prescription that goes beyond -10.00 or +6.00 diopters? In this episode of Focus Cast, we take a deep dive into high refractive errors — the cases that go far beyond a routine glasses prescription and carry real, long-term implications for eye health and quality of life.\n\nWe break down exactly what happens inside the eye when myopia climbs above minus ten diopters, including why the stretched retina becomes vulnerable to detachment, glaucoma, and myopic maculopathy. You will learn what visual life actually looks like at that level of nearsightedness, and why regular monitoring is absolutely critical.\n\nWe also explore high hyperopia above plus six diopters — a condition that is often hidden in plain sight, especially in children. Discover how a young eye can mask severe farsightedness through sheer effort, and why that compensation can lead to crossed eyes, lazy eye, and developmental vision problems if left uncorrected.\n\nFrom high-index lenses and contact lenses to implantable collamer lenses and myopia control strategies like orthokeratology and low-dose atropine, we cover the full range of correction and management options available today. We also touch on the emotional and social realities of living with a very strong prescription — because the numbers on a chart are only part of the story.\n\nWhether you are a patient, a parent, or an eye care professional, this episode gives you the knowledge to make informed decisions and ask the right questions.\n\nVisit Focuslinks.in for more episodes and eye health resources. Do not forget to subscribe so you never miss an episode of Focus Cast.\n\n---",
       "tags": "high-myopia,high-hyperopia,aniseikonia,lens-design",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-10.mp3",
+      "duration": "12:44",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "64df9538-7c26-47f6-8cc1-b9678bed1861",
+      "generatedAt": "2026-08-22T18:00:15.519Z"
     },
     {
       "episodeOrder": 11,

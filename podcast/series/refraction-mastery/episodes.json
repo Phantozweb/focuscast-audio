@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 14,
-  "lastUpdated": "2026-08-22T18:14:25.725Z",
+  "generatedEpisodesCount": 15,
+  "lastUpdated": "2026-08-22T18:17:46.707Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -195,14 +195,16 @@
     },
     {
       "episodeOrder": 15,
-      "title": "Prescribed Prism: Decentration, Fresnel, and Ground-In Prism",
-      "description": "Calculating prism by decentration using Prentice's rule, when to use a Fresnel press-on prism, and prescribing yoked prism for neurologic patients.",
+      "title": "Prescribed Prism: Decentration, Fresnel & Ground-In Explained",
+      "description": "What does it actually take to bend light precisely enough to fix double vision or realign the eyes? In this episode of Focus Cast by Focuslinks.in, we break down one of optometry's most fascinating clinical tools — prescribed prism — and explore the three distinct methods used to deliver it to patients.\n\nWe start with **decentration**, the elegant, cost-effective technique that uses Prentice's Rule to generate prismatic effects simply by shifting a lens's optical centre. Then we move into **Fresnel press-on prisms** — those thin, ridged plastic sheets that can deliver surprisingly high prism powers and are perfect for changing prescriptions or clinical trials. Finally, we cover **ground-in prism**, the permanent, optically superior solution that becomes the gold standard once a prism prescription is stable.\n\nAlong the way, you will learn why each method exists, when clinicians choose one over another, and what trade-offs come with each approach — from lens thickness and cosmetics to visual clarity and flexibility. Whether you are an optometry student preparing for exams, a practitioner refreshing your fundamentals, or simply someone curious about how vision science works, this episode gives you a clear, practical understanding of prescribed prism from the ground up.\n\nIf this episode helped you see prism prescribing more clearly, share it with a classmate or colleague who would benefit. Visit **Focuslinks.in** for more episodes, study resources, and everything you need to grow your knowledge in optometry and eyecare.\n\n---",
       "tags": "prism,prentices-rule,fresnel,yoked-prism",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-15.mp3",
+      "duration": "12:22",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f9417580-36dd-4ff8-bf4e-b400edab321b",
+      "generatedAt": "2026-08-22T18:17:45.898Z"
     }
   ]
 }

@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-22T16:57:29.962Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-22T17:01:02.202Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Gonioscopy: Indications, Technique, and Grading the Angle",
-      "description": "When gonioscopy is mandatory, how to perform indentation gonioscopy, the Shaffer grading system, and identifying angle closure, plateau iris, and PAS.",
+      "title": "Gonioscopy: Indications, Technique & Angle Grading Explained",
+      "description": "Can you truly evaluate glaucoma without looking directly into the anterior chamber angle? The answer is no — and that's exactly why gonioscopy is one of the most essential skills in ophthalmology. In this episode of Focus Cast, we break down everything clinicians and students need to know about gonioscopy, from the optical principles that make it possible to the hands-on technique that makes it reliable.\n\nWe start with the indications — broader than most learners expect — covering elevated intraocular pressure, shallow anterior chambers, pigment dispersion syndrome, pseudoexfoliation, traumatic angle recession, and neovascular glaucoma. Next, we walk through the technique step by step, comparing direct and indirect gonioscopy, explaining the Goldmann three-mirror and Zeiss four-mirror lenses, and demystifying dynamic indentation gonioscopy and why it matters for distinguishing appositional from synechial angle closure.\n\nThen we tackle angle grading, covering both the Shaffer grading system and the more detailed Spaeth grading system, along with how to identify key anatomical landmarks including Schwalbe's line, the trabecular meshwork, the scleral spur, and the ciliary body band. We also discuss trabecular meshwork pigmentation grading and share clinical pearls that can sharpen your diagnostic accuracy right away.\n\nWhether you're a resident building foundational skills or an experienced clinician looking for a structured refresher, this episode gives you a clear, practical framework for performing and interpreting gonioscopy with confidence. Listen now, and visit Focuslinks.in for more ophthalmology episodes and clinical resources.\n\n---",
       "tags": "gonioscopy,angle,shaffer,glaucoma",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-08.mp3",
+      "duration": "12:39",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c7b1c43e-af2b-498c-a37b-d7e7e05e0d40",
+      "generatedAt": "2026-08-22T17:01:01.803Z"
     },
     {
       "episodeOrder": 9,

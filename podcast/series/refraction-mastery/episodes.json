@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-22T18:03:53.641Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-22T18:07:28.830Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Irregular Astigmatism: Keratoconus, Post-Graft, and Epikeratophakia",
-      "description": "Detecting irregular astigmatism on refraction, when retinoscopy scissoring appears, and rigid gas permeable fitting principles for irregular corneas.",
+      "title": "Irregular Astigmatism: Keratoconus, Post-Graft & Epikeratophakia",
+      "description": "What if no matter how much you blinked or squinted, the world around you stayed distorted — not just blurry, but warped beyond recognition? For millions of people living with irregular astigmatism, that is not a fleeting moment. That is everyday life.\n\nIn this episode of Focus Cast by Focuslinks.in, we take a deep dive into three of the most clinically significant causes of irregular astigmatism: keratoconus, post-graft corneas, and epikeratophakia. We break down why irregular astigmatism is fundamentally different from the common kind — and why standard glasses and contact lenses simply cannot fix it.\n\nWe explore keratoconus, the progressive condition that causes the cornea to thin and bulge into a cone shape, often striking young people in their teens and twenties. We unpack the challenges of post-graft corneas, where even a successful corneal transplant can leave behind complex, unpredictable astigmatism that demands specialized management. And we shine a light on epikeratophakia, a largely forgotten surgical procedure from the 1980s whose patients are still presenting in clinics today — and whose underlying concept is quietly making a comeback.\n\nWhether you are a patient searching for answers, a student building your clinical knowledge, or an eye care professional looking for a clear and engaging refresher, this episode connects the dots between corneal shape, optical precision, and real-world vision outcomes.\n\nFrom corneal collagen cross-linking to scleral contact lenses and corneal topography, we cover the tools and treatments transforming care for these complex conditions.\n\nVisit Focuslinks.in for more episodes and eye care resources. If this episode helped you see things more clearly, share it with someone who needs to hear it.\n\n---",
       "tags": "irregular-astigmatism,keratoconus,rgp,corneal-graft",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-12.mp3",
+      "duration": "12:29",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "f3fee3fd-a50a-44c1-ae0e-a4ac7ad8fddd",
+      "generatedAt": "2026-08-22T18:07:28.241Z"
     },
     {
       "episodeOrder": 13,

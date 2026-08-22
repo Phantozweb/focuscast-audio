@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 4,
-  "lastUpdated": "2026-08-22T16:47:01.442Z",
+  "generatedEpisodesCount": 5,
+  "lastUpdated": "2026-08-22T16:50:20.098Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -65,14 +65,16 @@
     },
     {
       "episodeOrder": 5,
-      "title": "Confrontation Visual Fields: A Quick but Powerful Screening Tool",
-      "description": "How to perform confrontation perimetry correctly, when it is adequate, and when it must be followed by formal perimetry. Detecting hemianopias and quadrantanopias at the chair.",
+      "title": "Confrontation Visual Fields: The 2-Minute Screening Test That Saves Lives",
+      "description": "What if a simple two-minute test using just your hands could detect a brain tumor, a stroke, or advanced glaucoma — before a patient even suspects something is wrong? In this episode of Focus Cast by Focuslinks.in, we break down confrontation visual fields, one of the most underrated yet powerful screening tools in all of eye care and neurology.\n\nWe walk you through exactly how to perform the test, from proper positioning and the finger counting method to the red target technique and the critical extinction test for parietal lobe lesions. You will learn why technique matters, how to avoid common errors, and what different patterns of visual field loss actually mean clinically.\n\nWe also decode the major field defect patterns — homonymous hemianopia, bitemporal hemianopia, and quadrantanopias — and explain what each one tells you about where the lesion is hiding in the visual pathway or brain. From pituitary adenomas pressing on the optic chiasm to stroke-related field cuts, confrontation visual fields can be the first clue that changes everything.\n\nWhether you are an optometry student building your clinical foundation, a practicing clinician looking to sharpen your neuro-ophthalmic skills, or simply someone curious about how vision and the brain connect, this episode delivers clear, practical, and genuinely eye-opening insights.\n\nTune in, take notes, and make confrontation visual fields a non-negotiable part of your clinical routine. Visit Focuslinks.in for more episodes and eye care resources, and share this episode with anyone who loves learning about vision science.\n\n---",
       "tags": "visual-fields,confrontation-perimetry,hemianopia",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-05.mp3",
+      "duration": "12:15",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c9616ad3-5eed-4932-a9c6-b0b30c493cb6",
+      "generatedAt": "2026-08-22T16:50:19.514Z"
     },
     {
       "episodeOrder": 6,

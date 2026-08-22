@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-22T17:49:45.253Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-22T17:53:04.136Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Refracting Children: Attention, Fixation, and the Worth 4 Dot",
-      "description": "Age-appropriate acuity tests (Teller, LEA, HOTV), maintaining attention, and when to trust a manifest vs cycloplegic result in a child.",
+      "title": "Refracting Children: Worth 4 Dot & Pediatric Vision",
+      "description": "How do you test a child's eyes when they won't sit still, can't read the chart, or don't even know why they're in the exam room? In this episode of Focus Cast, we dive deep into the fascinating world of pediatric refraction — exploring why refracting children is so much more complex than testing adults, and what skilled clinicians do to get it right.\n\nWe break down the critical roles of attention and fixation in pediatric eye exams, explain why a child's visual system is still developing well into the school years, and unpack why catching refractive errors early can genuinely change the course of a child's life. Conditions like amblyopia, or lazy eye, can have lasting consequences if missed — making accurate pediatric refraction not just important, but urgent.\n\nAt the heart of this episode is the Worth 4 Dot test — a deceptively simple, century-old tool that remains one of the most powerful assessments in pediatric eye care today. We explain exactly how it works, what it reveals about binocular vision, suppression, and diplopia, and why it's especially well-suited for young patients who can't yet describe what they're seeing.\n\nWhether you're a parent wondering why your child squints at the board, a teacher noticing a student struggle with reading, or an eye care professional looking for fresh perspective on pediatric assessment, this episode offers clear, engaging insights you can actually use.\n\nVision shapes how children learn, play, and experience the world. Understanding how we test and protect it is the first step. Listen now, and visit Focuslinks.in to explore more about eye health and visual focus.\n\n---",
       "tags": "pediatric-refraction,lea,teller,children",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-08.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "3f9d4b7e-0bd8-4925-aad7-efb456fccda1",
+      "generatedAt": "2026-08-22T17:53:03.629Z"
     },
     {
       "episodeOrder": 9,

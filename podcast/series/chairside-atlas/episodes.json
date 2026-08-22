@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 9,
-  "lastUpdated": "2026-08-22T17:04:21.006Z",
+  "generatedEpisodesCount": 10,
+  "lastUpdated": "2026-08-22T17:07:55.211Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -130,14 +130,16 @@
     },
     {
       "episodeOrder": 10,
-      "title": "Retinoscopy: Neutralising the Reflex for Objective Refraction",
-      "description": "Performing streak retinoscopy, identifying \"with\" and \"against\" movement, neutralising sphere and cylinder, and working the trial frame before subjective refinement.",
+      "title": "Retinoscopy Explained: Neutralising the Reflex for Objective Refraction",
+      "description": "What if you could determine someone's exact prescription without them saying a single word? That is precisely what retinoscopy makes possible, and in this episode of Focus Cast, we break down one of optometry's most powerful and enduring clinical skills.\n\nWe explore how retinoscopy works from the ground up, starting with how a streak of light projected into the eye reflects back to reveal its refractive state. You will learn what \"with\" and \"against\" movements mean, why the moment of neutralisation is the key to unlocking an objective refraction, and how to account for working distance when calculating your final result.\n\nWe also dive deep into astigmatism, explaining how different meridians behave under the retinoscope and how the cross-cylinder technique allows you to neutralise each meridian separately for a complete refractive picture. We cover the scissors reflex, what it signals clinically, and why cycloplegic retinoscopy is essential in paediatric practice.\n\nWhether you are a student picking up a retinoscope for the first time or an experienced clinician looking to refine your technique, this episode offers practical tips on controlling working distance, reading reflex quality, and developing the kind of intuitive skill that no automated refractor can replicate.\n\nRetinoscopy is not just a historical technique. It is a clinical lifeline for patients who cannot participate in standard subjective refraction, from young children to individuals with cognitive disabilities.\n\nIf you are serious about mastering objective refraction, this episode is essential listening. Share it with a classmate or colleague, and visit Focuslinks dot in for more episodes and clinical resources to support your growth in eye care.\n\n---",
       "tags": "retinoscopy,objective-refraction,trial-frame",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cataract",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-10.mp3",
+      "duration": "12:18",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "9c7b4af7-3cfe-4b1f-9a74-0f4114a555f7",
+      "generatedAt": "2026-08-22T17:07:54.631Z"
     },
     {
       "episodeOrder": 11,

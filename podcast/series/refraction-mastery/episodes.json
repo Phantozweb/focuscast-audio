@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-22T18:10:50.288Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-22T18:14:25.725Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Vertex Distance and Pantoscopic Tilt: Compensating the Final Rx",
-      "description": "How vertex distance changes effective power in high Rx, converting spectacle to contact lens power, and the effect of pantoscopic tilt on cylinder.",
+      "title": "Vertex Distance & Pantoscopic Tilt: Compensate the Rx Right",
+      "description": "Ever had a patient return with perfectly powered lenses that still don't feel right? The culprit is often hiding in plain sight — vertex distance and pantoscopic tilt. In this episode of Focus Cast by Focuslinks.in, we unpack two of the most underappreciated factors in ophthalmic dispensing and show you exactly how they affect the final prescription your patients wear every day.\n\nWe walk through the science of vertex distance — the gap between the back of the spectacle lens and the cornea — and explain why even a few millimeters of difference can significantly shift effective lens power for prescriptions above four diopters. Using the vertex distance compensation formula, you will learn how to catch and correct these errors before they reach your patient's face.\n\nWe then dive into pantoscopic tilt, exploring how frame angle introduces oblique astigmatism even in spherical lenses, and why the standard eight to twelve degree tilt exists in the first place. You will also learn the practical rule of thumb for optical center placement and when to flag tilt compensation with your optical lab.\n\nWhether you are an optometrist troubleshooting patient complaints, a dispensing optician refining your fitting skills, or an optics student building clinical intuition, this episode gives you the tools to bridge the gap between refraction room conditions and real-world wearing conditions.\n\nBecause a great prescription is only as good as the lens position delivering it.\n\nListen now and start seeing the difference that geometry makes. For more clinical insights and optical resources, visit Focuslinks.in.\n\n---",
       "tags": "vertex-distance,pantoscopic-tilt,effective-power,compensation",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-14.mp3",
+      "duration": "12:35",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "97f70664-73f0-4f43-8739-8a1f8f468819",
+      "generatedAt": "2026-08-22T18:14:24.581Z"
     },
     {
       "episodeOrder": 15,

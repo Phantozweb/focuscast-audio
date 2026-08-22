@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-22T16:50:20.098Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-22T16:53:54.666Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "Slit Lamp Biomicroscopy: A Systematic Tour of the Anterior Segment",
-      "description": "A repeatable slit lamp routine — sclerotic scatter, parallelepiped, specular reflection, and retroillumination — that ensures no anterior segment pathology is missed.",
+      "title": "Slit Lamp Exam Explained: A Tour of the Anterior Segment",
+      "description": "Ever wondered what your eye doctor is actually seeing when they peer through that futuristic-looking instrument? In this episode of Focus Cast, we take you on a structured, systematic tour of the anterior segment of the eye using slit lamp biomicroscopy — one of the most powerful diagnostic tools in all of clinical medicine.\n\nStarting from the outermost eyelids and working inward to the crystalline lens, we break down exactly what clinicians look for at each stop along the way. Discover how Demodex mites hiding in your lashes can cause chronic blepharitis, why follicles and papillae on the conjunctiva point to completely different diagnoses, and how a simple beam of light can reveal corneal layers, detect herpes simplex keratitis, and expose the earliest signs of Fuchs endothelial dystrophy. We also explore the anterior chamber, where cells and flare signal uveitis, and the lens, where cataract type and density guide surgical decisions.\n\nWhether you are an optometry or ophthalmology student building your clinical foundation, a practitioner refreshing your systematic approach, or simply a curious mind who wants to understand what happens during an eye exam, this episode delivers clear, engaging explanations grounded in real clinical practice.\n\nThe slit lamp does not just give you a view — it tells a story. This episode teaches you how to read it.\n\nTune in, take notes, and the next time you sit at the slit lamp, you will see with entirely new eyes.\n\nVisit us at focuslinks.in for more eye care education, podcast episodes, and clinical resources. If this episode added value to your learning, share it with a colleague or classmate who could benefit.\n\n---",
       "tags": "slit-lamp,anterior-segment,biomicroscopy",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-06.mp3",
+      "duration": "12:55",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "dcd15573-ca11-41db-8e2b-8b0ce6996229",
+      "generatedAt": "2026-08-22T16:53:53.638Z"
     },
     {
       "episodeOrder": 7,

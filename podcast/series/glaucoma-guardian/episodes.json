@@ -8,19 +8,21 @@
   "category": "Glaucoma",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-09T10:12:23.269Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-22T18:21:19.843Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "Glaucoma Pathophysiology: The Only Modifiable Risk Factor is IOP",
-      "description": "The mechanical and vascular theories of glaucomatous optic neuropathy, why lowering IOP is the only proven treatment, and target pressure setting.",
+      "title": "Glaucoma & IOP: The Only Risk Factor You Can Control",
+      "description": "What if you were slowly going blind and had absolutely no idea? That's the terrifying reality of glaucoma — a silent, painless disease that steals your vision before you ever notice something is wrong. In this episode of Focus Cast, we break down the pathophysiology of glaucoma in plain, accessible language, exploring exactly how elevated intraocular pressure (IOP) damages the optic nerve and why catching it early can mean the difference between sight and permanent vision loss.\n\nWe cover how aqueous humor is produced and drained inside the eye, what happens when that drainage system fails, and why rising IOP puts the optic nerve under dangerous mechanical stress. You'll learn why glaucoma is so difficult to detect without a comprehensive eye exam, and why age, genetics, race, and other risk factors — while significant — are completely beyond our control.\n\nBut here's the critical insight: intraocular pressure is the one modifiable risk factor in glaucoma. We explore the landmark research proving that lowering IOP reduces glaucoma risk by up to 50 percent, and walk through every major treatment approach available today — from prostaglandin eye drops and beta blockers to selective laser trabeculoplasty (SLT) and minimally invasive glaucoma surgery (MIGS).\n\nWhether you're a patient, a caregiver, or simply someone who wants to protect their long-term eye health, this episode gives you the knowledge to take action. Because with glaucoma, what you don't know can genuinely cost you your vision.\n\nListen now, then visit Focuslinks.in for more eye health resources and episodes from Focus Cast.\n\n---",
       "tags": "glaucoma,pathophysiology,iop,target-pressure",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-01.mp3",
+      "duration": "12:25",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b9445291-867f-4bb7-ae89-fc330fd6edd4",
+      "generatedAt": "2026-08-22T18:21:19.486Z"
     },
     {
       "episodeOrder": 2,

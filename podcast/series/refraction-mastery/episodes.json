@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 8,
-  "lastUpdated": "2026-08-22T17:53:04.136Z",
+  "generatedEpisodesCount": 9,
+  "lastUpdated": "2026-08-22T17:56:40.804Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -117,14 +117,16 @@
     },
     {
       "episodeOrder": 9,
-      "title": "Presbyopia: Measuring the Add and Selecting the Right Design",
-      "description": "Measuring amplitude of accommodation, calculating the add for the patient's working distance, and matching the add to lifestyle (single vision, PAL, computer).",
+      "title": "Presbyopia: Measuring the Add & Choosing the Right Lens Design",
+      "description": "Are your presbyopic patients still struggling after you've done everything right? The problem often comes down to two critical decisions: measuring the addition power accurately and selecting the right lens design for each individual patient. Get these right, and you genuinely transform lives. Get them wrong, and you're fielding frustrated phone calls two days after dispensing.\n\nIn this episode of Focus Cast, we break down the full clinical picture of presbyopia correction from the ground up. We walk through the most reliable methods for measuring the add, including trial frame techniques, the binocular cross cylinder test, and dynamic retinoscopy approaches like MEM, and explain why binocular verification is a step you should never skip. We also explore the critical concept of preferred working distance and why prescribing for the patient's real world, not a textbook standard, makes all the difference.\n\nFrom there, we dive deep into lens design selection, covering single vision readers, bifocals, and the full spectrum of progressive addition lenses, including hard design, soft design, and digitally surfaced freeform progressives. You'll learn how to match the right design to each patient's lifestyle, visual demands, and frame choice, and why proper fitting measurements are just as important as the prescription itself.\n\nWhether you're an experienced optometrist looking to sharpen your approach or a student building your clinical foundation, this episode gives you practical, patient-centered strategies you can apply immediately.\n\nListen now and start prescribing presbyopia corrections that truly fit the person wearing them. For more clinical resources and tools to support your practice, visit Focuslinks.in.\n\n---",
       "tags": "presbyopia,near-add,pal,accommodation",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-09.mp3",
+      "duration": "12:50",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "d44be23d-80ee-4b97-867e-f8994d66b78e",
+      "generatedAt": "2026-08-22T17:56:40.215Z"
     },
     {
       "episodeOrder": 10,

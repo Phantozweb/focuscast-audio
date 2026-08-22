@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "lastUpdated": "2026-08-22T17:46:20.965Z",
+  "lastUpdated": "2026-08-22T17:49:56.267Z",
   "totalEpisodes": 300,
-  "generatedEpisodes": 21,
+  "generatedEpisodes": 22,
   "series": [
     {
       "slug": "chairside-atlas",
@@ -29,10 +29,10 @@
       "category": "Refraction",
       "order": 2,
       "totalEpisodes": 15,
-      "generatedEpisodes": 6,
+      "generatedEpisodes": 7,
       "episodesUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/episodes.json",
       "audioDir": "podcast/series/refraction-mastery/audio",
-      "lastUpdated": "2026-08-22T17:46:10.634Z"
+      "lastUpdated": "2026-08-22T17:49:45.253Z"
     },
     {
       "slug": "glaucoma-guardian",

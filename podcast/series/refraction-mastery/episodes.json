@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-22T17:31:50.768Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-22T17:35:27.100Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Duochrome and Binocular Balancing: Equalising the Final Endpoint",
-      "description": "Using the duochrome (red-green) test correctly, the \"leave them on the green\" rule, and prism dissociation for binocular balance.",
+      "title": "Duochrome & Binocular Balancing: Getting Your Prescription Right",
+      "description": "Ever walked out of an eye exam feeling like something was just slightly off? That subtle strain, that vague discomfort — it might come down to two critical steps in the refraction process that don't always get the spotlight they deserve: duochrome testing and binocular balancing.\n\nIn this episode of Focus Cast by Focuslinks.in, we break down the science and clinical logic behind these two powerful techniques. We explore how the duochrome test — also known as the bichrome test — uses chromatic aberration and the difference in wavelengths between red and green light to pinpoint the most accurate lens power for each eye. You'll learn why it's especially valuable for patients with strong accommodation, and why it works best as a refinement tool rather than a starting point.\n\nWe then dive into binocular balancing — the process of equalising accommodative demand between both eyes so your visual system works harmoniously rather than constantly negotiating between two mismatched images. From prism dissociation and alternate occlusion to the Humphriss immediate contrast method, we walk through the key techniques practitioners use and explain why skipping this step can leave patients with prescriptions that look perfect on paper but feel uncomfortable in real life.\n\nWhether you're an eye care professional, an optics student, or simply someone who wears glasses and wants to understand what's really happening in that exam chair, this episode gives you a clear, accessible look at the science behind a truly accurate, comfortable prescription.\n\nListen now, and visit Focuslinks.in for more episodes on the science of vision.\n\n---",
       "tags": "duochrome,red-green,balance,refraction",
-      "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-03.mp3",
+      "duration": "12:45",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c78448f4-2780-4d73-8b73-f43f7ec2619a",
+      "generatedAt": "2026-08-22T17:35:26.694Z"
     },
     {
       "episodeOrder": 4,

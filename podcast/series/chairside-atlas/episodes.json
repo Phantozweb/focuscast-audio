@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 13,
-  "lastUpdated": "2026-08-22T17:18:20.169Z",
+  "generatedEpisodesCount": 14,
+  "lastUpdated": "2026-08-22T17:21:37.820Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -182,14 +182,16 @@
     },
     {
       "episodeOrder": 14,
-      "title": "Writing the Final Prescription: Vertex Distance, Prism, and Patient Counsel",
-      "description": "Translating the refraction into a wearable prescription, compensating for vertex distance, prescribing prism when indicated, and counselling the patient on adaptation.",
+      "title": "Vertex Distance, Prism & Patient Counsel: Final Prescription Guide",
+      "description": "What separates a technically correct prescription from one that truly works for your patient? In this episode of Focus Cast by Focuslinks.in, we go beyond sphere, cylinder, and axis to explore three critical elements that every optometrist and optician must master before a patient walks out the door.\n\nWe start with vertex distance — why it matters more than most practitioners realize, how a few millimeters can shift the effective power of a high-powered lens, and how to compensate for it when your patient's frame sits differently than your phoropter. Then we dive into prism prescription, breaking down how prism diopters work, when to prescribe base-in versus base-out prism, and why split prism can make all the difference in patient comfort. We even walk through a real-world case of a patient whose chronic headaches and eye strain were completely resolved with a small but targeted prism correction.\n\nFinally, we tackle the most underestimated skill in clinical practice — patient counseling. From explaining prescriptions in plain language to setting realistic adaptation expectations for progressive lens wearers, we cover exactly what to say and why it matters. Research shows that patients who receive clear, confident explanations from their eye care providers actually report better visual outcomes. Your words are part of the prescription.\n\nWhether you are a seasoned optometrist, an optician, or an optometry student looking to sharpen your clinical thinking, this episode gives you practical, actionable insights you can apply immediately.\n\nListen now and transform the way you write — and communicate — your final prescriptions. Visit Focuslinks.in for more episodes and resources on optics and eye care.\n\n---",
       "tags": "prescription,vertex-distance,prism,counselling",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Cornea",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-14.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b0d88c25-b973-4c1a-9de3-a6b2f7e36c52",
+      "generatedAt": "2026-08-22T17:21:37.234Z"
     },
     {
       "episodeOrder": 15,

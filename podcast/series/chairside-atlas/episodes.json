@@ -8,19 +8,21 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 0,
-  "lastUpdated": "2026-08-09T10:12:18.650Z",
+  "generatedEpisodesCount": 1,
+  "lastUpdated": "2026-08-22T16:36:39.985Z",
   "episodes": [
     {
       "episodeOrder": 1,
-      "title": "The Chief Complaint and History: Extracting Maximum Clinical Signal in 5 Minutes",
-      "description": "How to structure the patient history so every answer narrows the differential. Red-flag questions for sudden vision loss, diplopia, flashes, and floaters that change the entire exam trajectory.",
+      "title": "Master the Clinical History: Maximum Signal in 5 Minutes",
+      "description": "What if your most powerful diagnostic tool isn't a lab test or an imaging scan — it's the conversation you're already having? In this episode of Focus Cast, we break down the art and science of taking a chief complaint and clinical history with maximum efficiency and precision, even when you have five minutes or less.\n\nStudies show that a well-taken history leads to the correct diagnosis 70 to 80 percent of the time before a single test is ordered. Yet the history is one of the most undervalued skills in modern clinical practice. That changes today.\n\nWe cover exactly how to open a patient encounter the right way, why letting patients speak uninterrupted for just 60 to 90 seconds transforms the entire visit, and how to use the OLDCARTS framework as a flexible scaffold rather than a rigid script. You will learn the pivot question technique that surfaces hidden patient concerns in seconds, how to listen for what patients are not saying, and why the empathic bridge is one of the most powerful tools in clinical communication. We also walk through how to close the loop with a 30-second summary that catches errors and builds lasting patient trust.\n\nWhether you are a medical student building foundational skills, a resident sharpening your efficiency, or an experienced clinician looking to reconnect with the fundamentals, this episode delivers practical, evidence-based strategies you can apply in your very next patient encounter.\n\nListen now and start extracting more clinical signal from every conversation. Visit Focuslinks.in to explore more episodes and resources from Focus Cast.\n\n---",
       "tags": "history-taking,chief-complaint,red-flags,chairside",
       "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-01.mp3",
+      "duration": "12:34",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "a6203620-eb0e-47ff-b60d-e4a2355e5b7a",
+      "generatedAt": "2026-08-22T16:36:39.400Z"
     },
     {
       "episodeOrder": 2,

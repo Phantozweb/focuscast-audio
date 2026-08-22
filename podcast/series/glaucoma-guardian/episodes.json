@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 5,
-  "lastUpdated": "2026-08-22T18:49:28.464Z",
+  "generatedEpisodesCount": 6,
+  "lastUpdated": "2026-08-22T18:52:47.362Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -78,14 +78,16 @@
     },
     {
       "episodeOrder": 6,
-      "title": "OCT in Glaucoma: RNFL Thickness, GCC, and the Progression Graph",
-      "description": "Interpreting the OCT printout, distinguishing red disease from true glaucoma, and using the progression analysis to confirm change over time.",
+      "title": "OCT in Glaucoma: RNFL, GCC & Progression Analysis Explained",
+      "description": "Can you detect glaucoma before your patient even notices something is wrong? In this episode of Focus Cast, we break down one of the most powerful tools in modern ophthalmology — optical coherence tomography — and show you exactly how to use it to catch glaucoma early, track it accurately, and protect your patients' vision for the long term.\n\nWe start with the retinal nerve fiber layer (RNFL), the gold-standard structural measurement in glaucoma care, and explain what the color-coded sectors actually mean — and where they can mislead you. Then we dive into the ganglion cell complex (GCC), exploring why macular analysis can sometimes detect glaucomatous damage even before peripapillary RNFL changes appear, and how focal loss volume and global loss volume help quantify the extent of damage.\n\nBut the real highlight of this episode is the progression graph — the most underutilized feature on an OCT printout and arguably the most important for long-term glaucoma management. We walk you through how trend analysis transforms isolated snapshots into a meaningful clinical story, what makes a progression flag trustworthy, and why signal strength can make or break your interpretation.\n\nWhether you are a resident learning to read your first OCT report, an optometrist managing glaucoma suspects, or a seasoned clinician looking to sharpen your approach, this episode gives you practical, clinically grounded insights you can apply immediately.\n\nTune in, and you will never look at an OCT printout the same way again. For more clinical content and resources, visit us at Focuslinks.in.\n\n---",
       "tags": "oct,rnfl,gcc,progression,glaucoma",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-06.mp3",
+      "duration": "12:14",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "b7b4d320-c344-48de-bc3b-fe91a00f3fc6",
+      "generatedAt": "2026-08-22T18:52:46.970Z"
     },
     {
       "episodeOrder": 7,

@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 12,
-  "lastUpdated": "2026-08-22T17:14:47.057Z",
+  "generatedEpisodesCount": 13,
+  "lastUpdated": "2026-08-22T17:18:20.169Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -169,14 +169,16 @@
     },
     {
       "episodeOrder": 13,
-      "title": "Colour Vision and Contrast Sensitivity Testing in the Clinic",
-      "description": "Ishihara, D-15, and Hardy-Rand-Rittler plates — what each detects. When contrast sensitivity (Pelli-Robson) adds information beyond acuity.",
+      "title": "Colour Vision & Contrast Sensitivity Testing Explained",
+      "description": "Did you know that up to 8% of men have a colour vision deficiency — and many don't even know it? In this episode of Focus Cast, we take a deep dive into two of the most underutilised tests in clinical optometry: colour vision testing and contrast sensitivity testing. Together, they reveal far more about how a patient truly sees the world than a standard acuity chart ever could.\n\nWe start with the science of how the eye perceives colour, breaking down trichromatic vision, the difference between colour blindness and colour vision deficiency, and why this distinction matters both clinically and practically. From there, we walk through the key testing tools used in practice — the Ishihara colour plates, the Farnsworth-Munsell 100 Hue Test, and the Farnsworth D-15 — explaining what each one measures and where its limitations lie.\n\nThen we shift to contrast sensitivity, exploring why a patient can ace the letter chart and still struggle to drive at night, navigate a staircase in dim light, or spot a pedestrian on a foggy road. We cover how conditions like cataracts, glaucoma, diabetic retinopathy, and multiple sclerosis can silently erode contrast sensitivity long before acuity is affected — and how tools like the Pelli-Robson chart can help you catch what a standard eye exam might miss.\n\nWhether you are an optometry student, a practising clinician, or simply someone curious about the science of sight, this episode will change the way you think about visual assessment.\n\nListen now and discover why complete vision care goes far beyond reading the bottom line of a chart. Visit Focuslinks.in for more episodes and resources.\n\n---",
       "tags": "colour-vision,ishihara,contrast-sensitivity",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-13.mp3",
+      "duration": "12:53",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "15cb6bf7-78cb-4493-8404-025bcafcf5ac",
+      "generatedAt": "2026-08-22T17:18:19.585Z"
     },
     {
       "episodeOrder": 14,

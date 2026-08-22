@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-22T18:00:16.123Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-22T18:03:53.641Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Anisometropia and Aniseikonia: When the Image Sizes Differ",
-      "description": "Quantifying aniseikonia with the Awaya test, the \"knapp's rule\" for axial anisometropia, and strategies to minimise image size disparity.",
+      "title": "Anisometropia & Aniseikonia: Why Your Eyes See Different Sizes",
+      "description": "Have you ever worn someone else's glasses and felt like the world suddenly looked warped or off-balance? Or struggled with a prescription that's technically correct but still feels completely wrong? You might be experiencing the effects of anisometropia or aniseikonia — two closely linked conditions that affect far more people than most realize, yet remain widely misunderstood even in clinical settings.\n\nIn this episode of Focus Cast by Focuslinks.in, we break down exactly what anisometropia and aniseikonia are, how they differ, and why they matter so much for your everyday visual comfort. We explore how unequal prescriptions between the two eyes can cause the brain to perceive images of different sizes or shapes — leading to spatial distortion, headaches, eyestrain, dizziness, and a nagging sense that something just isn't right with your vision.\n\nWe also cover why early detection in children is critical for preventing amblyopia, or lazy eye, and how adults with significant anisometropia often struggle with glasses in ways that contact lenses or specialized iseikonic lenses can dramatically improve. From the history of aniseikonia research at the Dartmouth Eye Institute to modern treatment options including high-index lenses, contact lenses, and refractive surgery, this episode gives you a thorough and accessible look at conditions that deserve far more attention than they typically receive.\n\nWhether you're a patient, a parent, or simply someone curious about how vision really works, this episode will change the way you think about seeing clearly.\n\nListen now, and if this episode helped you, share it with someone who's been told their prescription is fine but still doesn't feel right. Visit Focuslinks.in for more eye care episodes and resources.\n\n---",
       "tags": "anisometropia,aniseikonia,knapps-rule,iseikonia",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-11.mp3",
+      "duration": "12:26",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "0a27a1e0-9807-4474-a6bc-851f69305394",
+      "generatedAt": "2026-08-22T18:03:53.061Z"
     },
     {
       "episodeOrder": 12,

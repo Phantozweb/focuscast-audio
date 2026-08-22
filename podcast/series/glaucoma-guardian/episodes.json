@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 1,
-  "lastUpdated": "2026-08-22T18:21:19.843Z",
+  "generatedEpisodesCount": 2,
+  "lastUpdated": "2026-08-22T18:24:39.730Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -26,14 +26,16 @@
     },
     {
       "episodeOrder": 2,
-      "title": "Intraocular Pressure: Measurement, Diurnal Curve, and Peak IOP",
-      "description": "Why a single IOP reading is insufficient, the diurnal fluctuation in glaucoma, and when to admit a patient for a diurnal curve.",
+      "title": "Intraocular Pressure: Measurement, Diurnal Curve & Peak IOP",
+      "description": "Ever wondered what that puff of air at your eye exam is actually measuring? In this episode of Focus Cast, we break down everything you need to know about intraocular pressure (IOP) — the vital sign your eyes cannot afford to ignore.\n\nWe start with the basics: what IOP is, how aqueous humor keeps your eye pressurized, and why elevated pressure is the leading driver of glaucoma, one of the world's top causes of irreversible blindness. From there, we walk you through the most trusted methods of measuring eye pressure — including Goldmann applanation tonometry, the non-contact air puff test, and the increasingly popular iCare tonometer — and explain why corneal thickness can change how your results are interpreted.\n\nThen we dive into one of the most clinically important and often overlooked concepts in eye care: the diurnal curve. IOP is not a fixed number. It rises and falls throughout the day, typically peaking in the early morning hours when most patients are nowhere near a clinic. We explain why these pressure peaks matter more than averages, how the diurnal tension curve is used to capture the full picture, and how home tonometry is revolutionizing glaucoma monitoring by catching spikes that standard appointments miss entirely.\n\nWhether you have been diagnosed with glaucoma, are considered a glaucoma suspect, or simply want to understand your eye health better, this episode gives you the knowledge to ask the right questions at your next appointment.\n\nListen now, and visit Focuslinks.in for more eye care resources and episodes of Focus Cast.\n\n---",
       "tags": "iop,diurnal-curve,tonometry,glaucoma",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-02.mp3",
+      "duration": "12:42",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "71dc6004-510f-4c4f-8a2d-6a1fbebb7426",
+      "generatedAt": "2026-08-22T18:24:39.331Z"
     },
     {
       "episodeOrder": 3,

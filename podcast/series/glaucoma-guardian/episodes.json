@@ -8,8 +8,8 @@
   "category": "Glaucoma",
   "order": 3,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 7,
-  "lastUpdated": "2026-08-22T18:56:22.898Z",
+  "generatedEpisodesCount": 8,
+  "lastUpdated": "2026-08-22T18:58:17.708Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -104,14 +104,16 @@
     },
     {
       "episodeOrder": 8,
-      "title": "Normal-Tension Glaucoma: Diagnosis, Systemic Associations, and Treatment",
-      "description": "How NTG differs from POAG, the role of nocturnal blood pressure dips and sleep apnoea, and the more aggressive target IOP.",
+      "title": "Normal-Tension Glaucoma: Diagnosis, Causes & Treatment",
+      "description": "Your eye pressure is normal — so why is your optic nerve dying? That's the unsettling reality of normal-tension glaucoma (NTG), a condition that defies the classic rules of glaucoma and remains dangerously underdiagnosed. In this episode of Focus Cast, we break down everything you need to know about NTG — from the diagnostic challenges that make it so easy to miss, to the surprising systemic connections that reveal just how complex this disease really is.\n\nWe explore why a single IOP reading isn't enough, how corneal thickness can mask true eye pressure, and what makes the optic nerve changes in NTG distinctly different from high-tension glaucoma. You'll also discover the fascinating links between normal-tension glaucoma and conditions like nocturnal hypotension, migraine, Raynaud's phenomenon, obstructive sleep apnea, and even Alzheimer's disease — connections that point to vascular vulnerability as a central driver of optic nerve damage.\n\nOn the treatment side, we cover the landmark Collaborative Normal-Tension Glaucoma Study, the role of prostaglandin analogs, selective laser trabeculoplasty, surgical options, and the emerging science of neuroprotection. We also discuss why managing blood pressure timing and vascular health may be just as important as lowering IOP.\n\nWhether you're a clinician, an ophthalmology student, or someone navigating a glaucoma diagnosis, this episode offers a comprehensive, clinically grounded look at one of ophthalmology's most intriguing conditions. Normal eye pressure does not mean a normal optic nerve — and this episode explains exactly why.\n\nListen now and visit Focuslinks.in for more expert eye health content.\n\n---",
       "tags": "ntg,normal-tension,sleep-apnea,blood-pressure",
       "category": "Glaucoma",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/glaucoma-guardian/audio/ep-08.mp3",
+      "duration": "12:59",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "85b76270-d4a4-4919-9e03-ba039fb51b06",
+      "generatedAt": "2026-08-22T18:58:17.118Z"
     },
     {
       "episodeOrder": 9,

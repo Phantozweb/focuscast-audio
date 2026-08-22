@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 10,
-  "lastUpdated": "2026-08-22T17:07:55.211Z",
+  "generatedEpisodesCount": 11,
+  "lastUpdated": "2026-08-22T17:11:28.948Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -143,14 +143,16 @@
     },
     {
       "episodeOrder": 11,
-      "title": "Subjective Refraction: MPMRA, Jackson Cross Cylinder, and Duochrome",
-      "description": "Maximum plus to maximum visual acuity, refining cylinder axis and power with the JCC, and using the duochrome to balance the endpoint.",
+      "title": "Subjective Refraction Explained: MPMRA, JCC & Duochrome Test",
+      "description": "Ever wondered what's really happening when your eye doctor flips lenses and asks, \"Which is better, one or two?\" In this episode of Focus Cast, we pull back the curtain on subjective refraction and break down three of its most essential techniques: the MPMRA, the Jackson Cross Cylinder, and the Duochrome test.\n\nWe start with the MPMRA, or Maximum Plus to Maximum Visual Acuity, explaining why finding the least amount of minus power matters and how over-minusing can lead to eye strain and fatigue. Next, we dive deep into the Jackson Cross Cylinder, the century-old tool still considered the gold standard for refining astigmatic correction. You will learn exactly how it is used to fine-tune both cylinder axis and power, and why its bracketing principle makes it so reliable. Finally, we explore the Duochrome test, a clever technique rooted in the physics of chromatic aberration that helps clinicians confirm the perfect spherical endpoint with speed and precision.\n\nWhether you are an optometry or ophthalmology student trying to master clinical refraction, a practising clinician looking to sharpen your technique, or simply someone curious about the science behind your eye exam, this episode gives you a clear, logical, and engaging walkthrough of the entire process.\n\nBy the end, you will understand not just what each test does, but why it works, and how the three techniques work together as a seamless, systematic sequence. Visit Focuslinks.in for more vision science content, articles, and resources to support your learning journey.\n\n---",
       "tags": "subjective-refraction,jcc,duochrome,mpmra",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Retina",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-11.mp3",
+      "duration": "13:11",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "bb609983-09f5-4271-8e53-7334f737f835",
+      "generatedAt": "2026-08-22T17:11:28.550Z"
     },
     {
       "episodeOrder": 12,

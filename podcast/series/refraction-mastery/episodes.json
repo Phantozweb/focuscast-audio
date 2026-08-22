@@ -8,8 +8,8 @@
   "category": "Refraction",
   "order": 2,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 3,
-  "lastUpdated": "2026-08-22T17:35:27.100Z",
+  "generatedEpisodesCount": 4,
+  "lastUpdated": "2026-08-22T17:39:01.464Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -52,14 +52,16 @@
     },
     {
       "episodeOrder": 4,
-      "title": "Cycloplegic Refraction: Indications, Agents, and Interpretation",
-      "description": "When cycloplegia is mandatory (children, hyperopes, suspected spasm), choosing cyclopentolate vs atropine, and interpreting the cycloplegic vs manifest difference.",
+      "title": "Cycloplegic Refraction: Indications, Agents & Interpretation",
+      "description": "What happens when a child gets the wrong glasses because their refraction was done without cycloplegia? In this episode of Focus Cast, we unpack one of the most clinically important yet often misunderstood procedures in eye care — cycloplegic refraction — and explain exactly why it can make or break a diagnosis.\n\nWe start with the science of accommodation and why the ciliary muscle's natural focusing power can mask true refractive error, particularly in children. From there, we walk through the key indications for cycloplegic refraction, including pediatric refractive errors, accommodative esotropia, pseudomyopia, high hyperopia, and pre-surgical assessments. You will learn why a standard subjective refraction simply is not enough in these cases.\n\nNext, we break down the three primary cycloplegic agents — atropine, cyclopentolate, and tropicamide — comparing their onset, duration, concentration, and ideal clinical applications so you know exactly which agent to reach for and when.\n\nFinally, we guide you through interpreting cycloplegic refraction results, including how to identify latent hyperopia, recognize pseudomyopia, understand the cycloplegic-to-manifest difference, and determine a final prescription that is both accurate and comfortable for the patient to wear.\n\nWhether you are an optometry student, a practicing clinician, or simply passionate about eye care, this episode gives you a clear, practical framework for one of the most valuable tools in refraction.\n\nListen now and sharpen your clinical thinking. Visit Focuslinks.in for more episodes, resources, and everything eye care.\n\n---",
       "tags": "cycloplegia,cyclopentolate,atropine,hyperopia,children",
       "category": "Refraction",
-      "audioUrl": "",
-      "duration": "0:00",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/refraction-mastery/audio/ep-04.mp3",
+      "duration": "12:19",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "23b5c742-190b-4929-a214-af3c48724789",
+      "generatedAt": "2026-08-22T17:39:01.117Z"
     },
     {
       "episodeOrder": 5,

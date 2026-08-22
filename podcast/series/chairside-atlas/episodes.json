@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 11,
-  "lastUpdated": "2026-08-22T17:11:28.948Z",
+  "generatedEpisodesCount": 12,
+  "lastUpdated": "2026-08-22T17:14:47.057Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -156,14 +156,16 @@
     },
     {
       "episodeOrder": 12,
-      "title": "Binocular Balance and Near Add Determination",
-      "description": "Balancing the two eyes with prism dissociation, measuring the accommodative amplitude, and calculating the appropriate near addition for the presbyope.",
+      "title": "Binocular Balance & Near Add Determination Explained",
+      "description": "What separates a good refraction from a truly great one? In this episode of Focus Cast by Focuslinks.in, we dive deep into two of the most clinically important yet underappreciated concepts in optometry — binocular balance and near add determination. Whether you're a student stepping into your first refraction lab, a seasoned clinician looking to sharpen your technique, or simply someone curious about what really happens during an eye exam, this episode breaks it all down in plain, engaging language.\n\nWe explore why binocular balance matters, how unequal accommodative demand between the two eyes can cause headaches, eye strain, and patient dissatisfaction — and how to fix it. We walk through the most widely used balancing techniques, including prism dissociation, alternate occlusion, and the Humphriss Immediate Contrast method, explaining when and why each one works best.\n\nThen we shift to near add determination — the science and art of prescribing the right reading addition for presbyopic patients. From Donders' table and the addition range method to push-up amplitude testing and the near duochrome test, we cover the clinical tools that help you dial in a comfortable, personalized near prescription. We also discuss why understanding a patient's real-world visual demands matters just as much as the measurements themselves.\n\nIf you want to understand how both eyes are brought into harmony across all working distances — and why that process is so central to patient satisfaction — this episode is essential listening.\n\nVisit us at Focuslinks.in for more episodes and vision care resources. Don't forget to share this episode with a colleague or student who'd find it valuable.\n\n---",
       "tags": "binocular-balance,near-add,presbyopia,accommodation",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Refraction",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-12.mp3",
+      "duration": "12:23",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "68542ef8-7225-4ea7-bec8-9645a309311a",
+      "generatedAt": "2026-08-22T17:14:46.445Z"
     },
     {
       "episodeOrder": 13,

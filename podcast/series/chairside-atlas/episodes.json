@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 6,
-  "lastUpdated": "2026-08-22T16:53:54.666Z",
+  "generatedEpisodesCount": 7,
+  "lastUpdated": "2026-08-22T16:57:29.962Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -91,14 +91,16 @@
     },
     {
       "episodeOrder": 7,
-      "title": "Tonometry: Goldmann Applanation, iCare, and Rebound Compared",
-      "description": "Goldmann applanation technique, central corneal thickness correction, and when rebound tonometry is acceptable. Sources of error and how to avoid them.",
+      "title": "Tonometry Explained: Goldmann vs iCare vs Rebound",
+      "description": "What actually happens when a doctor measures your eye pressure — and why does it matter so much? In this episode of Focus Cast, we break down tonometry, one of the most critical yet misunderstood tests in eye care, by comparing three of the most widely used methods: Goldmann Applanation Tonometry, iCare, and Rebound Tonometry.\n\nWe start with the basics — what intraocular pressure is, how it connects to glaucoma, and why catching elevated IOP early can literally save your sight. Then we dive deep into each method. You will learn how Goldmann Applanation Tonometry became the gold standard using the Imbert-Fick principle, why it still leads clinical decision-making after six decades, and where its limitations lie. We then explore the iCare tonometer — a handheld, anesthetic-free device that is transforming how eye pressure is measured in children, bedside patients, and even at home. Finally, we zoom out to understand rebound tonometry as a broader technology, covering its origins, its elegant physics, and why it has expanded access to IOP measurement across pediatric care, veterinary medicine, and resource-limited settings.\n\nWhether you are an optometry or ophthalmology student, a practicing clinician, or simply someone who wants to understand what goes on at your eye appointment, this episode gives you a clear, practical, and genuinely interesting look at how we measure one of the most important numbers in eye health.\n\nVisit Focuslinks.in for more episodes, resources, and eye care content designed to make complex topics accessible and actionable.\n\n---",
       "tags": "tonometry,iop,goldmann,icare,pachymetry",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-07.mp3",
+      "duration": "12:32",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "1f2ab9c4-abb7-42bc-b1c5-f9bcbd6e220b",
+      "generatedAt": "2026-08-22T16:57:29.378Z"
     },
     {
       "episodeOrder": 8,

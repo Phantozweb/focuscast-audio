@@ -8,8 +8,8 @@
   "category": "Clinical Exam",
   "order": 1,
   "totalEpisodes": 15,
-  "generatedEpisodesCount": 2,
-  "lastUpdated": "2026-08-22T16:40:13.000Z",
+  "generatedEpisodesCount": 3,
+  "lastUpdated": "2026-08-22T16:43:43.137Z",
   "episodes": [
     {
       "episodeOrder": 1,
@@ -39,14 +39,16 @@
     },
     {
       "episodeOrder": 3,
-      "title": "Pupil Examination: The Swinging Flashlight Test and Afferent Defects",
-      "description": "How to perform the swinging flashlight test correctly, grade a relative afferent pupillary defect, and what an RAPD tells you about optic nerve and retinal health.",
+      "title": "Swinging Flashlight Test & Afferent Pupillary Defects Explained",
+      "description": "What can a small flashlight reveal about your optic nerve, neurological health, and even whether vision loss is real or fabricated? More than you'd ever expect. In this episode of Focus Cast by Focuslinks.in, we take a deep dive into the swinging flashlight test, one of the most powerful and elegantly simple diagnostic tools in ophthalmology and neurology.\n\nWe break down exactly how the pupillary light reflex works, tracing the afferent and efferent pathways that control how your pupils respond to light. Then we walk through the swinging flashlight test step by step, explaining what clinicians are looking for and why a paradoxical pupil dilation is such a significant finding.\n\nYou'll learn what a relative afferent pupillary defect, or RAPD, actually means, why it's also called a Marcus Gunn pupil, and what conditions can cause it, including glaucoma, optic neuritis, multiple sclerosis, retinal detachment, central retinal artery occlusion, and compressive optic nerve lesions. We also cover why bilateral optic nerve damage can mask an RAPD, how neutral density filters are used to grade defect severity, and why this test cannot be fooled by efferent problems like a third nerve palsy.\n\nWhether you're a medical student, a healthcare professional, or simply someone curious about how the eyes and brain communicate, this episode gives you a clear, thorough, and genuinely fascinating look at a clinical test that punches well above its weight.\n\nListen now and discover why your pupils never lie. For more episodes and eye care resources, visit Focuslinks.in.\n\n---",
       "tags": "pupils,rapd,afferent-defect,neuro-optometry",
-      "category": "Clinical Exam",
-      "audioUrl": "",
-      "duration": "0:00",
+      "category": "Glaucoma",
+      "audioUrl": "https://raw.githubusercontent.com/Phantozweb/focuscast-audio/main/podcast/series/chairside-atlas/audio/ep-03.mp3",
+      "duration": "12:24",
       "imageUrl": "",
-      "status": "draft"
+      "status": "generated",
+      "runId": "c13ce8a2-f4d4-47fd-811c-a8b74e367f0b",
+      "generatedAt": "2026-08-22T16:43:42.756Z"
     },
     {
       "episodeOrder": 4,
